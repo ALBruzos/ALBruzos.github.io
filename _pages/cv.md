@@ -21,7 +21,7 @@ Education
 
 **BSc. In Biology**, Universidade de Santiago de Compostela, Spain.  
 :   *2011 – 2015* 	
-:   Studies of General Biological Sciences. One _Erasmus_ year abroad at Université Libre de Bruxelles, Belgium.  
+:   Third year abroad at Université Libre de Bruxelles (Belgium) with an _Erasmus_ scholarship.  
 :   Title of Degree thesis: _“Interpopulation variability in the level of photosynthesis inactivation by heat stress in Arbutus unedo L.”._  
   
 **Science and Technology Baccalaureate (LOE) and University Access Test (PAU)**, IES Vilar Ponte, Spain.  
@@ -37,27 +37,27 @@ Education
 Work experience
 =======
 **CURRENT POSITION**  
-2021 – 	2024:	**Postdoctoral researcher.**
-* *Institution:* [The Francis Crick Institute](https://www.crick.ac.uk/) and [University College of London](https://www.ucl.ac.uk/), United Kingdom.
-* *Duties:* bioinformatics postdoc
-* *Supervisor/s:* Veronica Kinsler
+- [ ] 2021 – 	2024:	**Postdoctoral researcher.**  
+:   *Institution:* [The Francis Crick Institute](https://www.crick.ac.uk/) and [University College of London](https://www.ucl.ac.uk/), United Kingdom.  
+:   *Duties:* bioinformatics postdoc  
+:   *Supervisor/s:* Veronica Kinsler  
 
 **PREVIOUS POSITIONS**  
-2018 – 2021: **Predoctoral researcher.** 
-* *Institution:* [University of Santiago de Compostela](https://www.usc.es/gl), Spain.
-* *Duties:* continuation of doctoral studies
-* *Supervisor/s:* Jose M. C. Tubío and Seila Díaz Costas  
+- [x] 2018 – 2021: **Predoctoral researcher.**  
+:   *Institution:* [University of Santiago de Compostela](https://www.usc.es/gl), Spain.  
+:   *Duties:* continuation of doctoral studies  
+:   *Supervisor/s:* Jose M. C. Tubío and Seila Díaz Costas  
   
-2016 – 2018: **Predoctoral researcher.** 
-* *Institution:* [University of Vigo](https://www.uvigo.gal/en), Spain.
-* *Duties:* doctoral studies
-* *Supervisor/s:* Jose M. C. Tubío and Seila Díaz Costas  
+- [x] 2016 – 2018: **Predoctoral researcher.**  
+:   *Institution:* [University of Vigo](https://www.uvigo.gal/en), Spain.  
+:   *Duties:* doctoral studies  
+:   *Supervisor/s:* Jose M. C. Tubío and Seila Díaz Costas  
   
-Spring 2015: **Research Assitant** Ecology Department, [University of Santiago de Compostela](https://www.usc.es/gl), Spain.  
-Fall 2014: **Museum staff.** Environmental Interpretation Centre of Compostela, Spain.  
-Summer 2014: **Research Assitant** Evolutionary Biology and Ecology Department, [Université Libre de Bruxelles](https://www.ulb.be/en)
-Summer 2013: **Childminder of a French boy.** Aupair World Organization, France.  
-Summer 2012: **Camp Instructor of Australian students.** Montemar Summer School, Spain.  
+- [x] Spring 2015: **Research Assitant** Ecology Department, [University of Santiago de Compostela](https://www.usc.es/gl), Spain.  
+- [x] Fall 2014: **Museum staff.** Environmental Interpretation Centre of Compostela, Spain.  
+- [x] Summer 2014: **Research Assitant** Evolutionary Biology and Ecology Department, [Université Libre de Bruxelles](https://www.ulb.be/en)
+- [x] Summer 2013: **Childminder of a French boy.** Aupair World Organization, France.  
+- [x] Summer 2012: **Camp Instructor of Australian students.** Montemar Summer School, Spain.  
 
 **RESEARCH STAYS AS VISITING SCIENTIST**  
 * 2021: **Korea Advance Institute of Science and Technology (KAIST)**, Daejeon (South Korea). 
