@@ -3,10 +3,12 @@ title: "Contagious Cancers: sequencing reveals a pandemic affecting clams in our
 collection: talks
 type: "Oral communication"
 permalink: /talks/2021-talk-ccmar
-venue: "Universidade do Algarve"
+venue: "Seminars of Centro de Ciências do Mar"
 date: 2021-06-30
 location: "Algarve, Portugal"
 ---
+
+[Watch Here](https://www.youtube.com/watch?v=LsZRQIJmw_o)  
 
 *Presenter:* Alicia L. Bruzos  
 *Authors* **Bruzos, A. L.**; García-Souto, D.; Díaz, S.; Rocha, S; Pequeño, A; Roman-Lewis, C; Alonso, J; Rodriguez, R; Costas, D; Rodríguez-Castro, J.; Villanueva, A; Silva, L;Valencia, JM; Annona, G; Tarallo, A; Ricardo, F; Bratos, A; Posada, D; Pasantes, J; Tubío, J.  
@@ -14,7 +16,6 @@ location: "Algarve, Portugal"
 *Type:* Oral communication  
 *Conference:* Seminars of Centro de Ciências do Mar (CCMAR).  
 *Location:* Universidade do Algarve, virtual edition (Portugal).  
-[Watch Here](https://www.youtube.com/watch?v=LsZRQIJmw_o)
 
 **Citation:**
 Bruzos, A. L.; García-Souto, D.; Díaz, S.; Rocha, S; Pequeño, A; Roman-Lewis, C; Alonso, J; Rodriguez, R; Costas, D; Rodríguez-Castro, J.; Villanueva, A; Silva, L;Valencia, JM; Annona, G; Tarallo, A; Ricardo, F; Bratos, A; Posada, D; Pasantes, J; Tubío, J. (2021, July). *Contagious Cancers: sequencing reveals a pandemic affecting clams in our seas.* Oral communication in Centro de Ciências do Mar (CCMAR). Universidade do Algarve, virtual edition (Portugal).
