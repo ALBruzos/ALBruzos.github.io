@@ -124,14 +124,7 @@ Professional Membership
 
 Training and Certifications
 ======
-Full list of trainings and certifications can be provided upon request.  
-
-| Training | Institution | Country | Year |  
-| ------------- | ------------- | ------------- | ------------- |  
-| **Research Supervision** | University College of London | United Kingdom | 2021 |  
-| **Craft Skipper** | Xunta de Galicia | Spain | 2017 |  
-| **Animal Experimentation Certification** | Government of Madrid | Spain | 2017 |  
-| **Open Water Diver License** | Scuba Schools International (SSI) | Spain | 2014 |  
+Full list of trainings and certifications can be checked [here](https://albruzos.github.io/skills-certifications/).
 
 
 Publications
