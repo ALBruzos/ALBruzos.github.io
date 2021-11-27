@@ -20,6 +20,6 @@ Visit online version: [doi.org/**10.1038/s41588-019-0562-0**](https://doi.org/10
 [Download paper here](https://ALBruzos.github.io/files/2020-02-05-PAPER_NatureGenetics_PCAWG-retrotransposition.pdf)
 
 **Peer-review process:**  
-Received: 21 September 2017
-Accepted: 26 November 2019
-Published: 05 February 2020  
+Received: 21 September 2017  
+Accepted: 26 November 2019  
+Published: 05 February 2020   
