@@ -9,14 +9,14 @@ author_profile: true
 > Lucas Remmerswaal
 
 **Training courses and certifications**:  
-- [x] **SPSS: advanced level** – 06/2015  Universidade de Santiago de Compostela.
-- [x] **Statistics for researchers: all you ever wished to know. 3ed** – 05/2015  Universidade de Salamanca · Miriadax.
-- [x] **Biostatistics to live and how to live off statistics** – 05/2015  Universidade de Santiago de Compostela.
-- [x] **Dinosaur Paleobiology** – 05/2015  University of Alberta · Coursera.
-- [x] **PHP programation: basics** – 03/2015  Formación Sin Barreras   
-- [x] **Laboratory photography** – 03/2015  Formación Sin Barreras   
-- [x] **Archaeology introduction** – 02/2015  Formación Sin Barreras   
-- [x] **The Data Scientist’s Toolbox** – 01/2015 Johns Hopkins University · Coursera.
+[x]  **SPSS: advanced level** – 06/2015  Universidade de Santiago de Compostela.
+[x]  **Statistics for researchers: all you ever wished to know. 3ed** – 05/2015  Universidade de Salamanca · Miriadax.
+- [x]  **Biostatistics to live and how to live off statistics** – 05/2015  Universidade de Santiago de Compostela.
+- [x]  **Dinosaur Paleobiology** – 05/2015  University of Alberta · Coursera.
+- [x]  **PHP programation: basics** – 03/2015  Formación Sin Barreras   
+- [x]  **Laboratory photography** – 03/2015  Formación Sin Barreras   
+- [x]  **Archaeology introduction** – 02/2015  Formación Sin Barreras   
+- [x]  **The Data Scientist’s Toolbox** – 01/2015 Johns Hopkins University · Coursera.
 - [x] **Digital photography: capture** – 01/2015 Formación Sin Barreras    
 - [x] **Certificate in Advanced English (CAE)** – 12/2014 Cambridge English Language Assessment.
 - [x] **I Marine Biology Day** – 12/2014 Federación Galega de Actividades Subacuáticas (FEGAS)
