@@ -5,10 +5,13 @@ type: "Workshop"
 permalink: /teaching/supervision
 ---
 
+Along my scientific career, I have supervised the following university students: 
 
-2021/2024*	“Incidence prediction tool by means of mutational signature patterns” Pauline Bourigault. PhD Thesis in the Institute of Child Health at University College of London. Supervisors: Veronica Kinsler (principal) and Alicia L. Bruzos (subsidiary).  
-2020/2021	“Molecular diagnostic of different clonal lineages of transmissible cancer.” Andrea E. Arias Díaz. Degree Thesis for the BSc. in Biology of Universidade de Santiago de Compostela. Supervisors: Alicia L. Bruzos and Jose Tubío. Awarded for linguistic quality by the USC Language Normalization Service in the category of sciences.  
-2019/2020 	“Identification of driver mutations in marine transmissible cancers through exome sequencing analysis”. Iago Otero Coto. Master Thesis for the MSc. in Bioinformatics fromUniversidade da Coruña. Supervisors: Alicia L. Bruzos and Jose Tubío.   
-2019/2020 	“Characterization of a genomic molecular marker of a marine transmissible cancer”. Ana Copena Soutelo. Degree Thesis for the BSc. in Biology of Universidade de Santiago de Compostela. Supervisors: Alicia L. Bruzos and Jose Tubío.  
+| Academic Year  | Title | Student | Supervisors | Degree | Type | University | Country | Language |
+| ------------- | ------------- | ------------- |------------- |------------- | ------------- | ------------- |
+| 2021/2024<sup>expected</sup> | *TBA* | Pauline Bourigault | Alicia L. Bruzos (subsidiary), Veronica Kinsler (principal) | Institute of Child Health | PhD Thesis | University College of London | United Kingdom | English |  
+| 2020/2021 | *“Molecular diagnostic of different clonal lineages of transmissible cancer”*[^1] | Andrea E. Arias Díaz | Alicia L. Bruzos, Jose M. C. Tubío | BSc. in Biology | Degree Thesis | Universidade de Santiago de Compostela | Spain  | Galician |
+| 2019/2020 | *“Identification of driver mutations in marine transmissible cancers through exome sequencing analysis”* | Iago Otero Coto | Alicia L. Bruzos, Jose M. C. Tubío | MSc. in Bioinformatics | Master Thesis | Universidade da Coruña | Spain | English |
+| 2019/2020 | *“Characterization of a genomic molecular marker of a marine transmissible cancer”* | Ana Copena Soutelo | Alicia L. Bruzos, Jose M. C. Tubío | BSc. in Biology | Degree Thesis | Universidade de Santiago de Compostela | Spain  | Spanish |
 
-
+[^4]: Awarded for linguistic quality by the USC Language Normalization Service in the category of sciences.  
