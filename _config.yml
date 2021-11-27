@@ -85,7 +85,7 @@ author:
   bio              : "Biologist and bioinformatician currently working on cancer genomics."
   location         : "London, UK"
   employer         : "The Francis Crick Institute"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=alicia+l+bruzos"
   googlescholar    : "https://scholar.google.es/citations?user=YyKE8DIAAAAJ&hl=en&oi=ao"
   email            : "albruzos@gmail.com"
   researchgate     :  "https://www.researchgate.net/profile/Alicia-Bruzos"
@@ -96,11 +96,11 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ALBruzos"
+  github           : #"ALBruzos"
   google_plus      :
   keybase          :
   instagram        : "https://www.instagram.com/alicialbruzos/"
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : "https://profiles.impactstory.org/u/0000-0003-4362-545X"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/alicialopezbruzos/"
   orcid            : "https://orcid.org/0000-0003-4362-545X"
