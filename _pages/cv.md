@@ -10,28 +10,28 @@ redirect_from:
 Education
 =======
 **PhD. in Molecular Medicine**, Centre for Research in Molecular Medicine and Chronic Diseases ([CiMUS](https://www.usc.es/cimus/en)), Universidade de Santiago de Compostela, Spain.  
-  *2016 – 2022* <sup>expected</sup>  
-  Specialization in Cancer.  
-  Title of Doctoral Thesis: _"Evolution of bivalve transmissible cancers"_  
+:   *2016 – 2022* <sup>expected</sup>  
+:   Specialization in Cancer.  
+:   Title of Doctoral Thesis: _"Evolution of bivalve transmissible cancers"_  
   
 **MSc. in Bioinformatics**, Universitat Autònoma de Barcelona, Spain.  
-*2015 – 2016*	  
-  Specialization (elective module) in Genomics. 
-  Title of Master Thesis: 
+:   *2015 – 2016*	  
+:   Specialization (elective module) in Genomics.  
+:   Title of Master Thesis: _"The Full Catalogue of L1 Active Loci in the Cancer Genome"_  
 
 **BSc. In Biology**, Universidade de Santiago de Compostela, Spain.  
-  *2011 – 2015* 	
-  Studies of General Biological Sciences. One _Erasmus_ year abroad at Université Libre de Bruxelles, Belgium.  
-  Title of Degree thesis: _“Interpopulation variability in the level of photosynthesis inactivation by heat stress in Arbutus unedo L.”._  
+:   *2011 – 2015* 	
+:   Studies of General Biological Sciences. One _Erasmus_ year abroad at Université Libre de Bruxelles, Belgium.  
+:   Title of Degree thesis: _“Interpopulation variability in the level of photosynthesis inactivation by heat stress in Arbutus unedo L.”._  
   
 **Science and Technology Baccalaureate (LOE) and University Access Test (PAU)**, IES Vilar Ponte, Spain.  
-  *2009 – 2011*  
-  Average mark in high school: 9,0/10  
-  Results of University Access Test: 11,39/14  
+:   *2009 – 2011*  
+:   Average mark in high school: 9,0/10  
+:   Results of University Access Test: 11,39/14  
 
 **Musical Elementary Degree.** Professional Conservatory of Music in Viveiro, Spain.  
-  *2002 – 2008*  
-  Two specializations: Traverse Flute _(2002-2006)_ and Piano _(2005-2008)_.
+:   *2002 – 2008*  
+:   Two specializations: Traverse Flute _(2002-2006)_ and Piano _(2005-2008)_.  
 
 
 Work experience
