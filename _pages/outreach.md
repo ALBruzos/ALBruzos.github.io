@@ -6,8 +6,6 @@ author_profile: true
 
 > Commitment to public outreach is central in my career and therefore, I am always willing to participate on activities that engage society with the excitement of science. I have already been involved in activities such as popular science talks and articles, school visits or even a children’s coloring book.
 
-List:
-========
 **2021**  
 * **Women in STEM**. Acland Burghley School (London, UK). School’s networking event for Year 9 female students.
 * **Children’s colouring science book**. The project Scientists Meet the Artists joined 12 scientists and 12 illustrators to design a series of drawings for children to colour and learn marine scientific concepts. The book was presented on the World Oceans Day (June 8th). 
