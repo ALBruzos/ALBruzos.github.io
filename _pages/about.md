@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-## My academic personal website: UNDER CONSTRUCTION
 Postdoctoral researcher currently working at [The Francis Crick Institute](https://www.crick.ac.uk/) and the [University College of London](https://www.ucl.ac.uk/)(UK) in the laboratory of _Mosaicism and Precision Medicine_.  
 
 Former doctoral student in _Molecular Medicine_ and Teaching Assistant of _Genetics_ at [University of Santiago de Compostela](https://www.usc.es/gl) (Spain).  
@@ -19,4 +18,5 @@ I graduated in 2015 in _Biological Sciences_ from the [University of Santiago de
 
 For more info
 ------
-Visit my social media profiles or email me!
+Explore my academic personal website and visit my social media profiles or email me!
+Beware that this site is under contruction!
