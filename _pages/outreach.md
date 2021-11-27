@@ -14,9 +14,9 @@ author_profile: true
 * **Institutional bulletin**. Brief article to encourage doctoral students to plan *international research stays* entitled *“Como che vai na túa estadía?”* nEDIUS 3:15. [Download here](https://albruzos.github.io/files/outreach_2021-nEDIUS-researchstays.pdf)
 
 **2020**  
-* **Research promotional film**. Our regional government financed short films of *outstanding research projects* that were developed in Galicia. [Scuba Cancers](http://www.scubacancers.org/) project in which my doctoral thesis is framed was recorded and I participated with its content preparation and giving a short statement. [Watch it here](www.youtube.com/watch?v=Ig3-LggH9Rs)
+* **Research promotional film**. Our regional government financed short films of *outstanding research projects* that were developed in Galicia. [Scuba Cancers](http://www.scubacancers.org/) project in which my doctoral thesis is framed was recorded and I participated with its content preparation and giving a short statement. [Watch it here](https://www.youtube.com/watch?v=Ig3-LggH9Rs)
 * **Popular science blog article**. The story of how my master thesis gave me the opportunity to publish my first ever paper in a high-impact journal. Article entitled *“How my master’s thesis on jumping genes became part of an article in Nature”* published in [The Cancer Researcher](https://www.eacr.org/magazine)(EACR online magazine). [Read Here](https://magazine.eacr.org/how-my-masters-thesis-on-jumping-genes-became-part-of-an-article-in-nature/)
-* **Research promotional film**. Our research institute (CiMUS) recorded a promotional video with the participation of the authors involved in the *Pan-cancer initiative* when the results were published in high impact journals; my participation involved content edition, recorded statements and laboratory shots. [Watch it here](www.youtube.com/watch?v=1fm9kL94xn0)
+* **Research promotional film**. Our research institute (CiMUS) recorded a promotional video with the participation of the authors involved in the *Pan-cancer initiative* when the results were published in high impact journals; my participation involved content edition, recorded statements and laboratory shots. [Watch it here](https://www.youtube.com/watch?v=1fm9kL94xn0)
 
 **2019**  
 * **Popular science article**. *“Las claves de las metástasis enterradas en la arena.”* Encuentros en la Biología 169: 5–7. ISBN 2254-0296. [Download here](https://albruzos.github.io/files/outreach_2019-EncuentrosEnLaBiologia.pdf)
@@ -26,5 +26,5 @@ author_profile: true
 * **Workshop for children**. *Monitor* of activities for pupils aged 8-10 organized for 9 primary-school classes in the *International DNA Day* (Colegio Compañía de María, Santiago de Compostela, Spain).
 
 **2018**  
-* **Institutional blog article**. *“Cáncer transmisible de bivalvos para desentrañar la evolución del cáncer.”* Océano Ecimat. [Read Here](www.oceanoecimat.wordpress.com/2018/05/11/cancer-transmisible-de-bivalvos-para-desentranar-la-evolucion-del-cancer/)
+* **Institutional blog article**. *“Cáncer transmisible de bivalvos para desentrañar la evolución del cáncer.”* Océano Ecimat. [Read Here](https://oceanoecimat.wordpress.com/2018/05/11/cancer-transmisible-de-bivalvos-para-desentranar-la-evolucion-del-cancer/)
 * **Science outreach talk**. *“Unravelling cancer evolution using cockles”* Café con Sal (Vigo, Spain).
