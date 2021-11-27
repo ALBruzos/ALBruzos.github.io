@@ -10,7 +10,7 @@ redirect_from:
 Education
 =======
 **PhD. in Molecular Medicine**, Centre for Research in Molecular Medicine and Chronic Diseases ([CiMUS](https://www.usc.es/cimus/en)), Universidade de Santiago de Compostela, Spain. *2016 – 2022* <sup>expected</sup>  
-**MSc. in Bioinformatics**, Universitat Autònoma de Barcelona, Spain. *2015 – 2016*	 
+**MSc. in Bioinformatics**, Universitat Autònoma de Barcelona, Spain. *2015 – 2016*	  
 **BSc. In Biology**, Universidade de Santiago de Compostela, Spain. *2011 – 2015* 	
 
 Work experience
