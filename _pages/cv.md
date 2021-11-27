@@ -15,13 +15,13 @@ Education
 
 Work experience
 =======
-<u>**CURRENT POSITION**</u>  
+**CURRENT POSITION**  
 2021 – 	2024:	**Postdoctoral researcher.**
 * *Institution:* [The Francis Crick Institute](https://www.crick.ac.uk/) and [University College of London](https://www.ucl.ac.uk/), United Kingdom.
 * *Duties:* bioinformatics postdoc
 * *Supervisor/s:* Veronica Kinsler
 
-<u>**PREVIOUS POSITIONS**</u>  
+**PREVIOUS POSITIONS**  
 2018 – 2021: **Predoctoral researcher.** 
 * *Institution:* [University of Santiago de Compostela](https://www.usc.es/gl), Spain.
 * *Duties:* continuation of doctoral studies
@@ -36,7 +36,7 @@ Fall 2014: **Museum staff.** Environmental Interpretation Centre of Compostela, 
 Summer 2013: **Childminder of a French boy.** Aupair World Organization, France.  
 Summer 2012: **Camp Instructor of Australian students.** Montemar Summer School, Spain.  
 
-<u>**RESEARCH STAYS AS VISITING SCIENTIST**</u>
+**RESEARCH STAYS AS VISITING SCIENTIST**  
 * 2021: **Korea Advance Institute of Science and Technology (KAIST)**, Daejeon (South Korea). 
   * *Advisor:* Prof. Young Seok Ju.
   * *Theme:* Analyzing expression and cell origin using RNA-seq data.
