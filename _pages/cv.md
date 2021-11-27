@@ -16,33 +16,32 @@ Education
 Work experience
 =======
 <u>CURRENT POSITION</u>  
-2021 – 	2024:	**Postdoctoral researcher.** 
-  * *Institution:* [The Francis Crick Institute](https://www.crick.ac.uk/) and [University College of London](https://www.ucl.ac.uk/), United Kingdom.
-  * *Duties:* bioinformatics postdoc
-  * *Supervisor/s:* Veronica Kinsler
+2021 – 	2024:	**Postdoctoral researcher.**
+* *Institution:* [The Francis Crick Institute](https://www.crick.ac.uk/) and [University College of London](https://www.ucl.ac.uk/), United Kingdom.
+* *Duties:* bioinformatics postdoc
+* *Supervisor/s:* Veronica Kinsler
 
 <u>PREVIOUS POSITIONS</u>  
-
 2018 – 2021: **Predoctoral researcher.** 
-  * *Institution:* [University of Santiago de Compostela](https://www.usc.es/gl), Spain.
-  * *Duties:* continuation of doctoral studies
-  * *Supervisor/s:* Jose M. C. Tubío and Seila Díaz Costas  
+* *Institution:* [University of Santiago de Compostela](https://www.usc.es/gl), Spain.
+* *Duties:* continuation of doctoral studies
+* *Supervisor/s:* Jose M. C. Tubío and Seila Díaz Costas  
   
 2016 – 2018: **Predoctoral researcher.** 
-  * *Institution:* [University of Vigo](https://www.uvigo.gal/en), Spain.
-  * *Duties:* doctoral studies
-  * *Supervisor/s:* Jose M. C. Tubío and Seila Díaz Costas  
+* *Institution:* [University of Vigo](https://www.uvigo.gal/en), Spain.
+* *Duties:* doctoral studies
+* *Supervisor/s:* Jose M. C. Tubío and Seila Díaz Costas  
   
 Fall 2014: **Museum staff.** Environmental Interpretation Centre of Compostela, Spain.   
 Summer 2013: **Childminder of a French boy.** Aupair World Organization, France.  
 Summer 2012: **Camp Instructor of Australian students.** Montemar Summer School, Spain.  
 
-<u>RESEARCH STAYS AS VISITING SCIENTIST</u>  
+<u>RESEARCH STAYS AS VISITING SCIENTIST</u>
 * 2021: **Korea Advance Institute of Science and Technology (KAIST)**, Daejeon (South Korea). 
-    * *Advisor:* Prof. Young Seok Ju. 
-    * *Theme:* Analyzing expression and cell origin using RNA-seq data. 
-    * *Funding:* travel grant of Boheringer Ingelheim Fonds.
-    * *Time:* January to April.
+  * *Advisor:* Prof. Young Seok Ju.
+  * *Theme:* Analyzing expression and cell origin using RNA-seq data.
+  * *Funding:* travel grant of Boheringer Ingelheim Fonds.
+  * *Time:* January to April.
 * 2020: **University of Vigo (UVIGO)**, Vigo (Spain). 
     * *Advisor:* Prof. David Posada. 
     * *Theme:* Phylogenetic inference of mitogenomes, topology testing, dNdS per branch and time estimations. 
@@ -65,7 +64,7 @@ Languages
 * **Galician**: C1<sup>*</sup> (Celga certification in July 2011)
 * **Spanish**: _native_
 
-<sup>*<\sup>*According to The Common European Framework of Reference for Languages.*
+<sup>*</sup>*According to The Common European Framework of Reference for Languages.*
 
 Awards and fellowships (last 10 years)
 =======
@@ -78,12 +77,10 @@ Awards and fellowships (last 10 years)
 * 2013: **Erasmus Scholarship**. Université Libre de Bruxelles, Belgium. One year to study abroad.
 * 2013: **Open Software Translation Award**. Engineering Technical Superior School of Universidade de Santiago de Compostela. First place.
 
-
-
 Professional Membership
 ======
-* 2019-present.	Member and Ambassador. European Association for Cancer Research (EACR number: 28748) 
-* 2019-present.	Member. Asociación Española de Investigación sobre el Cáncer (ASEICA number: 1746) 
+* 2019-present.	Member and Ambassador. [European Association for Cancer Research](https://www.eacr.org/) (EACR number: 28748) 
+* 2019-present.	Member. [Asociación Española de Investigación sobre el Cáncer](https://www.aseica.es) (ASEICA number: 1746) 
 
 Training and Certifications
 ======
