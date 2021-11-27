@@ -59,12 +59,12 @@ Summer 2012: **Camp Instructor of Australian students.** Montemar Summer School,
 
 Languages
 =======
-| Language  | Level<sup>*</sup> | Certification/s |
+| Language | Level<sup>*</sup> | Certification/s |
 | ------------- | ------------- | ------------- |
-| **English**  | C1 | IELTS certification in July 2021; CAE certification in December 2014 |
-| **French**  | B2 | DELF certification in May 2020 |
-| **Galician**  | C1 | Celga certification in July 2011 |
-| **Spanish**  | _native_ |  |
+| **English** | C1 | IELTS certification in July 2021; CAE certification in December 2014 |
+| **French** | B2 | DELF certification in May 2020 |
+| **Galician** | C1 | Celga certification in July 2011 |
+| **Spanish** | _native_ | _NA_ |
 
 <sup>*</sup>*According to The Common European Framework of Reference for Languages.*
 
@@ -93,13 +93,14 @@ Professional Membership
 
 Training and Certifications
 ======
-Full list of trainings and certifications can be provided upon request.
-| Training  | Institution | Country | Year |
+_Full list of trainings and certifications can be provided upon request._  
+
+| Training | Institution | Country | Year |
 | ------------- | ------------- | ------------- | ------------- |
-| **Research Supervision**  | University College of London | United Kingdom | 2021 |
-| **Craft Skipper**  | Xunta de Galicia | Spain | 2017 |
-| **Animal Experimentation Certification**  | Government of Madrid | Spain | 2017 |
-| **Open Water Diver License**  | Scuba Schools International (SSI) | Spain | 2014 |
+| **Research Supervision** | University College of London | United Kingdom | 2021 |
+| **Craft Skipper** | Xunta de Galicia | Spain | 2017 |
+| **Animal Experimentation Certification** | Government of Madrid | Spain | 2017 |
+| **Open Water Diver License** | Scuba Schools International (SSI) | Spain | 2014 |
 
 
 Publications
