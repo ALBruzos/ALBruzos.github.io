@@ -5,7 +5,8 @@ permalink: /media/
 author_profile: true
 ---
 
-<mark>ATTENTION!</mark> I am <u>always available to talk to media about my research</u>. Do not hesitate on contacting me at **albruzos@gmail.com**!
+**Watch out!** I am <u>always available to talk to media about my research</u>. Do not hesitate on contacting me at **albruzos@gmail.com**!
+{: .notice}
 
 
 TV
