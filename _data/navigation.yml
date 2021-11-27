@@ -5,15 +5,18 @@ main:
     
   - title: "Publications"
     url: /publications/
+
+  - title: "Grants and Awards"
+    url: /grants-awards/
     
   - title: "Teaching"
     url: /teaching/  
 
   - title: "Conferences"
     url: /talks/    
-        
-  - title: "Blog Posts"
-    url: /year-archive/
+
+  - title: "Skills and Certifications"
+    url: /skills-certifications/
     
   - title: "Outreach"
     url: /outreach/
