@@ -3,9 +3,6 @@ title: "Supervision and Mentoring"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/supervision
-venue: "University 1, Department"
-date: 
-location: ""
 ---
 
 
