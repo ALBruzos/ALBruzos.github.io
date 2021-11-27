@@ -6,7 +6,7 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Grants and Awards"
+  - title: "Grants & Awards"
     url: /grants-awards/
     
   - title: "Teaching"
@@ -15,7 +15,7 @@ main:
   - title: "Conferences"
     url: /talks/    
 
-  - title: "Skills and Certifications"
+  - title: "Skills"
     url: /skills-certifications/
     
   - title: "Outreach"
