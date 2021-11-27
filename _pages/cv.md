@@ -9,9 +9,30 @@ redirect_from:
 
 Education
 =======
-**PhD. in Molecular Medicine**, Centre for Research in Molecular Medicine and Chronic Diseases ([CiMUS](https://www.usc.es/cimus/en)), Universidade de Santiago de Compostela, Spain. *2016 – 2022* <sup>expected</sup>  
-**MSc. in Bioinformatics**, Universitat Autònoma de Barcelona, Spain. *2015 – 2016*	  
-**BSc. In Biology**, Universidade de Santiago de Compostela, Spain. *2011 – 2015* 	
+**PhD. in Molecular Medicine**, Centre for Research in Molecular Medicine and Chronic Diseases ([CiMUS](https://www.usc.es/cimus/en)), Universidade de Santiago de Compostela, Spain.  
+  *2016 – 2022* <sup>expected</sup>  
+  Specialization in Cancer.  
+  Title of Doctoral Thesis: _"Evolution of bivalve transmissible cancers"_  
+  
+**MSc. in Bioinformatics**, Universitat Autònoma de Barcelona, Spain.  
+*2015 – 2016*	  
+  Specialization (elective module) in Genomics. 
+  Title of Master Thesis: 
+
+**BSc. In Biology**, Universidade de Santiago de Compostela, Spain.  
+  *2011 – 2015* 	
+  Studies of General Biological Sciences. One _Erasmus_ year abroad at Université Libre de Bruxelles, Belgium.  
+  Title of Degree thesis: _“Interpopulation variability in the level of photosynthesis inactivation by heat stress in Arbutus unedo L.”._  
+  
+**Science and Technology Baccalaureate (LOE) and University Access Test (PAU)**, IES Vilar Ponte, Spain.  
+  *2009 – 2011*  
+  Average mark in high school: 9,0/10  
+  Results of University Access Test: 11,39/14  
+
+**Musical Elementary Degree.** Professional Conservatory of Music in Viveiro, Spain.  
+  *2002 – 2008*  
+  Two specializations: Traverse Flute _(2002-2006)_ and Piano _(2005-2008)_.
+
 
 Work experience
 =======
@@ -32,7 +53,9 @@ Work experience
 * *Duties:* doctoral studies
 * *Supervisor/s:* Jose M. C. Tubío and Seila Díaz Costas  
   
-Fall 2014: **Museum staff.** Environmental Interpretation Centre of Compostela, Spain.   
+Spring 2015: **Research Assitant** Ecology Department, [University of Santiago de Compostela](https://www.usc.es/gl), Spain.  
+Fall 2014: **Museum staff.** Environmental Interpretation Centre of Compostela, Spain.  
+Summer 2014: **Research Assitant** Evolutionary Biology and Ecology Department, [Université Libre de Bruxelles](https://www.ulb.be/en)
 Summer 2013: **Childminder of a French boy.** Aupair World Organization, France.  
 Summer 2012: **Camp Instructor of Australian students.** Montemar Summer School, Spain.  
 
@@ -66,7 +89,7 @@ Languages
 | **Galician** | C1 | Celga certification in July 2011 |  
 | **Spanish** | _native_ | _NA_ |  
 
-<sup>*</sup>*According to The Common European Framework of Reference for Languages.*
+<sup>*</sup>*According to The Common European Framework of Reference for Languages (A1/2 = Basic user; B1/2 = Independent user; C1/2 = Proficient user)*
 
 Awards and fellowships (last 10 years)
 =======
