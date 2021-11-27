@@ -84,10 +84,10 @@ author:
   avatar           : "profile-AliciaLBruzos.jpg"
   bio              : "Biologist and bioinformatician currently working on cancer genomics."
   location         : "London, UK"
-  employer         :
+  employer         : "The Francis Crick Institute"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.es/citations?user=YyKE8DIAAAAJ&hl=en&oi=ao"
-  email            :
+  email            : "albruzos@gmail.com"
   researchgate     :  "https://www.researchgate.net/profile/Alicia-Bruzos"
   uri              :
   bitbucket        :
@@ -99,7 +99,7 @@ author:
   github           : "ALBruzos"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "https://www.instagram.com/alicialbruzos/"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/alicialopezbruzos/"
