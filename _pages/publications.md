@@ -13,17 +13,11 @@ author_profile: true
 
 **List:**  
 
-| Year  | Journal |
-| ------------- | ------------- |
-| 2021  | Nature Communications  |
-| 2020  | Nature Genetics  |
-| 2020  | Nature  |
-
-| Year  | Journal                | First authorship                                                 |
-|:-----:|:---------------------- | :--------------------------------------------------------------- |
-| 2021  | Nature Communications  |  Álvarez, E. G. et al.                                           |
-| 2020  | Nature Genetics        |  Rodriguez-Martin, B. et al.                                     |
-| 2020  | Nature                 |  The ICGC/TCGA Pan-Cancer Analysis of Whole Genomes Consortium.  |
+| Year  | Journal | First authorship |
+| ------------- | ------------- | ------------- |
+| 2021  | Nature Communications  | Álvarez, E. G. et al. |
+| 2020  | Nature Genetics  | Rodriguez-Martin, B. et al. |
+| 2020  | Nature  | The ICGC/TCGA Pan-Cancer Analysis of Whole Genomes Consortium. |
 
 **More information:**  
 {% for post in site.publications reversed %}
