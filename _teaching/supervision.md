@@ -1,7 +1,7 @@
 ---
 title: "Supervision and Mentoring"
 collection: teaching
-type: "Workshop"
+type: ""
 permalink: /teaching/supervision
 ---
 
