@@ -9,8 +9,16 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-{% include base_path %}
-**List of publications:**  
+{% include base_path %}  
+
+**List:**  
+
+| Year  | Journal |
+| ------------- | ------------- |
+| 2021  | Nature Communications  |
+| 2020  | Nature Genetics  |
+| 2020  | Nature  |
+
 | Year  | Journal                | First authorship                                                 |
 |:-----:|:---------------------- | :--------------------------------------------------------------- |
 | 2021  | Nature Communications  |  Álvarez, E. G. et al.                                           |
