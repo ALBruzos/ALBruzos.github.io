@@ -8,10 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-#### My academic personal website: UNDER CONSTRUCTION
-Alicia L. Bruzos is currently a postdoctoral researcher at The Francis Crick Institute and the University College of London (UK) working in the laboratory of Mosaicism and Precision Medicine. She is a former doctoral student in Molecular Medicine and Teaching Assistant of Genetics at University of Santiago de Compostela (Spain) where she has mentored and supervised several bachelor and master students. Her field of expertise is cancer genomics with high-impact publications in the journals of Nature and Nature Genetics. 
+## My academic personal website: UNDER CONSTRUCTION
+Postdoctoral researcher currently working at [The Francis Crick Institute](https://www.crick.ac.uk/) and the [University College of London](https://www.ucl.ac.uk/)(UK) in the laboratory of _Mosaicism and Precision Medicine_.  
 
-She graduated in 2015 in Biological Sciences from the University of Santiago de Compostela (Spain) having completed her degree thesis with honors. Then, she completed a Master in Bioinformatics from the Autonomous University of Barcelona (Spain) where she took part of the international Pan-Cancer initiative. In 2017, she obtained a Spanish national doctoral fellowship to study metastasis and contagious cancers and during this period, she did three stages in international research institutions (USA, Ireland and South Korea). She has recently moved to the UK to pursue a scientific career at University College of London.
+Former doctoral student in _Molecular Medicine_ and Teaching Assistant of _Genetics_ at [University of Santiago de Compostela](https://www.usc.es/gl) (Spain).  
+
+I graduated in 2015 in _Biological Sciences_ from the [University of Santiago de Compostela](https://www.usc.es/gl) (Spain)  completing my degree thesis with honors. Then, I specialized in _Bioinformatics_ at the [Autonomous University of Barcelona](https://www.uab.cat/en/) (Spain) and during my master thesis I got involved the international [The Pan-Cancer Analysis of Whole Genomes (PCAWG)](https://dcc.icgc.org/pcawg) study. Later, I obtained a national doctoral fellowship to study metastasis and contagious cancers in the framework of the ERC-funded [Scuba Cancers](http://www.scubacancers.org/) project and I did three stays in international research institutions (USA, Ireland and South Korea).  
+
+**My field of expertise is cancer genomics and contagious metastasis with high-impact publications in the multidisciplinary journals of _Nature_, _Nature Genetics_ and _Nature Communications_.**  
 
 For more info
 ------
