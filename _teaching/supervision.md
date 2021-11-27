@@ -14,4 +14,6 @@ permalink: /teaching/supervision
 | 2019/2020 | *“Identification of driver mutations in marine transmissible cancers through exome sequencing analysis”* | Iago Otero Coto | Alicia L. Bruzos, Jose M. C. Tubío | MSc. in Bioinformatics | Master Thesis | Universidade da Coruña | Spain | English |
 | 2019/2020 | *“Characterization of a genomic molecular marker of a marine transmissible cancer”* | Ana Copena Soutelo | Alicia L. Bruzos, Jose M. C. Tubío | BSc. in Biology | Degree Thesis | Universidade de Santiago de Compostela | Spain  | Spanish |
 
+
+
 [^4]: Awarded for linguistic quality by the USC Language Normalization Service in the category of sciences.  
