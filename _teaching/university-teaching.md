@@ -1,7 +1,8 @@
 ---
 title: "University Teaching Experience"
 collection: teaching
-type: "Undergraduate course"
+type: ""
+date: 
 permalink: /teaching/university-teaching
 ---
 
