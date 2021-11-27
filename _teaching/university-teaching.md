@@ -2,7 +2,6 @@
 title: "University Teaching Experience"
 collection: teaching
 type: ""
-date: 
 permalink: /teaching/university-teaching
 ---
 
