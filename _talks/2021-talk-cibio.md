@@ -9,12 +9,14 @@ location: "Porto, Portugal"
 ---
 
 *Presenter:* Alicia L. Bruzos  
-*Authors* **Bruzos, A. L.**; Díaz, S.; García-Souto, D.; Rocha, S; Temes, J; Zamora, J; Rodríguez-Castro, J.; Posada, D; Tubío, J.  
-*Title:* Unravelling the genetic story of marine contagious metastases.  
+[Watch Here](https://www.youtube.com/watch?v=fQyKsSLm-rY)  
+
+*Title:* Unravelling the genetic story of marine contagious metastases. 
+*Authors:* **Bruzos, A. L.**; Díaz, S.; García-Souto, D.; Rocha, S; Temes, J; Zamora, J; Rodríguez-Castro, J.; Posada, D; Tubío, J.  
 *Type:* Oral communication  
 *Conference:* CIBIO-InBIO Seminar Series.  
 *Location:* Universidade de Porto, virtual edition (Portugal).  
-[Watch Here](https://www.youtube.com/watch?v=fQyKsSLm-rY)
 
-**Citation:**
+
+**Citation:**  
 Bruzos, A. L.; Díaz, S.; García-Souto, D.; Rocha, S; Temes, J; Zamora, J; Rodríguez-Castro, J.; Posada, D; Tubío, J. (2021, April). *Unravelling the genetic story of marine contagious metastases.* Oral communication in CIBIO-InBIO Seminar Series. Universidade de Porto, virtual edition (Portugal).
