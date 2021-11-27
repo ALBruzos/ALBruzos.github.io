@@ -11,7 +11,7 @@ citation: 'Rodriguez-Martin, B. et al. (2020). &quot;Pan-Cancer analysis of whol
 
 Here we identify a new mutational mechanism in cancer by with aberrant integration of L1 elements promote chromosomal rearrangements such as Megabase-size genomic deletions that on occasion remove tumour suppressor genes, contributing to cancer progression. *I catalogued the retrotransposition events of LINE-1.*  
 
-Visit online version: [doi.org/**10.1038/s41586-020-1969-6**](https://doi.org/10.1038/s41586-020-1969-6)  
+Visit online version: [doi.org/**10.1038/s41588-019-0562-0**](https://doi.org/10.1038/s41588-019-0562-0)  
 [Download paper here](https://ALBruzos.github.io/files/2020-02-05-PAPER_NatureGenetics_PCAWG-retrotransposition.pdf)
 
 Received: 21 September 2017
