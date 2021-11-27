@@ -59,10 +59,12 @@ Summer 2012: **Camp Instructor of Australian students.** Montemar Summer School,
 
 Languages
 =======
-* **English**: C1<sup>*</sup> (IELTS certification in July 2021; CAE certification in December 2014)
-* **French**:	B2<sup>*</sup> (DELF certification in May 2020)
-* **Galician**: C1<sup>*</sup> (Celga certification in July 2011)
-* **Spanish**: _native_
+| Language  | Level<sup>*</sup> | Certification/s |
+| ------------- | ------------- | ------------- |
+| **English**  | C1 | IELTS certification in July 2021; CAE certification in December 2014 |
+| **French**  | B2 | DELF certification in May 2020 |
+| **Galician**  | C1 | Celga certification in July 2011 |
+| **Spanish**  | _native_ |  |
 
 <sup>*</sup>*According to The Common European Framework of Reference for Languages.*
 
@@ -77,17 +79,28 @@ Awards and fellowships (last 10 years)
 * 2013: **Erasmus Scholarship**. Université Libre de Bruxelles, Belgium. One year to study abroad.
 * 2013: **Open Software Translation Award**. Engineering Technical Superior School of Universidade de Santiago de Compostela. First place.
 
+Service
+======
+* 26-28/05/2021: _Conference organization_. Member of the organizing and scientific committee for the **VIII Youth Researchers Meeting** in Santiago de Compostela (Spain) with 300 attendees. The programme comprised three plenary talks, three parallel sessions gathering 135 short oral communications and exhibited 67 posters. Repetida en sección congresos!!!
+* 2021 – 2022: _PhD alumni representative_. Spokeswoman of doctoral students on the **International Doctoral School Direction Committee** (EDIUS). Universidade de Santiago de Compostela, Spain.
+* 2017 – 2018: _PhD alumni representative_. Spokeswoman of doctoral students on the **International Doctoral School Committee** (EIDO) and representative of the Quality Commission of the same body. Universidade de Vigo, Spain.
+* 2016 – 2018: _Consortium secretariat_. Secretary of the **International Common Cockle Genome Consortium** (ICCGC). Three face-to-face symposiums were organized to address the goals of building a reference genome for the cockle species. 
+
 Professional Membership
 ======
-* 2019-present.	Member and Ambassador. [European Association for Cancer Research](https://www.eacr.org/) (EACR number: 28748) 
-* 2019-present.	Member. [Asociación Española de Investigación sobre el Cáncer](https://www.aseica.es) (ASEICA number: 1746) 
+* 2019-present.	_Member and Ambassador_. [European Association for Cancer Research](https://www.eacr.org/) (EACR number: 28748) 
+* 2019-present.	_Member_. [Asociación Española de Investigación sobre el Cáncer](https://www.aseica.es) (ASEICA number: 1746) 
 
 Training and Certifications
 ======
-* 2021	Research Supervision. University College of London (UK).
-* 2017	Craft Skipper. Xunta de Galicia (Spain). 
-* 2017	Animal Experimentation Certificate. Government of Madrid (Spain).
-* 2014	Open Water Diver License. Scuba Schools International (SSI).
+Full list of trainings and certifications can be provided upon request.
+| Training  | Institution | Country | Year |
+| ------------- | ------------- | ------------- | ------------- |
+| **Research Supervision**  | University College of London | United Kingdom | 2021 |
+| **Craft Skipper**  | Xunta de Galicia | Spain | 2017 |
+| **Animal Experimentation Certification**  | Government of Madrid | Spain | 2017 |
+| **Open Water Diver License**  | Scuba Schools International (SSI) | Spain | 2014 |
+
 
 Publications
 ======
