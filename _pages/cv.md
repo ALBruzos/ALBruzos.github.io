@@ -93,14 +93,13 @@ Professional Membership
 
 Training and Certifications
 ======
-_Full list of trainings and certifications can be provided upon request._  
-
-| Training | Institution | Country | Year |
+Full list of trainings and certifications can be provided upon request.
+| Training  | Institution | Country | Year |
 | ------------- | ------------- | ------------- | ------------- |
-| **Research Supervision** | University College of London | United Kingdom | 2021 |
-| **Craft Skipper** | Xunta de Galicia | Spain | 2017 |
-| **Animal Experimentation Certification** | Government of Madrid | Spain | 2017 |
-| **Open Water Diver License** | Scuba Schools International (SSI) | Spain | 2014 |
+| **Research Supervision**  | University College of London | United Kingdom | 2021 |
+| **Craft Skipper**  | Xunta de Galicia | Spain | 2017 |
+| **Animal Experimentation Certification**  | Government of Madrid | Spain | 2017 |
+| **Open Water Diver License**  | Scuba Schools International (SSI) | Spain | 2014 |
 
 
 Publications
