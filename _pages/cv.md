@@ -55,7 +55,7 @@ Work experience
   
 - [x] Spring 2015: **Research Assitant** Ecology Department, [University of Santiago de Compostela](https://www.usc.es/gl), Spain.  
 - [x] Fall 2014: **Museum staff.** Environmental Interpretation Centre of Compostela, Spain.  
-- [x] Summer 2014: **Research Assitant** Evolutionary Biology and Ecology Department, [Université Libre de Bruxelles](https://www.ulb.be/en)
+- [x] Summer 2014: **Research Assitant** Evolutionary Biology and Ecology Department, [Université Libre de Bruxelles](https://www.ulb.be/en), Belgium.  
 - [x] Summer 2013: **Childminder of a French boy.** Aupair World Organization, France.  
 - [x] Summer 2012: **Camp Instructor of Australian students.** Montemar Summer School, Spain.  
 
