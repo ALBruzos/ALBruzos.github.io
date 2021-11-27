@@ -9,9 +9,9 @@ redirect_from:
 
 Education
 =======
-* **PhD. in Molecular Medicine**, Centre for Research in Molecular Medicine and Chronic Diseases (CiMUS), Universidade de Santiago de Compostela, Spain. *2016 – 2022* <sup>expected</sup>  
-* **MSc. in Bioinformatics**, Universitat Autònoma de Barcelona, Spain. *2015 – 2016*	
-* **BSc. In Biology**, Universidade de Santiago de Compostela, Spain. *2011 – 2015* 	
+**PhD. in Molecular Medicine**, Centre for Research in Molecular Medicine and Chronic Diseases ([CiMUS](https://www.usc.es/cimus/en)), Universidade de Santiago de Compostela, Spain. *2016 – 2022* <sup>expected</sup>  
+**MSc. in Bioinformatics**, Universitat Autònoma de Barcelona, Spain. *2015 – 2016*	 
+**BSc. In Biology**, Universidade de Santiago de Compostela, Spain. *2011 – 2015* 	
 
 Work experience
 =======
@@ -59,12 +59,12 @@ Summer 2012: **Camp Instructor of Australian students.** Montemar Summer School,
 
 Languages
 =======
-| Language | Level<sup>*</sup> | Certification/s |
-| ------------- | ------------- | ------------- |
-| **English** | C1 | IELTS certification in July 2021; CAE certification in December 2014 |
-| **French** | B2 | DELF certification in May 2020 |
-| **Galician** | C1 | Celga certification in July 2011 |
-| **Spanish** | _native_ | _NA_ |
+| Language | Level<sup>*</sup> | Certification/s |  
+| ------------- | ------------- | ------------- |  
+| **English** | C1 | IELTS certification in July 2021; CAE certification in December 2014 |  
+| **French** | B2 | DELF certification in May 2020 |  
+| **Galician** | C1 | Celga certification in July 2011 |  
+| **Spanish** | _native_ | _NA_ |  
 
 <sup>*</sup>*According to The Common European Framework of Reference for Languages.*
 
@@ -93,13 +93,14 @@ Professional Membership
 
 Training and Certifications
 ======
-Full list of trainings and certifications can be provided upon request.
-| Training  | Institution | Country | Year |
-| ------------- | ------------- | ------------- | ------------- |
-| **Research Supervision**  | University College of London | United Kingdom | 2021 |
-| **Craft Skipper**  | Xunta de Galicia | Spain | 2017 |
-| **Animal Experimentation Certification**  | Government of Madrid | Spain | 2017 |
-| **Open Water Diver License**  | Scuba Schools International (SSI) | Spain | 2014 |
+Full list of trainings and certifications can be provided upon request.  
+
+| Training | Institution | Country | Year |  
+| ------------- | ------------- | ------------- | ------------- |  
+| **Research Supervision** | University College of London | United Kingdom | 2021 |  
+| **Craft Skipper** | Xunta de Galicia | Spain | 2017 |  
+| **Animal Experimentation Certification** | Government of Madrid | Spain | 2017 |  
+| **Open Water Diver License** | Scuba Schools International (SSI) | Spain | 2014 |  
 
 
 Publications
