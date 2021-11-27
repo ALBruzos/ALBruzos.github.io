@@ -33,29 +33,30 @@ Education
 :   *2002 – 2008*  
 :   Two specializations: Traverse Flute _(2002-2006)_ and Piano _(2005-2008)_.  
 
+---
 
 Work experience
 =======
 **CURRENT POSITION**  
-- [ ] 2021 – 	2024:	**Postdoctoral researcher.**  
+2021 – 	2024:	**Postdoctoral researcher.**  
 :   *Institution:* [The Francis Crick Institute](https://www.crick.ac.uk/) and [University College of London](https://www.ucl.ac.uk/), United Kingdom.  
 :   *Duties:* bioinformatics postdoc  
 :   *Supervisor/s:* Veronica Kinsler  
 
 **PREVIOUS POSITIONS**  
-- [x] 2018 – 2021: **Predoctoral researcher.**  
+2018 – 2021: **Predoctoral researcher.**  
 :   *Institution:* [University of Santiago de Compostela](https://www.usc.es/gl), Spain.  
 :   *Duties:* continuation of doctoral studies  
 :   *Supervisor/s:* Jose M. C. Tubío and Seila Díaz Costas  
-- [x] 2016 – 2018: **Predoctoral researcher.**  
+2016 – 2018: **Predoctoral researcher.**  
 :   *Institution:* [University of Vigo](https://www.uvigo.gal/en), Spain.  
 :   *Duties:* doctoral studies  
 :   *Supervisor/s:* Jose M. C. Tubío and Seila Díaz Costas  
-- [x] Spring 2015: **Research Assitant** Ecology Department, [University of Santiago de Compostela](https://www.usc.es/gl), Spain.  
-- [x] Fall 2014: **Museum staff.** Environmental Interpretation Centre of Compostela, Spain.  
-- [x] Summer 2014: **Research Assitant** Evolutionary Biology and Ecology Department, [Université Libre de Bruxelles](https://www.ulb.be/en), Belgium.  
-- [x] Summer 2013: **Childminder of a French boy.** Aupair World Organization, France.  
-- [x] Summer 2012: **Camp Instructor of Australian students.** Montemar Summer School, Spain.  
+Spring 2015: **Research Assitant** Ecology Department, [University of Santiago de Compostela](https://www.usc.es/gl), Spain.  
+Fall 2014: **Museum staff.** Environmental Interpretation Centre of Compostela, Spain.  
+Summer 2014: **Research Assitant** Evolutionary Biology and Ecology Department, [Université Libre de Bruxelles](https://www.ulb.be/en), Belgium.  
+Summer 2013: **Childminder of a French boy.** Aupair World Organization, France.  
+Summer 2012: **Camp Instructor of Australian students.** Montemar Summer School, Spain.  
 
 **RESEARCH STAYS AS VISITING SCIENTIST**  
 * 2021: **Korea Advance Institute of Science and Technology (KAIST)**, Daejeon (South Korea). 
@@ -78,6 +79,8 @@ Work experience
     * *Funding*: Spanish Ministry of Science (Ref. BES-2016-078166) 
     * *Time*: September to December.
 
+---
+
 Languages
 =======
 | Language | Level<sup>*</sup> | Certification/s |  
@@ -88,6 +91,8 @@ Languages
 | **Spanish** | _native_ | _NA_ |  
 
 <sup>*</sup>*According to The Common European Framework of Reference for Languages (A1/2 = Basic user; B1/2 = Independent user; C1/2 = Proficient user)*
+
+---
 
 Awards and fellowships (last 10 years)
 =======
@@ -100,6 +105,8 @@ Awards and fellowships (last 10 years)
 * 2013: **Erasmus Scholarship**. Université Libre de Bruxelles, Belgium. One year to study abroad.
 * 2013: **Open Software Translation Award**. Engineering Technical Superior School of Universidade de Santiago de Compostela. First place.
 
+---
+
 Service
 ======
 * 26-28/05/2021: _Conference organization_. Member of the organizing and scientific committee for the **VIII Youth Researchers Meeting** in Santiago de Compostela (Spain) with 300 attendees. The programme comprised three plenary talks, three parallel sessions gathering 135 short oral communications and exhibited 67 posters. Repetida en sección congresos!!!
@@ -107,10 +114,13 @@ Service
 * 2017 – 2018: _PhD alumni representative_. Spokeswoman of doctoral students on the **International Doctoral School Committee** (EIDO) and representative of the Quality Commission of the same body. Universidade de Vigo, Spain.
 * 2016 – 2018: _Consortium secretariat_. Secretary of the **International Common Cockle Genome Consortium** (ICCGC). Three face-to-face symposiums were organized to address the goals of building a reference genome for the cockle species. 
 
+
 Professional Membership
 ======
 * 2019-present.	_Member and Ambassador_. [European Association for Cancer Research](https://www.eacr.org/) (EACR number: 28748) 
 * 2019-present.	_Member_. [Asociación Española de Investigación sobre el Cáncer](https://www.aseica.es) (ASEICA number: 1746) 
+
+---
 
 Training and Certifications
 ======
