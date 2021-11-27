@@ -9,6 +9,15 @@ author_profile: true
 > Lucas Remmerswaal
 
 **Training courses and certifications**:  
+
+| Training | Institution | Country | Year |  
+| ------------- | ------------- | ------------- | ------------- |  
+| **Research Supervision** | University College of London | United Kingdom | 2021 |  
+| **Craft Skipper** | Xunta de Galicia | Spain | 2017 |  
+| **Animal Experimentation Certification** | Government of Madrid | Spain | 2017 |  
+| **Open Water Diver License** | Scuba Schools International (SSI) | Spain | 2014 |  
+
+
 [x]  **SPSS: advanced level** – 06/2015  Universidade de Santiago de Compostela.
 [x]  **Statistics for researchers: all you ever wished to know. 3ed** – 05/2015  Universidade de Salamanca · Miriadax.
 - [x]  **Biostatistics to live and how to live off statistics** – 05/2015  Universidade de Santiago de Compostela.
