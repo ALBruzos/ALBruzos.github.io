@@ -22,13 +22,13 @@ Newspaper
 ====
 **El Correo Gallego**. Short interview and picture for the local newspaper to the scientific committee organizing the *VIII Youth Researchers Meeting* in Santiago de Compostela which I was part of. *(02/06/2021)* [Link](https://www.linkedin.com/posts/alicialopezbruzos_conferences2021-conference-research-activity-6810986196924207105-O6Qw)   
 **La Voz de Galicia**. Interview and picture for the regional newspaper about the *Pan-cancer initiative* *(06/02/2020)* [Link](https://www.lavozdegalicia.es/noticia/sociedad/2020/02/06/equipo-gallego-halla-causa-desconocida-origen-cancer/0003_202002G6P23991.htm)  
-**La Gaceta**. Interview and picture for Salamanca’s newspaper about my doctoral research with *cockles* to find the genetic causes of contagious metastasis (10/12/2017) [Link](https://www.genomesdisease.tech/media/20171210_EntevistaAliciaSalamanca.pdf)  
+**La Gaceta**. Interview and picture for Salamanca’s newspaper about my doctoral research with *cockles* to find the genetic causes of contagious metastasis *(10/12/2017)* [Link](https://www.genomesdisease.tech/media/20171210_EntevistaAliciaSalamanca.pdf)  
 
 > Research publications which I co-authored were mentioned in more than 40 different newspapers and can be checked here: [genomesdisease.tech/media](https://genomesdisease.tech/media)  
   
 Social networks
 ====
-**INSTAGRAM**. Interview for #Pintíficas initiative organized by the **Pint of Science** on the International Day of Girls and Women in Science (11/02/2020) [Watch it here](https://www.youtube.com/watch?v=VK5JApXx8UE)  
-**TWITCH**. Interview for the show **Ciencia e tal**, a programme that gives insights into the latest scientific research that is being done (31/08/2021) [Watch it here](https://www.youtube.com/watch?v=ySERdYkGR1A)  
+**INSTAGRAM**. Interview for #Pintíficas initiative organized by the **Pint of Science** on the International Day of Girls and Women in Science *(11/02/2020)* [Watch it here](https://www.youtube.com/watch?v=VK5JApXx8UE)  
+**TWITCH**. Interview for the show **Ciencia e tal**, a programme that gives insights into the latest scientific research that is being done *(31/08/2021)* [Watch it here](https://www.youtube.com/watch?v=ySERdYkGR1A)  
 
 
