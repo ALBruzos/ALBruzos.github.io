@@ -9,19 +9,19 @@ redirect_from:
 
 Education
 =======
-* **PhD. in Molecular Medicine**, Centre for Research in Molecular Medicine and Chronic Diseases (CiMUS), Universidade de Santiago de Compostela, Spain. *2016 – 2022*<sup>expected</sup>  
+* **PhD. in Molecular Medicine**, Centre for Research in Molecular Medicine and Chronic Diseases (CiMUS), Universidade de Santiago de Compostela, Spain. *2016 – 2022* <sup>expected</sup>  
 * **MSc. in Bioinformatics**, Universitat Autònoma de Barcelona, Spain. *2015 – 2016*	
 * **BSc. In Biology**, Universidade de Santiago de Compostela, Spain. *2011 – 2015* 	
 
 Work experience
 =======
-<u>CURRENT POSITION</u>  
+<u>**CURRENT POSITION**</u>  
 2021 – 	2024:	**Postdoctoral researcher.**
 * *Institution:* [The Francis Crick Institute](https://www.crick.ac.uk/) and [University College of London](https://www.ucl.ac.uk/), United Kingdom.
 * *Duties:* bioinformatics postdoc
 * *Supervisor/s:* Veronica Kinsler
 
-<u>PREVIOUS POSITIONS</u>  
+<u>**PREVIOUS POSITIONS**</u>  
 2018 – 2021: **Predoctoral researcher.** 
 * *Institution:* [University of Santiago de Compostela](https://www.usc.es/gl), Spain.
 * *Duties:* continuation of doctoral studies
@@ -36,7 +36,7 @@ Fall 2014: **Museum staff.** Environmental Interpretation Centre of Compostela, 
 Summer 2013: **Childminder of a French boy.** Aupair World Organization, France.  
 Summer 2012: **Camp Instructor of Australian students.** Montemar Summer School, Spain.  
 
-<u>RESEARCH STAYS AS VISITING SCIENTIST</u>
+<u>**RESEARCH STAYS AS VISITING SCIENTIST**</u>
 * 2021: **Korea Advance Institute of Science and Technology (KAIST)**, Daejeon (South Korea). 
   * *Advisor:* Prof. Young Seok Ju.
   * *Theme:* Analyzing expression and cell origin using RNA-seq data.
