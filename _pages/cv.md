@@ -9,46 +9,46 @@ redirect_from:
 
 Education
 =======
-* **PhD. in Molecular Medicine**, Centre for Research in Molecular Medicine and Chronic Diseases (CiMUS), Universidade de Santiago de Compostela, Spain. *2016 – 2022<sup>expected<\sup>* 
+* **PhD. in Molecular Medicine**, Centre for Research in Molecular Medicine and Chronic Diseases (CiMUS), Universidade de Santiago de Compostela, Spain. *2016 – 2022* <sup>expected<\sup>  
 * **MSc. in Bioinformatics**, Universitat Autònoma de Barcelona, Spain. *2015 – 2016*	
 * **BSc. In Biology**, Universidade de Santiago de Compostela, Spain. *2011 – 2015* 	
 
 Work experience
 =======
-\_CURRENT POSITION\_
+<u>CURRENT POSITION<\u>  
 2021 – 	2024:	**Postdoctoral researcher.** 
   * *Institution*: [The Francis Crick Institute](https://www.crick.ac.uk/) and [University College of London](https://www.ucl.ac.uk/), United Kingdom.
   * Duties: bioinformatics postdoc
   * Supervisor/s: Veronica Kinsler
 
-\_PREVIOUS POSITIONS\_
+<u>PREVIOUS POSITIONS<\u>  
 2018 – 2021: **Predoctoral researcher.** 
-  * *Institution*: [University of Santiago de Compostela](https://www.usc.es/gl), Spain.
-  * Duties: continuation of doctoral studies
-  * Supervisor/s: Jose M. C. Tubío and Seila Díaz Costas
+  * *Institution:* [University of Santiago de Compostela](https://www.usc.es/gl), Spain.
+  * *Duties* continuation of doctoral studies
+  * *Supervisor/s:* Jose M. C. Tubío and Seila Díaz Costas  
 2016 – 2018: **Predoctoral researcher.** 
-  * *Institution*: [University of Vigo](https://www.uvigo.gal/en), Spain.
-  * Duties: doctoral studies
-  * Supervisor/s: Jose M. C. Tubío and Seila Díaz Costas
+  * *Institution:* [University of Vigo](https://www.uvigo.gal/en), Spain.
+  * *Duties:* doctoral studies
+  * *Supervisor/s:* Jose M. C. Tubío and Seila Díaz Costas  
 Fall 2014: **Museum staff.** Environmental Interpretation Centre of Compostela, Spain.   
 Summer 2013: **Childminder of a French boy.** Aupair World Organization, France.  
 Summer 2012: **Camp Instructor of Australian students.** Montemar Summer School, Spain.  
 
-\_RESEARCH STAYS AS VISITING SCIENTIST\_
+<u>RESEARCH STAYS AS VISITING SCIENTIST<\u>  
 * 2021: **Korea Advance Institute of Science and Technology (KAIST)**, Daejeon (South Korea). 
-    * *Advisor*: Prof. Young Seok Ju. 
-    * *Theme*: Analyzing expression and cell origin using RNA-seq data. 
-    * *Funding*: travel grant of Boheringer Ingelheim Fonds.
-    * *Time*: January to April.
+    * *Advisor:* Prof. Young Seok Ju. 
+    * *Theme:* Analyzing expression and cell origin using RNA-seq data. 
+    * *Funding:* travel grant of Boheringer Ingelheim Fonds.
+    * *Time:* January to April.
 * 2020: **University of Vigo (UVIGO)**, Vigo (Spain). 
-    * *Advisor*: Prof. David Posada. 
-    * *Theme*: Phylogenetic inference of mitogenomes, topology testing, dNdS per branch and time estimations. 
-    * *Time*: September to December.
+    * *Advisor:* Prof. David Posada. 
+    * *Theme:* Phylogenetic inference of mitogenomes, topology testing, dNdS per branch and time estimations. 
+    * *Time:* September to December.
 * 2019: **National University of Ireland Galway (NUIG)**, Galway (Ireland). 
     * *Advisor*: Prof. Mark Johnson. 
-    * *Theme*: Studying the clonal structure of contagious cancers in Irish cockles. 
-    * *Funding*: AssemblePlus (grant agreement no. 730984) 
-    * *Time*: March to April.
+    * *Theme:* Studying the clonal structure of contagious cancers in Irish cockles. 
+    * *Funding:* AssemblePlus (grant agreement no. 730984) 
+    * *Time:* March to April.
 * 2018: **Pacific Northwest Research Institute (PNRI)**, Seattle (USA). 
     * *Advisor*: PhD. Michael Metzger. 
     * *Theme*: Gene editing of bivalve genomes using CRISPR. 
