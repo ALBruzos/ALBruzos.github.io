@@ -60,3 +60,11 @@ PROFESSIONAL MEMBERSHIP
 * 2019-present.	Member and Ambassador. European Association for Cancer Research (EACR number: 28748) 
 * 2019-present.	Member. Asociación Española de Investigación sobre el Cáncer (ASEICA number: 1746) 
 
+
+TRAINING AND CERTIFICATIONS
+======
+* 2021	Research Supervision. University College of London (UK).
+* 2017	Craft Skipper. Xunta de Galicia (Spain). 
+* 2017	Animal Experimentation Certificate. Government of Madrid (Spain).
+* 2014	Open Water Diver License. Scuba Schools International (SSI).
+
