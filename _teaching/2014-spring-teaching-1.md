@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Universidade de Vigo, Department of Genetics."
-date: 2017/2018
+date: 2017
 location: "Vigo, Spain"
 ---
 
