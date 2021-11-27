@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* **PhD. in Molecular Medicine**, Centre for Research in Molecular Medicine and Chronic Diseases (CiMUS), Universidade de Santiago de Compostela, Spain. 2016 – expected 
+* **MSc. in Bioinformatics**, Universitat Autònoma de Barcelona, Spain. 2015 – 2016	
+* **BSc. In Biology**, Universidade de Santiago de Compostela, Spain. 2011 – 2015 	
 
 Work experience
 ======
@@ -27,14 +27,15 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
-Skills
+Languages
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* English: C1 (IELTS certification in July 2021; CAE certification in December 2014)
+* French:	B2 (DELF certification in May 2020)
+* Galician: C1 (Celga certification in July 2011)
+* Spanish: _native_
+
+Levels according to The Common European Framework of Reference for Languages
+
 
 Publications
 ======
@@ -54,6 +55,8 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+PROFESSIONAL MEMBERSHIP 
 ======
-* Currently signed in to 43 different slack teams
+* 2019-present.	Member and Ambassador. European Association for Cancer Research (EACR number: 28748) 
+* 2019-present.	Member. Asociación Española de Investigación sobre el Cáncer (ASEICA number: 1746) 
+
