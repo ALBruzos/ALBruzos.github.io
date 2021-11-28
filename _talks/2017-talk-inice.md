@@ -8,7 +8,7 @@ date: 2017-12-07
 location: "Salamanca, Spain"
 ---
 
-*Presenter:* Alicia L. Bruzos  
+*Speaker:* Alicia L. Bruzos  
 
 *Title:* Cockle reference genome: size estimation.  
 *Authors:* **Bruzos, A. L.**; Díaz, S.; García-Souto, D.; Zamora, J.; Tubío, J.  
