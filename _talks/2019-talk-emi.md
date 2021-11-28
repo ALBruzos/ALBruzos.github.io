@@ -8,10 +8,10 @@ date: 2019-05-27
 location: "Santiago de Compostela, Spain"
 ---
 
-*Presenter:* Alicia L. Bruzos  
+*Speaker:* Alicia L. Bruzos  
 
 *Title:* Colchicine effect on DNA integrity for the study of cockle transmissible cancers.  
-*Authors* **Bruzos, A. L.**; Díaz, S.; Rodríguez-Castro, J.; Tubío, J. 
+*Authors:* **Bruzos, A. L.**; Díaz, S.; Rodríguez-Castro, J.; Tubío, J. 
 *Type:* Oral communication  
 *Conference:* VII Young Researchers Meeting.  
 *Location:* Universidade de Santiago de Compostela (Spain).  
