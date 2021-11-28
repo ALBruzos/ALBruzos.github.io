@@ -8,10 +8,10 @@ date: 2019-10-04
 location: "A Coruña, Spain"
 ---
 
-*Presenter:* Alicia L. Bruzos  
+*Speaker:* Alicia L. Bruzos  
 
 *Title:* What can we learn from transmissible cancers to treat cancer?.  
-*Authors* **Bruzos, A. L.**; Díaz, S.; García-Souto, D.; Temes, J.; Zamora, J.; Tubío, J.  
+*Authors:* **Bruzos, A. L.**; Díaz, S.; García-Souto, D.; Temes, J.; Zamora, J.; Tubío, J.  
 *Type:* Oral communication  
 *Conference:* VI Edición Investigación Biomédica del Cáncer en Galicia  
 *Location:* A Coruña (Spain).  
