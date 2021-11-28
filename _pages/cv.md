@@ -96,16 +96,18 @@ Languages
 
 ---
 
-Awards and fellowships (last 10 years)
+Awards and fellowships
 =======
 * 2021: **Travel grant**. Boheringer Ingelheim Fonds, Germany. 
 * 2019: **Best Scientific Panel Prize**. XXII Foro dos Recursos Mariños e da Acuicultura das Rías Galegas (ForoACUI), Spain. 
-* 2017: **EuroMarine Young Scientist Fellowship**. Universidade de Vigo & European Marine Research Network, Spain.
+* 2017: **EuroMarine Young Scientist Fellowship**. European Marine Research Network, Spain.
 * 2017: **Best Scientific Panel Prize**. XX Foro dos Recursos Mariños e da Acuicultura das Rías Galegas (ForoACUI), Spain. First place.
-* 2017: **National doctoral fellowship (2017-2021)**. Spanish Ministry of Economy, Industry and Competitivity (Ref. BES-2016-078166). Universidade de Vigo, Spain.
+* 2017: **National doctoral fellowship (2017-2021)**. Spanish Ministry of Economy, Industry and Competitivity (Ref. BES-2016-078166), Spain.
 * 2015: **National Speech Competition**: “Transmito, luego existo”. Finalist.
 * 2013: **Erasmus Scholarship**. Université Libre de Bruxelles, Belgium. One year to study abroad.
 * 2013: **Open Software Translation Award**. Engineering Technical Superior School of Universidade de Santiago de Compostela. First place.
+
+Full detailed list can be checked [here](https://albruzos.github.io/awards-grants/)
 
 ---
 
@@ -128,6 +130,7 @@ Training and Certifications
 ======
 Full list of trainings and certifications can be checked [here](https://albruzos.github.io/skills-certifications/).
 
+---
 
 Publications
 ======
