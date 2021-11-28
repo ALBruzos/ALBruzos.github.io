@@ -39,7 +39,7 @@ Work experience
 =======
 
 **CURRENT POSITION**  
-2021 – 	2024:	**Postdoctoral researcher.**  
+_2021 – 	    _:	**Postdoctoral researcher.**  
 :   *Institution:* [The Francis Crick Institute](https://www.crick.ac.uk/) and [University College of London](https://www.ucl.ac.uk/), United Kingdom.  
 :   *Duties:* bioinformatics postdoc  
 :   *Supervisor/s:* Veronica Kinsler  
@@ -47,21 +47,21 @@ Work experience
 
 
 **PREVIOUS POSITIONS**  
-2018 – 2021: **Predoctoral researcher.**  
+_2018 – 2021_: **Predoctoral researcher.**  
 :   *Institution:* [University of Santiago de Compostela](https://www.usc.es/gl), Spain.  
 :   *Duties:* continuation of doctoral studies  
 :   *Supervisor/s:* Jose M. C. Tubío and Seila Díaz Costas  
 
-2016 – 2018: **Predoctoral researcher.**  
+_2016 – 2018_: **Predoctoral researcher.**  
 :   *Institution:* [University of Vigo](https://www.uvigo.gal/en), Spain.  
 :   *Duties:* doctoral studies  
 :   *Supervisor/s:* Jose M. C. Tubío and Seila Díaz Costas  
 
-Spring 2015: **Research Assitant** Ecology Department, [University of Santiago de Compostela](https://www.usc.es/gl), Spain.  
-Fall 2014: **Museum staff.** Environmental Interpretation Centre of Compostela, Spain.  
-Summer 2014: **Research Assistant** Evolutionary Biology and Ecology Department, [Université Libre de Bruxelles](https://www.ulb.be/en), Belgium.  
-Summer 2013: **Childminder of a French boy.** Aupair World Organization, France.  
-Summer 2012: **Camp Instructor of Australian students.** Montemar Summer School, Spain.  
+_Spring 2015_: **Research Assitant** Ecology Department, [University of Santiago de Compostela](https://www.usc.es/gl), Spain.  
+_Fall 2014_: **Museum staff.** Environmental Interpretation Centre of Compostela, Spain.  
+_Summer 2014_: **Research Assistant** Evolutionary Biology and Ecology Department, [Université Libre de Bruxelles](https://www.ulb.be/en), Belgium.  
+_Summer 2013_: **Childminder of a French boy.** Aupair World Organization, France.  
+_Summer 2012_: **Camp Instructor of Australian students.** Montemar Summer School, Spain.  
 
 **RESEARCH STAYS AS VISITING SCIENTIST**  
 2021: **Korea Advance Institute of Science and Technology (KAIST)**, Daejeon (South Korea).  
