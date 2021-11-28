@@ -22,7 +22,7 @@ Education
 **BSc. In Biology**, Universidade de Santiago de Compostela, Spain.  
 :   *2011 – 2015* 	
 :   Third year abroad at Université Libre de Bruxelles (Belgium) with an _Erasmus_ scholarship.  
-:   Title of Degree thesis: _“Interpopulation variability in the level of photosynthesis inactivation by heat stress in Arbutus unedo L.”._  
+:   Title of Degree thesis: _“Interpopulation variability in the level of photosynthesis inactivation by heat stress in Arbutus unedo L.”._ (With Honours)  
   
 **Science and Technology Baccalaureate (LOE) and University Access Test (PAU)**, IES Vilar Ponte, Spain.  
 :   *2009 – 2011*  
