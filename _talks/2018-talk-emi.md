@@ -8,7 +8,7 @@ date: 2018-06-27
 location: "Santiago de Compostela, Spain"
 ---
 
-*Presenter:* Alicia L. Bruzos  
+*Speaker:* Alicia L. Bruzos  
 
 *Title:* Cockle Reference Genome: DNA isolation challenges.  
 *Authors*: **Bruzos, A. L.**; García-Souto, D.; Díaz, S.; Zamora, J.; Temes, J., Rodríguez-Castro, J.; Tubío, J. 
