@@ -9,7 +9,7 @@ location: "O Grove, Spain"
 ---
 
 *Presenter:* Alicia L. Bruzos  
-[Download Here](https://albruzos.github.io/files/posters/)  
+[Download Here](https://albruzos.github.io/files/posters/2019_Poster_Bruzosetal-cocklesDNA-ForoACUI.png)  
 
 *Title:* WGS y cromosomas de berberechos con cáncer transmissible: efectos en la integridad del ADN.  
 *Authors* **Bruzos, A. L.**; Díaz, S.; García-Souto, D.; Rodríguez-Castro, J.; Tubío, J.  
