@@ -8,10 +8,10 @@ date: 2021-07-17
 location: "Hinxton-Cambridge, United Kingdom"
 ---
 
-*Presenter:* Alicia L. Bruzos  
+*Speaker:* Alicia L. Bruzos  
 
 *Title:* Scuba Cancers: Finding the genetic causes of contagious metastases under the sea.  
-*Authors* **Bruzos, A. L.**; Díaz, S.; García-Souto, D.; Temes, J.; Zamora, J.; Tubío, J.  
+*Authors:* **Bruzos, A. L.**; Díaz, S.; García-Souto, D.; Temes, J.; Zamora, J.; Tubío, J.  
 *Type:* Oral communication  
 *Conference:* Evolution and Ecology of Cancer - Wellcome Genome Campus.  
 *Location:* Hinxton-Cambridge (UK).  
