@@ -43,6 +43,7 @@ Work experience
 :   *Duties:* bioinformatics postdoc  
 :   *Supervisor/s:* Veronica Kinsler  
 
+
 **PREVIOUS POSITIONS**  
 2018 – 2021: **Predoctoral researcher.**  
 :   *Institution:* [University of Santiago de Compostela](https://www.usc.es/gl), Spain.  
@@ -66,15 +67,18 @@ Summer 2012: **Camp Instructor of Australian students.** Montemar Summer School,
 :   *Theme:* Analyzing expression and cell origin using RNA-seq data.  
 :   *Funding:* travel grant of Boheringer Ingelheim Fonds.  
 :   *Time:* January to April.  
+
 2020: **University of Vigo (UVIGO)**, Vigo (Spain).  
 :   *Advisor:* Prof. David Posada.  
 :   *Theme:* Phylogenetic inference of mitogenomes, topology testing, dNdS per branch and time estimations.  
 :   *Time:* September to December.  
+
 2019: **National University of Ireland Galway (NUIG)**, Galway (Ireland).  
 :   *Advisor*: Prof. Mark Johnson.  
 :   *Theme:* Studying the clonal structure of contagious cancers in Irish cockles.  
 :   *Funding:* AssemblePlus (grant agreement no. 730984)  
 :   *Time:* March to April.  
+
 2018: **Pacific Northwest Research Institute (PNRI)**, Seattle (USA).  
 :   *Advisor*: PhD. Michael Metzger.  
 :   *Theme*: Gene editing of bivalve genomes using CRISPR.  
@@ -85,29 +89,15 @@ Summer 2012: **Camp Instructor of Australian students.** Montemar Summer School,
 
 Languages
 =======
-| Language | Level<sup>*</sup> | Certification/s |  
-| ------------- | ------------- | ------------- |  
-| **English** | C1 | IELTS certification in July 2021; CAE certification in December 2014 |  
-| **French** | B2 | DELF certification in May 2020 |  
-| **Galician** | C1 | Celga certification in July 2011 |  
-| **Spanish** | _native_ | _NA_ |  
+
+| Language | Level<sup>*</sup> | Certification/s |
+| ------------- | ------------- | ------------- | 
+| **English** | C1 | IELTS certification in July 2021; CAE certification in December 2014 |
+| **French** | B2 | DELF certification in May 2020 |
+| **Galician** | C1 | Celga certification in July 2011 |
+| **Spanish** | _native_ | _NA_ |
 
 <sup>*</sup>*According to The Common European Framework of Reference for Languages (A1/2 = Basic user; B1/2 = Independent user; C1/2 = Proficient user)*
-
----
-
-Awards and fellowships
-=======
-* 2021: **Travel grant**. Boheringer Ingelheim Fonds, Germany. 
-* 2019: **Best Scientific Panel Prize**. XXII Foro dos Recursos Mariños e da Acuicultura das Rías Galegas (ForoACUI), Spain. 
-* 2017: **EuroMarine Young Scientist Fellowship**. European Marine Research Network, Spain.
-* 2017: **Best Scientific Panel Prize**. XX Foro dos Recursos Mariños e da Acuicultura das Rías Galegas (ForoACUI), Spain. First place.
-* 2017: **National doctoral fellowship (2017-2021)**. Spanish Ministry of Economy, Industry and Competitivity (Ref. BES-2016-078166), Spain.
-* 2015: **National Speech Competition**: “Transmito, luego existo”. Finalist.
-* 2013: **Erasmus Scholarship**. Université Libre de Bruxelles, Belgium. One year to study abroad.
-* 2013: **Open Software Translation Award**. Engineering Technical Superior School of Universidade de Santiago de Compostela. First place.
-
-Full detailed list can be checked [here](https://albruzos.github.io/awards-grants/)
 
 ---
 
@@ -123,12 +113,6 @@ Professional Membership
 ======
 * 2019-present.	_Member and Ambassador_. [European Association for Cancer Research](https://www.eacr.org/) (EACR number: 28748) 
 * 2019-present.	_Member_. [Asociación Española de Investigación sobre el Cáncer](https://www.aseica.es) (ASEICA number: 1746) 
-
----
-
-Training and Certifications
-======
-Full list of trainings and certifications can be checked [here](https://albruzos.github.io/skills-certifications/).
 
 ---
 
