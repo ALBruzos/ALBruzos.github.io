@@ -57,7 +57,7 @@ Work experience
 
 Spring 2015: **Research Assitant** Ecology Department, [University of Santiago de Compostela](https://www.usc.es/gl), Spain.  
 Fall 2014: **Museum staff.** Environmental Interpretation Centre of Compostela, Spain.  
-Summer 2014: **Research Assitant** Evolutionary Biology and Ecology Department, [Université Libre de Bruxelles](https://www.ulb.be/en), Belgium.  
+Summer 2014: **Research Assistant** Evolutionary Biology and Ecology Department, [Université Libre de Bruxelles](https://www.ulb.be/en), Belgium.  
 Summer 2013: **Childminder of a French boy.** Aupair World Organization, France.  
 Summer 2012: **Camp Instructor of Australian students.** Montemar Summer School, Spain.  
 
@@ -97,7 +97,7 @@ Languages
 | **Galician** | C1 | Celga certification in July 2011 |
 | **Spanish** | _native_ | _NA_ |
 
-<sup>*</sup>*According to The Common European Framework of Reference for Languages (A1/2 = Basic user; B1/2 = Independent user; C1/2 = Proficient user)*
+<sup>According to The Common European Framework of Reference for Languages *(A1/2 = Basic user; B1/2 = Independent user; C1/2 = Proficient user)* </sup> 
 
 ---
 
