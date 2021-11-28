@@ -8,10 +8,10 @@ date: 2019-07-12
 location: "Santiago de Compostela, Spain"
 ---
 
-*Presenter:* Alicia L. Bruzos  
+*Speaker:* Alicia L. Bruzos  
 
 *Title:* Single-molecule sequencing of whole mitochondrial genomes reveals the clonal structure of cockle transmissible cancers.  
-*Authors* **Bruzos, A. L.**; Díaz, S.; Temes, J.; Rodríguez-Castro, J.; García-Souto, D.; Zamora, J.; Tubío, J.  
+*Authors:* **Bruzos, A. L.**; Díaz, S.; Temes, J.; Rodríguez-Castro, J.; García-Souto, D.; Zamora, J.; Tubío, J.  
 *Type:* Oral communication  
 *Conference:* II Annual CIMUS workshop.  
 *Location:* Santiago de Compostela (Spain).  
