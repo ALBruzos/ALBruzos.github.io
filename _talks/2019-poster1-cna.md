@@ -1,5 +1,5 @@
 ---
-title: "Germinoma en berberechos Cerastoderma edule de Dinamarca: caracterización histopatológica y genética"
+title: "Neoplasia diseminada en Venus verrucosa: ¿un nuevo caso de cáncer transmisible?"
 collection: talks
 type: "Poster"
 permalink: /talks/2019-poster1-cna
@@ -10,7 +10,7 @@ location: "Cartagena, Spain"
 
 *Presenter:* Seila Díaz Costas  
 
-*Title:* Germinoma en berberechos Cerastoderma edule de Dinamarca: caracterización histopatológica y genética.  
+*Title:* Neoplasia diseminada en Venus verrucosa: ¿un nuevo caso de cáncer transmisible?  
 *Authors* Díaz, S.; **Bruzos, A. L.**; García-Souto, D.; Román Lewis, C.; Rodríguez-Castro, J.; Tubío, J.  
 *Type:* Poster  
 *Conference:* XVII Congreso Nacional de Acuicultura  
