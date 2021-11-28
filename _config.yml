@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Alicia L. Bruzos"
   avatar           : "profile-AliciaLBruzos.jpg"
-  bio              : "Biologist and bioinformatician currently working on cancer genomics."
+  bio              : "Biologist and bioinformatician currently working on cancer genomics | Woman in STEM | 28 years old | Citizen of the world born in Spain"
   location         : "London, UK"
-  employer         : "The Francis Crick Institute"
+  employer         : #"The Francis Crick Institute"
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=alicia+l+bruzos"
   googlescholar    : "https://scholar.google.es/citations?user=YyKE8DIAAAAJ&hl=en&oi=ao"
   email            : "albruzos@gmail.com"
@@ -100,7 +100,7 @@ author:
   google_plus      :
   keybase          :
   instagram        : "https://www.instagram.com/alicialbruzos/"
-  impactstory      : "https://profiles.impactstory.org/u/0000-0003-4362-545X"
+  impactstory      : #"https://profiles.impactstory.org/u/0000-0003-4362-545X"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/alicialopezbruzos/"
   orcid            : "https://orcid.org/0000-0003-4362-545X"
