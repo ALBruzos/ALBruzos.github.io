@@ -2,7 +2,7 @@
 title: "Germinoma en berberechos Cerastoderma edule de Dinamarca: caracterización histopatológica y genética"
 collection: talks
 type: "Poster"
-permalink: /talks/2021-poster1-cna
+permalink: /talks/2019-poster1-cna
 venue: "XVII Congreso Nacional de Acuicultura"
 date: 2019-05-07
 location: "Cartagena, Spain"
