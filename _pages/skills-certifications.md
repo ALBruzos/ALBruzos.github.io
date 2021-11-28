@@ -4,11 +4,13 @@ permalink: /skills-certifications/
 author_profile: true
 ---
 
-> Think outside the square. Think for yourself, don’t just follow the herd. _Think multidisciplinary!_
-> Problems by definition cross many academic disciplines.
-> Lucas Remmerswaal
+**Skills**:  
+<img src='/images/skills-bruzos.png'>  
 
 **Training courses and certifications**:  
+> Think outside the square. Think for yourself, don’t just follow the herd. _Think multidisciplinary!_  
+> Problems by definition cross many academic disciplines.  
+> Lucas Remmerswaal  
 
 | Training | Institution | Country | Year |  
 | ------------- | ------------- | ------------- | ------------- |  
