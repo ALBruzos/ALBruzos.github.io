@@ -9,7 +9,6 @@ location: "Hinxton-Cambridge, United Kingdom"
 ---
 
 *Presenter:* Alicia L. Bruzos  
-[Watch Here](https://www.youtube.com/watch?v=LsZRQIJmw_o)  
 
 *Title:* Scuba Cancers: Finding the genetic causes of contagious metastases under the sea.  
 *Authors* **Bruzos, A. L.**; Díaz, S.; García-Souto, D.; Temes, J.; Zamora, J.; Tubío, J.  
