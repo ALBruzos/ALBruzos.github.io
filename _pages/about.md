@@ -16,7 +16,4 @@ I graduated in 2015 in _Biological Sciences_ from the [University of Santiago de
 
 **My field of expertise is cancer genomics and contagious metastasis with high-impact publications in the multidisciplinary journals of _Nature_, _Nature Genetics_ and _Nature Communications_.**  
 
-For more info
-------
-Explore my academic personal website and visit my social media profiles or email me!
-Beware that this site is under contruction!
+<mark>Beware that this site is under contruction!</mark>
