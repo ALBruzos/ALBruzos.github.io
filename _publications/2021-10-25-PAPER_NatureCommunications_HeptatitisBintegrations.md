@@ -9,6 +9,8 @@ paperurl: 'https://doi.org/10.1038/s41467-021-26805-8'
 citation: 'Álvarez, E. G. et al. (2021). &quot;Aberrant integration of Hepatitis B virus DNA promotes major restructuring of human hepatocellular carcinoma genome architecture.&quot; <i>Nature Communications</i>. 12:6910.'
 ---
 
+<img src='PAPER_NatureComms_screenshot.png' /> 
+
 **Alicia's Citation:**  
 Álvarez, E. G. et al. (includes Bruzos A.L.). 2021. "Aberrant integration of Hepatitis B virus DNA promotes major restructuring of human hepatocellular carcinoma genome architecture." <i>Nature Communications</i>, 12:6910.  IF(2020) = 14.92.
 
