@@ -3,9 +3,9 @@ title: "Scuba Cancers: Finding the genetic causes of contagious metastases under
 collection: talks
 type: "Oral communication"
 permalink: /talks/2019-talk-cambridge
-venue: "Evolution and Ecology of Cancer - Wellcome Genome Campus"
+venue: "Evolution and Ecology of Cancer"
 date: 2021-07-17
-location: "Hinxton-Cambridge, United Kingdom"
+location: "Hinxton-Cambridge, UK"
 ---
 
 *Speaker:* Alicia L. Bruzos  
