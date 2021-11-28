@@ -6,7 +6,7 @@ date: 2021-12-01
 permalink: /teaching/university-teaching
 ---
 
-**Total:** 82 hours *(updated Nov 2021)*
+**Total:** 82 hours
 
 | Academic Year  | Course | University | Degree | Hours | Language | Country |
 | ------------- | ------------- | ------------- |------------- |------------- | ------------- | ------------- |
