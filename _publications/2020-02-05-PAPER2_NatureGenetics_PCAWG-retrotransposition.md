@@ -9,6 +9,8 @@ paperurl: 'https://doi.org/10.1038/s41588-019-0562-0'
 citation: 'Rodriguez-Martin, B. et al. (2020). &quot;Pan-Cancer analysis of whole genomes identifies driver rearrangements promoted by LINE-1 retrotransposition.&quot; <i>Nature Genetics</i>. 52:306-319.'
 ---
 
+<img src='/files/papers/2020-02-05-PAPER2_NatureGenetics-screenshot.png' /> 
+
 **Alicia's Citation:**  
 Rodriguez-Martin, B. et al. (includes Bruzos A.L.). 2020. "Pan-Cancer analysis of whole genomes identifies driver rearrangements promoted by LINE-1 retrotransposition". <i>Nature Genetics</i>, 52:306-319. IF = 25.455.
 
