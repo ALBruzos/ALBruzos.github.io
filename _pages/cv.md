@@ -122,15 +122,19 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Conferences
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
+
+Number of talks: 14  
+Number of posters: 12  
+Number of awards: 3  
+
+Full detailed list can be checked [here](https://albruzos.github.io/talks/)  
+
+---
+
 Teaching and Mentoring Experience
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+
+Number of teaching hours: 82 [More info](https://albruzos.github.io/teaching/university-teaching)  
+Number of supervised students: 4 [More info](https://albruzos.github.io/teaching/supervision)      
