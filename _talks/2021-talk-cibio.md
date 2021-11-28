@@ -8,7 +8,7 @@ date: 2021-04-16
 location: "Porto, Portugal"
 ---
 
-*Presenter:* Alicia L. Bruzos  
+*Speaker:* Alicia L. Bruzos  
 [Watch Here](https://www.youtube.com/watch?v=fQyKsSLm-rY)  
 
 *Title:* Unravelling the genetic story of marine contagious metastases. 
