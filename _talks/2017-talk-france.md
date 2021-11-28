@@ -8,7 +8,7 @@ date: 2017-05-01
 location: "Bannyuls-sur-mer, France"
 ---
 
-*Presenter:* Alicia L. Bruzos  
+*Speaker:* Alicia L. Bruzos  
 
 *Title:* Finding the genetic causes of contagious metastases under the sea.  
 *Authors:* **Bruzos, A. L.**; Tubío, J.  
