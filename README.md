@@ -1,1 +1,2 @@
-Welcome to the CV of Alicia L. Bruzos.
+### Welcome!  
+Visit [albruzos.github.io](https://albruzos.github.io/)!
