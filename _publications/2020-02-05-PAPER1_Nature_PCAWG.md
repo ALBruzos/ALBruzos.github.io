@@ -9,7 +9,6 @@ paperurl: 'https://doi.org/10.1038/s41586-020-1969-6'
 citation: 'The ICGC/TCGA Pan-Cancer Analysis of Whole Genomes Consortium. (2020). &quot;Pan-Cancer analysis of whole genomes.&quot; <i>Nature</i>. 578:82-93.'
 ---
 
-<img src='/files/papers/2020-02-05-PAPER_NatureCover_PCAWG.jpg'>  
 
 **Alicia's Citation:**  
 The ICGC/TCGA Pan-Cancer Analysis of Whole Genomes Consortium (includes Bruzos A.L.). 2020. "Pan-Cancer analysis of whole genomes". <i>Nature</i>, 578:82-93. IF = 43.070.  
@@ -27,3 +26,7 @@ Visit online version: [doi.org/**10.1038/s41586-020-1969-6**](https://doi.org/10
 Received: 29 July 2018  
 Accepted: 11 December 2019  
 Published: 05 February 2020  
+
+**Journal cover:**  
+<img src='/files/papers/2020-02-05-PAPER_NatureCover_PCAWG.jpg'>  
+
