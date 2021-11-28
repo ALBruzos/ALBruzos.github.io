@@ -37,11 +37,13 @@ Education
 
 Work experience
 =======
+
 **CURRENT POSITION**  
 2021 – 	2024:	**Postdoctoral researcher.**  
 :   *Institution:* [The Francis Crick Institute](https://www.crick.ac.uk/) and [University College of London](https://www.ucl.ac.uk/), United Kingdom.  
 :   *Duties:* bioinformatics postdoc  
 :   *Supervisor/s:* Veronica Kinsler  
+
 
 
 **PREVIOUS POSITIONS**  
