@@ -8,10 +8,10 @@ date: 2021-05-27
 location: "Santiago de Compostela, Spain"
 ---
 
-*Presenter:* Alicia L. Bruzos  
+*Speaker:* Alicia L. Bruzos  
 
 *Title:* Multiple cancer clones metastasize the Atlantic Coast of Europe.  
-*Authors* **Bruzos, A. L.**; Díaz, S.; García-Souto, D.; Rocha, S; Temes, J; Zamora, J; Rodríguez-Castro, J.; Posada, D; Tubío, J. 
+*Authors:* **Bruzos, A. L.**; Díaz, S.; García-Souto, D.; Rocha, S; Temes, J; Zamora, J; Rodríguez-Castro, J.; Posada, D; Tubío, J. 
 *Type:* Oral communication  
 *Conference:* VIII Young Researchers Meeting.  
 *Location:* Universidade de Santiago de Compostela, virtual edition (Spain).  
