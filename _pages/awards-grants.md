@@ -13,6 +13,9 @@ author_profile: true
 * 2007: **Ourol Litterary Competition**. Concello de Ourol. _Second place._
 * 2006: **Drawing Christmas**. Xermolos Association. _Second place._
 * 2004: **Terra Chá Competition**. Concello de Ourol. _Poetry Prize._
+
+<img src='/images/Tira_FotosPremios_AliciaLBruzos.png'>  
+
 > Winning an award is always a special moment.
 > _Ravi Kishan_
 
