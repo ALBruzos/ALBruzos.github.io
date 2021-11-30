@@ -8,6 +8,7 @@ permalink: /teaching/supervision
 
 **Total**: 2 Bachelor Thesis, 1 Master Thesis, 1 PhD Thesis (ongoing)
 
+
 | Academic Year  | Title | Student | Supervisors | Degree | Type | University | Country | Language |
 | ------------- | ------------- | ------------- |------------- |------------- | ------------- | ------------- | ------------- | ------------- |
 | 2021/2024<sup>expected</sup> | *TBA* | Pauline Bourigault | Alicia L. Bruzos (subsidiary), Veronica Kinsler (principal) | Institute of Child Health | PhD Thesis | University College of London | United Kingdom | English |  
@@ -17,3 +18,6 @@ permalink: /teaching/supervision
 
 
 <sup>*</sup>Awarded for linguistic quality by the USC Language Normalization Service in the category of sciences.  
+
+
+<img src='/images/Tira_FotosTeaching-noNames_AliciaLBruzos.png'>  
