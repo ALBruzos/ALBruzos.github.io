@@ -17,3 +17,4 @@ permalink: /teaching/university-teaching
 | 2018/2019 | Genetics II |  Universidade de Santiago de Compostela | BSc. in Biology | 16 | Spanish | Spain |
 | 2017/2018 | Genetics II |  Universidade de Vigo | BSc. in Biology | 3 | English | Spain |
 
+<img src='/images/Tira_FotosTeaching-noNames_AliciaLBruzos.png'>  
