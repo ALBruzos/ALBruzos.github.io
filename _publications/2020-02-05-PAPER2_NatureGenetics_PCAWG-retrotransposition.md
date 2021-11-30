@@ -25,3 +25,8 @@ Visit online version: [doi.org/**10.1038/s41588-019-0562-0**](https://doi.org/10
 Received: 21 September 2017  
 Accepted: 26 November 2019  
 Published: 05 February 2020   
+
+
+**Journal cover:**  
+<img src='/files/papers/2020-02-05-PAPER2_NatureGeneticsCover.jpg' width="526" height="659" />  
+
