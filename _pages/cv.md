@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-#<img src='/images/1_TiraFotosPhD-AliciaLBruzos.png'>  
+<img src='/images/1_TiraFotosPhD-AliciaLBruzos.png'>  
 
 Education
 =======
