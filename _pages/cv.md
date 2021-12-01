@@ -7,6 +7,9 @@ redirect_from:
   - /resume
 ---
 
+
+#<img src='/images/1_TiraFotosPhD-AliciaLBruzos.png'>  
+
 Education
 =======
 **PhD. in Molecular Medicine**, Universidade de Santiago de Compostela: [CiMUS](https://www.usc.es/cimus/en) institute, Spain.  
