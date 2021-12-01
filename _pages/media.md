@@ -8,6 +8,8 @@ author_profile: true
 **Watch out!** I am <u>always available to talk to media about my research</u>. Do not hesitate on contacting me at **albruzos@gmail.com**!
 {: .notice}
 
+<img src='/images/TiraFotos_1_media_AliciaLBruzos.png'>  
+
 
 TV
 ====
