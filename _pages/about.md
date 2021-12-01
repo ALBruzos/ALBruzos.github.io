@@ -14,7 +14,7 @@ Postdoctoral researcher currently working at [The Francis Crick Institute](https
 
 <img src='/images/TiraFotos_cientifica-col_AliciaLBruzos.png'>  
 
-I truly believe in work/play balance and that’s what I try hard to achieve. I love travelling everywhere and anywhere because so, I have visited more countries than years old I am. During my spare time, as I cannot be travelling all the time, I enjoy watching films and series or hiking with my friends and my dog Murphy. I am both a mountain and sea lover.  
+I love science but truly believe in work/play balance and that’s what I try hard to achieve. I also love travelling everywhere and anywhere and, in fact, I have visited more countries than years old I am. As I cannot be travelling all the time, I enjoy watching series or hiking with my friends and my dog Murphy during my spare time. I am both a mountain and sea soul.  
 
 **Personal interests:** `Photography` - `Travelling` - `Movies` - `Tea` - `Graphical Design` - `Surf & Dive` - `Music` - `Science` - `Cultural Exchange` - `Nature` - `Gastronomy` -  `Hiking`  
 
