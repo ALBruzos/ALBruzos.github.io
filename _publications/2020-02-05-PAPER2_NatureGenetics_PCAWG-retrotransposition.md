@@ -19,7 +19,7 @@ Here we identify a new mutational mechanism in cancer by with aberrant integrati
 
 **More information:**  
 Visit online version: [doi.org/**10.1038/s41588-019-0562-0**](https://doi.org/10.1038/s41588-019-0562-0)  
-[Download paper here](https://ALBruzos.github.io/files/2020-02-05-PAPER_NatureGenetics_PCAWG-retrotransposition.pdf)
+[Download paper here](https://ALBruzos.github.io/files/papers/2020-02-05-PAPER_NatureGenetics_PCAWG-retrotransposition.pdf)
 
 **Peer-review process:**  
 Received: 21 September 2017  
