@@ -19,7 +19,7 @@ The flagship of the ICGC/TCGA Pan-Cancer Analysis of Whole Genomes Consortium th
 
 **More information:**  
 Visit online version: [doi.org/**10.1038/s41586-020-1969-6**](https://doi.org/10.1038/s41586-020-1969-6)  
-[Download PDF paper here](https://ALBruzos.github.io/files/2020-02-05-PAPER_Nature_PCAWG.pdf)  
+[Download PDF paper here](https://ALBruzos.github.io/files/papers/2020-02-05-PAPER_Nature_PCAWG.pdf)  
 
 **Peer-review process:**  
 Received: 29 July 2018  
