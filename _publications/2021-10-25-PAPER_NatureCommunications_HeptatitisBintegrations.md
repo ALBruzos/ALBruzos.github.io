@@ -19,7 +19,7 @@ Here, we identify and characterize a remarkable mutational mechanism in human he
 
 **More information:**  
 Visit online version: [doi.org/**10.1038/s41467-021-26805-8**](https://doi.org/10.1038/s41467-021-26805-8)  
-[Download PDF here](https://ALBruzos.github.io/files/2021-10-25-PAPER_NatureCommunications_HeptatitisBintegrations.pdf)
+[Download PDF here](https://ALBruzos.github.io/files/papers/2021-10-25-PAPER_NatureCommunications_HeptatitisBintegrations.pdf)
 
 **Peer-review process:**  
 Received: 08 April 2021  
