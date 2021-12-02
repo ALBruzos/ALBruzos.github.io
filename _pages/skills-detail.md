@@ -1,6 +1,7 @@
 ---
 title: "Skills of Alicia in more detail..."
-permalink: /skills/skills-detail/
+permalink: /skills-detail/
+author_profile: true
 ---
 
 **Research and Analysis**. My training and broad experience in international institutions has equipped me with skills that allow me to analyse and interpret a wide range of data and present results in an easy-to-digest format. Aside from my bioinformatic skills, my field and molecular laboratory experience give me a comprenhensive overview of multidisciplinary projects.
