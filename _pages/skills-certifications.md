@@ -24,3 +24,6 @@ author_profile: true
 
 ### UNDER CONSTRUCTION
 STAY TUNED FOR FUTURE UPDATES...
+
+
+[Back to CV](https://albruzos.github.io/cv/)
