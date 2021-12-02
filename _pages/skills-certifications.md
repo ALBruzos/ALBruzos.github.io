@@ -6,7 +6,7 @@ author_profile: true
 
 ## Skills  
 <img src='/images/skills-bruzos.png'>  
-[More details here](https://albruzos.github.io/_skills/skills-detail/)
+[More details here](https://albruzos.github.io/skills-detail/)
 
 
 
