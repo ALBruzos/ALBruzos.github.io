@@ -17,3 +17,7 @@ author_profile: true
 **Communication and Teaching**. I have learnt to adapt my wrting/speaking style to appropiate contexts and audience levels. The most obvious example is my authorships of academic publications opposed to my participation in different outreach activities. I had also got some experience teaching at university level and found that a very rewarding experience getting positive feedback emails from students.
 
 <img src='/images/skills-bruzos.png'>  
+
+
+[Back to Skills & Trainings & Certifications](https://albruzos.github.io/skills-certifications/)   
+[Back to CV](https://albruzos.github.io/cv/)
