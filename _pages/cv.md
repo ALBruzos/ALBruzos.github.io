@@ -143,3 +143,10 @@ Teaching and Mentoring Experience
 
 Number of teaching hours: 82 [More info](https://albruzos.github.io/teaching/university-teaching)  
 Number of supervised students: 4 [More info](https://albruzos.github.io/teaching/supervision)      
+
+---
+
+Skills, trainings courses and certifications
+======
+
+[Full section](https://albruzos.github.io/skills-certifications/)
