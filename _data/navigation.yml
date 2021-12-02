@@ -15,8 +15,8 @@ main:
   - title: "Conferences"
     url: /talks/    
 
-  - title: "Skills"
-    url: /skills-certifications/
+  #- title: "Skills"
+   # url: /skills-certifications/
     
   - title: "Outreach"
     url: /outreach/
