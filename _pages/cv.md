@@ -118,6 +118,9 @@ Professional Membership
 ======
 * 2019-present.	_Member and Ambassador_. [European Association for Cancer Research](https://www.eacr.org/) (EACR number: 28748) 
 * 2019-present.	_Member_. [Asociación Española de Investigación sobre el Cáncer](https://www.aseica.es) (ASEICA number: 1746) 
+* 2020-present.	_Member_. [Confederación Intersindical Galega](https://www.cig.gal/) (Labor union in my region of origin) 
+* 2021-present.	_Member_. [The Spanish Society for Biochemistry and Molecular Biology](https://sebbm.es/) (Proposing partner: [Dr. María Mayán](http://www.inibic.es/portfolio-items/cellcom/)) 
+* 2021-present.	_Member_. [Society of Spanish Researchers in the United Kingdom](https://sruk.org.uk/)  
 
 ---
 
