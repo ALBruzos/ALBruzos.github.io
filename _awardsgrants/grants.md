@@ -13,3 +13,5 @@ collection: awardsgrants
 
 
 <img src='/images/Logos-grants_v1.png'>  
+
+[Back to CV](https://albruzos.github.io/cv/)
