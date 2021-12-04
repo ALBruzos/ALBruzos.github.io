@@ -181,7 +181,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  media:
+  awardsgrants:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -191,15 +191,15 @@ collections:
 
 # Defaults
 defaults:
-  # _posts
+  # _awardsgrants
   - scope:
       path: ""
-      type: posts
+      type: awardsgrants
     values:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
+      comments: false
       share: true
       related: true
   # _pages
