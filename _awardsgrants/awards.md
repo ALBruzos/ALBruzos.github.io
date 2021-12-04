@@ -18,3 +18,5 @@ Throught my life, I have been awarded with several prizes of literary and scient
 
 > Winning an award is always a special moment.
 > _Ravi Kishan_
+
+[Back to CV](https://albruzos.github.io/cv/)
