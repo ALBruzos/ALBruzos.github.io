@@ -130,7 +130,6 @@ Research and Academia
   {% endfor %}</ul>
   
 #### Conferences
-======
 
 Number of talks: 14  
 Number of posters: 12  
@@ -138,14 +137,12 @@ Number of awards: 3
 
 Full detailed list can be checked [here](https://albruzos.github.io/talks/)  
 
-Teaching and Mentoring Experience
-======
+#### Teaching and Mentoring Experience
 
 Number of teaching hours: 82 [More info](https://albruzos.github.io/teaching/university-teaching)  
 Number of supervised students: 4 [More info](https://albruzos.github.io/teaching/supervision)      
 
-Skills, trainings courses and certifications
-======
+#### Skills, trainings courses and certifications
 
 Full detailed list can be checked [here](https://albruzos.github.io/skills-certifications/)
 
