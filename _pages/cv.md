@@ -38,6 +38,16 @@ Education
 :   *2002 – 2008*  
 :   Two specializations: Traverse Flute _(2002-2006)_ and Piano _(2005-2008)_.  
 
+###### Languages
+| Language | Level<sup>*</sup> | Certification/s |
+| ------------- | ------------- | ------------- | 
+| **English** | C1 | IELTS certification in July 2021; CAE certification in December 2014 |
+| **French** | B2 | DELF certification in May 2020 |
+| **Galician** | C1 | Celga certification in July 2011 |
+| **Spanish** | _native_ | _NA_ |
+
+<sup>According to The Common European Framework of Reference for Languages *(A1/2 = Basic user; B1/2 = Independent user; C1/2 = Proficient user)* </sup> 
+
 ---
 
 Work experience
@@ -94,30 +104,16 @@ _Summer 2012:_ **Camp Instructor of Australian students.** Montemar Summer Schoo
 
 ---
 
-Languages
-=======
-
-| Language | Level<sup>*</sup> | Certification/s |
-| ------------- | ------------- | ------------- | 
-| **English** | C1 | IELTS certification in July 2021; CAE certification in December 2014 |
-| **French** | B2 | DELF certification in May 2020 |
-| **Galician** | C1 | Celga certification in July 2011 |
-| **Spanish** | _native_ | _NA_ |
-
-<sup>According to The Common European Framework of Reference for Languages *(A1/2 = Basic user; B1/2 = Independent user; C1/2 = Proficient user)* </sup> 
-
----
-
-Service
+Institutional citizenship
 ======
+
+###### Service
 * 26-28/05/2021: _Conference organization_. Member of the organizing and scientific committee for the **VIII Youth Researchers Meeting** in Santiago de Compostela (Spain) with 300 attendees. The programme comprised three plenary talks, three parallel sessions gathering 135 short oral communications and exhibited 67 posters. Repetida en sección congresos!!!
 * 2021 – 2022: _PhD alumni representative_. Spokeswoman of doctoral students on the **International Doctoral School Direction Committee** (EDIUS). Universidade de Santiago de Compostela, Spain.
 * 2017 – 2018: _PhD alumni representative_. Spokeswoman of doctoral students on the **International Doctoral School Committee** (EIDO) and representative of the Quality Commission of the same body. Universidade de Vigo, Spain.
 * 2016 – 2018: _Consortium secretariat_. Secretary of the **International Common Cockle Genome Consortium** (ICCGC). Three face-to-face symposiums were organized to address the goals of building a reference genome for the cockle species. 
 
-
-Professional Membership
-======
+###### Professional Membership
 * 2019-present.	[European Association for Cancer Research (EACR)](https://www.eacr.org/) (_Member and Ambassador_; number: 28748) 
 * 2019-present.	[Asociación Española de Investigación sobre el Cáncer (ASEICA)](https://www.aseica.es) (_Member_; number: 1746) 
 * 2020-present.	[Confederación Intersindical Galega (CIG)](https://www.cig.gal/) (_Member_ of this labor union in my region of origin) 
