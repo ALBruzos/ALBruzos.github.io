@@ -32,7 +32,7 @@ Education
 **Science and Technology Baccalaureate (LOE) and University Access Test (PAU)**, IES Vilar Ponte, Spain.  
 :   *2009 – 2011*  
 :   Average mark in high school: 9,0/10  
-:   Results of University Access Test: 11,39/14  
+:   University Access Test: 11,39/14  
 
 **Musical Elementary Degree.** Professional Conservatory of Music in Viveiro, Spain.  
 :   *2002 – 2008*  
