@@ -4,6 +4,9 @@ permalink: /awards-grants/
 author_profile: true
 ---
 
+{% for post in site.portfolio %}
+  {% include archive-single.html %}
+{% endfor %}
 
 ## Awards
 * 2019: **Best Scientific Panel Prize**. XXII Foro dos Recursos Mariños e da Acuicultura das Rías Galegas (ForoACUI), Spain. _First and second place with two posters._
