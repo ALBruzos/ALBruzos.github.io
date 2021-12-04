@@ -18,3 +18,5 @@ permalink: /teaching/university-teaching
 | 2017/2018 | Genetics II |  Universidade de Vigo | BSc. in Biology | 3 | English | Spain |
 
 <img src='/images/Tira_FotosTeaching-noNames_AliciaLBruzos.png'>  
+
+[Back to CV](https://albruzos.github.io/cv/)
