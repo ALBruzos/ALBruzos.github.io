@@ -147,8 +147,6 @@ Awards
 1 drawing prize
 [More info](https://albruzos.github.io/awardsgrants/awards/)
 
----
-
 Grants and Fellowships
 ======
 2 grants
@@ -157,6 +155,7 @@ Grants and Fellowships
 [More info](https://albruzos.github.io/awardsgrants/grants/)
 
 ---
+
 Teaching and Mentoring Experience
 ======
 
@@ -170,5 +169,6 @@ Skills, trainings courses and certifications
 
 [Full section](https://albruzos.github.io/skills-certifications/)
 
+---
 
 {% include toc %}
