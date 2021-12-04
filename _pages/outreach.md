@@ -33,3 +33,6 @@ author_profile: true
 **2018**  
 * **Institutional blog article**. *“Cáncer transmisible de bivalvos para desentrañar la evolución del cáncer.”* Océano Ecimat. [Read Here](https://oceanoecimat.wordpress.com/2018/05/11/cancer-transmisible-de-bivalvos-para-desentranar-la-evolucion-del-cancer/)
 * **Science outreach talk**. *“Unravelling cancer evolution using cockles”* Café con Sal (Vigo, Spain). Announcement in the news, [click here](http://www.ipacuicultura.com/noticias/ultima_hora/62069/el_ciclo_de_conferencias_de_cafe_con_sal_de_la_ecimat_aborda_como_los_berberechos_pueden_ayudar_a_desentranar_la_evolucion_del_cancer.html).
+
+
+[Back to CV](https://albruzos.github.io/cv/)
