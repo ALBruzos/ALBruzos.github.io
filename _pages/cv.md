@@ -168,5 +168,5 @@ Grants and Fellowships
 Contact
 ======
 
-[About Me](https://albruzos.github.io/) - [Contact Me](https://albruzos.github.io/contact)
+[Get in touch with me](https://albruzos.github.io/contact) - [About Me](https://albruzos.github.io/) 
 
