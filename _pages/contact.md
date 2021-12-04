@@ -20,5 +20,6 @@ albruzos@gmail.com
 alicia.bruzos@crick.ac.uk  
 
 ### Follow me!
-Twitter: [@BruzosAliciaL](https://twitter.com/BruzosAliciaL)
-LinkedIn: [In](https://www.linkedin.com/in/alicialopezbruzos)
+Twitter: [@BruzosAliciaL](https://twitter.com/BruzosAliciaL)  
+[LinkedIn](https://www.linkedin.com/in/alicialopezbruzos)  
+[ResearchGate](https://www.researchgate.net/profile/Alicia-Bruzos)
