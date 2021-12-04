@@ -2,6 +2,8 @@
 title: "Skills, trainings courses and certifications"
 permalink: /skills-certifications/
 author_profile: true
+redirect_from: 
+  - "/sk/"
 ---
 
 ## Skills  
