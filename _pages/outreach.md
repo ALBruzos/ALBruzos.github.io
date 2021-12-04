@@ -26,9 +26,10 @@ author_profile: true
 * **Popular science article**. *“Las claves de las metástasis enterradas en la arena.”* Encuentros en la Biología 169: 5–7. ISBN 2254-0296. [Download here](https://albruzos.github.io/files/outreach_2019-EncuentrosEnLaBiologia.pdf)
 * **Open doors day**. Participation as an *instructor* in workshops, conferences and debates for kids and adults in the event Ciencia Sigular of CiMUS (Santiago de Compostela, Spain).
 * **Research video**. ASEICA PhD video competition. Youth scientists talk about their *research in three minutes*, I reached more than 11,600 views in Twitter. [Watch it here](www.twitter.com/BruzosAliciaL/status/1196606566365089792)
-* **Science outreach talk**. *“Understanding metastasis through transmissible cancers”* Happy Fridays (Santiago de Compostela, Spain).
+* **Podcasting**. Realization and production team of the [CIMUSpodcast](https://www.ivoox.com/podcast-cimus-podcast_sq_f1817120_1.html) that was born with the purpose of getting the research carried out at CiMUS to other researchers, students and people not related to the scientific field. [Episode 1](https://www.ivoox.com/capitulo-1-autismo-audios-mp3_rf_45092632_1.html) [Episode 2](https://www.ivoox.com/capitulo-2-cancer-audios-mp3_rf_47395915_1.html)   
+* **Science outreach talk**. *“Understanding metastasis through transmissible cancers”* [Happy Fridays](https://www.usc.es/cimus/es/HappyFridaysMay24) (Santiago de Compostela, Spain).
 * **Workshop for children**. *Monitor* of activities for pupils aged 8-10 organized for 9 primary-school classes in the *International DNA Day* (Colegio Compañía de María, Santiago de Compostela, Spain).
 
 **2018**  
 * **Institutional blog article**. *“Cáncer transmisible de bivalvos para desentrañar la evolución del cáncer.”* Océano Ecimat. [Read Here](https://oceanoecimat.wordpress.com/2018/05/11/cancer-transmisible-de-bivalvos-para-desentranar-la-evolucion-del-cancer/)
-* **Science outreach talk**. *“Unravelling cancer evolution using cockles”* Café con Sal (Vigo, Spain).
+* **Science outreach talk**. *“Unravelling cancer evolution using cockles”* Café con Sal (Vigo, Spain). Announcement in the news, [click here](http://www.ipacuicultura.com/noticias/ultima_hora/62069/el_ciclo_de_conferencias_de_cafe_con_sal_de_la_ecimat_aborda_como_los_berberechos_pueden_ayudar_a_desentranar_la_evolucion_del_cancer.html).
