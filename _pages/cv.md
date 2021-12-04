@@ -143,7 +143,7 @@ Number of teaching hours: 82 [More info](https://albruzos.github.io/teaching/uni
 Number of outreach activities: 17 [More info](https://albruzos.github.io/outreach/)  
 Number of interviews: 9 [More info](https://albruzos.github.io/media/)  
 
-### Skills, trainings courses and certifications
+### Skills, training courses and certifications
 
 Full detailed list can be checked [here](https://albruzos.github.io/skills-certifications/)
 
