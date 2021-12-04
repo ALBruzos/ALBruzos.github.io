@@ -35,3 +35,4 @@ Social networks
 **TWITCH**. Interview for the show **Ciencia e tal**, a programme that gives insights into the latest scientific research that is being done *(31/08/2021)* [Watch it here](https://www.youtube.com/watch?v=ySERdYkGR1A)  
 
 
+[Back to CV](https://albruzos.github.io/cv/)
