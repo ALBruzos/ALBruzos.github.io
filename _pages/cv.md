@@ -141,6 +141,23 @@ Full detailed list can be checked [here](https://albruzos.github.io/talks/)
 
 ---
 
+Awards
+======
+4 scientific prizes
+2 litterary prizes
+1 drawing prize
+[More info](https://albruzos.github.io/awardsgrants/awards/)
+
+---
+
+Grants and Fellowships
+======
+2 grants
+2 fellowships
+2 scholarships 
+[More info](https://albruzos.github.io/awardsgrants/grants/)
+
+---
 Teaching and Mentoring Experience
 ======
 
