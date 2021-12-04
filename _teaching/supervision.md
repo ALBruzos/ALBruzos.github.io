@@ -21,3 +21,6 @@ permalink: /teaching/supervision
 
 
 <img src='/images/Tira_FotosTeaching-noNames_AliciaLBruzos.png'>  
+
+
+[Back to CV](https://albruzos.github.io/cv/)
