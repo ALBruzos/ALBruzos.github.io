@@ -7,10 +7,9 @@ redirect_from:
   - "/email/"
 ---
 
-The Francis Crick Institute
-1 Midland Road
-London NW1 1AT
-United Kingdom
+The Francis Crick Institute  
+1 Midland Road  
+London NW1 1AT  
+United Kingdom  
 
-albruzos[at]gmail.com
-alicia.bruzos@crick.ac.uk
+albruzos@gmail.com _or_ alicia.bruzos@crick.ac.uk  
