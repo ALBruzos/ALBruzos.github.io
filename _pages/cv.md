@@ -172,6 +172,7 @@ Skills, trainings courses and certifications
 ---
 
 [About Me](https://albruzos.github.io/)
+
 [Contact Me](https://albruzos.github.io/contact)
 
 {% include toc %}
