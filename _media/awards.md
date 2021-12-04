@@ -4,7 +4,7 @@ excerpt: "Winning an award is always a special moment. <br/><img src='/images/Ti
 collection: awards-grants
 ---
 
-Throught my life, I have been awarded with several prizes including litterature and scientific recognitions.
+Throught my life, I have been awarded with several prizes including litterary and scientific recognitions.
 
 * 2019: **Best Scientific Panel Prize**. XXII Foro dos Recursos Mariños e da Acuicultura das Rías Galegas (ForoACUI), Spain. _First and second place with two posters._
 * 2017: **Best Scientific Panel Prize**. XX Foro dos Recursos Mariños e da Acuicultura das Rías Galegas (ForoACUI), Spain. _First place._
