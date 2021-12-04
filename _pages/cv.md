@@ -39,6 +39,7 @@ Education
 :   Two specializations: Traverse Flute _(2002-2006)_ and Piano _(2005-2008)_.  
 
 ###### Languages
+
 | Language | Level<sup>*</sup> | Certification/s |
 | ------------- | ------------- | ------------- | 
 | **English** | C1 | IELTS certification in July 2021; CAE certification in December 2014 |
@@ -53,15 +54,13 @@ Education
 Work experience
 =======
 
-**CURRENT POSITION**  
+###### CURRENT POSITION
 _2021_ – 	    :	**Postdoctoral researcher.**  
 :   *Institution:* [The Francis Crick Institute](https://www.crick.ac.uk/) and [University College of London](https://www.ucl.ac.uk/), United Kingdom.  
 :   *Duties:* bioinformatics postdoc  
 :   *Supervisor/s:* Veronica Kinsler  
 
-
-
-**PREVIOUS POSITIONS**  
+###### PREVIOUS POSITIONS
 _2018 – 2021:_ **Predoctoral researcher.**  
 :   *Institution:* [University of Santiago de Compostela](https://www.usc.es/gl), Spain.  
 :   *Duties:* continuation of doctoral studies  
@@ -78,7 +77,7 @@ _Summer 2014:_ **Research Assistant** Evolutionary Biology and Ecology Departmen
 _Summer 2013:_ **Childminder of a French boy.** Aupair World Organization, France.  
 _Summer 2012:_ **Camp Instructor of Australian students.** Montemar Summer School, Spain.  
 
-**RESEARCH STAYS AS VISITING SCIENTIST**  
+###### RESEARCH STAYS AS VISITING SCIENTIST
 2021: **Korea Advance Institute of Science and Technology (KAIST)**, Daejeon (South Korea).  
 :   *Advisor:* Prof. Young Seok Ju.  
 :   *Theme:* Analyzing expression and cell origin using RNA-seq data.  
@@ -122,13 +121,15 @@ Institutional citizenship
 
 ---
 
-Publications
+Research and Academia
 ======
+
+###### Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Conferences
+###### Conferences
 ======
 
 Number of talks: 14  
@@ -136,6 +137,17 @@ Number of posters: 12
 Number of awards: 3  
 
 Full detailed list can be checked [here](https://albruzos.github.io/talks/)  
+
+Teaching and Mentoring Experience
+======
+
+Number of teaching hours: 82 [More info](https://albruzos.github.io/teaching/university-teaching)  
+Number of supervised students: 4 [More info](https://albruzos.github.io/teaching/supervision)      
+
+Skills, trainings courses and certifications
+======
+
+Full detailed list can be checked [here](https://albruzos.github.io/skills-certifications/)
 
 ---
 
@@ -152,21 +164,6 @@ Grants and Fellowships
 2 fellowships  
 2 scholarships  
 [More info](https://albruzos.github.io/awardsgrants/grants/)
-
----
-
-Teaching and Mentoring Experience
-======
-
-Number of teaching hours: 82 [More info](https://albruzos.github.io/teaching/university-teaching)  
-Number of supervised students: 4 [More info](https://albruzos.github.io/teaching/supervision)      
-
----
-
-Skills, trainings courses and certifications
-======
-
-Full detailed list can be checked [here](https://albruzos.github.io/skills-certifications/)
 
 ---
 
