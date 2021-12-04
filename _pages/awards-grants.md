@@ -4,6 +4,6 @@ permalink: /awards-grants/
 author_profile: true
 ---
 
-{% for post in site.media %}
+{% for post in site.awards-grants %}
   {% include archive-single.html %}
 {% endfor %}
