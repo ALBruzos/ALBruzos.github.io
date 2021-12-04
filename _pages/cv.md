@@ -7,7 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include toc %}
 <img src='/images/1_TiraFotosPhD-AliciaLBruzos.png'>  
 
 Education
@@ -170,3 +169,6 @@ Skills, trainings courses and certifications
 ======
 
 [Full section](https://albruzos.github.io/skills-certifications/)
+
+
+{% include toc %}
