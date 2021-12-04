@@ -7,6 +7,9 @@ redirect_from:
   - /resume
 ---
 
+
+{% include toc %}
+
 <img src='/images/1_TiraFotosPhD-AliciaLBruzos.png'>  
 
 Education
@@ -171,6 +174,8 @@ Full detailed list can be checked [here](https://albruzos.github.io/skills-certi
 
 ---
 
+Contact
+======
+
 [About Me](https://albruzos.github.io/) - [Contact Me](https://albruzos.github.io/contact)
 
-{% include toc %}
