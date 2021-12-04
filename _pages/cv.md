@@ -142,16 +142,16 @@ Full detailed list can be checked [here](https://albruzos.github.io/talks/)
 
 Awards
 ======
-4 scientific prizes
-2 litterary prizes
-1 drawing prize
+4 scientific prizes  
+2 litterary prizes  
+1 drawing prize  
 [More info](https://albruzos.github.io/awardsgrants/awards/)
 
 Grants and Fellowships
 ======
-2 grants
-2 fellowships
-2 scholarships 
+2 grants  
+2 fellowships  
+2 scholarships  
 [More info](https://albruzos.github.io/awardsgrants/grants/)
 
 ---
@@ -167,12 +167,10 @@ Number of supervised students: 4 [More info](https://albruzos.github.io/teaching
 Skills, trainings courses and certifications
 ======
 
-[Full section](https://albruzos.github.io/skills-certifications/)
+Full detailed list can be checked [here](https://albruzos.github.io/skills-certifications/)
 
 ---
 
-[About Me](https://albruzos.github.io/)
-
-[Contact Me](https://albruzos.github.io/contact)
+[About Me](https://albruzos.github.io/) - [Contact Me](https://albruzos.github.io/contact)
 
 {% include toc %}
