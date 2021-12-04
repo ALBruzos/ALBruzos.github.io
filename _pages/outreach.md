@@ -11,6 +11,7 @@ author_profile: true
 
 **2021**  
 * **Women in STEM**. Acland Burghley School (London, UK). School’s networking event for Year 9 female students.
+* **Popular science article**. Overview about cancers that can be contagious. Article entitled *“El cáncer se puede contagiar (al menos en animales)”* published in [The Conversation](https://theconversation.com/es)(open access news source). [Read Here](https://theconversation.com/el-cancer-se-puede-contagiar-al-menos-en-animales-163529)
 * **Children’s colouring science book**. The project *Scientists Meet the Artists* joined 12 scientists and 12 illustrators to design a series of drawings for children to colour and learn marine scientific concepts. The book was presented on the *World Oceans Day* (June 8th). [Download here](https://albruzos.github.io/files/outreach_2021-ScientistsMeetArtists.pdf)
 * **High school talk**. Semana de orientación laboral. One hour talking with high school students about their career orientation focusing on STEM and particularly in biology, biotechnology, and biochemistry. Given at Colegio M. Peleteiro (Santiago de Compostela, Spain). 
 * **Women in Science talk**. *Conócelas-ASEICA*. A project to encourage girls to study STEM organized by the [Spanish Association of Cancer Research](https://www.aseica.es). I gave a talk entitled *"¿Qué nos puede enseñar un berberecho sobre el cáncer?"* to high school scholars (Santiago de Compostela, Spain). 
