@@ -136,10 +136,10 @@ Number of awards: 3
 
 Full detailed list can be checked [here](https://albruzos.github.io/talks/)  
 
-### Teaching, Mentoring and Outreach
+### Mentoring, Teaching and Outreach
 
-Number of teaching hours: 82 [More info](https://albruzos.github.io/teaching/university-teaching)  
 Number of supervised students: 4 [More info](https://albruzos.github.io/teaching/supervision)      
+Number of teaching hours: 82 [More info](https://albruzos.github.io/teaching/university-teaching)  
 Number of outreach activities: 17 [More info](https://albruzos.github.io/outreach/)  
 Number of interviews: 9 [More info](https://albruzos.github.io/media/)  
 
