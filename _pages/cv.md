@@ -49,7 +49,6 @@ _2021_ – 	    :	**Postdoctoral researcher.**
 :   *Duties:* bioinformatics postdoc  
 :   *Supervisor/s:* Veronica Kinsler  
 
-### PREVIOUS POSITIONS
 _2018 – 2021:_ **Predoctoral researcher.**  
 :   *Institution:* [University of Santiago de Compostela](https://www.usc.es/gl), Spain.  
 :   *Duties:* continuation of doctoral studies  
