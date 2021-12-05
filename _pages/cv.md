@@ -14,8 +14,6 @@ redirect_from:
 
 Education
 =======
-[More info](https://albruzos.github.io/education/) 
-
 **PhD. in Molecular Medicine**, Universidade de Santiago de Compostela: [CiMUS](https://www.usc.es/cimus/en) institute, Spain.  
 :   *2016 – 2022* <sup>expected</sup>  
 :   Specialization in Cancer.  
@@ -30,6 +28,9 @@ Education
 :   *2011 – 2015* 	
 :   Third year abroad at Université Libre de Bruxelles (Belgium) with an _Erasmus_ scholarship.  
 :   Title of Degree thesis: _“Interpopulation variability in the level of photosynthesis inactivation by heat stress in Arbutus unedo L.”._ (With Honours)  
+
+[More info](https://albruzos.github.io/education/) 
+
 
 ### Languages
 
@@ -46,23 +47,23 @@ Education
 
 Work experience
 =======
-
 _2021_ – 	    :	**Postdoctoral researcher.**  
 :   *Institution:* [The Francis Crick Institute](https://www.crick.ac.uk/) and [University College of London](https://www.ucl.ac.uk/), United Kingdom.  
 :   *Duties:* bioinformatics postdoc  
 :   *Supervisor/s:* Veronica Kinsler  
 
 ### PREVIOUS POSITIONS
-[More info](https://albruzos.github.io/jobs/) 
 _2018 – 2021:_ **Predoctoral researcher.**  
 :   *Institution:* [University of Santiago de Compostela](https://www.usc.es/gl), Spain.  
 :   *Duties:* continuation of doctoral studies  
 :   *Supervisor/s:* Jose M. C. Tubío and Seila Díaz Costas  
 
+[More info](https://albruzos.github.io/jobs/)  
+
 ### RESEARCH STAYS AS A VISITING SCIENTIST
-Number of research stays: 4
-International research stays: 3 (United States, Ireland and South Korea)
-[More info](https://albruzos.github.io/jobs/)
+Number of research stays: 4  
+International research stays: 3 (United States, Ireland and South Korea)  
+[More info](https://albruzos.github.io/jobs/)  
 
 ---
 
