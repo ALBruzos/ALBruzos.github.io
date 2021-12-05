@@ -30,4 +30,15 @@ author_profile: true
 :   *2002 – 2008*  
 :   Two specializations: Traverse Flute _(2002-2006)_ and Piano _(2005-2008)_.  
 
+### Languages
+
+| Language | Level<sup>*</sup> | Certification/s |
+| ------------- | ------------- | ------------- | 
+| **English** | C1 | IELTS certification in July 2021; CAE certification in December 2014 |
+| **French** | B2 | DELF certification in May 2020 |
+| **Galician** | C1 | Celga certification in July 2011 |
+| **Spanish** | _native_ | _NA_ |
+
+<sup>According to The Common European Framework of Reference for Languages *(A1/2 = Basic user; B1/2 = Independent user; C1/2 = Proficient user)* </sup> 
+
 [Back to CV](https://albruzos.github.io/cv/)
