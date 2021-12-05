@@ -54,7 +54,7 @@ _2018 – 2021:_ **Predoctoral researcher.**
 :   *Duties:* continuation of doctoral studies  
 :   *Supervisor/s:* Jose M. C. Tubío and Seila Díaz Costas  
 
-[More info](https://albruzos.github.io/jobs/)  
+[Previous positions](https://albruzos.github.io/jobs/)  
 
 ### RESEARCH STAYS AS A VISITING SCIENTIST
 Number of research stays: 4  
