@@ -70,7 +70,7 @@ _2016 – 2018:_ **Predoctoral researcher.**
 :   *Duties:* doctoral studies  
 :   *Supervisor/s:* Jose M. C. Tubío and Seila Díaz Costas  
 
-_Spring 2015:_ **Research Assitant**. Ecology Department, [University of Santiago de Compostela](https://www.usc.es/gl), Spain.  
+_Spring 2015:_ **Research Assistant**. Ecology Department, [University of Santiago de Compostela](https://www.usc.es/gl), Spain.  
 _Fall 2014:_ **Museum staff**. Environmental Interpretation Centre of Compostela, Spain.  
 _Summer 2014:_ **Research Assistant**. Evolutionary Biology and Ecology Department, [Université Libre de Bruxelles](https://www.ulb.be/en), Belgium.  
 _Summer 2013:_ **Childminder of a French boy**. Aupair World Organization, France.  
