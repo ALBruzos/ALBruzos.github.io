@@ -14,6 +14,8 @@ redirect_from:
 
 Education
 =======
+[More info](https://albruzos.github.io/education/) 
+
 **PhD. in Molecular Medicine**, Universidade de Santiago de Compostela: [CiMUS](https://www.usc.es/cimus/en) institute, Spain.  
 :   *2016 – 2022* <sup>expected</sup>  
 :   Specialization in Cancer.  
@@ -28,15 +30,6 @@ Education
 :   *2011 – 2015* 	
 :   Third year abroad at Université Libre de Bruxelles (Belgium) with an _Erasmus_ scholarship.  
 :   Title of Degree thesis: _“Interpopulation variability in the level of photosynthesis inactivation by heat stress in Arbutus unedo L.”._ (With Honours)  
-  
-**Science and Technology Baccalaureate (LOE) and University Access Test (PAU)**, IES Vilar Ponte, Spain.  
-:   *2009 – 2011*  
-:   Average mark in high school: 9,0/10  
-:   University Access Test: 11,39/14  
-
-**Musical Elementary Degree.** Professional Conservatory of Music in Viveiro, Spain.  
-:   *2002 – 2008*  
-:   Two specializations: Traverse Flute _(2002-2006)_ and Piano _(2005-2008)_.  
 
 ### Languages
 
@@ -60,45 +53,16 @@ _2021_ – 	    :	**Postdoctoral researcher.**
 :   *Supervisor/s:* Veronica Kinsler  
 
 ### PREVIOUS POSITIONS
+[More info](https://albruzos.github.io/jobs/) 
 _2018 – 2021:_ **Predoctoral researcher.**  
 :   *Institution:* [University of Santiago de Compostela](https://www.usc.es/gl), Spain.  
 :   *Duties:* continuation of doctoral studies  
 :   *Supervisor/s:* Jose M. C. Tubío and Seila Díaz Costas  
 
-_2016 – 2018:_ **Predoctoral researcher.**  
-:   *Institution:* [University of Vigo](https://www.uvigo.gal/en), Spain.  
-:   *Duties:* doctoral studies  
-:   *Supervisor/s:* Jose M. C. Tubío and Seila Díaz Costas  
-
-_Spring 2015:_ **Research Assistant**. Ecology Department, [University of Santiago de Compostela](https://www.usc.es/gl), Spain.  
-_Fall 2014:_ **Museum staff**. Environmental Interpretation Centre of Compostela, Spain.  
-_Summer 2014:_ **Research Assistant**. Evolutionary Biology and Ecology Department, [Université Libre de Bruxelles](https://www.ulb.be/en), Belgium.  
-_Summer 2013:_ **Childminder of a French boy**. Aupair World Organization, France.  
-_Summer 2012:_ **Camp Instructor of Australian students**. Montemar Summer School, Spain.  
-
-### RESEARCH STAYS AS VISITING SCIENTIST
-2021: **Korea Advance Institute of Science and Technology (KAIST)**, Daejeon (South Korea).  
-:   *Advisor:* Prof. Young Seok Ju.  
-:   *Theme:* Analyzing expression and cell origin using RNA-seq data.  
-:   *Funding:* travel grant of Boheringer Ingelheim Fonds.  
-:   *Time:* January to April.  
-
-2020: **University of Vigo (UVIGO)**, Vigo (Spain).  
-:   *Advisor:* Prof. David Posada.  
-:   *Theme:* Phylogenetic inference of mitogenomes, topology testing, dNdS per branch and time estimations.  
-:   *Time:* September to December.  
-
-2019: **National University of Ireland Galway (NUIG)**, Galway (Ireland).  
-:   *Advisor*: Prof. Mark Johnson.  
-:   *Theme:* Studying the clonal structure of contagious cancers in Irish cockles.  
-:   *Funding:* AssemblePlus (grant agreement no. 730984)  
-:   *Time:* March to April.  
-
-2018: **Pacific Northwest Research Institute (PNRI)**, Seattle (USA).  
-:   *Advisor*: PhD. Michael Metzger.  
-:   *Theme*: Gene editing of bivalve genomes using CRISPR.  
-:   *Funding*: Spanish Ministry of Science (Ref. BES-2016-078166)  
-:   *Time*: September to December.  
+### RESEARCH STAYS AS A VISITING SCIENTIST
+Number of research stays: 4
+International research stays: 3 (United States, Ireland and South Korea)
+[More info](https://albruzos.github.io/jobs/)
 
 ---
 
