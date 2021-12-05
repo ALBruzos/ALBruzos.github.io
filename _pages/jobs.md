@@ -6,13 +6,14 @@ author_profile: true
 
 {% include toc %}
 
-### POSITIONS
+### CURRENT POSITION
 
 _2021_ – 	    :	**Postdoctoral researcher.**  
 :   *Institution:* [The Francis Crick Institute](https://www.crick.ac.uk/) and [University College of London](https://www.ucl.ac.uk/), United Kingdom.  
 :   *Duties:* bioinformatics postdoc  
 :   *Supervisor/s:* Veronica Kinsler  
 
+### PREVIOUS POSITIONS
 _2018 – 2021:_ **Predoctoral researcher.**  
 :   *Institution:* [University of Santiago de Compostela](https://www.usc.es/gl), Spain.  
 :   *Duties:* continuation of doctoral studies  
@@ -23,12 +24,19 @@ _2016 – 2018:_ **Predoctoral researcher.**
 :   *Duties:* doctoral studies  
 :   *Supervisor/s:* Jose M. C. Tubío and Seila Díaz Costas  
 
-_Spring 2015:_ **Research Assistant**. Ecology Department, [University of Santiago de Compostela](https://www.usc.es/gl), Spain.  
-_Fall 2014:_ **Museum staff**. Environmental Interpretation Centre of Compostela, Spain.  
-_Summer 2014:_ **Research Assistant**. Evolutionary Biology and Ecology Department, [Université Libre de Bruxelles](https://www.ulb.be/en), Belgium.  
-_Summer 2013:_ **Childminder of a French boy**. Aupair World Organization, France.  
-_Summer 2012:_ **Camp Instructor of Australian students**. Montemar Summer School, Spain.  
+_Spring 2015:_ **Research Assistant**. 
+:   *Institution:* Ecology Department, [University of Santiago de Compostela](https://www.usc.es/gl), Spain.
 
+_Fall 2014:_ **Museum staff**.  
+:   *Institution:* Environmental Interpretation Centre of Compostela, Spain.  
+
+_Summer 2014:_ **Research Assistant**.  
+:   *Institution:* Evolutionary Biology and Ecology Department, [Université Libre de Bruxelles](https://www.ulb.be/en), Belgium.  
+_Summer 2013:_ **Childminder of a French boy**.  
+:   *Institution:* Aupair World Organization, France.  
+
+_Summer 2012:_ **Camp Instructor of Australian students**.  
+:   *Institution:* Montemar Summer School, Spain.  
 
 ### RESEARCH STAYS AS VISITING SCIENTIST
 2021: **Korea Advance Institute of Science and Technology (KAIST)**, Daejeon (South Korea).  
