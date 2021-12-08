@@ -16,8 +16,9 @@ author_profile: true
 **MSc. in Bioinformatics**, Universitat Autònoma de Barcelona, Spain.  
 :   *2015 – 2016*	  
 :   Specialization (elective module) in Genomics.  
+[TFM]: ## "Retrotransposons are repetitive elements that are constantly on the move. They copy and insert themselves at new sites in the host genome generating structural variability of potential functional importance for the cancer cell. In this master thesis, we catalogued the full set of L1 germline elements with somatic ativity in the largest cancer dataset available, which consisted of 2,704 cancer samples from 39 different tumour types. Overall, ~46% of analyzed genomes have a least one L1 somatic retrotransposition event and we reported a total of 109 of germline L1 source loci with somatic retrotransposition activity in the cancer genome."
 :   Title of Master Thesis: _"The Full Catalogue of L1 Active Loci in the Cancer Genome"_  
->>> Retrotransposons are repetitive elements that are constantly on the move. They copy and insert themselves at new sites in the host genome generating structural variability of potential functional importance for the cancer cell. In this master thesis, we catalogued the full set of L1 germline elements with somatic ativity in the largest cancer dataset available, which consisted of 2,704 cancer samples from 39 different tumour types. Overall, ~46% of analyzed genomes have a least one L1 somatic retrotransposition event and we reported a total of 109 of germline L1 source loci with somatic retrotransposition activity in the cancer genome.  
+:   [Point here to read the abstract][TFM]
 :   [Download here my Master Thesis](https://ALBruzos.github.io/files/TFM_AliciaLBruzos_CatalogueL1inCancer.pdf)
 
 **BSc. in Biology**, Universidade de Santiago de Compostela, Spain.  
