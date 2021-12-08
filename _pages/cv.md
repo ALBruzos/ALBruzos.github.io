@@ -124,9 +124,9 @@ Institutional citizenship
 * 2020-present.	[InvestiGal](https://investi.gal/) (Member)  
 * 2019-present.	[Asamblea de Investigadoras de Compostela (AIC)](https://asembleadeinvestigadoras.gal/) (Member)  
 * 2019-present.	[European Association for Cancer Research (EACR)](https://www.eacr.org/) (Member and Ambassador; number: 28748) 
-* 2019-present.	[Asociación Española de Investigación sobre el Cáncer (ASEICA)](https://www.aseica.es) (Member; number: 1746)
+* 2019-present.	[Asociación Española de Investigación sobre el Cáncer (ASEICA)](https://www.aseica.es) (Member; number: 1746)  
+  
 <img src='/images/albruzos-memberships.png'>  
-
 
 ---
 
