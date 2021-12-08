@@ -19,9 +19,9 @@ author_profile: true
 :   _Theoretical and practical training in bioinformatics_ · Grade: 8.48/10 · ECTS: 60 · 30 students for generation 2015/2016 · [More info](http://mscbioinformatics.uab.cat)  
 :   **Compulsary modules:** Programming in Bioinformatics (6 ETCS) to learn core tools plus basic techniques and Core
 Bioinformatics (6ECTS) to learn tools and resources used in Omics research.  
-:   **Elective module:** (12ECTS) Genomics, knowledge and technical skills required in genomic analysis.  
-:   **Professional Practices:** (15ECTS) Mobile Genomes lab at Universidade de Vigo under the supervision of Dr. Jose M. C. Tubío.  
-:   **Master's Thesis (15ECTS):** _"The Full Catalogue of L1 Active Loci in the Cancer Genome"_  
+:   **Elective module:** Genomics (12ECTS), knowledge and technical skills required in genomic analysis.  
+:   **Professional Practices:** Mobile Genomes lab at Universidade de Vigo under the supervision of Dr. Jose M. C. Tubío (15ECTS).  
+:   **Master's Thesis:** _"The Full Catalogue of L1 Active Loci in the Cancer Genome"_ (15ECTS)  
 :   [Point your mouse here to read about this work][TFM] or [Download here my Master Thesis](https://ALBruzos.github.io/files/TFM_AliciaLBruzos_CatalogueL1inCancer.pdf)  
 
 [TFG]: ## "Some plants are exposed to a combination of stressful environmental conditions, such as high temperatures during summer. The distribution of the strawberry tree (Arbutus unedo) is predominantly Mediterranean, however, it is also found on the European Atlantic coast reaching Irish latitudes. In this degree thesis, we measured the photosynthetic yield and spectral properties of A. unedo leaves from 12 locations to study the photosynthesis inactivation and infer the adaptive capacity of this species to potential future warmer conditions. As shown in previous studies, the variability in the level of inactivation of photosynthesis of the geographical different trees was very low suggesting a homogeneous genetic structure. The physiological response profile to the effects of temperature showed a clear inactivating effector on photosystem II but also the existence of a protective effect associated with thermal stress."  
