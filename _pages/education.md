@@ -28,11 +28,11 @@ Bioinformatics (6ECTS) to learn tools and resources used in Omics research.
 **BSc. in Biology**, Universidade de Santiago de Compostela, Spain.  
 :   *2011 – 2015* 	
 :   Studies of General Biological Sciences · Grade: 7.55/10 · ECTS: 243.5 · [More information](http://www.usc.es/graos/en)  
-:   _International exchanges:_ Third academic year (2013/2014) abroad at Université Libre de Bruxelles (Belgium) with an _Erasmus_ scholarship. Subjects from BSc. Biology and BSc. Bioengineering and development of an Experimental Research Project in Arabidopsis thaliana and a Bibliographic Research Project about Human Health and Organic Agriculture.  
-:   _Compulsary subjects:_ Mathematics, Biophysics, Chemistry, Geology, Cellular Biology, Fundaments of Animal and Plant Biology, Biostatistics, Tissues and organs Biology, Basic Techniques, Botany, Zoology, Biochemistry, Genetics, Developmental Biology, Biogeochemistry, Plant Physiology, Animal Physiology, Microbiology, Human Physiology, Ecology, Histology, Evolutionary Genetics, Environmental Physiology, Anthropology, Scientific English, Drafting and execution of projects, Molecular Biology.
-:   _Optional subjects that I took:_ Virology, Human Genetics, Phytopathology, Plant Biodiversity and Conservation, Animal Biodiversity and Conservation.
-:   _Proffessional Internship:_ 3 months in as a guide in a museum (CIAC) and 6 months in Ecotoxicology research group of the University.
-:   _Degree Thesis (6 ECTS)_ “Interpopulation variability in the level of photosynthesis inactivation by heat stress in _Arbutus unedo_ L.” (With Honours)  
+:   **International exchanges:** Third academic year (2013/2014) abroad at _Université Libre de Bruxelles_ (Belgium) with an _Erasmus_ scholarship. Subjects from BSc. Biology and BSc. Bioengineering and development of an Experimental Research Project in Arabidopsis thaliana and a Bibliographic Research Project about Human Health and Organic Agriculture.  
+:   **Compulsary subjects:** Mathematics, Biophysics, Chemistry, Geology, Cellular Biology, Fundaments of Animal and Plant Biology, Biostatistics, Tissues and organs Biology, Basic Techniques, Botany, Zoology, Biochemistry, Genetics, Developmental Biology, Biogeochemistry, Plant Physiology, Animal Physiology, Microbiology, Human Physiology, Ecology, Histology, Evolutionary Genetics, Environmental Physiology, Anthropology, Scientific English, Drafting and execution of projects, Molecular Biology.
+:   **Optional subjects:** Virology, Human Genetics, Phytopathology, Plant Biodiversity and Conservation, Animal Biodiversity and Conservation.
+:   **Proffessional Internships:** 3 months in as a guide in a museum (CIAC) and 6 months as a research assistant in the Ecology department of the University.
+:   **Degree Thesis (6 ECTS):** “Interpopulation variability in the level of photosynthesis inactivation by heat stress in _Arbutus unedo_ L.” (With Honours)  
 :   [Point your mouse here to read about this work][TFG] or [Download here my Degree Thesis](https://ALBruzos.github.io/files/TFG_AliciaLBruzos_Estrés termico madroño.pdf)
 
   
