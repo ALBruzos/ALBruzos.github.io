@@ -123,7 +123,7 @@ Institutional citizenship
 * 2016 – 2018: _Consortium secretariat_. Secretary of the **International Common Cockle Genome Consortium** (ICCGC). Three face-to-face symposiums were organized to address the goals of building a reference genome for the cockle species. 
 
 ### Professional Membership
-* 2021-present.	[Society of Spanish Researchers in the United Kingdom (SRUK/CERU)](https://sruk.org.uk/) (Member)
+* 2021-present.	[Society of Spanish Researchers in the United Kingdom (SRUK/CERU)](https://sruk.org.uk/) (Active member of the [Wom=n Equity & Research Committee](https://sruk.org.uk/teams/womn-equity-research-committee/))
 * 2021-present.	[The Spanish Society for Biochemistry and Molecular Biology (SEBBM)](https://sebbm.es/) (Member; number: 8706; proposing partner [Dr. María Mayán](http://www.inibic.es/portfolio-items/cellcom/)) 
 * 2020-present.	[Confederación Intersindical Galega (CIG)](https://www.cig.gal/) (Member of this labor union in my region of origin) 
 * 2020-present.	[InvestiGal](https://investi.gal/) (Member)  
