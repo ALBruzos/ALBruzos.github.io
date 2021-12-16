@@ -17,9 +17,9 @@ author_profile: true
 | ------------- | ------------- | ------------- | ------------- |------------- |
 | 2022<sup>#</sup>  | Elife  | 8.14 (2020) | Contagious cancers in clams | yes |
 | 2022<sup>#</sup>  | STOTEN  | 7.96 (2020)  | Fingerprints of cockle shells | no |
-| 2021  | Nature Communications  | 14.92(2020) | Viral integrations in cancer | no |
-| 2020  | Nature Genetics  | 38.33 | Cancer retrotransposition | no |
-| 2020  | Nature  | 49.96 | Cancer genomics analysis | no |
+| 2021  | Nature Communications  | 14.92(2020) | [Viral integrations in cancer](https://albruzos.github.io/publication/2021-10-25-PAPER_NatureCommunications_HeptatitisBintegrations) | no |
+| 2020  | Nature Genetics  | 38.33 | [Cancer retrotransposition](https://albruzos.github.io/publication/2020-02-05-PAPER2_NatureGenetics_PCAWG-retrotransposition) | no |
+| 2020  | Nature  | 49.96 | [Cancer genomics analysis](https://albruzos.github.io/publication/2020-02-05-PAPER1_Nature_PCAWG) | no |
 
 <sup># Accepted manuscript, pending publication</sup> 
 <sup>* IF taken from Web of Science on the data relative to the publication unless otherwise stated year</sup>
