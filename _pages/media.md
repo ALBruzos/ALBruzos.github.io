@@ -17,9 +17,9 @@ TV
 
 Radio
 ====
-*CUAC FM*. Interview for the radio show **Ciencia es Femenino** to talk about my research and the role of women in science *(20/06/2021)* [Listen here](https://www.youtube.com/watch?v=bAO6dC8e2k4)  
-*CRTVG*. Live interview in the show **Galicia Por Diante** of the regional radio of Galicia about the Pan-cancer initiative *(06/02/2020)* [Listen here](https://www.youtube.com/watch?v=ZOKAGpGxypw)  
-*CRTVG*. Interview for the radio show and podcast **Efervesciencia** to talk about science, my PhD project and our recent publications in the framework of the Pan-cancer initiative *(20/02/2020)* [Listen here](https://www.youtube.com/watch?v=kAaldyn0ul8)  
+*CUAC FM*. Interview for the radio show **Ciencia es Femenino** to talk about my research and the role of women in science *(20/06/2021)* [Listen here](https://www.youtube.com/watch?v=bAO6dC8e2k4) or [See a picture here](https://twitter.com/cienciaytu/status/1406551854612455424)  
+*CRTVG*. Live interview in the show **Galicia Por Diante** of the regional radio of Galicia about the Pan-cancer initiative *(06/02/2020)* [Listen here](https://www.youtube.com/watch?v=ZOKAGpGxypw) [Picture](https://twitter.com/GxDRadioGalega/status/1225431511324938243)  
+*CRTVG*. Interview for the radio show and podcast **Efervesciencia** to talk about science, my PhD project and our recent publications in the framework of the Pan-cancer initiative *(20/02/2020)* [Listen here](https://www.youtube.com/watch?v=kAaldyn0ul8) [Picture](https://twitter.com/efervesciencia/status/1230249919614771204)  
 
 Newspaper
 ====
