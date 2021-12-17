@@ -10,6 +10,7 @@ author_profile: true
 <img src='/images/Tira_FotosOutreach_AliciaLBruzos.png'>  
 
 **2021**  
+* **Skype a Scientist**. Beaulieu Convent School (Jersey, UK). In pandemic time, this [project](https://www.skypeascientist.com/) is connecting real-life scientists with classrooms across the globe. 
 * **Women in STEM**. Acland Burghley School (London, UK). School’s networking event for Year 9 female students.
 * **Popular science article**. Overview about cancers that can be contagious. Article entitled *“El cáncer se puede contagiar (al menos en animales)”* published in [The Conversation](https://theconversation.com/es)(open access news source). [Read Here](https://theconversation.com/el-cancer-se-puede-contagiar-al-menos-en-animales-163529)
 * **Children’s colouring science book**. The project *Scientists Meet the Artists* joined 12 scientists and 12 illustrators to design a series of drawings for children to colour and learn marine scientific concepts. The book was presented on the *World Oceans Day* (June 8th). [Download here](https://albruzos.github.io/files/outreach_2021-ScientistsMeetArtists.pdf)[Watch here the debate of book presentation day](https://tv.uvigo.es/video/60e852f1fe8ebc541a176b22)
