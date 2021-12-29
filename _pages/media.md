@@ -36,6 +36,6 @@ Social networks
 
 Others
 ====
-**Official visit to the regional government**. Meeting with the President of Xunta de Galicia (Alberto Núñez Feijóo) and the Minister of Economy, Business and Innovation (Francisco Conde López). *(19/02/2020)* [See the official picture here](https://twitter.com/FeijooGalicia/status/1230144864978898944)  
+**Official invitation to the regional government**. Meeting with the President of Xunta de Galicia (Alberto Núñez Feijóo) and the Minister of Economy, Business and Innovation (Francisco Conde López). *(19/02/2020)* [See the official picture here](https://twitter.com/FeijooGalicia/status/1230144864978898944)  
 
 [Back to CV](https://albruzos.github.io/cv/)
