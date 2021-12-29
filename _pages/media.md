@@ -34,5 +34,8 @@ Social networks
 **INSTAGRAM**. Interview for #Pintíficas initiative organized by the **Pint of Science** on the International Day of Girls and Women in Science *(11/02/2020)* [Watch it here](https://www.youtube.com/watch?v=VK5JApXx8UE)  
 **TWITCH**. Interview for the show **Ciencia e tal**, a programme that gives insights into the latest scientific research that is being done *(31/08/2021)* [Watch it here](https://www.youtube.com/watch?v=ySERdYkGR1A)  
 
+Others
+====
+**Official visit to the regional government**. Meeting with the President of Xunta de Galicia (Alberto Núñez Feijóo) and the Minister of Economy, Business and Innovation (Francisco Conde López). *(19/02/2020)* [See the official picture here](https://twitter.com/FeijooGalicia/status/1230144864978898944)  
 
 [Back to CV](https://albruzos.github.io/cv/)
