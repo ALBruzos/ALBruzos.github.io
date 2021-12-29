@@ -18,3 +18,6 @@ location: "Hinxton-Cambridge, UK"
 
 **Citation:**  
 Bruzos, A. L.; Díaz, S.; García-Souto, D.; Temes, J.; Zamora, J.; Tubío, J. (2019, July). _Scuba Cancers: Finding the genetic causes of contagious metastases under the sea._ Oral communication in Evolution and Ecology of Cancer. Wellcome Genome Campus, Hinxton-Cambridge (UK).
+
+**On the media:**  
+[Tweet of Athena Aktipis about my talk](https://twitter.com/AthenaAktipis/status/1152171832197439488)
