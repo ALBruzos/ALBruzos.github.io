@@ -24,7 +24,7 @@ Education
 **BSc. in Biology**, Universidade de Santiago de Compostela, Spain.  
 :   *2011 – 2015* 	
 :   Third year abroad at Université Libre de Bruxelles (Belgium) with an _Erasmus_ scholarship.  
-:   Title of Degree thesis: _“Interpopulation variability in the level of photosynthesis inactivation by heat stress in Arbutus unedo L.”._ (With Honours)  
+:   Title of Degree thesis: _“Interpopulation variability in the level of photosynthesis inactivation by heat stress in Arbutus unedo”_ (With Honours)  
 
 [More info](https://albruzos.github.io/education/) 
 
@@ -44,7 +44,7 @@ Education
 
 Work experience
 =======
-_2021_ – 	    :	**Postdoctoral researcher.**  
+_2021 – ongoing:_	**Postdoctoral researcher.**  
 :   *Institution:* [The Francis Crick Institute](https://www.crick.ac.uk/) and [University College of London](https://www.ucl.ac.uk/), United Kingdom.  
 :   *Duties:* bioinformatics postdoc  
 :   *Supervisor/s:* Veronica Kinsler  
