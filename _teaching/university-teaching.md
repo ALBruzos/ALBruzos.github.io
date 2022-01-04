@@ -6,7 +6,7 @@ date: 2021-12-01
 permalink: /teaching/university-teaching
 ---
 
-**Total:** 82 hours
+**Total:** 82 hours, 2 public universities, 3 different courses
 
 | Academic Year  | Course | University | Degree | Hours | Language | Country |
 | ------------- | ------------- | ------------- |------------- |------------- | ------------- | ------------- |
