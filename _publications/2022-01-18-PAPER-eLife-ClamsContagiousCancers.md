@@ -11,6 +11,17 @@ citation: 'García-Souto, D.#, Bruzos, A.L.#; Díaz-Costas, S. et al. (2022). &q
 
 <img src='/files/papers/2022-01-18-PAPER_eLife_ContagiousCancer-clams-VIDEO.png' /> 
 
+<img src='/files/papers/2022-01-18-PAPER_eLife_ContagiousCancer-clams-VIDEO.png' target="_blank" /> 
+
+<a href="https://www.youtube.com/watch?v=faL_ALYuP4I" target="_blank"> 
+<img align="center" src="/files/papers/2022-01-18-PAPER_eLife_ContagiousCancer-clams-VIDEO.png"/> 
+</a>
+
+<img src="/files/papers/2022-01-18-PAPER_eLife_ContagiousCancer-clams-VIDEO.png" onclick="window.open('https://www.youtube.com/watch?v=faL_ALYuP4I', '_blank');" />
+
+
+
+
 **Complete Citation:**  
 García-Souto, D.#, Bruzos, A.L.#; Díaz-Costas, S.#; Rocha, S.; Pequeño, A.; Roman-Lewis, C.; Alonso, J.; Rodriguez, R; Costas, D.; Rodriguez-Castro, J.; Villanueva, A.; Silva, L.; Valencia, J.; Annona, G.; Tarallo, A.; Ricardo, F.; Bratos Cetinic, A.; Posada, D.; Pasantes, J.J.; Tubío, J.M.C. "Mitochondrial genome sequencing of marine leukemias reveals cancer contagion between clam species in the Seas of Southern Europe." <i>eLife</i>, 11:e66946 DOI: [10.7554/eLife.66946](https://doi.org/10.7554/eLife.66946) (#equal contribution)  
 Previously published on [Biorxiv](https://www.biorxiv.org/content/10.1101/2021.03.10.434714v1).  
