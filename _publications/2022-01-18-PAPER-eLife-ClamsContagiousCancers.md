@@ -6,7 +6,7 @@ excerpt: 'This paper is about a new contagious cancer affecting the warty venus 
 date: 2022-01-18
 venue: 'eLife'
 paperurl: 'https://doi.org/10.7554/eLife.66946'
-citation: 'García-Souto, D.#, Bruzos, A.L.#; Díaz-Costas, S. et al. (2022). &quot;Mitochondrial genome sequencing of marine leukemias reveals cancer contagion between clam species in the Seas of Southern Europe.&quot; <i>eLife</i>. 11:e66946. (#equal contribution)'
+citation: 'García-Souto, D.#, Bruzos, A.L.#; Díaz-Costas, S.# et al. (2022). &quot;Mitochondrial genome sequencing of marine leukemias reveals cancer contagion between clam species in the Seas of Southern Europe.&quot; <i>eLife</i>. 11:e66946. (#equal contribution)'
 ---
 
 <a href="https://www.youtube.com/watch?v=faL_ALYuP4I" target="_blank"> 
