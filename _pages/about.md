@@ -8,6 +8,26 @@ redirect_from:
   - /about.html
 ---
 
+<a href="https://www.youtube.com/watch?v=faL_ALYuP4I" target="_blank"> 
+<img align="center" src="/images/WebsiteSections_v1-01.png"/> 
+</a>
+
+<a href="https://www.youtube.com/watch?v=faL_ALYuP4I" target="_blank"> 
+<img align="center" src="/images/WebsiteSections_v1-02.png"/> 
+</a>
+
+<a href="https://www.youtube.com/watch?v=faL_ALYuP4I" target="_blank"> 
+<img align="center" src="/images/WebsiteSections_v1-03.png"/> 
+</a>
+
+<a href="https://www.youtube.com/watch?v=faL_ALYuP4I" target="_blank"> 
+<img align="center" src="/images/WebsiteSections_v1-04.png"/> 
+</a>
+
+<a href="https://albruzos.github.io/contact/" target="_blank"> 
+<img align="center" src="/images/WebsiteSections_v1-05.png"/> 
+</a>
+
 Postdoctoral researcher currently working at [The Francis Crick Institute](https://www.crick.ac.uk/) and the [University College of London](https://www.ucl.ac.uk/)(UK) in the laboratory of _Mosaicism and Precision Medicine_. Former doctoral student in _Molecular Medicine_ and Teaching Assistant of _Genetics_ at [University of Santiago de Compostela](https://www.usc.es/gl) (Spain).  
 
 **My field of expertise is cancer genomics and contagious metastasis with high-impact publications in the multidisciplinary journals of _Nature_, _Nature Genetics_ and _Nature Communications_.** I have been involved in the international [Pan-Cancer Analysis of Whole Genomes (PCAWG)](https://dcc.icgc.org/pcawg) study and the ERC-funded [Scuba Cancers](http://www.scubacancers.org/) project.
