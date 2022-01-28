@@ -13,14 +13,6 @@ author_profile: true
 <img align="center" src="/images/WebsiteSections_v1-02.png"/> 
 </a>
 
-<a href="https://albruzos.github.io/outreach/" target="_top"> 
-<img align="center" src="/images/WebsiteSections_v1-03.png"/> 
-</a>
-
-<a href="https://albruzos.github.io/media/" target="_blank"> 
-<img align="center" src="/images/WebsiteSections_v1-04.png"/> 
-</a>
-
 <a href="https://albruzos.github.io/contact/" target="_blank"> 
 <img align="center" src="/images/WebsiteSections_v1-05.png"/> 
 </a>
