@@ -7,7 +7,7 @@ redirect_from:
   - "/aboutme/"
 ---
 
-Postdoctoral researcher currently working at [The Francis Crick Institute](https://www.crick.ac.uk/) and the [University College of London](https://www.ucl.ac.uk/) (UK) in the laboratory of _Mosaicism and Precision Medicine_. Former doctoral student in _Molecular Medicine_ and Teaching Assistant of _Genetics_ at [University of Santiago de Compostela](https://www.usc.es/gl) (Spain). :arrow_right: &#8594 [See my CV](https://albruzos.github.io/cv/)  
+Postdoctoral researcher currently working at [The Francis Crick Institute](https://www.crick.ac.uk/) and the [University College of London](https://www.ucl.ac.uk/) (UK) in the laboratory of _Mosaicism and Precision Medicine_. Former doctoral student in _Molecular Medicine_ and Teaching Assistant of _Genetics_ at [University of Santiago de Compostela](https://www.usc.es/gl) (Spain). :arrow_right: &#8594; [See my CV](https://albruzos.github.io/cv/)  
 
 **My field of expertise is cancer genomics and contagious metastasis with high-impact publications in the multidisciplinary journals of _Nature_, _Nature Genetics_ and _Nature Communications_.** I have been involved in the international [Pan-Cancer Analysis of Whole Genomes (PCAWG)](https://dcc.icgc.org/pcawg) study and the ERC-funded [Scuba Cancers](http://www.scubacancers.org/) project and currently working on the 100,000 Genomes Project of [Genomics England](https://www.genomicsengland.co.uk/). [Check my publication record](https://albruzos.github.io/publications/).  
  
