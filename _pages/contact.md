@@ -10,7 +10,7 @@ redirect_from:
 <img src='/images/ContactMe_v1.png'>  
 Feel free to contact me if you have any questions regarding my work, or relevant collaboration opportunities. I’d love to hear from you!  
 
-<h1 align="center">Face-to-face meetings & postal mail</h1>
+<h2 align="center">Face-to-face meetings & postal mail</h2>
 
 <p align="center">
 The Francis Crick Institute  <br>
@@ -19,14 +19,14 @@ London NW1 1AT  <br>
 United Kingdom  <br>
 </p>
 
-<h1 align="center">Email</h1>
+<h2 align="center">Email</h2>
 
 <p align="center">
 albruzos@gmail.com  <br>
 alicia.bruzos@crick.ac.uk  <br>
 </p>
 
-<h1 align="center">Social networks</h1>
+<h2 align="center">Social networks</h2>
 
 <p align="center">
 On the left you have all my social profiles, you can choose the one you like the most and even follow me to be aware of my recent news. See you on the networks! <br>
