@@ -12,8 +12,7 @@ author_profile: true
 {% include base_path %}  
 
 I’ve been fortunate to have worked on several international and interesting research projects in the field of *cancer genomics*. Keep an eye on the space below to see the list of publications my work has contributed to (hopefully!) grow...
-
-**List:**  
+ 
 
 | Topic  | Year | Journal | Impact Factor<sup>*</sup> | First authorship | Comments |
 | ------------- | ------------- | ------------- | ------------- |------------- |------------- |
