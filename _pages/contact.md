@@ -29,8 +29,9 @@ alicia.bruzos@crick.ac.uk  <br>
 <h2 align="center">Social networks</h2>
 
 <p align="center">
-On the left you have all my social profiles, you can choose the one you like the most and even follow me to be aware of my recent news. See you on the networks! <br>
-[@BruzosAliciaL](https://twitter.com/BruzosAliciaL)  <br>
+On the left you have all my social profiles, you can choose the one you like the most and even follow me to be aware of my recent news. <br>
+See you on the networks! <br>
+<br>
 </p>
 
 <!---
