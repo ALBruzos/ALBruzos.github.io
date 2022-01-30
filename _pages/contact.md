@@ -33,6 +33,8 @@ On the left you have all my social profiles, you can choose the one you like the
 [@BruzosAliciaL](https://twitter.com/BruzosAliciaL)  <br>
 </p>
 
+<!---
+
 ### Face-to-face and postal mail:
 The Francis Crick Institute  
 1 Midland Road  
@@ -46,7 +48,7 @@ alicia.bruzos@crick.ac.uk
 ### Social networks:
 On the left you have all my social profiles, you can choose the one you like the most and even follow me to be aware of my recent news. See you on the networks! [@BruzosAliciaL](https://twitter.com/BruzosAliciaL)  
 
-<!---
+
 [LinkedIn](https://www.linkedin.com/in/alicialopezbruzos)  
 [ResearchGate](https://www.researchgate.net/profile/Alicia-Bruzos)
 --->
