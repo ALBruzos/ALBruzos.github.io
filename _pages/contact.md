@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 <img src='/images/ContactMe_v1.png'>  
+Feel free to contact me if you have any questions regarding my work, or relevant collaboration opportunities. I’d love to hear from you!  
 
 ### Face-to-face and postal mail:
 The Francis Crick Institute  
@@ -19,7 +20,10 @@ United Kingdom
 albruzos@gmail.com  
 alicia.bruzos@crick.ac.uk  
 
-### Follow me!
-Twitter: [@BruzosAliciaL](https://twitter.com/BruzosAliciaL)  
+### Social networks:
+On the left you have all my social profiles, you can choose the one you like the most and even follow me to be aware of my recent news. See you on the networks! [@BruzosAliciaL](https://twitter.com/BruzosAliciaL)  
+
+<!---
 [LinkedIn](https://www.linkedin.com/in/alicialopezbruzos)  
 [ResearchGate](https://www.researchgate.net/profile/Alicia-Bruzos)
+--->
