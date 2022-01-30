@@ -13,23 +13,24 @@ Feel free to contact me if you have any questions regarding my work, or relevant
 <h1 align="center">Face-to-face meetings & postal mail</h1>
 
 <p align="center">
-The Francis Crick Institute  
-1 Midland Road  
-London NW1 1AT  
-United Kingdom  
+The Francis Crick Institute  <br>
+1 Midland Road  <br>
+London NW1 1AT  <br>
+United Kingdom  <br>
 </p>
 
 <h1 align="center">Email</h1>
 
 <p align="center">
-albruzos@gmail.com  
-alicia.bruzos@crick.ac.uk  
+albruzos@gmail.com  <br>
+alicia.bruzos@crick.ac.uk  <br>
 </p>
 
 <h1 align="center">Social networks</h1>
 
 <p align="center">
-On the left you have all my social profiles, you can choose the one you like the most and even follow me to be aware of my recent news. See you on the networks! [@BruzosAliciaL](https://twitter.com/BruzosAliciaL)  
+On the left you have all my social profiles, you can choose the one you like the most and even follow me to be aware of my recent news. See you on the networks! <br>
+[@BruzosAliciaL](https://twitter.com/BruzosAliciaL)  <br>
 </p>
 
 ### Face-to-face and postal mail:
