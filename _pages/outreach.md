@@ -8,6 +8,9 @@ author_profile: true
 
 
 <img src='/images/Tira_FotosOutreach_AliciaLBruzos.png'>  
+**2022**  
+* **[11 de febrero](https://11defebrero.org/)** is a citizen initiative to commemorate the International Day of Women and Girls in Science through activities to visibilize the work of women who are dedicated to STEM areas and create female role models for children who can contribute to the choice of these areas as professional careers. My talk was addresed to students of a public vocational trainning (IES Federica Montseny, Valencia, Spain).  
+* **Women in Science talk**. *Conócelas-ASEICA*. A project to encourage girls to study STEM organized by the [Spanish Association of Cancer Research](https://www.aseica.es). I gave a talk entitled *"Una detective del cáncer"* to 8-9 years-old scholars of a public primary school (CEIP Monte dos Postes, Santiago de Compostela, Spain). [Pictures](https://twitter.com/BruzosAliciaL/status/1491178436244930561) 
 
 **2021**  
 * **Skype a Scientist**. Beaulieu Convent School (Jersey, UK). In pandemic time, this [project](https://www.skypeascientist.com/) is connecting real-life scientists with classrooms across the globe. [Class picture](https://twitter.com/BeaulieuBio/status/1471792405150056453) vs [Scientist picture](https://twitter.com/BruzosAliciaL/status/1471848905054863364/photo/1)
@@ -15,7 +18,7 @@ author_profile: true
 * **Popular science article**. Overview about cancers that can be contagious. Article entitled *“El cáncer se puede contagiar (al menos en animales)”* published in [The Conversation](https://theconversation.com/es)(open access news source). [Read Here](https://theconversation.com/el-cancer-se-puede-contagiar-al-menos-en-animales-163529)
 * **Children’s colouring science book**. The project *Scientists Meet the Artists* joined 12 scientists and 12 illustrators to design a series of drawings for children to colour and learn marine scientific concepts. The book was presented on the *World Oceans Day* (June 8th). [Download the book here](https://albruzos.github.io/files/outreach_2021-ScientistsMeetArtists.pdf), [Watch here the presentation day](https://tv.uvigo.es/video/60e852f1fe8ebc541a176b22) or [See children painting](https://twitter.com/campusdomar/status/1408319520893247488)
 * **High school talk**. Semana de orientación laboral. One hour talking with high school students about their career orientation focusing on STEM and particularly in biology, biotechnology, and biochemistry. Given at Colegio M. Peleteiro (Santiago de Compostela, Spain). 
-* **Women in Science talk**. *Conócelas-ASEICA*. A project to encourage girls to study STEM organized by the [Spanish Association of Cancer Research](https://www.aseica.es). I gave a talk entitled *"¿Qué nos puede enseñar un berberecho sobre el cáncer?"* to high school scholars (Santiago de Compostela, Spain). [Pictures](https://twitter.com/ASEICAnews/status/1369634686918660102) 
+* **Women in Science talk**. *Conócelas-ASEICA*. A project to encourage girls to study STEM organized by the [Spanish Association of Cancer Research](https://www.aseica.es). I gave a talk entitled *"¿Qué nos puede enseñar un berberecho sobre el cáncer?"* to high school scholars (Colegio M. Peleteiro, Santiago de Compostela, Spain). [Pictures](https://twitter.com/ASEICAnews/status/1369634686918660102) 
 * **Institutional bulletin**. Brief article to encourage doctoral students to plan *international research stays* entitled *“Como che vai na túa estadía?”* nEDIUS 3:15. [Download here](https://albruzos.github.io/files/outreach_2021-nEDIUS-researchstays.pdf)
 
 **2020**  
@@ -31,7 +34,7 @@ author_profile: true
 * **Podcasting**. Realization and production team of the [CiMUSpodcast](https://www.ivoox.com/podcast-cimus-podcast_sq_f1817120_1.html) that was born with the purpose of getting the research carried out at CiMUS to other researchers, students and people not related to the scientific field.  
 [Episode 1](https://www.ivoox.com/capitulo-1-autismo-audios-mp3_rf_45092632_1.html) [Episode 2](https://www.ivoox.com/capitulo-2-cancer-audios-mp3_rf_47395915_1.html)   
 * **Science outreach talk**. *“Understanding metastasis through transmissible cancers”* [Happy Fridays](https://www.usc.es/cimus/es/HappyFridaysMay24) (Santiago de Compostela, Spain).
-* **Workshop for children**. *Monitor* of activities for pupils aged 8-10 organized for 9 primary-school classes in the *International DNA Day* (Colegio Compañía de María, Santiago de Compostela, Spain).
+* **Workshop for children**. *Monitor* of activities for pupils aged 8-10 organized for 9 primary-school classes in the *International DNA Day* (Colegio Compañía de María, Santiago de Compostela, Spain). [PictureHere](https://twitter.com/BruzosAliciaL/status/1121533459720286209)
 
 **2018**  
 * **Institutional blog article**. *“Cáncer transmisible de bivalvos para desentrañar la evolución del cáncer.”* Océano Ecimat. [Read Here](https://oceanoecimat.wordpress.com/2018/05/11/cancer-transmisible-de-bivalvos-para-desentranar-la-evolucion-del-cancer/)
