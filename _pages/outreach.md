@@ -9,7 +9,7 @@ author_profile: true
 
 <img src='/images/Tira_FotosOutreach_AliciaLBruzos.png'>  
 **2022**  
-* **[11 de febrero](https://11defebrero.org/)** is a citizen initiative to commemorate the International Day of Women and Girls in Science through activities to visibilize the work of women who are dedicated to STEM areas and create female role models for children who can contribute to the choice of these areas as professional careers. My talk was addresed to students of a public vocational trainning (IES Federica Montseny, Valencia, Spain). [More info](https://twitter.com/BruzosAliciaL/status/1491803176248381440)  
+* **Women in Science talk**. [11 de febrero](https://11defebrero.org/) is a citizen initiative to commemorate the International Day of Women and Girls in Science through activities to visibilize the work of women who are dedicated to STEM areas and create female role models for children who can contribute to the choice of these areas as professional careers. My talk was addresed to students of a public vocational trainning (IES Federica Montseny, Valencia, Spain). [More info](https://twitter.com/BruzosAliciaL/status/1491803176248381440)  
 * **Women in Science talk**. *Conócelas-ASEICA*. A project to encourage girls to study STEM organized by the [Spanish Association of Cancer Research](https://www.aseica.es). I gave a talk entitled *"Una detective del cáncer"* to 8-9 years-old scholars of a public primary school (CEIP Monte dos Postes, Santiago de Compostela, Spain). [Pictures](https://twitter.com/BruzosAliciaL/status/1491178436244930561) 
 
 **2021**  
