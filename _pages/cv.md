@@ -44,9 +44,9 @@ Education
 
 Work experience
 =======
-_2021 – ongoing:_	**Postdoctoral researcher.**  
+_2021 – ongoing:_	**Research Assistant (bioinformatics technician).**  
 :   *Institution:* [The Francis Crick Institute](https://www.crick.ac.uk/) and [University College of London](https://www.ucl.ac.uk/), United Kingdom.  
-:   *Duties:* bioinformatics postdoc  
+:   *Duties:* bioinformatical analysis  
 :   *Supervisor/s:* Veronica Kinsler  
 
 _2018 – 2021:_ **Predoctoral researcher.**  
