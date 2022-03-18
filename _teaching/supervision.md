@@ -6,7 +6,7 @@ date: 2021-12-01
 permalink: /teaching/supervision
 ---
 
-**Total**: 2 Bachelor Thesis, 1 Master Thesis, 1 PhD Thesis (ongoing)
+**Total**: 2 Bachelor Thesis, 1 Master Thesis
 
 
 | Academic Year  | Title | Student | Supervisors | Degree | Type | University | Country | Language |
