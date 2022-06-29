@@ -12,7 +12,7 @@ citation: 'Ricardo, F. et al. (2022). &quot;Assessing the elemental fingerprints
 <img src='/files/papers/2022-01-08-PAPER_STOTEN-screenshot.png' /> 
 
 **Alicia's Citation:**  
-Ricardo, F. et al. (includes Bruzos A.L.). 2022. "Assessing the elemental fingerprints of cockle shells (Cerastoderma edule) to confirm their geographic origin from regional to international spatial scales." <i>STOTEN</i>, 814:152304.  IF(2020) = 7.963.
+Ricardo, F. et al. (includes Bruzos A.L.). 2022. "Assessing the elemental fingerprints of cockle shells (Cerastoderma edule) to confirm their geographic origin from regional to international spatial scales." <i>STOTEN</i>, 814:152304.  IF(2021) = 10.753.
 
 **About the paper:**  
 Here, elemental fingerprints of shells are used to trace common cockle species within a regional, national and international spatial scale.  
@@ -20,6 +20,21 @@ Here, elemental fingerprints of shells are used to trace common cockle species w
 **More information:**  
 Visit online version: [dx.doi.org/**10.1016/j.scitotenv.2021.152304**](http://dx.doi.org/10.1016/j.scitotenv.2021.152304)  
 [Download PDF here](https://ALBruzos.github.io/files/papers/2022-01-08-PAPER_STOTEN_CockleShellsFingerprints.pdf)
+
+**Authorship:**  
+Position of AL Bruzos: 3  
+Total number of authors: 8  
+Authors: Fernando Ricardo; Renato Mamede; Alicia L. Bruzos; Seila Díaz; Julien Thébault; Eduardo Ferreira da Silva; Carla Patinha; Ricardo Calado  
+
+**Journal information**  
+ISSN: 0048-9697  
+eISSN: 1879-1026  
+Current Publisher: *ELSEVIER*, RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS  
+Journal Impact Factor (JIF): 10.753 (2021)  
+WoS Research Areas: Environmental Sciences & Ecology  
+JCR Category: ENVIRONMENTAL SCIENCES in SCIE edition  
+JCR Category Rank: 26/279  
+JCR Category Quartile: Q1  
 
 **Peer-review process:**  
 Received: 22 April 2021  
