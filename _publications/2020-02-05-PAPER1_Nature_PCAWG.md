@@ -26,6 +26,10 @@ Received: 29 July 2018
 Accepted: 11 December 2019  
 Published: 05 February 2020  
 
+**Authorship:**  
+Position of AL Bruzos: 60  
+Total number of authors: 1340
+
 **Journal cover:**  
 <img src='/files/papers/2020-02-05-PAPER_NatureCover_PCAWG.jpg' width="526" height="659" />  
 
