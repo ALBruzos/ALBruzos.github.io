@@ -22,8 +22,8 @@ Visit online version: [doi.org/**10.1038/s41588-019-0562-0**](https://doi.org/10
 [Download paper here](https://ALBruzos.github.io/files/papers/2020-02-05-PAPER_NatureGenetics_PCAWG-retrotransposition.pdf)
 
 **Authorship:**  
-Position of AL Bruzos: 15
-Total number of authors: 53
+Position of AL Bruzos: 15  
+Total number of authors: 53  
 
 **Journal information**  
 ISSN: 1061-4036  
