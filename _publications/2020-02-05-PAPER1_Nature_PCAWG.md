@@ -12,7 +12,7 @@ citation: 'The ICGC/TCGA Pan-Cancer Analysis of Whole Genomes Consortium. (2020)
 <img src='/files/papers/2020-02-05-PAPER1_Nature_PCAWG-screenshot.png' />  
 
 **Alicia's Citation:**  
-The ICGC/TCGA Pan-Cancer Analysis of Whole Genomes Consortium (includes Bruzos A.L.). 2020. "Pan-Cancer analysis of whole genomes". <i>Nature</i>, 578:82-93. IF = 43.070.  
+The ICGC/TCGA Pan-Cancer Analysis of Whole Genomes Consortium (includes Bruzos A.L.). 2020. "Pan-Cancer analysis of whole genomes". <i>Nature</i>, 578:82-93. IF = 49.962 (2020).  
 
 **About the paper:**  
 The flagship of the ICGC/TCGA Pan-Cancer Analysis of Whole Genomes Consortium that describes the main scientific findings from the analyses of ~3,000 cancer whole genomes and their matched normal tissues across 38 tumour types. *I did bioinformatic analysis during my Master Thesis that ended up being one of the figures of this paper.*  
@@ -29,6 +29,16 @@ Published: 05 February 2020
 **Authorship:**  
 Position of AL Bruzos: 60  
 Total number of authors: 1340
+
+**Journal information**  
+ISSN: 0028-0836  
+eISSN: 1476-4687  
+Current Publisher: NATURE PORTFOLIO. HEIDELBERGER PLATZ 3, BERLIN 14197, GERMANY  
+Journal Impact Factor (JIF): 49.962 (2020)
+WoS Research Areas: Science & Technology - Other Topics    
+JCR Category: MULTIDISCIPLINARY SCIENCES in SCIE edition  
+JCR Category Rank: 1/73  
+JCR Category Quartile: Q1  
 
 **Journal cover:**  
 <img src='/files/papers/2020-02-05-PAPER_NatureCover_PCAWG.jpg' width="526" height="659" />  
