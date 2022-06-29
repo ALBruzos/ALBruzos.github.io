@@ -21,24 +21,24 @@ The flagship of the ICGC/TCGA Pan-Cancer Analysis of Whole Genomes Consortium th
 Visit online version: [doi.org/**10.1038/s41586-020-1969-6**](https://doi.org/10.1038/s41586-020-1969-6)  
 [Download PDF paper here](https://ALBruzos.github.io/files/papers/2020-02-05-PAPER_Nature_PCAWG.pdf)  
 
-**Peer-review process:**  
-Received: 29 July 2018  
-Accepted: 11 December 2019  
-Published: 05 February 2020  
-
 **Authorship:**  
 Position of AL Bruzos: 60  
-Total number of authors: 1340
+Total number of authors: 1340 
 
 **Journal information**  
 ISSN: 0028-0836  
 eISSN: 1476-4687  
 Current Publisher: *NATURE PORTFOLIO.* HEIDELBERGER PLATZ 3, BERLIN 14197, GERMANY  
-Journal Impact Factor (JIF): 49.962 (2020)
+Journal Impact Factor (JIF): 49.962 (2020) 
 WoS Research Areas: Science & Technology - Other Topics  
 JCR Category: MULTIDISCIPLINARY SCIENCES in SCIE edition  
 JCR Category Rank: 1/73  
 JCR Category Quartile: Q1  
+
+**Peer-review process:**  
+Received: 29 July 2018  
+Accepted: 11 December 2019  
+Published: 05 February 2020  
 
 **Journal cover:**  
 <img src='/files/papers/2020-02-05-PAPER_NatureCover_PCAWG.jpg' width="526" height="659" />  
