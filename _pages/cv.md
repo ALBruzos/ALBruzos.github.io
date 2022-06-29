@@ -20,11 +20,13 @@ Education
 :   *2015 – 2016*	  
 :   Specialization (elective module) in Genomics.  
 :   Title of Master Thesis: _"The Full Catalogue of L1 Active Loci in the Cancer Genome"_  
+:   Issuance degree date: 29/07/2016  
 
 **BSc. in Biology**, Universidade de Santiago de Compostela, Spain.  
 :   *2011 – 2015* 	
 :   Third year abroad at Université Libre de Bruxelles (Belgium) with an _Erasmus_ scholarship.  
 :   Title of Degree thesis: _“Interpopulation variability in the level of photosynthesis inactivation by heat stress in Arbutus unedo”_ (With Honours)  
+:   Issuance degree date: 31/07/2015 
 
 [More info](https://albruzos.github.io/education/) 
 
