@@ -33,9 +33,9 @@ Total number of authors: 1340
 **Journal information**  
 ISSN: 0028-0836  
 eISSN: 1476-4687  
-Current Publisher: NATURE PORTFOLIO. HEIDELBERGER PLATZ 3, BERLIN 14197, GERMANY  
+Current Publisher: *NATURE PORTFOLIO.* HEIDELBERGER PLATZ 3, BERLIN 14197, GERMANY  
 Journal Impact Factor (JIF): 49.962 (2020)
-WoS Research Areas: Science & Technology - Other Topics    
+WoS Research Areas: Science & Technology - Other Topics  
 JCR Category: MULTIDISCIPLINARY SCIENCES in SCIE edition  
 JCR Category Rank: 1/73  
 JCR Category Quartile: Q1  
