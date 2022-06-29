@@ -21,10 +21,9 @@ Here we identify a new mutational mechanism in cancer by with aberrant integrati
 Visit online version: [doi.org/**10.1038/s41588-019-0562-0**](https://doi.org/10.1038/s41588-019-0562-0)  
 [Download paper here](https://ALBruzos.github.io/files/papers/2020-02-05-PAPER_NatureGenetics_PCAWG-retrotransposition.pdf)
 
-**Peer-review process:**  
-Received: 21 September 2017  
-Accepted: 26 November 2019  
-Published: 05 February 2020   
+**Authorship:**  
+Position of AL Bruzos: 15
+Total number of authors: 53
 
 **Journal information**  
 ISSN: 1061-4036  
@@ -35,6 +34,11 @@ WoS Research Areas: Genetics & Heredity
 JCR Category: Genetics & Heredity in SCIE edition  
 JCR Category Rank: 2/175  
 JCR Category Quartile: Q1  
+
+**Peer-review process:**  
+Received: 21 September 2017  
+Accepted: 26 November 2019  
+Published: 05 February 2020   
 
 **Journal cover:**  
 <img src='/files/papers/2020-02-05-PAPER2_NatureGeneticsCover.jpg' width="526" height="659" />  
