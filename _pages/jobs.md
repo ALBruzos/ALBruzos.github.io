@@ -43,7 +43,7 @@ _Summer 2012:_ **Camp Instructor of Australian students**.
 :   *Advisor:* Prof. Young Seok Ju.  
 :   *Theme:* Analyzing expression and cell origin using RNA-seq data.  
 :   *Funding:* travel grant of Boheringer Ingelheim Fonds.  
-:   *Time:* January to April.  
+:   *Time:* January to April (10-ENE-2021 to 10-ABR-2021).  
 
 2020: **University of Vigo (UVIGO)**, Vigo (Spain).  
 :   *Advisor:* Prof. David Posada.  
@@ -54,12 +54,12 @@ _Summer 2012:_ **Camp Instructor of Australian students**.
 :   *Advisor*: Prof. Mark Johnson.  
 :   *Theme:* Studying the clonal structure of contagious cancers in Irish cockles.  
 :   *Funding:* AssemblePlus (grant agreement no. 730984)  
-:   *Time:* March to April.  
+:   *Time:* March to April (11-MAR-2019 to 12-ABR-2019).  
 
 2018: **Pacific Northwest Research Institute (PNRI)**, Seattle (USA).  
 :   *Advisor*: PhD. Michael Metzger.  
 :   *Theme*: Gene editing of bivalve genomes using CRISPR.  
 :   *Funding*: Spanish Ministry of Science (Ref. BES-2016-078166)  
-:   *Time*: September to December. 
+:   *Time*: September to December (16-SEPT-2018 to 11-DIC-2018)
 
 [Back to CV](https://albruzos.github.io/cv/)
