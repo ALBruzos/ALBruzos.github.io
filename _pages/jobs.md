@@ -48,7 +48,7 @@ _Summer 2012:_ **Camp Instructor of Australian students**.
 2020: **University of Vigo (UVIGO)**, Vigo (Spain).  
 :   *Advisor:* Prof. David Posada.  
 :   *Theme:* Phylogenetic inference of mitogenomes, topology testing, dNdS per branch and time estimations.  
-:   *Time:* September to December.  
+:   *Time:* September to December (05-OCT-2020 to 04-ENE-2021).  
 
 2019: **National University of Ireland Galway (NUIG)**, Galway (Ireland).  
 :   *Advisor*: Prof. Mark Johnson.  
