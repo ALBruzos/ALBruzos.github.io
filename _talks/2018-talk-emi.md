@@ -11,7 +11,7 @@ location: "Santiago de Compostela, Spain"
 *Speaker:* Alicia L. Bruzos  
 
 *Title:* Cockle Reference Genome: DNA isolation challenges.  
-*Authors*: **Bruzos, A. L.**; García-Souto, D.; Díaz, S.; Zamora, J.; Temes, J., Rodríguez-Castro, J.; Tubío, J. 
+*Authors*: **Bruzos, A. L.**; García-Souto, D.; Díaz, S.; Zamora, J.; Temes, J., Rodríguez-Castro, J.; Tubío, J.  
 *Type:* Oral communication  
 *Conference:* VI Young Researchers Meeting-Health Science.  
 *Location:* Santiago de Compostela (Spain).  
