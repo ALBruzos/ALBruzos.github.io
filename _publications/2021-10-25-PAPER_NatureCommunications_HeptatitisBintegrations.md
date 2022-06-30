@@ -26,7 +26,6 @@ Position of AL Bruzos: 13
 Total number of authors: 43 
 
 **Journal information**  
-ISSN: -  
 eISSN: 2041-1723  
 Current Publisher: *NATURE PORTFOLIO.* HEIDELBERGER PLATZ 3, BERLIN 14197, GERMANY  
 Journal Impact Factor (JIF): 17.694 (2021)  
