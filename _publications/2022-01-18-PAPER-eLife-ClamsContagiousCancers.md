@@ -28,7 +28,7 @@ Visit online version: [doi.org/**10.7554/eLife.66946**](https://doi.org/10.7554/
 [Download PDF here](https://ALBruzos.github.io/files/papers/2022-01-18-PAPER_eLife_ContagiousCancer-clams.pdf)
 
 **Authorship:**  
-Position of AL Bruzos: 1  
+Position of AL Bruzos: 2 (first authorship)  
 Total number of authors: 20  
 Authors: Daniel Garcia-Souto; Alicia L Bruzos; Seila Diaz; Sara Rocha; Ana Pequeño-Valtierra; Camila F Roman-Lewis; Juana Alonso; Rosana Rodriguez; Damian Costas; Jorge Rodriguez-Castro; Antonio Villanueva; Luis Silva; Jose Maria Valencia; Giovanni Annona; Andrea Tarallo; Fernando Ricardo; Ana Bratoš Cetinić; David Posada; Juan Jose Pasantes; Jose MC Tubio  
 
