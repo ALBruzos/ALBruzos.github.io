@@ -29,7 +29,7 @@ Total number of authors: 53
 ISSN: 1061-4036  
 eISSN: 1546-1718  
 Current Publisher: NATURE PORTFOLIO. HEIDELBERGER PLATZ 3, BERLIN 14197, GERMANY  
-Journal Impact Factor (JIF): 38.333 (2020)
+Journal Impact Factor (JIF): 38.333 (2020) 
 WoS Research Areas: Genetics & Heredity  
 JCR Category: Genetics & Heredity in SCIE edition  
 JCR Category Rank: 2/175  
