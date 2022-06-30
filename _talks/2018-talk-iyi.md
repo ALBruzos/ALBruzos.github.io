@@ -11,7 +11,7 @@ location: "A Coruña, Spain"
 *Speaker:* Alicia L. Bruzos  
 
 *Title:* Bivalve transmisible cancers: excellent models to study metastasis.  
-*Authors:* **Bruzos, A. L.**; Díaz, S.; Temes, J.; García-Souto, D.; Zamora, J.; Tubío, J. 
+*Authors:* **Bruzos, A. L.**; Díaz, S.; Temes, J.; García-Souto, D.; Zamora, J.; Tubío, J.  
 *Type:* Oral communication  
 *Conference:* International Young Investigator Meeting (IYI).  
 *Location:* Museo Nacional de Ciencia y Tecnología (MUNCYT), A Coruña (Spain).  
