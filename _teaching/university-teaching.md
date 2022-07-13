@@ -32,20 +32,12 @@ MBBS: Medicine Bachelor and Bachelor of Surgery
 <!---
 TABLE IN PLAIN TEXT:
 
-2020/2021. “Molecular diagnostic of different clonal lineages of transmissible cancer.” 
-    Student: Andrea E. Arias Díaz. 
-    Type: Degree Thesis for the BSc. in Biology of Universidade de Santiago de Compostela, Spain.
-    Supervisor/s:  Alicia L. Bruzos and Dr. Jose Tubío. 
-    Others: Awarded for linguistic quality by the USC Language Normalization Service in the category of sciences.
-
-2019/2020. “Identification of driver mutations in marine transmissible cancers through exome sequencing analysis”. 
-    Student: Iago Otero Coto. 
-    Type: Master Thesis for the MSc. in Bioinformatics from Universidade da Coruña, Spain. 
-    Supervisor/s: Alicia L. Bruzos and Dr. Jose Tubío. 
-
-2019/2020. “Characterization of a genomic molecular marker of a marine transmissible cancer”. 
-    Student: Ana Copena Soutelo. 
-    Type: Degree Thesis for the BSc. in Biology of Universidade de Santiago de Compostela, Spain. 
-    Supervisor/s: Alicia L. Bruzos and Dr. Jose Tubío. 
+2021/2022. Medical Student-Selected Component. University College of London. MBBS BSc. in Medicine. Hours: 8 (English)
+2020/2021. Genetics II. Universidade de Santiago de Compostela. BSc. in Biotechnology. Hours: 8 (Spanish) 
+2020/2021. Genetics I. Universidade de Santiago de Compostela. BSc. in Biology. Hours: 40 (Spanish) 
+2019/2020. Human Genetics. Universidade de Santiago de Compostela. BSc. in Biology. Hours: 2 (Spanish) 
+2019/2020. Genetics I. Universidade de Santiago de Compostela. BSc. in Biology. Hours: 13 (Spanish) 
+2018/2019. Genetics II. Universidade de Santiago de Compostela. BSc. in Biology. Hours: 16 (Spanish) 
+2017/2018. Genetics II. Universidade de Vigo. BSc. in Biology. Hours: 3 (English) 
 
 -->
