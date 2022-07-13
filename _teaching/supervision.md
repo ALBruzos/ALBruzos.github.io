@@ -25,10 +25,22 @@ permalink: /teaching/supervision
 [Back to CV](https://albruzos.github.io/cv/)
 
 <!---
-PLAIN TEXT MENTORING:
-2020/2021	“Molecular diagnostic of different clonal lineages of transmissible cancer.” Andrea E. Arias Díaz. Degree Thesis for the BSc. in Biology of Universidade de Santiago de Compostela. Supervisors: Alicia L. Bruzos and Jose Tubío. Awarded for linguistic quality by the USC Language Normalization Service in the category of sciences.
-2019/2020 	“Identification of driver mutations in marine transmissible cancers through exome sequencing analysis”. Iago Otero Coto. Master Thesis for the MSc. in Bioinformatics from Universidade da Coruña. Supervisors: Alicia L. Bruzos and Jose Tubío. 
-2019/2020 	“Characterization of a genomic molecular marker of a marine transmissible cancer”. Ana Copena Soutelo. Degree Thesis for the BSc. in Biology of Universidade de Santiago de Compostela. Supervisors: Alicia L. Bruzos and Jose Tubío. 
+TABLE IN PLAIN TEXT:
 
+2020/2021. “Molecular diagnostic of different clonal lineages of transmissible cancer.” 
+    Student: Andrea E. Arias Díaz. 
+    Type: Degree Thesis for the BSc. in Biology of Universidade de Santiago de Compostela, Spain.
+    Supervisor/s:  Alicia L. Bruzos and Dr. Jose Tubío. 
+    Others: Awarded for linguistic quality by the USC Language Normalization Service in the category of sciences.
+
+2019/2020. “Identification of driver mutations in marine transmissible cancers through exome sequencing analysis”. 
+    Student: Iago Otero Coto. 
+    Type: Master Thesis for the MSc. in Bioinformatics from Universidade da Coruña, Spain. 
+    Supervisor/s: Alicia L. Bruzos and Dr. Jose Tubío. 
+
+2019/2020. “Characterization of a genomic molecular marker of a marine transmissible cancer”. 
+    Student: Ana Copena Soutelo. 
+    Type: Degree Thesis for the BSc. in Biology of Universidade de Santiago de Compostela, Spain. 
+    Supervisor/s: Alicia L. Bruzos and Dr. Jose Tubío. 
 
 -->
