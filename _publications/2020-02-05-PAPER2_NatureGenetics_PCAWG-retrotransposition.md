@@ -15,7 +15,7 @@ citation: 'Rodriguez-Martin, B. et al. (2020). &quot;Pan-Cancer analysis of whol
 Rodriguez-Martin, B. et al. (includes Bruzos A.L.). 2020. "Pan-Cancer analysis of whole genomes identifies driver rearrangements promoted by LINE-1 retrotransposition". <i>Nature Genetics</i>, 52:306-319. IF = 38.333 (2020).
 
 **Other citation (more authors):** 
-Rodriguez-Martin, B; Alvarez, EG; Baez-Ortega, A; Zamora, J; Supek, F; Demeulemeester, J; Santamarina, M; Ju, YS; Temes, J; Garcia-Souto, D; Detering, H; Li, Y; Rodriguez-Castro, J; Dueso-Barroso, A; Bruzos, AL*; … Tubio, JMC. (2020) Pan-Cancer analysis of whole genomes identifies driver rearrangements promoted by LINE-1 retrotransposition. Nature Genetics, 52:306-319. IF = 38.333 (2020). DOI: https://doi.org/10.1038/s41588-019-0562-0
+Rodriguez-Martin, B; Alvarez, EG; Baez-Ortega, A; Zamora, J; Supek, F; Demeulemeester, J; Santamarina, M; Ju, YS; Temes, J; Garcia-Souto, D; Detering, H; Li, Y; Rodriguez-Castro, J; Dueso-Barroso, A; **Bruzos, AL**; … Tubio, JMC. (2020) Pan-Cancer analysis of whole genomes identifies driver rearrangements promoted by LINE-1 retrotransposition. Nature Genetics, 52:306-319. IF = 38.333 (2020). DOI: https://doi.org/10.1038/s41588-019-0562-0  
 
 **About the paper:**  
 Here we identify a new mutational mechanism in cancer by with aberrant integration of L1 elements promote chromosomal rearrangements such as Megabase-size genomic deletions that on occasion remove tumour suppressor genes, contributing to cancer progression. *I catalogued the retrotransposition events of LINE-1.*  
