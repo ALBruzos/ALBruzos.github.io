@@ -8,18 +8,18 @@ author_profile: true
 
 ### CURRENT POSITION
 
-_2021_ – 	    :	**Postdoctoral researcher.**  
+_09/2021_ – 	    :	**Postdoctoral researcher.**  
 :   *Institution:* [The Francis Crick Institute](https://www.crick.ac.uk/) and [University College of London](https://www.ucl.ac.uk/), United Kingdom.  
 :   *Duties:* bioinformatics postdoc  
 :   *Supervisor/s:* Veronica Kinsler  
 
 ### PREVIOUS POSITIONS
-_2018 – 2021:_ **Predoctoral researcher.**  
+_03/2018 – 09/2021:_ **Predoctoral researcher.**  
 :   *Institution:* [University of Santiago de Compostela](https://www.usc.es/gl), Spain.  
 :   *Duties:* continuation of doctoral studies  
 :   *Supervisor/s:* Jose M. C. Tubío and Seila Díaz Costas  
 
-_2016 – 2018:_ **Predoctoral researcher.**  
+_09/2016 – 03/2018:_ **Predoctoral researcher.**  
 :   *Institution:* [University of Vigo](https://www.uvigo.gal/en), Spain.  
 :   *Duties:* doctoral studies  
 :   *Supervisor/s:* Jose M. C. Tubío and Seila Díaz Costas  
@@ -32,6 +32,7 @@ _Fall 2014:_ **Museum staff**.
 
 _Summer 2014:_ **Research Assistant**.  
 :   *Institution:* Evolutionary Biology and Ecology Department, [Université Libre de Bruxelles](https://www.ulb.be/en), Belgium.  
+
 _Summer 2013:_ **Childminder of a French boy**.  
 :   *Institution:* Aupair World Organization, France.  
 
