@@ -11,8 +11,11 @@ citation: 'Álvarez, E. G. et al. (2021). &quot;Aberrant integration of Hepatit
 
 <img src='/files/papers/PAPER_NatureComms_screenshot.png' /> 
 
-**Alicia's Citation:**  
+**Alicia's citation:**  
 Álvarez, E. G. et al. (includes Bruzos A.L.). 2021. "Aberrant integration of Hepatitis B virus DNA promotes major restructuring of human hepatocellular carcinoma genome architecture." <i>Nature Communications</i>, 12:6910.  IF(2021) = 17.694.
+
+**All authors citation:**  
+Álvarez, EG; Demeulemeester, J; Otero, P; Jolly, C; García-Souto, D; Pequeño-Valtierra, A; Zamora, J; Tojo, M; Temes, J; Baez-Ortega, A; Rodriguez-Martin, B; Oitaben, A; Bruzos, AL*; Martínez-Fernández, M; Haase, K; Zumalave, S; Abal, R; Rodríguez-Castro, J; Rodriguez-Casanova, A; Diaz-Lagares, A; Li, Y; Raine, KM; Butler, AP; Otero, I; Ono, A; Aikata, H; Chayama, K; Ueno, M; Hayami, S; Yamaue, H; Maejima, K; Blanco, MG; Forns, X; Rivas, C; Ruiz-Bañobre, J; Pérez-del-Pulgar, S; Torres-Ruiz, R; Rodriguez-Perales, S: Garaigorta, U; Campbell, PJ; Nakagawa, H; Van Loo, P; Tubio, JMC. 2021. “Aberrant integration of Hepatitis B virus DNA promotes major restructuring of human hepatocellular carcinoma genome architecture.” Nature Communications, 12:6910. IF(2021) = 17.694.  
 
 **About the paper:**  
 Here, we identify and characterize a remarkable mutational mechanism in human hepatocellular carcinoma caused by Hepatitis B virus, by which DNA molecules from the virus are inserted into the tumour genome causing dramatic changes in its configuration, including non-homologous chromosomal fusions and megabase-size telomeric deletions. *I participated in the wet-lab validation of the mechanism.*  
