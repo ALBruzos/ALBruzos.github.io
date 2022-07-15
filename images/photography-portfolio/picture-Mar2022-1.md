@@ -10,7 +10,8 @@ Description: Photography of Alicia L. Bruzos <br/>
 Affiliation: The Francis Crick Institute, United Kingdom <br/>
 Date: March 2022 <br/>
 File size: 546KB <br/>
-Copyright: NA <br/> 
+Copyright: The Francis Crick Institute, United Kingdom <br/> 
+Comments: The photo can be used elsewhere and the credit line is ‘Michael Bowles | The Francis Crick Institute’. <br/> 
 
 ### Image file: <br/>
 <img src='/images/photography-portfolio/AliciaLBruzos-TheFrancisCrickInstitute-Mar2022-1.jpg' width="500">  
