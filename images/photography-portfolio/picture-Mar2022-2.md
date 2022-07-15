@@ -1,6 +1,3 @@
-
-
-
 ---
 title: "Photography of Alicia L. Bruzos (March 2022) version 2"
 excerpt: "Photography of Alicia L. Bruzos at The Francis Crick Institute (United Kingdom) in March 2022 <br/><img src='/images/photography-portfolio/AliciaLBruzos-TheFrancisCrickInstitute-Mar2022-2.jpg'>"
