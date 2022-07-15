@@ -5,10 +5,12 @@ collection: portfolio
 permalink: /images/photography-portfolio/AliciaLBruzos-UniversidadedeSantiago-Feb2020
 ---
 
-Photography of Alicia L. Bruzos at Universidade de Santiago de Compostela in February 2020 <br/>
-Description:  
-File size:  
-Copyright: This work is ...  
+### Photography of Alicia L. Bruzos <br/>
+Description: Photography of Alicia L. Bruzos <br/>
+Affiliation: Universidade de Santiago de Compostela <br/>
+Date: February 2020 <br/>
+File size: 191KB <br/>
+Copyright: NA <br/> 
 
 <img src='/images/phography-portfolio/AliciaLBruzos-UniversidadedeSantiago-Feb2020.jpg'>
 
