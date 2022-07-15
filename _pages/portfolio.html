@@ -7,15 +7,22 @@ author_profile: true
 
 {% include base_path %}
 
-Alicia L. Bruzos has contributed to the media file repository making available public domain and freely licensed educational media content.<br/>
-<a href="https://commons.wikimedia.org/w/index.php?title=Special:ListFiles/AliciaLBruzos&ilshowall=1" target="_blank">Check here her contributions!</a> <br/>
+Alicia L. Bruzos has contributed to the media file repository making available public domain and freely licensed educational media content. 
+<a href="https://commons.wikimedia.org/w/index.php?title=Special:ListFiles/AliciaLBruzos&ilshowall=1" target="_blank">Check here her contributions!</a> <br/><br/>
+
+
+
+Professional photographies of Alicia L. Bruzos for media or conference advertising:<br/>
 
 {% for post in site.portfolio %}
   {% include archive-single.html %}
 {% endfor %}
 Footer
 
-This is the third test.  
+{% for post in site.images.portfolio %}
+  {% include archive-single.html %}
+{% endfor %}
+Footer
 
 {% for post in site.images.photography-portfolio %}
   {% include archive-single.html %}
