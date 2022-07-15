@@ -1,6 +1,6 @@
 ---
 title: "Photography of Alicia L. Bruzos (June 2019) - sequencing"
-excerpt: "Photography of Alicia L. Bruzos at Universidade de Santiago de Compostela in June 2019 <br/><img src='/images/photography-portfolio/AliciaLBruzos-UniversidadedeSantiago-Jun2019-sequencing.png'>"
+excerpt: "Photography of Alicia L. Bruzos at Universidade de Santiago de Compostela in June 2019 - seqeuncing <br/><img src='/images/photography-portfolio/AliciaLBruzos-UniversidadedeSantiago-Jun2019-sequencing.png'>"
 collection: portfolio
 permalink: /images/photography-portfolio/AliciaLBruzos-UniversidadedeSantiago-Jun2019-sequencing
 ---
