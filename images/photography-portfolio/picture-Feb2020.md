@@ -7,7 +7,7 @@ permalink: /images/photography-portfolio/AliciaLBruzos-UniversidadedeSantiago-Fe
 
 ### Details: <br/>
 Description: Photography of Alicia L. Bruzos <br/>
-Affiliation: Universidade de Santiago de Compostela <br/>
+Affiliation: Universidade de Santiago de Compostela, Spain <br/>
 Date: February 2020 <br/>
 File size: 191KB <br/>
 Copyright: NA <br/> 
