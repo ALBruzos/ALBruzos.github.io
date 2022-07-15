@@ -13,5 +13,6 @@ File size: 191KB <br/>
 Copyright: NA <br/> 
 
 <img src='images/photography-portfolio/AliciaLBruzos-UniversidadedeSantiago-Feb2020.jpg' width="500" height="600">  
+<img src='images/photography-portfolio/AliciaLBruzos-UniversidadedeSantiago-Feb2020.jpg' width="500">  
 
 <img src='/images/TiraFotos_cientifica-col_AliciaLBruzos.png'>  
