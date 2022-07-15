@@ -1,6 +1,6 @@
 ---
 title: "Photography of Alicia L. Bruzos (November 2021) version 2"
-excerpt: "Photography of Alicia L. Bruzos at Universidade de Santiago de Compostela in February 2020 <br/><img src='AliciaLBruzos-TheFrancisCrickInstitute-Nov2021-bioinformatics-2.jpeg'>"
+excerpt: "Photography of Alicia L. Bruzos (November 2021) version 2 <br/><img src='AliciaLBruzos-TheFrancisCrickInstitute-Nov2021-bioinformatics-2.jpeg'>"
 collection: portfolio
 permalink: /images/photography-portfolio/AliciaLBruzos-TheFrancisCrickInstitute-Nov2021-bioinformatics-2
 ---
