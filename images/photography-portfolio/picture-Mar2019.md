@@ -6,8 +6,8 @@ permalink: /images/photography-portfolio/AliciaLBruzos-UniversidadedeSantiago-Ma
 ---
 
 ### Details: <br/>
-Description: Photography of Alicia L. Bruzos - sequencing <br/>
-Affiliation: Universidade de Santiago de Compostela <br/>
+Description: Photography of Jose M.C. Tubio (left), Alicia L. Bruzos (center) and Seila Díaz Costas (right) <br/>
+Affiliation: Universidade de Santiago de Compostela, Spain <br/>
 Date: June 2019 <br/>
 File size: 2,3MB <br/>
 Copyright: NA <br/> 
