@@ -46,6 +46,8 @@ Others
 
 > Research publications which I co-authored were mentioned in more than 100 news in more than 40 different newspapers. In the following table you can check some of them:
 
+TEST
+[Un estudio desvela que el cáncer se contagia entre algunos animales](https://www.lavozdegalicia.es/noticia/sociedad/2022/01/17/estudio-desvela-cancer-contagia-animales/00031642448497970386930.htm){target="_blank"}
 
 | News date | Newspaper or media | Headline and link | 
 |  ---------------- | ---------------- | ---------------- |
