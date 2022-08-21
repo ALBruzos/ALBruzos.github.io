@@ -46,9 +46,6 @@ Others
 
 > Research publications which I co-authored were mentioned in more than 100 news in more than 40 different newspapers. In the following table you can check some of them:
 
-TEST
-[Un estudio desvela que el cáncer se contagia entre algunos animales](https://www.lavozdegalicia.es/noticia/sociedad/2022/01/17/estudio-desvela-cancer-contagia-animales/00031642448497970386930.htm){target="_blank"}
-
 | News date | Newspaper or media | Headline and link | 
 |  ---------------- | ---------------- | ---------------- |
 | **2022**-12-18| La Voz de Galicia | **[Un estudio desvela que el cáncer se contagia entre algunos animales](https://www.lavozdegalicia.es/noticia/sociedad/2022/01/17/estudio-desvela-cancer-contagia-animales/00031642448497970386930.htm)** |
@@ -153,5 +150,7 @@ TEST
 | 2017-10-13| iPac| **[Los XIV Premios al Mejor Panel de ForoAcui recaen en un trabajo sobre decodificación del C. edule y el cultivo de ostra en Venezuela](http://www.ipacuicultura.com/noticias/ultima_hora/58343/los_xiv_premios_al_mejor_panel_de_foroacui_recaen_en_un_trabajo_sobre_decodificacion_del_c_edule_y_el_cultivo_de_ostra_en_venezuela.html)** |
 
 <img src='/images/TiraFotos_1_media_AliciaLBruzos.png'>  
+
+Check my [Photography portfolio](https://albruzos.github.io/portfolio/)
 
 [Back to CV](https://albruzos.github.io/cv/)
