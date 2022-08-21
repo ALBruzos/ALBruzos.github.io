@@ -10,8 +10,9 @@ author_profile: true
 
 <img src='/images/TiraFotos_1_media_AliciaLBruzos.png'>  
 
-ALICIA IN THE NEWS:
-==
+
+<center> <h2>Dr. Alicia L. Bruzos in the news</h2> </center>
+
 
 TV
 ====
@@ -39,12 +40,15 @@ Others
 ====
 **Official invitation to the regional government**. Meeting with the President of Xunta de Galicia chaired by Alberto Núñez Feijóo and the Minister of Economy, Business and Innovation chaired by Francisco Conde López *(19/02/2020)*. [Official picture](https://twitter.com/FeijooGalicia/status/1230144864978898944)  
 
-MY SCIENCE IN THE NEWS:
-==
+
+
+<center> <h2>MY SCIENCE IN THE NEWS</h2> </center>
+
 > Research publications which I co-authored were mentioned in more than 100 news in more than 40 different newspapers. In the following table you can check some of them:
 
 
-| News date| Newspaper or media| Headline and link| 
+| News date | Newspaper or media | Headline and link | 
+|  ---------------- | ---------------- | ---------------- |
 | 2022-12-18| La Voz de Galicia | [Un estudio desvela que el cáncer se contagia entre algunos animales](https://www.lavozdegalicia.es/noticia/sociedad/2022/01/17/estudio-desvela-cancer-contagia-animales/00031642448497970386930.htm) |
 | 2022-12-19| El Correo Gallego | [Investigadores del CIMUS: el cáncer es contagioso entre algunos animales](https://www.elcorreogallego.es/galicia/investigadores-del-cimus-el-cancer-es-contagioso-entre-algunos-animales-BG10167161 ) |
 | 2022-12-19| La Sexta – sección tecnoxplora | [Cómo se propaga un cáncer contagioso entre diferentes especies de almejas](https://www.lasexta.com/tecnologia-tecnoxplora/sinc/como-propaga-cancer-contagioso-diferentes-especies-almejas_2022012361ed0a75a635ca000101fe60.html) |
@@ -144,7 +148,7 @@ MY SCIENCE IN THE NEWS:
 | 2019-10-11| iPac| [El berberecho, protagonista de los XVI Premios al Mejor Panel de XXII ForoAcui](http://www.ipacuicultura.com/noticias/ultima_hora/73469/el_berberecho_protagonista_de_los__xvi_premios_al_mejor_panel_de_xxii_foroacui.html) |
 | 2017-10-13| MisPeces| [Concluye la XX edición del ForoACUI con miras a celebrar la siguiente en el Pescanova Biomarine Center](http://www.mispeces.com/nav/actualidad/noticias/noticia-detalle/Concluye-la-XX-edicin-del-ForoACUI-con-miras-a-celebrar-la-siguiente-en-el-Pescanova-Biomarine-Center/#prettyPhoto) |
 | 2017-10-31| iPac| [Un trabajo del Centro Singular Marino ofrece los primeros pasos para descodificar el genoma del berberecho ](http://www.ipacuicultura.com/noticias/en_portada/58663/un_trabajo_del_centro_singular_marino_ofrece_los_primeros_pasos_para_descodificar_el_genoma_del_berberecho.html) |
-| 2017-10-13| iPac| [Los XIV Premios al Mejor Panel de ForoAcui recaen en un trabajo sobre decodificación del C. edule y el cultivo de ostra en Venezuela](http://www.ipacuicultura.com/noticias/ultima_hora/58343/los_xiv_premios_al_mejor_panel_de_foroacui_recaen_en_un_trabajo_sobre_decodificacion_del_c_edule_y_el_cultivo_de_ostra_en_venezuela.html) |![image](https://user-images.githubusercontent.com/15688556/185786058-00fd3fdc-b2e0-4ea9-ac8f-7ba50845537c.png)
+| 2017-10-13| iPac| [Los XIV Premios al Mejor Panel de ForoAcui recaen en un trabajo sobre decodificación del C. edule y el cultivo de ostra en Venezuela](http://www.ipacuicultura.com/noticias/ultima_hora/58343/los_xiv_premios_al_mejor_panel_de_foroacui_recaen_en_un_trabajo_sobre_decodificacion_del_c_edule_y_el_cultivo_de_ostra_en_venezuela.html) |
 
 <img src='/images/TiraFotos_1_media_AliciaLBruzos.png'>  
 
