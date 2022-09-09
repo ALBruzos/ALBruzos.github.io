@@ -12,7 +12,7 @@ redirect_from:
 Education
 =======
 **PhD. in Molecular Medicine**, Universidade de Santiago de Compostela (CiMUS institute), Spain.  
-:   *2016 – 2022* <sup>expected</sup>  
+:   *2016 – 2022*
 :   Specialization in Cancer.  
 :   Title of Doctoral Thesis: _"Evolution of bivalve transmissible cancers"_  
   
