@@ -149,8 +149,6 @@ Others
 
 
 <img src='/images/ContactMe_v1.png'>  
-[Get in touch with me](https://albruzos.github.io/contact)
-
-Check my [Photography portfolio](https://albruzos.github.io/portfolio/)
+[Get in touch with me](https://albruzos.github.io/contact) | [Photography portfolio](https://albruzos.github.io/portfolio/)
 
 [Back to CV](https://albruzos.github.io/cv/)
