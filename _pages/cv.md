@@ -73,7 +73,7 @@ International research stays: 3 (United States, Ireland and South Korea)
 | [0000-0003-4362-545X](https://orcid.org/0000-0003-4362-545X) | [D-7235-2018](https://publons.com/researcher/1404866/alicia-l-bruzos/) | [57214752778](https://www.scopus.com/authid/detail.uri?authorId=57214752778) |
 
 
-### Publications <i class="fa-regular fa-newspaper"></i>
+### Publications <i class="fa fa-fw fa-paste"></i>
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
