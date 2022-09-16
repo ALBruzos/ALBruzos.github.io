@@ -70,12 +70,12 @@ var addressPoints = [
     3.87672
   ],
   [
-    "Hinxton-Cambridge, United Kingdom:\n 2019 - Evolution and Ecology of Cancer. Wellcome Genome Campus",
+    "Hinxton-Cambridge, UK:\n 2019 - Evolution and Ecology of Cancer. Wellcome Genome Campus",
     52.0848693,
     0.1792608
   ],
   [
-    "Oxford, United Kingdom:\n 2022 - IX SRUK/CERU International Symposium",
+    "Oxford, UK:\n 2022 - IX SRUK/CERU International Symposium",
     51.75202,
     -1.25773
   ],
