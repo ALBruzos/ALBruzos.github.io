@@ -79,7 +79,7 @@ International research stays: 3 (United States, Ireland and South Korea)
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-### Conferences <i class="fa fa-users" aria-hidden="true"></i>
+### Conferences <i class="fa fa-bullhorn" aria-hidden="true"></i>
 
 Number of talks: 14  
 Number of posters: 12  
@@ -87,7 +87,7 @@ Number of awards: 3
 
 Full detailed list can be checked [here](https://albruzos.github.io/talks/)  
 
-### Mentoring, Teaching and Outreach <i class="fa fa-fw fa-edit"></i> <i class="fa fa-bullhorn" aria-hidden="true"></i>
+### Mentoring, Teaching and Outreach <i class="fa fa-users" aria-hidden="true"></i>
 
 Number of supervised students: 4 [More info](https://albruzos.github.io/teaching/supervision)      
 Number of teaching hours: 90 [More info](https://albruzos.github.io/teaching/university-teaching)  
