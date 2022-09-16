@@ -9,7 +9,7 @@ redirect_from:
 
 <img src='/images/1_TiraFotosPhD-AliciaLBruzos.png'>  
 
-<i class="fa-solid fa-graduation-cap"></i> Education
+<i class="fa fa-graduation-cap" aria-hidden="true"></i> Education
 =======
 **PhD. in Molecular Medicine**, Universidade de Santiago de Compostela (CiMUS institute), Spain.  
 :   *2016 – 2022*
