@@ -99,7 +99,7 @@ Full detailed list can be checked [here](https://albruzos.github.io/skills-certi
 
 ---
 
-Awards <i class="fa-solid fa-trophy"></i>
+Awards <i class="fa fa-fw fa-trophy"></i> 
 ======
 4 scientific prizes  
 2 litterary prizes  
