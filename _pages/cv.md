@@ -65,7 +65,7 @@ International research stays: 3 (United States, Ireland and South Korea)
 
 ---
 
-<i class="fa-solid fa-dna"></i> Research and Academia
+<i class="fa fa-binoculars" aria-hidden="true"></i> Research and Academia
 ======
 
 | ORCID | WOK ResearcherID | Scopus Author ID |
@@ -86,7 +86,7 @@ Number of awards: 3
 
 Full detailed list can be checked [here](https://albruzos.github.io/talks/)  
 
-### Mentoring, Teaching and Outreach <i class="fa fa-fw fa-edit"></i>
+### Mentoring, Teaching and Outreach <i class="fa fa-fw fa-edit"></i> <i class="fa fa-bullhorn" aria-hidden="true"></i>
 
 Number of supervised students: 4 [More info](https://albruzos.github.io/teaching/supervision)      
 Number of teaching hours: 90 [More info](https://albruzos.github.io/teaching/university-teaching)  
@@ -115,7 +115,7 @@ Grants and Fellowships <i class="fa-solid fa-award"></i>
 
 ---
 
-Institutional citizenship <i class="fa-solid fa-building-columns"></i>
+Institutional citizenship <i class="fa-solid fa-building-columns"></i> <i class="fa fa-university" aria-hidden="true"></i>
 ======
 
 ### Service
