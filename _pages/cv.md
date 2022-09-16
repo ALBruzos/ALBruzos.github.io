@@ -31,9 +31,9 @@ redirect_from:
 [More info](https://albruzos.github.io/education/) 
 
 
-### Languages <i class="fa-solid fa-globe"></i>
+### Languages <i class="fa fa-comments" aria-hidden="true"></i>
 
-| Language <i class="fa-solid fa-comments"></i> | Level<sup>*</sup> | Certification/s |
+| Language | Level<sup>*</sup> | Certification/s |
 | ------------- | ------------- | ------------- | 
 | **English** | C1 | IELTS certification in July 2021; CAE certification in December 2014 |
 | **French** | B2 | DELF certification in May 2020 |
@@ -58,7 +58,7 @@ _2018 – 2021:_ **Predoctoral researcher.**
 
 [Previous positions](https://albruzos.github.io/jobs/)  
 
-### RESEARCH STAYS AS A VISITING SCIENTIST
+### RESEARCH STAYS AS A VISITING SCIENTIST <i class="fa fa-globe" aria-hidden="true"></i>
 Number of research stays: 4  
 International research stays: 3 (United States, Ireland and South Korea)  
 [More info](https://albruzos.github.io/jobs/)  
@@ -93,8 +93,7 @@ Number of teaching hours: 90 [More info](https://albruzos.github.io/teaching/uni
 Number of outreach activities: 17 [More info](https://albruzos.github.io/outreach/)  
 Number of interviews: 9 [More info](https://albruzos.github.io/media/)  
 
-### Skills, training courses and certifications <i class="fa-solid fa-star"></i>
-
+### Skills, training courses and certifications <i class="fa fa-wrench" aria-hidden="true"></i> 
 Full detailed list can be checked [here](https://albruzos.github.io/skills-certifications/)
 
 ---
@@ -106,7 +105,7 @@ Awards <i class="fa fa-fw fa-trophy"></i>
 1 drawing prize  
 [More info](https://albruzos.github.io/awardsgrants/awards/)
 
-Grants and Fellowships <i class="fa-solid fa-award"></i>
+Grants and Fellowships <i class="fa fa-star" aria-hidden="true"></i>
 ======
 2 grants  
 2 fellowships  
@@ -115,7 +114,7 @@ Grants and Fellowships <i class="fa-solid fa-award"></i>
 
 ---
 
-Institutional citizenship <i class="fa-solid fa-building-columns"></i> <i class="fa fa-university" aria-hidden="true"></i>
+Institutional citizenship <i class="fa fa-university" aria-hidden="true"></i>
 ======
 
 ### Service
@@ -137,7 +136,7 @@ Institutional citizenship <i class="fa-solid fa-building-columns"></i> <i class=
 
 ---
 
-Contact <i class="fa-solid fa-envelopes-bulk"></i>
+Contact <i class="fa fa-envelope" aria-hidden="true"></i>
 ======
 
 [Get in touch with me](https://albruzos.github.io/contact) - [About Me](https://albruzos.github.io/) 
