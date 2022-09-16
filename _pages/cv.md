@@ -47,7 +47,7 @@ redirect_from:
 
 <i class="fa fa-fw fa-briefcase "></i> Work experience
 =======
-_2021 – ongoing:_	**Research Assistant (bioinformatics technician).**  
+_2021 – ongoing:_	**Research Assistant.**  
 :   *Institution:* [The Francis Crick Institute](https://www.crick.ac.uk/) and [University College of London](https://www.ucl.ac.uk/), United Kingdom.  
 :   *Duties:* bioinformatical analysis  
 :   *Supervisor/s:* Veronica Kinsler  
