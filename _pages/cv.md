@@ -98,14 +98,14 @@ Full detailed list can be checked [here](https://albruzos.github.io/skills-certi
 
 ---
 
-Awards <i class="fa fa-fw fa-trophy"></i> 
+<i class="fa fa-fw fa-trophy"></i> Awards 
 ======
 4 scientific prizes  
 2 litterary prizes  
 1 drawing prize  
 [More info](https://albruzos.github.io/awardsgrants/awards/)
 
-Grants and Fellowships <i class="fa fa-star" aria-hidden="true"></i>
+<i class="fa fa-star" aria-hidden="true"></i> Grants and Fellowships 
 ======
 2 grants  
 2 fellowships  
@@ -114,7 +114,7 @@ Grants and Fellowships <i class="fa fa-star" aria-hidden="true"></i>
 
 ---
 
-Institutional citizenship <i class="fa fa-university" aria-hidden="true"></i>
+<i class="fa fa-university" aria-hidden="true"></i> Institutional citizenship 
 ======
 
 ### Service
@@ -136,7 +136,7 @@ Institutional citizenship <i class="fa fa-university" aria-hidden="true"></i>
 
 ---
 
-Contact <i class="fa fa-envelope" aria-hidden="true"></i>
+<i class="fa fa-envelope" aria-hidden="true"></i> Contact 
 ======
 
 [Get in touch with me](https://albruzos.github.io/contact) - [About Me](https://albruzos.github.io/) 
