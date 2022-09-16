@@ -137,9 +137,9 @@ Full detailed list can be checked [here](https://albruzos.github.io/skills-certi
 
 ---
 
-<i class="fa fa-user-circle-o" aria-hidden="true"></i> About me
+<i class="fa fa-user" aria-hidden="true"></i> About me
 ======
-
+|:-------------:|:-------------:|:-------------:|
 [Profile/Bio](https://albruzos.github.io/about/) | [Autobiography](https://albruzos.github.io/biography/) | [Photography portfolio](https://albruzos.github.io/portfolio/)
 
 <i class="fa fa-envelope" aria-hidden="true"></i> Contact 
