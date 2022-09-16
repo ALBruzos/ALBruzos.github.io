@@ -15,7 +15,8 @@ redirect_from:
 :   *2016 – 2022*
 :   Specialization in Cancer.  
 :   Title of Doctoral Thesis: _"Evolution of bivalve transmissible cancers"_  
-  
+:   Deposit date: 10/06/2022 | Defense date: 07/09/2022    
+
 **MSc. in Bioinformatics**, Universitat Autònoma de Barcelona, Spain.  
 :   *2015 – 2016*	  
 :   Specialization (elective module) in Genomics.  
