@@ -15,7 +15,7 @@ redirect_from:
 :   *2016 – 2022*
 :   Specialization in Cancer.  
 :   Title of Doctoral Thesis: _"Evolution of bivalve transmissible cancers"_  
-:   Deposit date: 10/06/2022 | Defense date: 07/09/2022    
+:   Deposit date: 10/06/2022; Defense date: 07/09/2022    
 
 **MSc. in Bioinformatics**, Universitat Autònoma de Barcelona, Spain.  
 :   *2015 – 2016*	  
@@ -137,8 +137,12 @@ Full detailed list can be checked [here](https://albruzos.github.io/skills-certi
 
 ---
 
+<i class="fa fa-user-circle-o" aria-hidden="true"></i> About me
+======
+
+[Profile/Bio](https://albruzos.github.io/about/) | [Autobiography](https://albruzos.github.io/biography/) | [Photography portfolio](https://albruzos.github.io/portfolio/)
+
 <i class="fa fa-envelope" aria-hidden="true"></i> Contact 
 ======
 
-[Get in touch with me](https://albruzos.github.io/contact) - [About Me](https://albruzos.github.io/) 
-
+[Get in touch with me](https://albruzos.github.io/contact)
