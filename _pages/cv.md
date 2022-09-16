@@ -9,7 +9,7 @@ redirect_from:
 
 <img src='/images/1_TiraFotosPhD-AliciaLBruzos.png'>  
 
-<i class="fa-solid fa-user-graduate"></i> Education
+<i class="fa-solid fa-graduation-cap"></i> Education
 =======
 **PhD. in Molecular Medicine**, Universidade de Santiago de Compostela (CiMUS institute), Spain.  
 :   *2016 – 2022*
@@ -31,9 +31,9 @@ redirect_from:
 [More info](https://albruzos.github.io/education/) 
 
 
-### Languages
+### Languages <i class="fa-solid fa-globe"></i>
 
-| Language | Level<sup>*</sup> | Certification/s |
+| Language <i class="fa-solid fa-comments"></i> | Level<sup>*</sup> | Certification/s |
 | ------------- | ------------- | ------------- | 
 | **English** | C1 | IELTS certification in July 2021; CAE certification in December 2014 |
 | **French** | B2 | DELF certification in May 2020 |
@@ -65,7 +65,7 @@ International research stays: 3 (United States, Ireland and South Korea)
 
 ---
 
-Research and Academia
+<i class="fa-solid fa-dna"></i> Research and Academia
 ======
 
 | ORCID | WOK ResearcherID | Scopus Author ID |
@@ -73,12 +73,12 @@ Research and Academia
 | [0000-0003-4362-545X](https://orcid.org/0000-0003-4362-545X) | [D-7235-2018](https://publons.com/researcher/1404866/alicia-l-bruzos/) | [57214752778](https://www.scopus.com/authid/detail.uri?authorId=57214752778) |
 
 
-### Publications
+### Publications <i class="fa-regular fa-newspaper"></i>
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-### Conferences
+### Conferences <i class="fa-solid fa-plane-departure"></i>
 
 Number of talks: 14  
 Number of posters: 12  
@@ -86,27 +86,27 @@ Number of awards: 3
 
 Full detailed list can be checked [here](https://albruzos.github.io/talks/)  
 
-### Mentoring, Teaching and Outreach
+### Mentoring, Teaching and Outreach <i class="fa-solid fa-chalkboard-user"></i>
 
 Number of supervised students: 4 [More info](https://albruzos.github.io/teaching/supervision)      
 Number of teaching hours: 90 [More info](https://albruzos.github.io/teaching/university-teaching)  
 Number of outreach activities: 17 [More info](https://albruzos.github.io/outreach/)  
 Number of interviews: 9 [More info](https://albruzos.github.io/media/)  
 
-### Skills, training courses and certifications
+### Skills, training courses and certifications <i class="fa-solid fa-star"></i>
 
 Full detailed list can be checked [here](https://albruzos.github.io/skills-certifications/)
 
 ---
 
-Awards
+Awards <i class="fa-solid fa-trophy"></i>
 ======
 4 scientific prizes  
 2 litterary prizes  
 1 drawing prize  
 [More info](https://albruzos.github.io/awardsgrants/awards/)
 
-Grants and Fellowships
+Grants and Fellowships <i class="fa-solid fa-award"></i>
 ======
 2 grants  
 2 fellowships  
@@ -115,7 +115,7 @@ Grants and Fellowships
 
 ---
 
-Institutional citizenship
+Institutional citizenship <i class="fa-solid fa-building-columns"></i>
 ======
 
 ### Service
@@ -137,7 +137,7 @@ Institutional citizenship
 
 ---
 
-Contact
+Contact <i class="fa-solid fa-envelopes-bulk"></i>
 ======
 
 [Get in touch with me](https://albruzos.github.io/contact) - [About Me](https://albruzos.github.io/) 
