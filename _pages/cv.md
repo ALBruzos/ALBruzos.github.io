@@ -9,7 +9,7 @@ redirect_from:
 
 <img src='/images/1_TiraFotosPhD-AliciaLBruzos.png'>  
 
-Education
+<i class="fa-solid fa-user-graduate"></i> Education
 =======
 **PhD. in Molecular Medicine**, Universidade de Santiago de Compostela (CiMUS institute), Spain.  
 :   *2016 – 2022*
@@ -44,7 +44,7 @@ Education
 
 ---
 
-Work experience
+<i class="fa fa-fw fa-briefcase "></i> Work experience
 =======
 _2021 – ongoing:_	**Research Assistant (bioinformatics technician).**  
 :   *Institution:* [The Francis Crick Institute](https://www.crick.ac.uk/) and [University College of London](https://www.ucl.ac.uk/), United Kingdom.  
