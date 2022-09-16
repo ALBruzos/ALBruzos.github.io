@@ -51,8 +51,8 @@ var addressPoints = [
   ],
   [
     "Kiel, Germany:\n 2022 - Ocean Health Symposium",
-    52.5170365,
-    13.3888599
+    54.32329,
+    10.12277
   ],
   [
     "Munich, Germany:\n 2022 - 21st ESPD Annual Meeting",
