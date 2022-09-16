@@ -140,21 +140,8 @@ Full detailed list can be checked [here](https://albruzos.github.io/skills-certi
 <i class="fa fa-user" aria-hidden="true"></i> About me
 ======
 
-[Profile/Bio](https://albruzos.github.io/about/) <i class="fa fa-spinner" aria-hidden="true"></i> [Autobiography](https://albruzos.github.io/biography/) <i class="fa fa-spinner" aria-hidden="true"></i> [Photography portfolio](https://albruzos.github.io/portfolio/)  
+[Profile/Bio](https://albruzos.github.io/about/) <i class="fa fa-spinner fa-spin fa-3x fa-fw"></i><span class="sr-only">Loading...</span> [Autobiography](https://albruzos.github.io/biography/) <i class="fa fa-spinner fa-spin fa-3x fa-fw"></i><span class="sr-only">Loading...</span> [Photography portfolio](https://albruzos.github.io/portfolio/)  
 
-<i class="fa fa-spinner fa-spin fa-3x fa-fw"></i>
-<span class="sr-only">Loading...</span>
-
-<i class="fa fa-circle-o-notch fa-spin fa-3x fa-fw"></i>
-<span class="sr-only">Loading...</span>
-
-<i class="fa fa-refresh fa-spin fa-3x fa-fw"></i>
-<span class="sr-only">Loading...</span>
-
-<i class="fa fa-cog fa-spin fa-3x fa-fw"></i>
-<span class="sr-only">Loading...</span>
-<i class="fa fa-spinner fa-pulse fa-3x fa-fw"></i>
-<span class="sr-only">Loading...</span>
 
 <i class="fa fa-envelope" aria-hidden="true"></i> Contact 
 ======
