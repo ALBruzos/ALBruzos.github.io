@@ -14,6 +14,8 @@ author_profile: true
 TV
 =====
 *TVG*. Short interview for the **Midday Newscast** of the regional television of Galicia about the Pan-cancer initiative *(06/02/2020)*. [Watch it here](https://www.youtube.com/watch?v=FpttVkiBLok)  
+<video src="https://user-images.githubusercontent.com/169707/126715420-991ad821-9ac8-4b66-b79e-e0966e0f3a89.mp4" controls="controls" style="max-width: 730px;"></video>
+<video src="https://www.youtube.com/watch?v=FpttVkiBLok" controls="controls" style="max-width: 730px;"></video>
 
 Radio
 =====
