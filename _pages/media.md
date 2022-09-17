@@ -158,3 +158,20 @@ Others
 [Get in touch with me](https://albruzos.github.io/contact) | [Photography portfolio](https://albruzos.github.io/portfolio/)
 
 [Back to CV](https://albruzos.github.io/cv/)
+
+
+<i class="fa fa-television" aria-hidden="true"></i>
+
+<i class="fa fa-music" aria-hidden="true"></i>
+<i class="fa fa-volume-up" aria-hidden="true"></i>
+
+<i class="fa fa-newspaper-o" aria-hidden="true"></i>
+<i class="fa fa-calendar" aria-hidden="true"></i>
+<i class="fa fa-book" aria-hidden="true"></i>
+
+<i class="fa fa-podcast" aria-hidden="true"></i>
+<i class="fa fa-instagram" aria-hidden="true"></i>
+<i class="fa fa-twitch" aria-hidden="true"></i>
+
+<i class="fa fa-university" aria-hidden="true"></i> Government  
+<i class="fa fa-star" aria-hidden="true"></i> Government  
