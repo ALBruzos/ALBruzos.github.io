@@ -16,13 +16,12 @@ author_profile: true
 2022 <i class="fa fa-university" aria-hidden="true"></i><i class="fa fa-university" aria-hidden="true"></i><i class="fa fa-university" aria-hidden="true"></i><i class="fa fa-play-circle" aria-hidden="true"></i>  
 To be continued...
 
-En 2022 añadir dos vídeos? y 2 charlas (PoS y FW)
 
-2018  <i class="fa fa-book" aria-hidden="true"></i> <i class="fa fa-users" aria-hidden="true"></i> 2019 <i class="fa fa-university" aria-hidden="true"></i> <i class="fa fa-users" aria-hidden="true"></i> <i class="fa fa-podcast" aria-hidden="true"></i> <i class="fa fa-play-circle" aria-hidden="true"></i> <i class="fa fa-paint-brush" aria-hidden="true"></i> <i class="fa fa-book" aria-hidden="true"></i> 2020 <i class="fa fa-book" aria-hidden="true"></i> <i class="fa fa-play-circle" aria-hidden="true"></i> <i class="fa fa-book" aria-hidden="true"></i> <i class="fa fa-play-circle" aria-hidden="true"></i> 2021 <i class="fa fa-book" aria-hidden="true"></i> <i class="fa fa-university" aria-hidden="true"></i> <i class="fa fa-university" aria-hidden="true"></i> <i class="fa fa-paint-brush" aria-hidden="true"></i> <i class="fa fa-book" aria-hidden="true"></i> <i class="fa fa-university" aria-hidden="true"></i> <i class="fa fa-university" aria-hidden="true"></i> 2022 <i class="fa fa-university" aria-hidden="true"></i><i class="fa fa-university" aria-hidden="true"></i><i class="fa fa-university" aria-hidden="true"></i><i class="fa fa-play-circle" aria-hidden="true"></i> … to be continued
-
-
-
-**2018**  <i class="fa fa-book" aria-hidden="true"></i> <i class="fa fa-users" aria-hidden="true"></i> **2019** <i class="fa fa-university" aria-hidden="true"></i> <i class="fa fa-users" aria-hidden="true"></i> <i class="fa fa-podcast" aria-hidden="true"></i> <i class="fa fa-play-circle" aria-hidden="true"></i> <i class="fa fa-paint-brush" aria-hidden="true"></i> <i class="fa fa-book" aria-hidden="true"></i> **2020** <i class="fa fa-book" aria-hidden="true"></i> <i class="fa fa-play-circle" aria-hidden="true"></i> <i class="fa fa-book" aria-hidden="true"></i> <i class="fa fa-play-circle" aria-hidden="true"></i> **2021** <i class="fa fa-book" aria-hidden="true"></i> <i class="fa fa-university" aria-hidden="true"></i> <i class="fa fa-university" aria-hidden="true"></i> <i class="fa fa-paint-brush" aria-hidden="true"></i> <i class="fa fa-book" aria-hidden="true"></i> <i class="fa fa-university" aria-hidden="true"></i> <i class="fa fa-university" aria-hidden="true"></i> **2022** <i class="fa fa-university" aria-hidden="true"></i><i class="fa fa-university" aria-hidden="true"></i><i class="fa fa-university" aria-hidden="true"></i><i class="fa fa-play-circle" aria-hidden="true"></i> **… to be continued**
+**2018**  <i class="fa fa-book" aria-hidden="true"></i> <i class="fa fa-users" aria-hidden="true"></i>  
+**2019** <i class="fa fa-university" aria-hidden="true"></i> <i class="fa fa-users" aria-hidden="true"></i> <i class="fa fa-podcast" aria-hidden="true"></i> <i class="fa fa-play-circle" aria-hidden="true"></i> <i class="fa fa-paint-brush" aria-hidden="true"></i> <i class="fa fa-book" aria-hidden="true"></i>  
+**2020** <i class="fa fa-book" aria-hidden="true"></i> <i class="fa fa-play-circle" aria-hidden="true"></i> <i class="fa fa-book" aria-hidden="true"></i> <i class="fa fa-play-circle" aria-hidden="true"></i> <i class="fa fa-paint-brush" aria-hidden="true"></i>  
+**2021** <i class="fa fa-book" aria-hidden="true"></i> <i class="fa fa-university" aria-hidden="true"></i> <i class="fa fa-university" aria-hidden="true"></i> <i class="fa fa-paint-brush" aria-hidden="true"></i> <i class="fa fa-book" aria-hidden="true"></i> <i class="fa fa-university" aria-hidden="true"></i> <i class="fa fa-university" aria-hidden="true"></i>  
+**2022** <i class="fa fa-university" aria-hidden="true"></i> <i class="fa fa-play-circle" aria-hidden="true"></i> <i class="fa fa-university" aria-hidden="true"></i> <i class="fa fa-users" aria-hidden="true"></i> <i class="fa fa-university" aria-hidden="true"></i><i class="fa fa-play-circle" aria-hidden="true"></i> <i class="fa fa-users" aria-hidden="true"></i>  
 
 *Legend:*
 <i class="fa fa-paint-brush" aria-hidden="true"></i> Initiatives 
@@ -41,11 +40,12 @@ En 2022 añadir dos vídeos? y 2 charlas (PoS y FW)
 <i class="fa fa-university" aria-hidden="true"></i> School visits 
 <i class="fa fa-pencil-square-o" aria-hidden="true"></i> Opinion editorials 
 <i class="fa fa-book" aria-hidden="true"></i> Popular Science Articles 
-<i class="fa fa-podcast" aria-hidden="true"></i>Podcast {: .notice}
+<i class="fa fa-podcast" aria-hidden="true"></i>Podcast 
+{: .notice}
 
 ## Full list of outreach activities 
 
-**Initiatives, Videos and Podcasting (9)**
+**<u>Initiatives, Videos and Podcasting</u> (9)**
 
 * **Institutional video** (2022). The Galician initiative ‘Por máis mulleres na ciencia’ consisted on 7 videos recorded to show different roles that women can take in the science of IDIS, from managing or technicians to researchers or leaders. [Watch here](https://youtu.be/npxiCJKXCGo)
 * **3MT video** (2022). The activity #Cuéntame3min is for scientists of all stages and from all STEM areas to record a 3-minute video explaining their research to a non-specialized audience. [Watch here my application](https://www.youtube.com/watch?v=2TYl6BZ-_SA), I was awarded the first place [See here](https://albruzos.github.io/awardsgrants/awards/).  
