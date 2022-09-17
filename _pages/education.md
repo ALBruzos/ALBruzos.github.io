@@ -12,7 +12,8 @@ author_profile: true
 :   *2016 – 2022* 
 :   Specialization in Cancer.  
 :   Title of Doctoral Thesis: _"Evolution of bivalve transmissible cancers"_  
-:   Date of defence: 07-09-2022  
+:   Deposit date: 10-06-2022  
+:   Date of [defence](https://www.youtube.com/watch?v=Ve4BdX4BB1c): 07-09-2022  
 
 [TFM]: ## "Retrotransposons are repetitive elements that are constantly on the move. They copy and insert themselves at new sites in the host genome generating structural variability of potential functional importance for the cancer cell. In this master thesis, we catalogued the full set of L1 germline elements with somatic ativity in the largest cancer dataset available, which consisted of 2,704 cancer samples from 39 different tumour types. Overall, ~46% of analyzed genomes have a least one L1 somatic retrotransposition event and we reported a total of 109 of germline L1 source loci with somatic retrotransposition activity in the cancer genome."  
 **MSc. in Bioinformatics**, Universitat Autònoma de Barcelona, Spain.  
