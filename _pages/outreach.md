@@ -20,17 +20,7 @@ author_profile: true
 <i class="fa fa-play-circle" aria-hidden="true"></i> Videos and short films
 <i class="fa fa-users" aria-hidden="true"></i> General public talks<br> 
 <i class="fa fa-university" aria-hidden="true"></i> School visits 
-<i class="fa fa-commenting" aria-hidden="true"></i> Opinion editorials 
-<i class="fa fa-book" aria-hidden="true"></i> Popular science articles 
-<i class="fa fa-podcast" aria-hidden="true"></i>Podcast 
-{: .notice}
-
-*Legend:*<br>
-<i class="fa fa-paint-brush" aria-hidden="true"></i> Initiatives 
-<i class="fa fa-play-circle" aria-hidden="true"></i> Videos and short films
-<i class="fa fa-users" aria-hidden="true"></i> General public talks 
-<i class="fa fa-university" aria-hidden="true"></i> School visits<br> 
-<i class="fa fa-commenting" aria-hidden="true"></i> Opinion editorials 
+<i class="fa fa-comment" aria-hidden="true"></i> Opinion editorials 
 <i class="fa fa-book" aria-hidden="true"></i> Popular science articles 
 <i class="fa fa-podcast" aria-hidden="true"></i>Podcast 
 {: .notice}
@@ -69,7 +59,7 @@ author_profile: true
 * **Workshop for children** (2019). *Monitor* of activities for pupils aged 8-10 organized for 9 primary-school classes in the *International DNA Day* (Colegio Compañía de María, Santiago de Compostela, Spain). [Picture Here](https://twitter.com/BruzosAliciaL/status/1121533459720286209)
 
 
-<i class="fa fa-commenting" aria-hidden="true"></i> **<u>Opinion editorials</u> (2) and <i class="fa fa-book" aria-hidden="true"></i> <u>popular science articles</u> (5)**  
+<i class="fa fa-comment" aria-hidden="true"></i>**<u>Opinion editorials</u> (2) and <i class="fa fa-book" aria-hidden="true"></i> <u>popular science articles</u> (5)**  
 * **Opinion editorial** (2022). Brief opinion article for the regional newspaper La Voz de Galicia entitled *“El cáncer se contagia en el mar”*. La Voz de Galicia (20/01/2022, page 13). 
 * **Popular science article** (2021). Overview about cancers that can be contagious. Article entitled *“El cáncer se puede contagiar (al menos en animales)”* published in [The Conversation](https://theconversation.com/es)(open access news source). [Read Here](https://theconversation.com/
 el-cancer-se-puede-contagiar-al-menos-en-animales-163529)
