@@ -25,6 +25,16 @@ author_profile: true
 <i class="fa fa-podcast" aria-hidden="true"></i>Podcast 
 {: .notice}
 
+*Legend:*<br>
+<i class="fa fa-paint-brush" aria-hidden="true"></i> Initiatives 
+<i class="fa fa-play-circle" aria-hidden="true"></i> Videos and short films
+<i class="fa fa-users" aria-hidden="true"></i> General public talks 
+<i class="fa fa-university" aria-hidden="true"></i> School visits 
+<i class="fa fa-pencil-square-o" aria-hidden="true"></i> Opinion editorials 
+<i class="fa fa-book" aria-hidden="true"></i> Popular science articles 
+<i class="fa fa-podcast" aria-hidden="true"></i>Podcast 
+{: .notice}
+
 ## Full list of outreach activities 
 
 **<u>Initiatives, videos and podcasting</u> (9)**
