@@ -127,6 +127,7 @@ Full detailed list can be checked [here](https://albruzos.github.io/awardsgrants
 ======
 
 ### Service
+* 27/06/2022: _Conference organization_. Member of the organizing and scientific committee for the **5th Crick Postdoc Symposium** in London (United Kingdom) with 160 attendees. The programme comprised two plenary talks, 11 short oral communications, exhibited 38 posters and awarded 4 prizes. 
 * 26-28/05/2021: _Conference organization_. Member of the organizing and scientific committee for the **VIII Youth Researchers Meeting** in Santiago de Compostela (Spain) with 300 attendees. The [programme](https://albruzos.github.io/files/ScientificProgramme_VIII-EncontroMocidadeInvestigadora.pdf) comprised three plenary talks, three parallel sessions gathering 135 short oral communications and exhibited 67 posters. [Watch here the "Awards and closing speech"](https://www.youtube.com/watch?v=oEo8HwLZy2s) or [Check here the news](https://www.linkedin.com/posts/alicialopezbruzos_conferences2021-conference-research-activity-6810986196924207105-O6Qw)  
 * 2021 – 2022: _PhD alumni representative_. Spokeswoman of doctoral students on the **International Doctoral School Direction Committee** (EDIUS). Universidade de Santiago de Compostela, Spain.
 * 2017 – 2018: _PhD alumni representative_. Spokeswoman of doctoral students on the **International Doctoral School Committee** (EIDO) and representative of the **Quality Commission** of the same body. Universidade de Vigo, Spain.
