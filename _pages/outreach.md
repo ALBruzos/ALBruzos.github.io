@@ -6,20 +6,70 @@ author_profile: true
 
 > Commitment to public outreach is central in my career and therefore, I am always willing to participate on activities that engage society with the excitement of science. I have already been involved in activities such as popular science talks and articles, school visits or even a children’s coloring book.
 
-
 <img src='/images/Tira_FotosOutreach_AliciaLBruzos.png'>  
 
-Chronological order:  
-2018  <i class="fa fa-pencil" aria-hidden="true"></i> <i class="fa fa-users" aria-hidden="true"></i> 2019 <i class="fa fa-university" aria-hidden="true"></i> <i class="fa fa-users" aria-hidden="true"></i> <i class="fa fa-podcast" aria-hidden="true"></i> <i class="fa fa-video-camera" aria-hidden="true"></i> <i class="fa fa-paint-brush" aria-hidden="true"></i> <i class="fa fa-pencil" aria-hidden="true"></i> 2020 <i class="fa fa-pencil" aria-hidden="true"></i> <i class="fa fa-video-camera" aria-hidden="true"></i> <i class="fa fa-pencil" aria-hidden="true"></i> <i class="fa fa-video-camera" aria-hidden="true"></i> 2021 <i class="fa fa-pencil" aria-hidden="true"></i> <i class="fa fa-university" aria-hidden="true"></i> <i class="fa fa-university" aria-hidden="true"></i> <i class="fa fa-paint-brush" aria-hidden="true"></i> <i class="fa fa-pencil" aria-hidden="true"></i> <i class="fa fa-university" aria-hidden="true"></i> <i class="fa fa-university" aria-hidden="true"></i> 2022 <i class="fa fa-university" aria-hidden="true"></i><i class="fa fa-university" aria-hidden="true"></i><i class="fa fa-university" aria-hidden="true"></i><i class="fa fa-video-camera" aria-hidden="true"></i> … to be continued
+## Activities in chronological order 
+2018  <i class="fa fa-book" aria-hidden="true"></i> <i class="fa fa-users" aria-hidden="true"></i>  
+2019 <i class="fa fa-university" aria-hidden="true"></i> <i class="fa fa-users" aria-hidden="true"></i> <i class="fa fa-podcast" aria-hidden="true"></i> <i class="fa fa-play-circle" aria-hidden="true"></i> <i class="fa fa-paint-brush" aria-hidden="true"></i> <i class="fa fa-book" aria-hidden="true"></i>  
+2020 <i class="fa fa-book" aria-hidden="true"></i> <i class="fa fa-play-circle" aria-hidden="true"></i> <i class="fa fa-book" aria-hidden="true"></i> <i class="fa fa-play-circle" aria-hidden="true"></i>  
+2021 <i class="fa fa-book" aria-hidden="true"></i> <i class="fa fa-university" aria-hidden="true"></i> <i class="fa fa-university" aria-hidden="true"></i> <i class="fa fa-paint-brush" aria-hidden="true"></i> <i class="fa fa-book" aria-hidden="true"></i> <i class="fa fa-university" aria-hidden="true"></i> <i class="fa fa-university" aria-hidden="true"></i>  
+2022 <i class="fa fa-university" aria-hidden="true"></i><i class="fa fa-university" aria-hidden="true"></i><i class="fa fa-university" aria-hidden="true"></i><i class="fa fa-play-circle" aria-hidden="true"></i>  
+To be continued...
 
-Legend:
+
+
+2018  <i class="fa fa-book" aria-hidden="true"></i> <i class="fa fa-users" aria-hidden="true"></i> 2019 <i class="fa fa-university" aria-hidden="true"></i> <i class="fa fa-users" aria-hidden="true"></i> <i class="fa fa-podcast" aria-hidden="true"></i> <i class="fa fa-play-circle" aria-hidden="true"></i> <i class="fa fa-paint-brush" aria-hidden="true"></i> <i class="fa fa-book" aria-hidden="true"></i> 2020 <i class="fa fa-book" aria-hidden="true"></i> <i class="fa fa-play-circle" aria-hidden="true"></i> <i class="fa fa-book" aria-hidden="true"></i> <i class="fa fa-play-circle" aria-hidden="true"></i> 2021 <i class="fa fa-book" aria-hidden="true"></i> <i class="fa fa-university" aria-hidden="true"></i> <i class="fa fa-university" aria-hidden="true"></i> <i class="fa fa-paint-brush" aria-hidden="true"></i> <i class="fa fa-book" aria-hidden="true"></i> <i class="fa fa-university" aria-hidden="true"></i> <i class="fa fa-university" aria-hidden="true"></i> 2022 <i class="fa fa-university" aria-hidden="true"></i><i class="fa fa-university" aria-hidden="true"></i><i class="fa fa-university" aria-hidden="true"></i><i class="fa fa-play-circle" aria-hidden="true"></i> … to be continued
+
+
+
+**2018**  <i class="fa fa-book" aria-hidden="true"></i> <i class="fa fa-users" aria-hidden="true"></i> **2019** <i class="fa fa-university" aria-hidden="true"></i> <i class="fa fa-users" aria-hidden="true"></i> <i class="fa fa-podcast" aria-hidden="true"></i> <i class="fa fa-play-circle" aria-hidden="true"></i> <i class="fa fa-paint-brush" aria-hidden="true"></i> <i class="fa fa-book" aria-hidden="true"></i> **2020** <i class="fa fa-book" aria-hidden="true"></i> <i class="fa fa-play-circle" aria-hidden="true"></i> <i class="fa fa-book" aria-hidden="true"></i> <i class="fa fa-play-circle" aria-hidden="true"></i> **2021** <i class="fa fa-book" aria-hidden="true"></i> <i class="fa fa-university" aria-hidden="true"></i> <i class="fa fa-university" aria-hidden="true"></i> <i class="fa fa-paint-brush" aria-hidden="true"></i> <i class="fa fa-book" aria-hidden="true"></i> <i class="fa fa-university" aria-hidden="true"></i> <i class="fa fa-university" aria-hidden="true"></i> **2022** <i class="fa fa-university" aria-hidden="true"></i><i class="fa fa-university" aria-hidden="true"></i><i class="fa fa-university" aria-hidden="true"></i><i class="fa fa-play-circle" aria-hidden="true"></i> **… to be continued**
+
+*Legend:*
 <i class="fa fa-paint-brush" aria-hidden="true"></i> Initiatives 
-<i class="fa fa-video-camera" aria-hidden="true"></i> Videos 
+<i class="fa fa-play-circle" aria-hidden="true"></i> Videos 
 <i class="fa fa-users" aria-hidden="true"></i> General public talks 
 <i class="fa fa-university" aria-hidden="true"></i> School visits 
-<i class="fa fa-newspaper-o" aria-hidden="true"></i> Opinion editorials 
-<i class="fa fa-pencil" aria-hidden="true"></i> Popular Science Articles 
+<i class="fa fa-pencil-square-o" aria-hidden="true"></i> Opinion editorials 
+<i class="fa fa-book" aria-hidden="true"></i> Popular Science Articles 
 <i class="fa fa-podcast" aria-hidden="true"></i>Podcast  
+
+
+*Legend:*
+<i class="fa fa-paint-brush" aria-hidden="true"></i> Initiatives 
+<i class="fa fa-play-circle" aria-hidden="true"></i> Videos 
+<i class="fa fa-users" aria-hidden="true"></i> General public talks 
+<i class="fa fa-university" aria-hidden="true"></i> School visits 
+<i class="fa fa-pencil-square-o" aria-hidden="true"></i> Opinion editorials 
+<i class="fa fa-book" aria-hidden="true"></i> Popular Science Articles 
+<i class="fa fa-podcast" aria-hidden="true"></i>Podcast {: .notice}
+
+## Full list of outreach activities 
+
+**Initiatives, Videos and Podcasting (6)**
+
+* **Institutional video** (2022). The Galician initiative ‘Por máis mulleres na ciencia’ consisted on 7 videos recorded to show different roles that women can take in the science of IDIS, from managing or technicians to researchers or leaders. [Watch here](https://youtu.be/npxiCJKXCGo)
+* **Children’s colouring science book** (2021). The project *Scientists Meet the Artists* joined 12 scientists and 12 illustrators to design a series of drawings for children to colour and learn marine scientific concepts. The book was presented on the *World Oceans Day* (June 8th). [Download the book here](https://albruzos.github.io/files/outreach_2021-ScientistsMeetArtists.pdf), [Watch here the presentation day](https://tv.uvigo.es/video/60e852f1fe8ebc541a176b22) or [See children painting](https://twitter.com/campusdomar/status/1408319520893247488)
+* **Research promotional film** (2020). Our regional government financed short films of *outstanding research projects* that were developed in Galicia. [Scuba Cancers](http://www.scubacancers.org/) project in which my doctoral thesis is framed was recorded and I participated with its content preparation and giving a short statement. [Watch here](https://www.youtube.com/watch?v=Ig3-LggH9Rs)
+* **Research promotional short film** (2020). Our research institute (CiMUS) recorded a promotional video with the participation of the authors involved in the *Pan-cancer initiative* when the results were published in high impact journals; my participation involved content edition, recorded statements and laboratory shots. [Watch here](https://www.youtube.com/watch?v=1fm9kL94xn0)
+* **Open doors day** (2019). Participation as an *instructor* in workshops, conferences and debates for kids and adults in the event Ciencia Sigular of CiMUS (Santiago de Compostela, Spain).
+* **Research video** (2019). ASEICA PhD video competition. Youth scientists talk about their *research in three minutes*, I reached more than 11,600 views in Twitter. [Watch here](www.twitter.com/BruzosAliciaL/status/1196606566365089792)
+* **Podcasting**. Realization and production team of the [CiMUSpodcast](https://www.ivoox.com/podcast-cimus-podcast_sq_f1817120_1.html) that was born with the purpose of getting the research carried out at CiMUS to other researchers, students and people not related to the scientific field.  
+[Episode 1](https://www.ivoox.com/capitulo-1-autismo-audios-mp3_rf_45092632_1.html) [Episode 2](https://www.ivoox.com/capitulo-2-cancer-audios-mp3_rf_47395915_1.html)   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 **2022**  
 * **3MT video competition**. The activity #Cuéntame3min is for scientists of all stages and from all STEM areas to record a 3-minute video explaining their research to a non-specialized audience. [Watch here my application](https://www.youtube.com/watch?v=2TYl6BZ-_SA), I was awarded the first place.  
