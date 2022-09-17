@@ -18,6 +18,7 @@ TV
 
 Radio
 =====
+*BBC Cambridgeshire* and *BBC5 live*. Interview to talk about marine contagious cancers in the show **Naked Scientists** *(12/04/2022 and 17/04/2022)*. [Listen here](https://www.youtube.com/watch?v=EYt-oRvnBE0&t=1419s)  
 *CRTVG*. Interview for the radio show **Convivir** to talk about my research within the framework of Scuba Cancers project *(21/01/2022)*. [Listen here](https://www.youtube.com/watch?v=Pzi0KQ4i7Qk&t=506s)  
 *CUAC FM*. Interview for the radio show **Ciencia es Femenino** to talk about my research and the role of women in science *(20/06/2021)*. [Listen here](https://www.youtube.com/watch?v=bAO6dC8e2k4) | [Live picture](https://twitter.com/cienciaytu/status/1406551854612455424) | [Commercial bulletin](https://ALBruzos.github.io/images/lacienciaesfemenino-junio2021.jpg)   
 *CRTVG*. Live interview in the show **Galicia Por Diante** of the regional radio of Galicia about the Pan-cancer initiative *(06/02/2020)*. [Listen here](https://www.youtube.com/watch?v=ZOKAGpGxypw) | [Picture](https://twitter.com/GxDRadioGalega/status/1225431511324938243)  
@@ -26,11 +27,17 @@ Radio
 Newspaper
 =====
 **El Correo Gallego**. Short interview and picture for the local newspaper to the scientific committee organizing the *VIII Youth Researchers Meeting* in Santiago de Compostela which I was part of *(02/06/2021)*. [Link](https://www.linkedin.com/posts/alicialopezbruzos_conferences2021-conference-research-activity-6810986196924207105-O6Qw)   
+**GCiencia**. Recorded interview about Scuba Cancers project for a video published in the scientific newspaper *(09/05/2019)*. [Link]()  
 **La Voz de Galicia**. Interview and picture for the regional newspaper about the *Pan-cancer initiative* *(06/02/2020)*. [Link](https://www.lavozdegalicia.es/noticia/sociedad/2020/02/06/equipo-gallego-halla-causa-desconocida-origen-cancer/0003_202002G6P23991.htm)  
 **La Gaceta**. Interview and picture for Salamanca’s newspaper about my doctoral research with *cockles* to find the genetic causes of contagious metastasis *(10/12/2017)*. [Link](https://www.genomesdisease.tech/media/20171210_EntevistaAliciaSalamanca.pdf)  
 
 Social networks
 =====
+VOCES11F. Interview to talk about the 3MT Video Award (13/06/2022).
+NAKED SCIENTIST. Interview to talk about marine contagious cancers (12/04/2022).
+ELIFE PODCAST. Brief interview to highlight the findings of our recent publication of a novel contagious cancer among clams on the seas of southern Europe (Episode 79, March 2022)
+
+
 **TWITCH**. Interview for the show **Ciencia e tal**, a programme that gives insights into the latest scientific research that is being done *(31/08/2021)*. [Watch it here](https://www.youtube.com/watch?v=ySERdYkGR1A)  
 **INSTAGRAM**. Interview for #Pintíficas initiative organized by the **Pint of Science** on the International Day of Girls and Women in Science *(11/02/2020)*. [Watch it here](https://www.youtube.com/watch?v=VK5JApXx8UE)  
 
