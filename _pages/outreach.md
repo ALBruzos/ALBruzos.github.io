@@ -69,6 +69,6 @@ el-cancer-se-puede-contagiar-al-menos-en-animales-163529)
 * **Popular science article** (2019). *“Las claves de las metástasis enterradas en la arena.”* Encuentros en la Biología 169: 5–7. ISBN 2254-0296. [Download here](https://albruzos.github.io/files/outreach_2019-EncuentrosEnLaBiologia.pdf)
 * **Institutional blog article** (2018). *“Cáncer transmisible de bivalvos para desentrañar la evolución del cáncer.”* Océano Ecimat. [Read Here](https://oceanoecimat.wordpress.com/2018/05/11/cancer-transmisible-de-bivalvos-para-desentranar-la-evolucion-del-cancer/)
 
-[Back to CV](https://albruzos.github.io/cv/)
+<img src='/images/Tira_FotosOutreach_AliciaLBruzos.png'>  
 
 [Back to CV](https://albruzos.github.io/cv/)
