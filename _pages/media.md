@@ -18,7 +18,7 @@ TV
 
 Radio
 =====
-*BBC Cambridgeshire* and *BBC5 live*. Interview to talk about marine contagious cancers in the show **Naked Scientists** *(12/04/2022 and 17/04/2022)*. [Listen here](https://www.youtube.com/watch?v=EYt-oRvnBE0&t=1419s)  
+*BBC Cambridgeshire* and *BBC5 live*. Interview for the show **Naked Scientists** to talk about marine contagious cancers *(12/04/2022 and 17/04/2022)*. [Listen here](https://www.youtube.com/watch?v=EYt-oRvnBE0&t=1419s)  
 *CRTVG*. Interview for the radio show **Convivir** to talk about my research within the framework of Scuba Cancers project *(21/01/2022)*. [Listen here](https://www.youtube.com/watch?v=Pzi0KQ4i7Qk&t=506s)  
 *CUAC FM*. Interview for the radio show **Ciencia es Femenino** to talk about my research and the role of women in science *(20/06/2021)*. [Listen here](https://www.youtube.com/watch?v=bAO6dC8e2k4) | [Live picture](https://twitter.com/cienciaytu/status/1406551854612455424) | [Commercial bulletin](https://ALBruzos.github.io/images/lacienciaesfemenino-junio2021.jpg)   
 *CRTVG*. Live interview in the show **Galicia Por Diante** of the regional radio of Galicia about the Pan-cancer initiative *(06/02/2020)*. [Listen here](https://www.youtube.com/watch?v=ZOKAGpGxypw) | [Picture](https://twitter.com/GxDRadioGalega/status/1225431511324938243)  
@@ -27,7 +27,7 @@ Radio
 Newspaper
 =====
 **El Correo Gallego**. Short interview and picture for the local newspaper to the scientific committee organizing the *VIII Youth Researchers Meeting* in Santiago de Compostela which I was part of *(02/06/2021)*. [Link](https://www.linkedin.com/posts/alicialopezbruzos_conferences2021-conference-research-activity-6810986196924207105-O6Qw)   
-**GCiencia**. Recorded interview about Scuba Cancers project for a video published in the scientific newspaper *(09/05/2019)*. [Link]()  
+**GCiencia**. Recorded interview about Scuba Cancers project for a video published in the scientific newspaper *(09/05/2019)*. [Link](https://www.gciencia.com/contar-a-ciencia-vi/scuba-cancro-bivalvos/) and [video](https://www.youtube.com/watch?v=lM9RAQ-3Kmg)  
 **La Voz de Galicia**. Interview and picture for the regional newspaper about the *Pan-cancer initiative* *(06/02/2020)*. [Link](https://www.lavozdegalicia.es/noticia/sociedad/2020/02/06/equipo-gallego-halla-causa-desconocida-origen-cancer/0003_202002G6P23991.htm)  
 **La Gaceta**. Interview and picture for Salamanca’s newspaper about my doctoral research with *cockles* to find the genetic causes of contagious metastasis *(10/12/2017)*. [Link](https://www.genomesdisease.tech/media/20171210_EntevistaAliciaSalamanca.pdf)  
 
