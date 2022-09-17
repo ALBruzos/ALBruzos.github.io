@@ -81,15 +81,23 @@ International research stays: 3 (United States, Ireland and South Korea)
   
 ### Conferences <i class="fa fa-bullhorn" aria-hidden="true"></i>
 
-Number of talks: 14  
-Number of posters: 12  
-Number of awards: 3  
+<i class="fa fa-check-circle" aria-hidden="true"></i> 5 invited speaker talks
+<i class="fa fa-check-circle" aria-hidden="true"></i> 11 oral communications
+<i class="fa fa-check-circle" aria-hidden="true"></i> 13 posters
+<i class="fa fa-check-circle" aria-hidden="true"></i> 3 awards 
+
+<ul class="fa-ul">
+  <li><i class="fa-li fa fa-check-square"></i>5 invited speaker talks</li>
+  <li><i class="fa-li fa fa-check-square"></i>11 oral communications</li>
+  <li><i class="fa-li fa fa-spinner fa-spin"></i>13 posters</li>
+  <li><i class="fa-li fa fa-square"></i>3 awards </li>
+</ul>
 
 Full detailed list can be checked [here](https://albruzos.github.io/talks/)  
 
 ### Mentoring, Teaching and Outreach <i class="fa fa-users" aria-hidden="true"></i>
 
-Number of supervised students: 4 [More info](https://albruzos.github.io/teaching/supervision)      
+Number of supervised students: 3 [More info](https://albruzos.github.io/teaching/supervision)      
 Number of teaching hours: 90 [More info](https://albruzos.github.io/teaching/university-teaching)  
 Number of outreach activities: 17 [More info](https://albruzos.github.io/outreach/)  
 Number of interviews: 9 [More info](https://albruzos.github.io/media/)  
