@@ -9,14 +9,6 @@ author_profile: true
 <img src='/images/Tira_FotosOutreach_AliciaLBruzos.png'>  
 
 ## Activities in chronological order 
-2018  <i class="fa fa-book" aria-hidden="true"></i> <i class="fa fa-users" aria-hidden="true"></i>  
-2019 <i class="fa fa-university" aria-hidden="true"></i> <i class="fa fa-users" aria-hidden="true"></i> <i class="fa fa-podcast" aria-hidden="true"></i> <i class="fa fa-play-circle" aria-hidden="true"></i> <i class="fa fa-paint-brush" aria-hidden="true"></i> <i class="fa fa-book" aria-hidden="true"></i>  
-2020 <i class="fa fa-book" aria-hidden="true"></i> <i class="fa fa-play-circle" aria-hidden="true"></i> <i class="fa fa-book" aria-hidden="true"></i> <i class="fa fa-play-circle" aria-hidden="true"></i>  
-2021 <i class="fa fa-book" aria-hidden="true"></i> <i class="fa fa-university" aria-hidden="true"></i> <i class="fa fa-university" aria-hidden="true"></i> <i class="fa fa-paint-brush" aria-hidden="true"></i> <i class="fa fa-book" aria-hidden="true"></i> <i class="fa fa-university" aria-hidden="true"></i> <i class="fa fa-university" aria-hidden="true"></i>  
-2022 <i class="fa fa-university" aria-hidden="true"></i><i class="fa fa-university" aria-hidden="true"></i><i class="fa fa-university" aria-hidden="true"></i><i class="fa fa-play-circle" aria-hidden="true"></i>  
-To be continued...
-
-
 **2018**  <i class="fa fa-book" aria-hidden="true"></i> <i class="fa fa-users" aria-hidden="true"></i>  
 **2019** <i class="fa fa-university" aria-hidden="true"></i> <i class="fa fa-users" aria-hidden="true"></i> <i class="fa fa-podcast" aria-hidden="true"></i> <i class="fa fa-play-circle" aria-hidden="true"></i> <i class="fa fa-paint-brush" aria-hidden="true"></i> <i class="fa fa-book" aria-hidden="true"></i>  
 **2020** <i class="fa fa-book" aria-hidden="true"></i> <i class="fa fa-play-circle" aria-hidden="true"></i> <i class="fa fa-book" aria-hidden="true"></i> <i class="fa fa-play-circle" aria-hidden="true"></i> <i class="fa fa-paint-brush" aria-hidden="true"></i>  
@@ -25,27 +17,17 @@ To be continued...
 
 *Legend:*
 <i class="fa fa-paint-brush" aria-hidden="true"></i> Initiatives 
-<i class="fa fa-play-circle" aria-hidden="true"></i> Videos 
+<i class="fa fa-play-circle" aria-hidden="true"></i> Videos and short films
 <i class="fa fa-users" aria-hidden="true"></i> General public talks 
 <i class="fa fa-university" aria-hidden="true"></i> School visits 
 <i class="fa fa-pencil-square-o" aria-hidden="true"></i> Opinion editorials 
-<i class="fa fa-book" aria-hidden="true"></i> Popular Science Articles 
-<i class="fa fa-podcast" aria-hidden="true"></i>Podcast  
-
-
-*Legend:*
-<i class="fa fa-paint-brush" aria-hidden="true"></i> Initiatives 
-<i class="fa fa-play-circle" aria-hidden="true"></i> Videos 
-<i class="fa fa-users" aria-hidden="true"></i> General public talks 
-<i class="fa fa-university" aria-hidden="true"></i> School visits 
-<i class="fa fa-pencil-square-o" aria-hidden="true"></i> Opinion editorials 
-<i class="fa fa-book" aria-hidden="true"></i> Popular Science Articles 
+<i class="fa fa-book" aria-hidden="true"></i> Popular science articles 
 <i class="fa fa-podcast" aria-hidden="true"></i>Podcast 
 {: .notice}
 
 ## Full list of outreach activities 
 
-**<u>Initiatives, Videos and Podcasting</u> (9)**
+**<u>Initiatives, videos and podcasting</u> (9)**
 
 * **Institutional video** (2022). The Galician initiative ‘Por máis mulleres na ciencia’ consisted on 7 videos recorded to show different roles that women can take in the science of IDIS, from managing or technicians to researchers or leaders. [Watch here](https://youtu.be/npxiCJKXCGo)
 * **3MT video** (2022). The activity #Cuéntame3min is for scientists of all stages and from all STEM areas to record a 3-minute video explaining their research to a non-specialized audience. [Watch here my application](https://www.youtube.com/watch?v=2TYl6BZ-_SA), I was awarded the first place [See here](https://albruzos.github.io/awardsgrants/awards/).  
@@ -59,14 +41,14 @@ To be continued...
 [Episode 1](https://www.ivoox.com/capitulo-1-autismo-audios-mp3_rf_45092632_1.html) [Episode 2](https://www.ivoox.com/capitulo-2-cancer-audios-mp3_rf_47395915_1.html)   
 
 
-**General Public Talks (4)**  
+**<u>General public talks</u> (4)**  
 * **Falling Walls Lab** (2022). Falling Walls is an international pitch competition about science, business, politics, arts and society. I was finalist in the Spanish national competition with the talk *“Breaking the Walls of Cancer Metastasis”*. [Watch here](https://youtu.be/FkpKAjYiPqE)
 * **Pint of Science Festival** (2022). PoS is an annual science festival that aims to communicate contemporary scientific developments to the public by bringing scientists to pubs, cafés and other public places to share their research and findings. 9-11 May 2022. I gave the talk *“The journey of a cancer cell”* at Ink@84, London, United Kingdom. [Advertisement]https://pintofscience.co.uk/event/demystifying-diseases 
 * **Science outreach talk** (2019). *“Understanding metastasis through transmissible cancers”* [Happy Fridays](https://www.usc.es/cimus/es/HappyFridaysMay24) (Santiago de Compostela, Spain).
 * **Science outreach talk** (2018). *“Unravelling cancer evolution using cockles”* Café con Sal (Vigo, Spain). Announcement in the news, [click here](http://www.ipacuicultura.com/noticias/ultima_hora/62069/el_ciclo_de_conferencias_de_cafe_con_sal_de_la_ecimat_aborda_como_los_berberechos_pueden_ayudar_a_desentranar_la_evolucion_del_cancer.html).
 
 
-**School Visits (8: 5 Spanish + 3 British)**  
+**<u>School visits</u> (8: 5 Spanish + 3 British)**  
 * **British Science Week** (2022). [BSW](https://www.britishscienceweek.org/) is a ten-day celebration of science, technology, engineering and maths that took place between 11-20 March 2022. I gave two 15-min talks addresed to ~100 scholars on a primary school (Rotherfield Primary School, London, UK) on March 14th.  
 * **Women in Science talk** (2022). [11 de febrero](https://11defebrero.org/) is a citizen initiative to commemorate the International Day of Women and Girls in Science through activities to visibilize the work of women who are dedicated to STEM areas and create female role models for children who can contribute to the choice of these areas as professional careers. My talk was addresed to students of a public vocational trainning (IES Federica Montseny, Valencia, Spain). [More info](https://twitter.com/BruzosAliciaL/status/1491803176248381440)  
 * **Women in Science talk** (2022). *Conócelas-ASEICA*. A project to encourage girls to study STEM organized by the [Spanish Association of Cancer Research](https://www.aseica.es). I gave a talk entitled *"Una detective del cáncer"* to 8-9 years-old scholars of a public primary school (CEIP Monte dos Postes, Santiago de Compostela, Spain). [Pictures](https://twitter.com/BruzosAliciaL/status/1491178436244930561) 
@@ -77,7 +59,7 @@ To be continued...
 * **Workshop for children** (2019). *Monitor* of activities for pupils aged 8-10 organized for 9 primary-school classes in the *International DNA Day* (Colegio Compañía de María, Santiago de Compostela, Spain). [Picture Here](https://twitter.com/BruzosAliciaL/status/1121533459720286209)
 
 
-**Opinion Editorials (2) and Popular Science articles (5)**  
+**<u>Opinion editorials</u> (2) and <u>popular science articles</u> (5)**  
 * **Opinion editorial** (2022). Brief opinion article for the regional newspaper La Voz de Galicia entitled *“El cáncer se contagia en el mar”*. La Voz de Galicia (20/01/2022, page 13). 
 * **Popular science article** (2021). Overview about cancers that can be contagious. Article entitled *“El cáncer se puede contagiar (al menos en animales)”* published in [The Conversation](https://theconversation.com/es)(open access news source). [Read Here](https://theconversation.com/
 el-cancer-se-puede-contagiar-al-menos-en-animales-163529)
@@ -86,5 +68,7 @@ el-cancer-se-puede-contagiar-al-menos-en-animales-163529)
 * **Popular science blog article** (2020). The story of how my master thesis gave me the opportunity to publish my first ever paper in a high-impact journal. Article entitled *“How my master’s thesis on jumping genes became part of an article in Nature”* published in [The Cancer Researcher](https://www.eacr.org/magazine)(EACR online magazine). [Read Here](https://magazine.eacr.org/how-my-masters-thesis-on-jumping-genes-became-part-of-an-article-in-nature/)
 * **Popular science article** (2019). *“Las claves de las metástasis enterradas en la arena.”* Encuentros en la Biología 169: 5–7. ISBN 2254-0296. [Download here](https://albruzos.github.io/files/outreach_2019-EncuentrosEnLaBiologia.pdf)
 * **Institutional blog article** (2018). *“Cáncer transmisible de bivalvos para desentrañar la evolución del cáncer.”* Océano Ecimat. [Read Here](https://oceanoecimat.wordpress.com/2018/05/11/cancer-transmisible-de-bivalvos-para-desentranar-la-evolucion-del-cancer/)
+
+[Back to CV](https://albruzos.github.io/cv/)
 
 [Back to CV](https://albruzos.github.io/cv/)
