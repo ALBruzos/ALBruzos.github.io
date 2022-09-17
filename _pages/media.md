@@ -13,35 +13,35 @@ author_profile: true
 
 TV
 =====
-*TVG*. Short interview for the **Midday Newscast** of the regional television of Galicia about the Pan-cancer initiative *(06/02/2020)*. [Watch here complete video](https://www.youtube.com/watch?v=FpttVkiBLok)  
+<i class="fa fa-camera" aria-hidden="true"></i>*TVG*. Short interview for the **Midday Newscast** of the regional television of Galicia about the Pan-cancer initiative *(06/02/2020)*. [Watch here complete video](https://www.youtube.com/watch?v=FpttVkiBLok)  
 <p align="center"><video src="https://user-images.githubusercontent.com/15688556/190830129-3268cccb-7408-4d3a-9895-ce164308b9d5.mp4" controls="controls" style="max-width: 500px;"></video></p>
 
 Radio
 =====
-*BBC Cambridgeshire* and *BBC5 live*. Interview for the show **Naked Scientists** to talk about marine contagious cancers *(12/04/2022 and 17/04/2022)*. [Listen here](https://www.youtube.com/watch?v=EYt-oRvnBE0&t=1419s)  
-*CRTVG*. Interview for the radio show **Convivir** to talk about my research within the framework of Scuba Cancers project *(21/01/2022)*. [Listen here](https://www.youtube.com/watch?v=Pzi0KQ4i7Qk&t=506s)  
-*CUAC FM*. Interview for the radio show **Ciencia es Femenino** to talk about my research and the role of women in science *(20/06/2021)*. [Listen here](https://www.youtube.com/watch?v=bAO6dC8e2k4) | [Live picture](https://twitter.com/cienciaytu/status/1406551854612455424) | [Commercial bulletin](https://ALBruzos.github.io/images/lacienciaesfemenino-junio2021.jpg)   
-*CRTVG*. Live interview in the show **Galicia Por Diante** of the regional radio of Galicia about the Pan-cancer initiative *(06/02/2020)*. [Listen here](https://www.youtube.com/watch?v=ZOKAGpGxypw) | [Picture](https://twitter.com/GxDRadioGalega/status/1225431511324938243)  
-*CRTVG*. Interview for the radio show and podcast **Efervesciencia** to talk about science, my PhD project and our recent publications in the framework of the Pan-cancer initiative *(20/02/2020)*. [Listen here](https://www.youtube.com/watch?v=kAaldyn0ul8) | [Picture](https://twitter.com/efervesciencia/status/1230249919614771204)  
+<i class="fa fa-volume-up" aria-hidden="true"></i>*BBC Cambridgeshire* and *BBC5 live*. Interview for the show **Naked Scientists** to talk about marine contagious cancers *(12/04/2022 and 17/04/2022)*. [Listen here](https://www.youtube.com/watch?v=EYt-oRvnBE0&t=1419s)  
+<i class="fa fa-volume-up" aria-hidden="true"></i>*CRTVG*. Interview for the radio show **Convivir** to talk about my research within the framework of Scuba Cancers project *(21/01/2022)*. [Listen here](https://www.youtube.com/watch?v=Pzi0KQ4i7Qk&t=506s)  
+<i class="fa fa-volume-up" aria-hidden="true"></i>*CUAC FM*. Interview for the radio show **Ciencia es Femenino** to talk about my research and the role of women in science *(20/06/2021)*. [Listen here](https://www.youtube.com/watch?v=bAO6dC8e2k4) | [Live picture](https://twitter.com/cienciaytu/status/1406551854612455424) | [Commercial bulletin](https://ALBruzos.github.io/images/lacienciaesfemenino-junio2021.jpg)   
+<i class="fa fa-volume-up" aria-hidden="true"></i>*CRTVG*. Live interview in the show **Galicia Por Diante** of the regional radio of Galicia about the Pan-cancer initiative *(06/02/2020)*. [Listen here](https://www.youtube.com/watch?v=ZOKAGpGxypw) | [Picture](https://twitter.com/GxDRadioGalega/status/1225431511324938243)  
+<i class="fa fa-volume-up" aria-hidden="true"></i>*CRTVG*. Interview for the radio show and podcast **Efervesciencia** to talk about science, my PhD project and our recent publications in the framework of the Pan-cancer initiative *(20/02/2020)*. [Listen here](https://www.youtube.com/watch?v=kAaldyn0ul8) | [Picture](https://twitter.com/efervesciencia/status/1230249919614771204)  
 
 Newspaper
 =====
-**El Correo Gallego**. Short interview and picture for the local newspaper to the scientific committee organizing the *VIII Youth Researchers Meeting* in Santiago de Compostela which I was part of *(02/06/2021)*. [Link](https://www.linkedin.com/posts/alicialopezbruzos_conferences2021-conference-research-activity-6810986196924207105-O6Qw)   
-**GCiencia**. Recorded interview about Scuba Cancers project for a video published in the scientific newspaper *(09/05/2019)*. [Link](https://www.gciencia.com/contar-a-ciencia-vi/scuba-cancro-bivalvos/) and [video](https://www.youtube.com/watch?v=lM9RAQ-3Kmg)  
-**La Voz de Galicia**. Interview and picture for the regional newspaper about the *Pan-cancer initiative* *(06/02/2020)*. [Link](https://www.lavozdegalicia.es/noticia/sociedad/2020/02/06/equipo-gallego-halla-causa-desconocida-origen-cancer/0003_202002G6P23991.htm)  
-**La Gaceta**. Interview and picture for Salamanca’s newspaper about my doctoral research with *cockles* to find the genetic causes of contagious metastasis *(10/12/2017)*. [Link](https://www.genomesdisease.tech/media/20171210_EntevistaAliciaSalamanca.pdf)  
+<i class="fa fa-book" aria-hidden="true"></i>**El Correo Gallego**. Short interview and picture for the local newspaper to the scientific committee organizing the *VIII Youth Researchers Meeting* in Santiago de Compostela which I was part of *(02/06/2021)*. [Link](https://www.linkedin.com/posts/alicialopezbruzos_conferences2021-conference-research-activity-6810986196924207105-O6Qw)   
+<i class="fa fa-book" aria-hidden="true"></i>**GCiencia**. Recorded interview about Scuba Cancers project for a video published in the scientific newspaper *(09/05/2019)*. [Link](https://www.gciencia.com/contar-a-ciencia-vi/scuba-cancro-bivalvos/) and [video](https://www.youtube.com/watch?v=lM9RAQ-3Kmg)  
+<i class="fa fa-book" aria-hidden="true"></i>**La Voz de Galicia**. Interview and picture for the regional newspaper about the *Pan-cancer initiative* *(06/02/2020)*. [Link](https://www.lavozdegalicia.es/noticia/sociedad/2020/02/06/equipo-gallego-halla-causa-desconocida-origen-cancer/0003_202002G6P23991.htm)  
+<i class="fa fa-book" aria-hidden="true"></i>**La Gaceta**. Interview and picture for Salamanca’s newspaper about my doctoral research with *cockles* to find the genetic causes of contagious metastasis *(10/12/2017)*. [Link](https://www.genomesdisease.tech/media/20171210_EntevistaAliciaSalamanca.pdf)  
 
 Social networks
 =====
-**VOCES11F**. Interview to talk about the 3MT Video Award *(13/06/2022)*. [Listen here](https://www.youtube.com/watch?v=VSCPKnIMPbw&t=1s)  
-**NAKED SCIENTIST**. Interview to talk about marine contagious cancers *(12/04/2022)*. [Listen here](https://www.youtube.com/watch?v=EYt-oRvnBE0&t=1419s)  
-**ELIFE PODCAST**. Brief interview to highlight the findings of our recent publication of a novel contagious cancer among clams on the seas of southern Europe *(Episode 79, March 2022)*. [Listen here](https://www.youtube.com/watch?v=EpGii4c1Dtg)  
-**TWITCH**. Interview for the show **Ciencia e tal**, a programme that gives insights into the latest scientific research that is being done *(31/08/2021)*. [Watch it here](https://www.youtube.com/watch?v=ySERdYkGR1A)  
-**INSTAGRAM**. Interview for #Pintíficas initiative organized by the **Pint of Science** on the International Day of Girls and Women in Science *(11/02/2020)*. [Watch it here](https://www.youtube.com/watch?v=VK5JApXx8UE)  
+<i class="fa fa-podcast" aria-hidden="true"></i>**VOCES11F**. Interview to talk about the 3MT Video Award *(13/06/2022)*. [Listen here](https://www.youtube.com/watch?v=VSCPKnIMPbw&t=1s)  
+<i class="fa fa-podcast" aria-hidden="true"></i>**NAKED SCIENTIST**. Interview to talk about marine contagious cancers *(12/04/2022)*. [Listen here](https://www.youtube.com/watch?v=EYt-oRvnBE0&t=1419s)  
+<i class="fa fa-podcast" aria-hidden="true"></i>**ELIFE PODCAST**. Brief interview to highlight the findings of our recent publication of a novel contagious cancer among clams on the seas of southern Europe *(Episode 79, March 2022)*. [Listen here](https://www.youtube.com/watch?v=EpGii4c1Dtg)  
+<i class="fa fa-spinner" aria-hidden="true"></i>**TWITCH**. Interview for the show **Ciencia e tal**, a programme that gives insights into the latest scientific research that is being done *(31/08/2021)*. [Watch it here](https://www.youtube.com/watch?v=ySERdYkGR1A)  
+<i class="fa fa-spinner" aria-hidden="true"></i>**INSTAGRAM**. Interview for #Pintíficas initiative organized by the **Pint of Science** on the International Day of Girls and Women in Science *(11/02/2020)*. [Watch it here](https://www.youtube.com/watch?v=VK5JApXx8UE)  
 
 Others
 =====
-**Official invitation to the regional government**. Meeting with the President of Xunta de Galicia chaired by Alberto Núñez Feijóo and the Minister of Economy, Business and Innovation chaired by Francisco Conde López *(19/02/2020)*. [Official picture](https://twitter.com/FeijooGalicia/status/1230144864978898944)  
+<i class="fa fa-university" aria-hidden="true"></i>**Official invitation to the regional government**. Meeting with the President of Xunta de Galicia chaired by Alberto Núñez Feijóo and the Minister of Economy, Business and Innovation chaired by Francisco Conde López *(19/02/2020)*. [Official picture](https://twitter.com/FeijooGalicia/status/1230144864978898944)  
 
 
 
@@ -156,22 +156,8 @@ Others
 
 <img src='/images/ContactMe_v1.png'>  
 [Get in touch with me](https://albruzos.github.io/contact) | [Photography portfolio](https://albruzos.github.io/portfolio/)
+<center> <i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i></center> 
 
 [Back to CV](https://albruzos.github.io/cv/)
 
 
-<i class="fa fa-television" aria-hidden="true"></i>
-
-<i class="fa fa-music" aria-hidden="true"></i>
-<i class="fa fa-volume-up" aria-hidden="true"></i>
-
-<i class="fa fa-newspaper-o" aria-hidden="true"></i>
-<i class="fa fa-calendar" aria-hidden="true"></i>
-<i class="fa fa-book" aria-hidden="true"></i>
-
-<i class="fa fa-podcast" aria-hidden="true"></i>
-<i class="fa fa-instagram" aria-hidden="true"></i>
-<i class="fa fa-twitch" aria-hidden="true"></i>
-
-<i class="fa fa-university" aria-hidden="true"></i> Government  
-<i class="fa fa-star" aria-hidden="true"></i> Government  
