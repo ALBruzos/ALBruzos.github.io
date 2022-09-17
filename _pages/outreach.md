@@ -8,6 +8,19 @@ author_profile: true
 
 
 <img src='/images/Tira_FotosOutreach_AliciaLBruzos.png'>  
+
+Chronological order:  
+2018  <i class="fa fa-pencil" aria-hidden="true"></i> <i class="fa fa-users" aria-hidden="true"></i> 2019 <i class="fa fa-university" aria-hidden="true"></i> <i class="fa fa-users" aria-hidden="true"></i> <i class="fa fa-podcast" aria-hidden="true"></i> <i class="fa fa-video-camera" aria-hidden="true"></i> <i class="fa fa-paint-brush" aria-hidden="true"></i> <i class="fa fa-pencil" aria-hidden="true"></i> 2020 <i class="fa fa-pencil" aria-hidden="true"></i> <i class="fa fa-video-camera" aria-hidden="true"></i> <i class="fa fa-pencil" aria-hidden="true"></i> <i class="fa fa-video-camera" aria-hidden="true"></i> 2021 <i class="fa fa-pencil" aria-hidden="true"></i> <i class="fa fa-university" aria-hidden="true"></i> <i class="fa fa-university" aria-hidden="true"></i> <i class="fa fa-paint-brush" aria-hidden="true"></i> <i class="fa fa-pencil" aria-hidden="true"></i> <i class="fa fa-university" aria-hidden="true"></i> <i class="fa fa-university" aria-hidden="true"></i> 2022 <i class="fa fa-university" aria-hidden="true"></i><i class="fa fa-university" aria-hidden="true"></i><i class="fa fa-university" aria-hidden="true"></i><i class="fa fa-video-camera" aria-hidden="true"></i> … to be continued
+
+Legend:
+<i class="fa fa-paint-brush" aria-hidden="true"></i> Initiatives 
+<i class="fa fa-video-camera" aria-hidden="true"></i> Videos 
+<i class="fa fa-users" aria-hidden="true"></i> General public talks 
+<i class="fa fa-university" aria-hidden="true"></i> School visits 
+<i class="fa fa-newspaper-o" aria-hidden="true"></i> Opinion editorials 
+<i class="fa fa-pencil" aria-hidden="true"></i> Popular Science Articles 
+<i class="fa fa-podcast" aria-hidden="true"></i>Podcast  
+
 **2022**  
 * **3MT video competition**. The activity #Cuéntame3min is for scientists of all stages and from all STEM areas to record a 3-minute video explaining their research to a non-specialized audience. [Watch here my application](https://www.youtube.com/watch?v=2TYl6BZ-_SA), I was awarded the first place.  
 * **British Science Week**. [BSW](https://www.britishscienceweek.org/) is a ten-day celebration of science, technology, engineering and maths that took place between 11-20 March 2022. I gave two 15-min talks addresed to ~100 scholars on a primary school (Rotherfield Primary School, London, UK) on March 14th.  
