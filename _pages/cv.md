@@ -80,17 +80,11 @@ International research stays: 3 (United States, Ireland and South Korea)
   {% endfor %}</ul>
   
 ### Conferences <i class="fa fa-bullhorn" aria-hidden="true"></i>
-
-<i class="fa fa-check-circle" aria-hidden="true"></i> 5 invited speaker talks
-<i class="fa fa-check-circle" aria-hidden="true"></i> 11 oral communications
-<i class="fa fa-check-circle" aria-hidden="true"></i> 13 posters
-<i class="fa fa-check-circle" aria-hidden="true"></i> 3 awards 
-
 <ul class="fa-ul">
-  <li><i class="fa-li fa fa-check-square"></i>5 invited speaker talks</li>
-  <li><i class="fa-li fa fa-check-square"></i>11 oral communications</li>
-  <li><i class="fa-li fa fa-spinner fa-spin"></i>13 posters</li>
-  <li><i class="fa-li fa fa-square"></i>3 awards </li>
+  <li><i class="fa fa-check-circle" aria-hidden="true"></i>5 invited speaker talks</li>
+  <li><i class="fa fa-check-circle" aria-hidden="true"></i>11 oral communications</li>
+  <li><i class="fa fa-check-circle" aria-hidden="true"></i>13 posters</li>
+  <li><i class="fa fa-check-circle" aria-hidden="true"></i>3 awards </li>
 </ul>
 
 Full detailed list can be checked [here](https://albruzos.github.io/talks/)  
@@ -109,17 +103,23 @@ Full detailed list can be checked [here](https://albruzos.github.io/skills-certi
 
 <i class="fa fa-fw fa-trophy"></i> Awards 
 ======
-4 scientific prizes  
-2 litterary prizes  
-1 drawing prize  
-[More info](https://albruzos.github.io/awardsgrants/awards/)
+
+<ul class="fa-ul">
+  <li><i class="fa-li fa fa-check-square"></i>4 scientific prizes</li>
+  <li><i class="fa-li fa fa-check-square"></i>2 litterary prizes</li>
+  <li><i class="fa-li fa fa-check-square"></i>1 drawing prize</li>
+</ul>
+Full detailed list can be checked [here](https://albruzos.github.io/awardsgrants/awards/)
 
 <i class="fa fa-star" aria-hidden="true"></i> Grants and Fellowships 
 ======
-2 grants  
-2 fellowships  
-2 scholarships  
-[More info](https://albruzos.github.io/awardsgrants/grants/)
+
+<ul class="fa-ul">
+  <li><i class="fa-li fa fa-check-square"></i>2 grants</li>
+  <li><i class="fa-li fa fa-check-square"></i>2 fellowships</li>
+  <li><i class="fa-li fa fa-check-square"></i>2 scholarships</li>
+</ul>
+Full detailed list can be checked [here](https://albruzos.github.io/awardsgrants/grants/)
 
 ---
 
