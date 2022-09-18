@@ -33,8 +33,8 @@ Newspaper
 
 Social networks
 =====
-<i class="fa fa-podcast" aria-hidden="true"></i>**VOCES11F**. Interview to talk about the 3MT Video Award *(13/06/2022)*. [Listen here](https://www.youtube.com/watch?v=VSCPKnIMPbw&t=1s)  
-<i class="fa fa-podcast" aria-hidden="true"></i>**NAKED SCIENTIST**. Interview to talk about marine contagious cancers *(12/04/2022)*. [Listen here](https://www.youtube.com/watch?v=EYt-oRvnBE0&t=1419s)  
+<i class="fa fa-podcast" aria-hidden="true"></i>**VOCES11F PODCAST**. Interview to talk about the 3MT Video Award *(13/06/2022)*. [Listen here](https://www.youtube.com/watch?v=VSCPKnIMPbw&t=1s)  
+<i class="fa fa-podcast" aria-hidden="true"></i>**NAKED SCIENTIST PODCAST**. Interview to talk about marine contagious cancers *(12/04/2022)*. [Listen here](https://www.youtube.com/watch?v=EYt-oRvnBE0&t=1419s)  
 <i class="fa fa-podcast" aria-hidden="true"></i>**ELIFE PODCAST**. Brief interview to highlight the findings of our recent publication of a novel contagious cancer among clams on the seas of southern Europe *(Episode 79, March 2022)*. [Listen here](https://www.youtube.com/watch?v=EpGii4c1Dtg)  
 <i class="fa fa-spinner" aria-hidden="true"></i>**TWITCH**. Interview for the show **Ciencia e tal**, a programme that gives insights into the latest scientific research that is being done *(31/08/2021)*. [Watch it here](https://www.youtube.com/watch?v=ySERdYkGR1A)  
 <i class="fa fa-spinner" aria-hidden="true"></i>**INSTAGRAM**. Interview for #Pintíficas initiative organized by the **Pint of Science** on the International Day of Girls and Women in Science *(11/02/2020)*. [Watch it here](https://www.youtube.com/watch?v=VK5JApXx8UE)  
