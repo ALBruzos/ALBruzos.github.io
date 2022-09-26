@@ -12,7 +12,7 @@ I’ve been fortunate to have worked on several international and interesting re
 
 | Topic  | Year | Journal | Impact Factor<sup>*</sup> | First authorship | Comments |
 | ------------- | ------------- | ------------- | ------------- |------------- |------------- |
-| [The evolution of two transmissible leukaemias colonizing the coasts of Europe](https://www.biorxiv.org/content/10.1101/2022.08.06.503021v1) | 2022  | Under review  | NA | yes | Part of my doctoral thesis |
+| [The evolution of two transmissible leukaemias colonizing the coasts of Europe](https://www.biorxiv.org/content/10.1101/2022.08.06.503021v1) | NA  | Under review  | NA | yes | Part of my doctoral thesis |
 | [The first high-density genetic map of common cockle (Cerastoderma edule) reveals a major QTL controlling shell color variation](https://www.biorxiv.org/content/10.1101/2022.04.13.488192v1) | 2022  | Scientific reports  | 4.379 (2021) | no | Collaboration within the framework of Scuba Cancers project |
 | [Mitochondrial genome sequencing of marine leukaemias reveals cancer contagion between clam species in the Seas of Southern Europe](https://albruzos.github.io/publication/2022-01-18-PAPER-eLife-ClamsContagiousCancers) | 2022  | Elife  | 8.713 (2021) | yes | Part of my doctoral thesis |
 | [Assessing the elemental fingerprints of cockle shells to confirm their geographic origin from regional to international spatial scales](https://albruzos.github.io/publication/2022-01-08-PAPER_STOTEN_CockleShellsFingerprints) | 2022  | STOTEN  | 10.753 (2021)  | no | Collaboration within the framework of Scuba Cancers project |
