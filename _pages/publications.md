@@ -33,7 +33,7 @@ I’ve been fortunate to have w
 25,000 WGS cancer samples through Genomics England.
 [Website](https://www.genomicsengland.co.uk/)
 <a href="https://www.genomicsengland.co.uk/" target="_blank"> 
-<img align="center" src="/images/logos/GenomicsEngland_logo.png"/> 
+<img src="/images/logos/GenomicsEngland_logo.png" alt="Genomics England logo" width="56" height="22" /> 
 </a>
 
 **SCUBA CANCERS**
