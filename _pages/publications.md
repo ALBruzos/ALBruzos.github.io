@@ -21,9 +21,13 @@ I’ve been fortunate to have worked on several international and interesting re
 <sup>#</sup> Accepted manuscript, pending publication  
 <sup>*</sup> IF taken from Web of Science on the data relative to the publication unless otherwise stated year  
 
-## Consortium publications
+## Consortia publications
+Consortia work can lead us to important conclusions. Along my career, I have been part of the [PCAWG consortium](https://docs.icgc.org/pcawg/) that has published the following articles:  
 
-I’ve been fortunate to have w
+[Retrospective evaluation of whole exome and genome mutation calls in 746 cancer samples](https://albruzos.github.io/publication/consortia/2020-Baileyetal.pdf) Bailey et al. (2020) *Nature communications*
+[Sex differences in oncogenic mutational processes](https://albruzos.github.io/publication/consortia/2020-Constanceetal.pdf) Constance et al. (2020) *Nature communications*  
+
+
 
 
 
