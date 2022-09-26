@@ -1,18 +1,14 @@
 ---
 layout: archive
-title: "Publications"
+title: "Publications and Projects"
 permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
 {% include base_path %}  
 
+## My publications 
 I’ve been fortunate to have worked on several international and interesting research projects in the field of *cancer genomics*. Keep an eye on the space below to see the list of publications my work has contributed to (hopefully!) grow...
- 
 
 | Topic  | Year | Journal | Impact Factor<sup>*</sup> | First authorship | Comments |
 | ------------- | ------------- | ------------- | ------------- |------------- |------------- |
@@ -25,6 +21,26 @@ I’ve been fortunate to have worked on several international and interesting re
 <sup>#</sup> Accepted manuscript, pending publication  
 <sup>*</sup> IF taken from Web of Science on the data relative to the publication unless otherwise stated year  
 
+## Consortium publications
+
+I’ve been fortunate to have w
+
+
+
+## Research projects  
+
+**100,000 Genomes Project**
+25,000 WGS cancer samples through Genomics England.
+[Website](https://www.genomicsengland.co.uk/)
+
+**Pan-Cancer Analysis of Whole Genomes**
+Analysis of 2,658 WGS of 38 cancers.
+[Website](https://docs.icgc.org/pcawg/)
+
+**SCUBA CANCERS**
+Finding the genetic causes of contagious metastases.
+[Website](http://www.scubacancers.org/)
+
 
 <!---
 **More information:**  
@@ -32,3 +48,7 @@ I’ve been fortunate to have worked on several international and interesting re
    {% include archive-single.html %}
  {% endfor %}
 --->
+
+{% if author.googlescholar %}
+  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+{% endif %}
