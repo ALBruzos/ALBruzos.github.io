@@ -32,14 +32,26 @@ I’ve been fortunate to have w
 **100,000 Genomes Project**
 25,000 WGS cancer samples through Genomics England.
 [Website](https://www.genomicsengland.co.uk/)
+<a href="https://www.genomicsengland.co.uk/" target="_blank"> 
+<img align="center" src="/images/logos/GenomicsEngland_logo.png"/> 
+</a>
+
+**SCUBA CANCERS**
+Finding the genetic causes of contagious metastases.
+[Website](http://www.scubacancers.org/)
+<a href="http://www.scubacancers.org/" target="_blank"> 
+<img align="center" src="/images/logos/ScubaCancersERClogo.png"/> 
+</a>
 
 **Pan-Cancer Analysis of Whole Genomes**
 Analysis of 2,658 WGS of 38 cancers.
 [Website](https://docs.icgc.org/pcawg/)
 
-**SCUBA CANCERS**
-Finding the genetic causes of contagious metastases.
-[Website](http://www.scubacancers.org/)
+<a href="https://docs.icgc.org/pcawg/" target="_blank"> 
+<img align="center" src="/images/logos/pcawg_logo.png"/> 
+</a>
+
+
 
 
 <!---
