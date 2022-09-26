@@ -25,23 +25,18 @@ I’ve been fortunate to have worked on several international and interesting re
 
 ## Research projects  
 
-**100,000 Genomes Project:**
-25,000 WGS cancer samples through Genomics England.
-[Website](https://www.genomicsengland.co.uk/)  
+<body>
+<center>
+  <p><b>100,000 Genomes Project:</b> 25,000 WGS cancer samples through Genomics England.<br></p>
 <a href="https://www.genomicsengland.co.uk/" target="_blank"> 
 <img src="/images/logos/GenomicsEngland_logo.png" alt="Genomics England logo" width="100" height="51" /> 
 </a>
-
-**SCUBA CANCERS:**
-Finding the genetic causes of contagious metastases.
-[Website](http://www.scubacancers.org/)  
+  <p><b>SCUBA CANCERS:</b> Finding the genetic causes of contagious metastases.<br></p>
 <a href="http://www.scubacancers.org/" target="_blank"> 
 <img align="center" src="/images/logos/ScubaCancersERClogo.png" alt="Scuba Cancers logo" width="270" height="61" /> 
 </a>
 
-**Pan-Cancer Analysis of Whole Genomes:**
-Analysis of 2,658 WGS of 38 cancers.
-[Website](https://docs.icgc.org/pcawg/)  
+  <p><b>Pan-Cancer Analysis of Whole Genomes:</b> Analysis of 2,658 WGS of 38 cancers.<br></p>
 <a href="https://docs.icgc.org/pcawg/" target="_blank"> 
 <img align="center" src="/images/logos/pcawg_logo.png" alt="PCAWG logo" width="102" height="41" /> 
 </a>
