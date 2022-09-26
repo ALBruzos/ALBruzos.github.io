@@ -48,7 +48,7 @@ Analysis of 2,658 WGS of 38 cancers.
 [Website](https://docs.icgc.org/pcawg/)
 
 <a href="https://docs.icgc.org/pcawg/" target="_blank"> 
-<img align="center" src="/images/logos/pcawg_logo.png"/> 
+<img align="center" src="/images/logos/pcawg_logo.png" alt="PCAWG logo" width="56" height="22" /> 
 </a>
 
 
