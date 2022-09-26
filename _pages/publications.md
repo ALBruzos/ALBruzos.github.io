@@ -29,24 +29,23 @@ I’ve been fortunate to have w
 
 ## Research projects  
 
-**100,000 Genomes Project**
+**100,000 Genomes Project:**
 25,000 WGS cancer samples through Genomics England.
-[Website](https://www.genomicsengland.co.uk/)
+[Website](https://www.genomicsengland.co.uk/)  
 <a href="https://www.genomicsengland.co.uk/" target="_blank"> 
-<img src="/images/logos/GenomicsEngland_logo.png" alt="Genomics England logo" width="56" height="22" /> 
+<img src="/images/logos/GenomicsEngland_logo.png" alt="Genomics England logo" width="54" height="6" /> 
 </a>
 
-**SCUBA CANCERS**
+**SCUBA CANCERS:**
 Finding the genetic causes of contagious metastases.
-[Website](http://www.scubacancers.org/)
+[Website](http://www.scubacancers.org/)  
 <a href="http://www.scubacancers.org/" target="_blank"> 
-<img align="center" src="/images/logos/ScubaCancersERClogo.png"/> 
+<img align="center" src="/images/logos/ScubaCancersERClogo.png" alt="Scuba Cancers logo" width="54" height="6" /> 
 </a>
 
-**Pan-Cancer Analysis of Whole Genomes**
+**Pan-Cancer Analysis of Whole Genomes:**
 Analysis of 2,658 WGS of 38 cancers.
-[Website](https://docs.icgc.org/pcawg/)
-
+[Website](https://docs.icgc.org/pcawg/)  
 <a href="https://docs.icgc.org/pcawg/" target="_blank"> 
 <img align="center" src="/images/logos/pcawg_logo.png" alt="PCAWG logo" width="56" height="22" /> 
 </a>
