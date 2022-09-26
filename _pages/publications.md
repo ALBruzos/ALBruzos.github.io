@@ -40,7 +40,7 @@ I’ve been fortunate to have w
 Finding the genetic causes of contagious metastases.
 [Website](http://www.scubacancers.org/)  
 <a href="http://www.scubacancers.org/" target="_blank"> 
-<img align="center" src="/images/logos/ScubaCancersERClogo.png" alt="Scuba Cancers logo" width="54" height="6" /> 
+<img align="center" src="/images/logos/ScubaCancersERClogo.png" alt="Scuba Cancers logo" width="135" height="61" /> 
 </a>
 
 **Pan-Cancer Analysis of Whole Genomes:**
