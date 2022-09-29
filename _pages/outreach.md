@@ -8,12 +8,12 @@ author_profile: true
 
 <img src='/images/Tira_FotosOutreach_AliciaLBruzos.png'>  
 
-## Activities in chronological order 
-**2018** <i class="fa fa-users" aria-hidden="true"></i> <i class="fa fa-book" aria-hidden="true"></i>   
-**2019** <i class="fa fa-university" aria-hidden="true"></i> <i class="fa fa-users" aria-hidden="true"></i> <i class="fa fa-podcast" aria-hidden="true"></i> <i class="fa fa-play-circle" aria-hidden="true"></i> <i class="fa fa-paint-brush" aria-hidden="true"></i> <i class="fa fa-book" aria-hidden="true"></i>  
-**2020** <i class="fa fa-book" aria-hidden="true"></i> <i class="fa fa-play-circle" aria-hidden="true"></i> <i class="fa fa-book" aria-hidden="true"></i> <i class="fa fa-paint-brush" aria-hidden="true"></i> <i class="fa fa-play-circle" aria-hidden="true"></i>  
-**2021** <i class="fa fa-book" aria-hidden="true"></i> <i class="fa fa-university" aria-hidden="true"></i> <i class="fa fa-university" aria-hidden="true"></i> <i class="fa fa-paint-brush" aria-hidden="true"></i> <i class="fa fa-book" aria-hidden="true"></i> <i class="fa fa-university" aria-hidden="true"></i> <i class="fa fa-comment" aria-hidden="true"></i> <i class="fa fa-university" aria-hidden="true"></i>  
+## Activities in reverse chronological order 
 **2022** <i class="fa fa-university" aria-hidden="true"></i> <i class="fa fa-comment" aria-hidden="true"></i> <i class="fa fa-play-circle" aria-hidden="true"></i> <i class="fa fa-university" aria-hidden="true"></i> <i class="fa fa-users" aria-hidden="true"></i> <i class="fa fa-university" aria-hidden="true"></i><i class="fa fa-play-circle" aria-hidden="true"></i> <i class="fa fa-users" aria-hidden="true"></i>  
+**2021** <i class="fa fa-book" aria-hidden="true"></i> <i class="fa fa-university" aria-hidden="true"></i> <i class="fa fa-university" aria-hidden="true"></i> <i class="fa fa-paint-brush" aria-hidden="true"></i> <i class="fa fa-book" aria-hidden="true"></i> <i class="fa fa-university" aria-hidden="true"></i> <i class="fa fa-comment" aria-hidden="true"></i> <i class="fa fa-university" aria-hidden="true"></i>  
+**2020** <i class="fa fa-book" aria-hidden="true"></i> <i class="fa fa-play-circle" aria-hidden="true"></i> <i class="fa fa-book" aria-hidden="true"></i> <i class="fa fa-paint-brush" aria-hidden="true"></i> <i class="fa fa-play-circle" aria-hidden="true"></i>  
+**2019** <i class="fa fa-university" aria-hidden="true"></i> <i class="fa fa-users" aria-hidden="true"></i> <i class="fa fa-podcast" aria-hidden="true"></i> <i class="fa fa-play-circle" aria-hidden="true"></i> <i class="fa fa-paint-brush" aria-hidden="true"></i> <i class="fa fa-book" aria-hidden="true"></i>  
+**2018** <i class="fa fa-users" aria-hidden="true"></i> <i class="fa fa-book" aria-hidden="true"></i>   
 
 *Legend:*
 <i class="fa fa-paint-brush" aria-hidden="true"></i> Initiatives 
