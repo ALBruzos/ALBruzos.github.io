@@ -40,6 +40,8 @@ I’ve been fortunate to have worked on several international and interesting re
 <a href="https://docs.icgc.org/pcawg/" target="_blank"> 
 <img align="center" src="/images/logos/pcawg_logo.png" alt="PCAWG logo" width="102" height="41" /> 
 </a>
+</center>
+</body>
 
 
 ## Consortia publications
