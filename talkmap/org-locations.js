@@ -84,6 +84,13 @@ var addressPoints = [
     51.5073219,
     -0.1276474
   ],
+ 
+  [
+    "Amsterdam, The Netherlands:\n 2022 - 51st Annual ESDR Meeting",
+    52.377956,
+    4.897070
+  ],
+  
   [
     "Torino, Italy:\n 2021 - EACR Congress. Innovative Cancer Science: Better Outcomes through Research",
     45.0677551,
