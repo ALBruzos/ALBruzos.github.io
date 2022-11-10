@@ -9,8 +9,6 @@ paperurl: 'http://dx.doi.org/10.1016/j.scitotenv.2021.152304'
 citation: 'Hermida, M. et al. (2022). &quot;The first high-density genetic map of common cockle reveals a major QTL controlling shell color variation.&quot; <i>Scientific reports</i>. 12:16971.'
 ---
 
-<img src='/files/papers/2022-01-08-PAPER_STOTEN-screenshot.png' /> 
-
 **Alicia's citation:**  
 Hermida, M. et al. (includes Bruzos A.L.). 2022. "The first high-density genetic map of common cockle (Cerastoderma edule) reveals a major QTL controlling shell color variation." <i>Scientific Reports</i>, 12:16971.  IF(2021) = 4.996.
 
@@ -27,14 +25,14 @@ Total number of authors: 8
 Authors: Miguel Hermida; Diego Robledo; Seila Díaz; Damián Costas; Alicia L. Bruzos; Andrés Blanco; Belén G. Pardo; Paulino Martínez  
 
 **Journal information**  
-ISSN: 0048-9697  
-eISSN: 1879-1026  
-Current Publisher: *ELSEVIER*, RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS  
-Journal Impact Factor (JIF): 10.753 (2021)  
-WoS Research Areas: Environmental Sciences & Ecology  
-JCR Category: ENVIRONMENTAL SCIENCES in SCIE edition  
-JCR Category Rank: 26/279  
-JCR Category Quartile: Q1  
+ISSN: 2045-2322  
+eISSN: 2045-2322    
+Current Publisher: *NATURE PORTFOLIO* HEIDELBERGER PLATZ 3, BERLIN 14197, GERMANY  
+Journal Impact Factor (JIF): 4.997 (2021)  
+WoS Research Areas: Multidisciplinary    
+JCR Category: MULTIDISCIPLINARY SCIENCES in SCIE edition  
+JCR Category Rank: 19/74 (2021 - pending to update)  
+JCR Category Quartile: Q2 (2021 - pending to update)  
 
 **Peer-review process:**  
 Received: 12 May 2022  
