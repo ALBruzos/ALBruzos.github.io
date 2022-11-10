@@ -28,11 +28,15 @@ Authors: Miguel Hermida; Diego Robledo; Seila Díaz; Damián Costas; Alicia L. B
 ISSN: 2045-2322  
 eISSN: 2045-2322    
 Current Publisher: *NATURE PORTFOLIO* HEIDELBERGER PLATZ 3, BERLIN 14197, GERMANY  
-Journal Impact Factor (JIF): 4.997 (2021)  
-WoS Research Areas: Multidisciplinary    
-JCR Category: MULTIDISCIPLINARY SCIENCES in SCIE edition  
-JCR Category Rank: 19/74 (2021 - pending to update)  
-JCR Category Quartile: Q2 (2021 - pending to update)  
+  
+*Journal Impact Factor (JIF)*  
+-JIF: 4.997 (2021)  
+-JIF Rank: 19/74 (2021 - pending to update)  
+-JIF Quartile: Q2 (2021 - pending to update)   
+*Journal Citation Indicator (JCI)*  
+-JCR Category: MULTIDISCIPLINARY SCIENCES in SCIE edition  
+-JCR Category Rank: 19/135 (2021 - pending to update)  
+-JCR Category Quartile: Q1 (2021 - pending to update)  
 
 **Peer-review process:**  
 Received: 12 May 2022  
