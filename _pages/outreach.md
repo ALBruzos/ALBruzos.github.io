@@ -44,7 +44,7 @@ author_profile: true
 
 <i class="fa fa-users" aria-hidden="true"></i> **<u>General public talks</u> (4)**  
 * **Falling Walls Lab** (2022). Falling Walls is an international pitch competition about science, business, politics, arts and society. I was finalist in the Spanish national competition with the talk *“Breaking the Walls of Cancer Metastasis”*. [Watch here](https://youtu.be/FkpKAjYiPqE)
-* **Pint of Science Festival** (2022). PoS is an annual science festival that aims to communicate contemporary scientific developments to the public by bringing scientists to pubs, cafés and other public places to share their research and findings. 9-11 May 2022. I gave the talk *“The journey of a cancer cell”* at Ink@84, London, United Kingdom. [Advertisement](https://pintofscience.co.uk/event/demystifying-diseases 
+* **Pint of Science Festival** (2022). PoS is an annual science festival that aims to communicate contemporary scientific developments to the public by bringing scientists to pubs, cafés and other public places to share their research and findings. 9-11 May 2022. I gave the talk *“The journey of a cancer cell”* at Ink@84, London, United Kingdom. [Advertisement](https://pintofscience.co.uk/event/demystifying-diseases) 
 * **Science outreach talk** (2019). *“Understanding metastasis through transmissible cancers”* [Happy Fridays](https://www.usc.es/cimus/es/HappyFridaysMay24) (Santiago de Compostela, Spain).
 * **Science outreach talk** (2018). *“Unravelling cancer evolution using cockles”* Café con Sal (Vigo, Spain). [Announcement in the news](http://www.ipacuicultura.com/noticias/ultima_hora/62069/el_ciclo_de_conferencias_de_cafe_con_sal_de_la_ecimat_aborda_como_los_berberechos_pueden_ayudar_a_desentranar_la_evolucion_del_cancer.html).
 
