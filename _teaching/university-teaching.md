@@ -24,6 +24,11 @@ permalink: /teaching/university-teaching
 BSc: Bachelor in Science  
 MBBS: Medicine Bachelor and Bachelor of Surgery  
 
+
+**Teacher trainning courses/certificates:**  
+* 2017 - Higher Education Lecturing Accreditation (HELA). UNIVERSIDADE DE VIGO.
+* 2021 - Research Supervision. UNIVERSITY COLLEGE OF LONDON. The course provides information and guidance on UCL regulations and frameworks for research supervision; establishing and maintaining effective working relationships with your supervisees; doctoral skills development requirements and the Research Student Log signposting to further support provided centrally by UCL and locally in faculties and departments.
+
 [Back to CV](https://albruzos.github.io/cv/)
 
 
