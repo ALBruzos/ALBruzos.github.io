@@ -1,12 +1,12 @@
 ---
-title: "Assessing the elemental fingerprints of cockle shells (Cerastoderma edule) to confirm their geographic origin from regional to international spatial scales"
+title: "The first high-density genetic map of common cockle reveals a major QTL controlling shell color variation"
 collection: publications
 permalink: /publication/2022-10-10-PAPER-SciRep-ColorGWAS
 excerpt: 'This paper is a GWAS analysis of color variation in cockle shells.'
 date: 2022-10-10
 venue: 'Scientific reports'
-paperurl: 'http://dx.doi.org/10.1016/j.scitotenv.2021.152304'
-citation: 'Hermida, M. et al. (2022). &quot;The first high-density genetic map of common cockle reveals a major QTL controlling shell color variation.&quot; <i>Scientific reports</i>. 12:16971.'
+paperurl: 'https://doi.org/10.1038/s41598-022-21214-3'
+citation: 'Hermida, M. et al. (2022). &quot;The first high-density genetic map of common cockle (Cerastoderma edule) reveals a major QTL controlling shell color variation.&quot; <i>Scientific reports</i>. 12:16971.'
 ---
 
 **Alicia's citation:**  
