@@ -15,7 +15,7 @@ author_profile: true
 <i class="fa fa-university" aria-hidden="true"></i> 
 <i class="fa fa-paint-brush" aria-hidden="true"></i> 
 <i class="fa fa-university" aria-hidden="true"></i> 
-<i class="fa fa-university" aria-hidden="true"></i> 
+<i class="fa fa-university" aria-hidden="true"></i>  
 **2022** 
 <i class="fa fa-university" aria-hidden="true"></i> 
 <i class="fa fa-comment" aria-hidden="true"></i> 
