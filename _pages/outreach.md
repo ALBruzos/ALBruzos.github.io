@@ -24,7 +24,8 @@ author_profile: true
 <i class="fa fa-users" aria-hidden="true"></i> 
 <i class="fa fa-university" aria-hidden="true"></i>
 <i class="fa fa-play-circle" aria-hidden="true"></i> 
-<i class="fa fa-users" aria-hidden="true"></i>  
+<i class="fa fa-users" aria-hidden="true"></i>
+<i class="fa fa-university" aria-hidden="true"></i>  
 **2021** 
 <i class="fa fa-book" aria-hidden="true"></i> 
 <i class="fa fa-university" aria-hidden="true"></i> 
@@ -86,10 +87,11 @@ author_profile: true
 * **Science outreach talk** (2018). *“Unravelling cancer evolution using cockles”* Café con Sal (Vigo, Spain). [Announcement in the news](http://www.ipacuicultura.com/noticias/ultima_hora/62069/el_ciclo_de_conferencias_de_cafe_con_sal_de_la_ecimat_aborda_como_los_berberechos_pueden_ayudar_a_desentranar_la_evolucion_del_cancer.html).
 
 
-<i class="fa fa-university" aria-hidden="true"></i> **<u>School visits</u> (11: 8 Spanish + 3 British)**  
+<i class="fa fa-university" aria-hidden="true"></i> **<u>School visits</u> (12: 8 Spanish + 3 British + 1 Canadian)**  
 * **Women in Science talk: [11 de febrero](https://11defebrero.org/)** (2023). My talk was addresed to high-school students of a public vocational trainning (IES Mata Jove, Gijón, Spain).  
 * **Women in Science talk: [Conócelas-ASEICA](https://www.aseica.es/arranca-la-tercera-edicion-de-conocelas)** (09-FEB-2023). I gave a talk entitled *"Una detective del cáncer"* to scholars of an international primary school (British School, A Coruña, Spain).  
 * **Women in Science talk: [Conócelas-ASEICA](https://www.aseica.es/arranca-la-tercera-edicion-de-conocelas)** (07-FEB-2023). I gave a talk entitled *"Una detective del cáncer"* to 13 years-old students of a public high school (IES Rafael Dieste, A Coruña, Spain).  
+* **[Exploring By The Seat of Your Pants](https://www.exploringbytheseat.com/)** (02-DEC-2022). Initiative established on 2015 to connect those on the frontlines of science and exploration to classrooms through virtual sessions; 3,500+ live events, connecting over a million students with scientists and explorers in 100 countries. Together with Dr. Wing Yan (U. Melbourne, Australia), we gave a talk about *Water sampling on the Arctic Polar Circle for a eDNA project* to students of RFIS Intermediate School (Flemington, New Jersey, US) and St. Theresa Catholic Elementary School (Ontario, Canada). [Watch Here](https://www.youtube.com/watch?v=G0H7d5mPJZs)  
 * **British Science Week** (2022). [BSW](https://www.britishscienceweek.org/) is a ten-day celebration of science, technology, engineering and maths that took place between 11-20 March 2022. I gave two 15-min talks addresed to ~100 scholars on a primary school (Rotherfield Primary School, London, UK) on March 14th.  
 * **Women in Science talk: [11 de febrero](https://11defebrero.org/)** (2022). [11 de febrero](https://11defebrero.org/) is a citizen initiative to commemorate the International Day of Women and Girls in Science through activities to visibilize the work of women who are dedicated to STEM areas and create female role models for children who can contribute to the choice of these areas as professional careers. My talk was addresed to students of a public vocational trainning (IES Federica Montseny, Valencia, Spain). [More info](https://twitter.com/BruzosAliciaL/status/1491803176248381440)  
 * **Women in Science talk: [Conócelas-ASEICA](https://www.aseica.es/arranca-la-tercera-edicion-de-conocelas)** (2022). I gave a talk entitled *"Una detective del cáncer"* to 8-9 years-old scholars of a public primary school (CEIP Monte dos Postes, Santiago de Compostela, Spain). [Pictures](https://twitter.com/BruzosAliciaL/status/1491178436244930561) 
