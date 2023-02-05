@@ -63,7 +63,7 @@ author_profile: true
 
 ## Full list of outreach activities 
 
-<i class="fa fa-paint-brush" aria-hidden="true"></i> **<u>Initiatives</u> (4)** 
+<i class="fa fa-paint-brush" aria-hidden="true"></i> **<u>Miscellaneous initiatives</u> (4)** 
 * **Escaparates 11F** (2023). The project [Escaparates11F](http://madeinzaragoza.es/blog/escaparates-11f-2023/) is a joint initiative of *"Made in Zaragoza"* and the *11deFebrero* to browse the windows of the most creative stores in the city of Zaragoza (Spain) and discover more than 50 women scientists of all time. [See a picture](https://twitter.com/madeinzaragoza/status/1621883630803877897/photo/1)  
 * **Children’s colouring science book** (2021). The project *Scientists Meet the Artists* joined 12 scientists and 12 illustrators to design a series of drawings for children to colour and learn marine scientific concepts. The book was presented on the *World Oceans Day* (June 8th). [Download the book here](https://albruzos.github.io/files/outreach_2021-ScientistsMeetArtists.pdf), [Watch here the presentation day](https://tv.uvigo.es/video/60e852f1fe8ebc541a176b22) or [See children painting](https://twitter.com/campusdomar/status/1408319520893247488)
 * **Infography for a research association** (2020). Participation in the iniciative _"Que se investiga en Galicia?"_ of [InvestiGal](https://investi.gal/) association. [Visit Here](https://investi.gal/divulgacion/#infografias) [Download Here](https://drive.google.com/uc?export=download&id=1NsMMFnN4FlGWwWOEYlnmfxvamcodAJmc)
