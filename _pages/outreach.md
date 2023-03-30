@@ -87,7 +87,7 @@ author_profile: true
 * **Science outreach talk** (2018). *“Unravelling cancer evolution using cockles”* Café con Sal (Vigo, Spain). [Announcement in the news](http://www.ipacuicultura.com/noticias/ultima_hora/62069/el_ciclo_de_conferencias_de_cafe_con_sal_de_la_ecimat_aborda_como_los_berberechos_pueden_ayudar_a_desentranar_la_evolucion_del_cancer.html).
 
 
-<i class="fa fa-university" aria-hidden="true"></i> **<u>School visits</u> (12: 8 Spanish + 3 British + 1 Canadian/US)**  
+<i class="fa fa-university" aria-hidden="true"></i> **<u>School visits</u> (13: 9 Spanish + 3 British + 1 Canadian/US)**  
 * **Women in Science talk: [La voz de la mujer STEM](https://www.prensaescuela.es/alicia-lopez-bruzos-desmonta-mitos-machistas-en-ciencia/)** Students aged 15-16. Maristas-Santa María, Ourense, Spain.  
 * **Women in Science talk: [11 de febrero](https://11defebrero.org/)** (2023). My talk was addresed to high-school students (IES Mata Jove, Gijón, Spain). [More info](https://www.matajove.es/11f-dia-de-la-mujer-y-la-nina-en-la-ciencia/)  
 * **Women in Science talk: [Conócelas-ASEICA](https://www.aseica.es/arranca-la-tercera-edicion-de-conocelas)** (09-FEB-2023). I gave a talk entitled *"Una detective del cáncer"* to scholars of an international primary school (British School, A Coruña, Spain).  
