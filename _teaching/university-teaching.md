@@ -6,11 +6,13 @@ date: 2022-01-21
 permalink: /teaching/university-teaching
 ---
 
-**Total:** 90 hours, 3 public universities, 5 different courses, 5 years of experience
+**Total:** 112 certified hours, 3 public universities, 5 different courses, 6 years of experience
 
 | Academic Year  | Course | University | Degree | Hours | Language | Country |
 | ------------- | ------------- | ------------- |------------- |------------- | ------------- | ------------- |
-| 2021/2022 | Selected Student Component | [University College of London](https://www.ucl.ac.uk/) | Medicine MBBS BSc | 8 | English | UK |
+| 2022/2023 | Selected Student Component | [University College of London](https://www.ucl.ac.uk/) | Medicine MBBS BSc | 8 | English | UK |
+| 2022/2023 | FLS – meet a researcher module | [University College of London](https://www.ucl.ac.uk/) | Faculty of Life Sciences | 10 | English | UK |
+| 2021/2022 | Selected Student Component | [University College of London](https://www.ucl.ac.uk/) | Medicine MBBS BSc | 12 | English | UK |
 | 2020/2021 | Genetics II | [Universidade de Santiago de Compostela](https://www.usc.gal) | BSc. in Biotechnology | 8 | Spanish | Spain |
 | 2020/2021 | Genetics I | [Universidade de Santiago de Compostela](https://www.usc.gal) | BSc. in Biology | 40 | Spanish | Spain |
 | 2019/2020 | Human Genetics | [Universidade de Santiago de Compostela](https://www.usc.gal) | BSc. in Biology | 2 | Spanish | Spain |
