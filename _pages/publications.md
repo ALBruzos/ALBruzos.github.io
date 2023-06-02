@@ -12,7 +12,7 @@ I’ve been fortunate to have worked on several international and interesting re
 
 | Topic  | Year | Journal | Impact Factor<sup>*</sup> | First authorship | Comments |
 | ------------- | ------------- | ------------- | ------------- |------------- |------------- |
-| [The evolution of two transmissible leukaemias colonizing the coasts of Europe](https://www.biorxiv.org/content/10.1101/2022.08.06.503021v1) | NA  | Under review  | NA | yes | Part of my doctoral thesis |
+| [The evolution of two transmissible leukaemias colonizing the coasts of Europe](https://www.biorxiv.org/content/10.1101/2022.08.06.503021v1) | NA  | Under review in Nature Cancer | NA | yes | Part of my doctoral thesis |
 | [The first high-density genetic map of common cockle (Cerastoderma edule) reveals a major QTL controlling shell color variation](https://albruzos.github.io/publication/2022-10-10-PAPER-SciRep-ColorGWAS) | 2022  | Scientific reports (initial release [BioRxiv](https://www.biorxiv.org/content/10.1101/2022.04.13.488192v1) )  | 4.997 (2021) | no | Collaboration within the framework of Scuba Cancers project |
 | [Mitochondrial genome sequencing of marine leukaemias reveals cancer contagion between clam species in the Seas of Southern Europe](https://albruzos.github.io/publication/2022-01-18-PAPER-eLife-ClamsContagiousCancers) | 2022  | Elife (initial release [BioRxiv](https://www.biorxiv.org/content/10.1101/2021.03.10.434714v1) ) | 8.713 (2021) | yes | Part of my doctoral thesis |
 | [Assessing the elemental fingerprints of cockle shells to confirm their geographic origin from regional to international spatial scales](https://albruzos.github.io/publication/2022-01-08-PAPER_STOTEN_CockleShellsFingerprints) | 2022  | STOTEN  | 10.753 (2021)  | no | Collaboration within the framework of Scuba Cancers project |
@@ -22,26 +22,6 @@ I’ve been fortunate to have worked on several international and interesting re
 
 <sup>#</sup> Accepted manuscript, pending publication  
 <sup>*</sup> IF taken from Web of Science on the data relative to the publication unless otherwise stated year  
-
-## Research projects  
-
-<body>
-<center>
-  <p><b>100,000 Genomes Project:</b> 25,000 WGS cancer samples through Genomics England.<br></p>
-<a href="https://www.genomicsengland.co.uk/" target="_blank"> 
-<img src="/images/logos/GenomicsEngland_logo.png" alt="Genomics England logo" width="100" height="51" /> 
-</a>
-  <p><b>SCUBA CANCERS:</b> Finding the genetic causes of contagious metastases.<br></p>
-<a href="http://www.scubacancers.org/" target="_blank"> 
-<img align="center" src="/images/logos/ScubaCancersERClogo.png" alt="Scuba Cancers logo" width="270" height="61" /> 
-</a>
-
-  <p><b>Pan-Cancer Analysis of Whole Genomes:</b> Analysis of 2,658 WGS of 38 cancers.<br></p>
-<a href="https://docs.icgc.org/pcawg/" target="_blank"> 
-<img align="center" src="/images/logos/pcawg_logo.png" alt="PCAWG logo" width="102" height="41" /> 
-</a>
-</center>
-</body>
 
 
 ## Consortia publications
@@ -69,6 +49,37 @@ Consortia work can lead us to important conclusions. Along my career, I have bee
 * [Inferring structural variant cancer cell fraction](https://www.nature.com/articles/s41467-020-14351-8) Cmero et al. (2020) *Nature communications*
 * [Divergent mutational processes distinguish hypoxic and normoxic tumours](https://www.nature.com/articles/s41467-019-14052-x) Bhandari et al. (2020) *Nature communications*
 * [Reconstructing evolutionary trajectories of mutation signature activities in cancer using TrackSig](https://www.nature.com/articles/s41467-020-14352-7) Rubanova et al. (2020) *Nature communications*
+
+
+## Peer-review
+My scientific expertise has lead me to several invitations to take part in the peer-review system that ensures the rigorous standards of the scientific process. In particular, I have reviewed articles for the following journals:  
+<ul class="fa-ul">
+  <li><i class="fa-li fa fa-check-square"></i>1 Science IF(2021)=63.8</li>
+  <li><i class="fa-li fa fa-check-square"></i>1 Science Advances IF(2021)=14.9</li>
+  <li><i class="fa-li fa fa-check-square"></i>1 Proceedings of the Royal Society B - Biological Sciences. IF(2021)=5.5 </li>
+</ul>
+
+All stated reviews have been certified by Publons / Web of Science: [D-7235-2018](https://publons.com/researcher/1404866/alicia-l-bruzos/).
+
+## Research projects  
+
+<body>
+<center>
+  <p><b>100,000 Genomes Project:</b> 25,000 WGS cancer samples through Genomics England.<br></p>
+<a href="https://www.genomicsengland.co.uk/" target="_blank"> 
+<img src="/images/logos/GenomicsEngland_logo.png" alt="Genomics England logo" width="100" height="51" /> 
+</a>
+  <p><b>SCUBA CANCERS:</b> Finding the genetic causes of contagious metastases.<br></p>
+<a href="http://www.scubacancers.org/" target="_blank"> 
+<img align="center" src="/images/logos/ScubaCancersERClogo.png" alt="Scuba Cancers logo" width="270" height="61" /> 
+</a>
+
+  <p><b>Pan-Cancer Analysis of Whole Genomes:</b> Analysis of 2,658 WGS of 38 cancers.<br></p>
+<a href="https://docs.icgc.org/pcawg/" target="_blank"> 
+<img align="center" src="/images/logos/pcawg_logo.png" alt="PCAWG logo" width="102" height="41" /> 
+</a>
+</center>
+</body>
 
 
 <!---
