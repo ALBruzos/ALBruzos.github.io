@@ -54,8 +54,8 @@ Consortia work can lead us to important conclusions. Along my career, I have bee
 ## Peer-review
 My scientific expertise has lead me to several invitations to take part in the peer-review system that ensures the rigorous standards of the scientific process. In particular, I have reviewed articles for the following journals:  
 <ul class="fa-ul">
-  <li><i class="fa-li fa fa-check-square"></i>1 Science IF(2021)=63.8</li>
-  <li><i class="fa-li fa fa-check-square"></i>1 Science Advances IF(2021)=14.9</li>
+  <li><i class="fa-li fa fa-check-square"></i>1 Science. IF(2021)=63.8</li>
+  <li><i class="fa-li fa fa-check-square"></i>1 Science Advances. IF(2021)=14.9</li>
   <li><i class="fa-li fa fa-check-square"></i>1 Proceedings of the Royal Society B - Biological Sciences. IF(2021)=5.5 </li>
 </ul>
 
