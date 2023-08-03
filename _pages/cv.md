@@ -223,3 +223,7 @@ Full detailed list can be checked [here](https://albruzos.github.io/awardsgrants
 
 <b>CONTACT</b>  <i class="fa fa-envelope" aria-hidden="true"></i>
 [...get in touch with me](https://albruzos.github.io/contact)
+
+
+_Last update: Aug 2023_
+{: .notice}
