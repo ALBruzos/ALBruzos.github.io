@@ -6,7 +6,7 @@ author_profile: true
 
 {% include toc %}
 
-### Research projects
+## Research projects
 <body>
 <center>
   <p><b>100,000 Genomes Project:</b> 25,000 WGS cancer samples through Genomics England.<br></p>
