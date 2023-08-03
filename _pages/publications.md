@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications and Projects"
+title: "Publications and Reviews"
 permalink: /publications/
 author_profile: true
 ---
@@ -25,11 +25,12 @@ I’ve been fortunate to have worked on several international and interesting re
 <sup>*</sup> IF taken from Web of Science on the data relative to the publication unless otherwise stated year  
 
 ## Peer-review
-My scientific expertise has lead me to several invitations to take part in the peer-review system that ensures the rigorous standards of the scientific process. In particular, I have reviewed articles for the following journals:  
+My scientific expertise has led me to several invitations to take part in the peer-review system that ensures the rigorous standards of the scientific process. In particular, I have reviewed articles for the following journals:  
 <ul class="fa-ul">
   <li><i class="fa-li fa fa-check-square"></i>1 Science. IF(2021)=63.8</li>
   <li><i class="fa-li fa fa-check-square"></i>1 Science Advances. IF(2021)=14.9</li>
-  <li><i class="fa-li fa fa-check-square"></i>1 Proceedings of the Royal Society B - Biological Sciences. IF(2021)=5.5 </li>
+  <li><i class="fa-li fa fa-check-square"></i>1 Wiley Molecular Ecology. IF(2022)=6.2 </li>
+  <li><i class="fa-li fa fa-check-square"></i>1 Proceedings of the Royal Society B - Biological Sciences. IF(2022)=5.5 </li>
 </ul>
 
 All stated reviews have been certified by Publons / Web of Science: [D-7235-2018](https://publons.com/researcher/1404866/alicia-l-bruzos/).
