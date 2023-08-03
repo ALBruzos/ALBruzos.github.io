@@ -99,7 +99,7 @@ My scientific impact positions me with a current H index of 7, more than 1600 ci
 
 A full detailed list can be checked [here](https://albruzos.github.io/talks/)  
 
-#### Outreach <i class="fa fa-users" aria-hidden="true"></i>
+<b>OUTREACH</b> <i class="fa fa-users" aria-hidden="true"></i>
 
 Every year I commit some time to bring science to society by organizing or joining different activities.  
 * [Full details of my outreach activities](https://albruzos.github.io/outreach/)  
@@ -158,7 +158,7 @@ Every year I commit some time to bring science to society by organizing or joini
 <i class="fa fa-users" aria-hidden="true"></i> 
 <i class="fa fa-book" aria-hidden="true"></i>   
 
-#### Media <i class="fa fa-users" aria-hidden="true"></i>
+<b>MEDIA</b> <i class="fa fa-users" aria-hidden="true"></i>
 **Watch out!** I am always available to talk to the media about my research or career and it has been featured in well-known media such as the BBC or La Voz de Galicia. Check my [PR clipping](https://albruzos.github.io/media/)!
 {: .notice}   
 
@@ -167,17 +167,16 @@ Every year I commit some time to bring science to society by organizing or joini
 <i class="fa fa-university" aria-hidden="true"></i> Academia  
 ======
 
-#### Mentoring
+<b>MENTORING</b>  
 I have supervised **2 Bachelor theses**, **1 Master thesis**, and **1 Erasmus intern** (University of Patras, Greece); one of the Bachelor theses was awarded for its linguistic quality. [More info](https://albruzos.github.io/teaching/supervision)
 
-#### Teaching 
+<b>TEACHING</b>  
 I have teaching experience in **3 public universities** - two Spanish and one British - where I have taught **112 official hours** of genetics in different degrees (Biology, Biotechnology, and Medicine). [More info](https://albruzos.github.io/teaching/university-teaching)  
 
-#### Skills, training courses and certifications <i class="fa fa-wrench" aria-hidden="true"></i> 
+<b>SKILLS, COURSES & CERTIFICATIONS</b> <i class="fa fa-wrench" aria-hidden="true"></i>  
 Full detailed list can be checked [here](https://albruzos.github.io/skills-certifications/)
 
-#### Service & Institutional Citizenship 
-
+<b>SERVICE & INSTITUTIONAL CITIZENSHIP</b>  
 <ul class="fa-ul">
   <li><i class="fa fa-check-circle" aria-hidden="true"></i>Member of the organizing and scientific committee of 2 conferences (one in Spain, one in UK)</li>
   <li><i class="fa fa-check-circle" aria-hidden="true"></i>Elected twice as PhD alumni representative in Spain</li>
@@ -186,8 +185,8 @@ Full detailed list can be checked [here](https://albruzos.github.io/skills-certi
 
 [More details](https://albruzos.github.io/institutional-citizenship/)
 
-#### Professional Membership
-I belive in the importance of unions and associations to network and discuss with colleagues about various topics regarding our work. Therefore, I have been and I am a member of different societies worldwide. Unfortunately, my time is limited and I cannot contribute as much as I would like. [Check here my past and ongoing memberships](https://albruzos.github.io/institutional-citizenship/)
+<b>PROFESSIONAL MEMBERSHIPS</b>  
+I believe in the importance of unions and associations to network and discuss with colleagues about various topics regarding our work. Therefore, I have been and I am a member of different societies worldwide. Unfortunately, my time is limited and I cannot contribute as much as I would like. [Check here my past and ongoing memberships](https://albruzos.github.io/institutional-citizenship/)
 <img src='/images/albruzos-memberships.png'>  
 
 ---
