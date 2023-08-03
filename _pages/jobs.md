@@ -7,21 +7,26 @@ author_profile: true
 {% include toc %}
 
 ### CURRENT POSITION
+_07/2023_ – 	    :	**Postdoctoral fellow.**  
+:   *Institution:* [Université de Caen Normandie](https://www.unicaen.fr/), France.  
+:   *Training:* microbiology  
+:   *Research topic:* immunology of marine contagious cancers  
+:   *Supervisor/s:* Dr. Camille Detrée  
 
-_09/2021_ – 	    :	**Postdoctoral researcher.**  
+### PREVIOUS POSITIONS
+_09/2021 – 04/2023:_ **Postdoctoral researcher.**  
 :   *Institution:* [The Francis Crick Institute](https://www.crick.ac.uk/) and [University College of London](https://www.ucl.ac.uk/), United Kingdom.  
 :   *Training:* bioinformatics  
 :   *Research topic:* genomics of mosaic disorders and melanoma  
 :   *Supervisor/s:* Dr. Veronica Kinsler  
 
-### PREVIOUS POSITIONS
-_03/2018 – 09/2021:_ **Predoctoral researcher.**  
+_03/2018 – 09/2021:_ **Predoctoral fellow.**  
 :   *Institution:* [University of Santiago de Compostela](https://www.usc.es/gl), Spain.  
 :   *Training:* continuation of doctoral studies  
 :   *Research topic:* genetic causes of marine contagious cancers  
 :   *Supervisor/s:* Dr. Jose M. C. Tubío and Dr. Seila Díaz Costas  
 
-_09/2016 – 03/2018:_ **Predoctoral researcher.**  
+_09/2016 – 03/2018:_ **Predoctoral fellow.**  
 :   *Institution:* [University of Vigo](https://www.uvigo.gal/en), Spain.  
 :   *Training:* doctoral studies  
 :   *Research topic:* genetic causes of marine contagious cancers  
@@ -48,15 +53,15 @@ _Summer 2013:_ **Childminder of a French boy**.
 _Summer 2012:_ **Camp Instructor of Australian students**.  
 :   *Institution:* Montemar Summer School, Spain.  
 
-### RESEARCH STAYS AS VISITING SCIENTIST
+### RESEARCH STAYS AS A VISITING SCIENTIST
 2021: **Korea Advance Institute of Science and Technology (KAIST)**, Daejeon (South Korea).  
 :   *Research topic:* Analyzing expression and cell origin using RNA-seq data.  
 :   *Supervisor:* Dr. Young Seok Ju.  
-:   *Funding:* travel grant of Boheringer Ingelheim Fonds.  
+:   *Funding:* travel grant of Boehringer Ingelheim Fonds.  
 :   *Time:* January to April (10-ENE-2021 to 10-ABR-2021).  
 
 2020: **University of Vigo (UVIGO)**, Vigo (Spain).  
-:   *Research topic:* Phylogenetic inference of mitogenomes, topology testing, dNdS per branch and time estimations.  
+:   *Research topic:* Phylogenetic inference of mitogenomes, topology testing, dNdS per branch, and time estimations.  
 :   *Supervisor:* Prof. David Posada.  
 :   *Time:* September to December (05-OCT-2020 to 04-ENE-2021).  
 
