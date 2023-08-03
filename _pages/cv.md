@@ -184,7 +184,6 @@ A total of 112 teaching hours in **3 public universities** - two Spanish and one
     <li><i class="fa fa-check-circle" aria-hidden="true"></i><b>Sea Women Expeditions</b> (2022). Arctic Norway ocean research endorsed by the UN Ocean Decade.</li>
     <li><i class="fa fa-check-circle" aria-hidden="true"></i><b>Research Supervision</b> (2021). University College of London, United Kingdom.</li>
   <li><i class="fa fa-check-circle" aria-hidden="true"></i><b>Craft Skipper</b> (2017). Consellería do Mar, Xunta de Galicia, Spain.</li>
-
   <li><i class="fa fa-check-circle" aria-hidden="true"></i><b>Animal Experimentation Certificate (A+B+C+D+E)</b> (2017). Centro de Estudios Biosanitarios, Spain./li>
   <li><i class="fa fa-check-circle" aria-hidden="true"></i><b>Open Water Diver License</b> (2014). Scuba Schools International (SSI), Spain.</li>
 </ul>
