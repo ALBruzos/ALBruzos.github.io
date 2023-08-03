@@ -4,8 +4,9 @@ title: "Publications and Projects"
 permalink: /publications/
 author_profile: true
 ---
-
 {% include base_path %}  
+
+{% include toc %}
 
 ## Publications 
 I’ve been fortunate to have worked on several international and interesting research projects in the field of *cancer genomics*. Keep an eye on the space below to see the list of publications my work has contributed to (hopefully!) grow...
