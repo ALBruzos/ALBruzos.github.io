@@ -31,7 +31,7 @@ redirect_from:
 [More details of my academic education](https://albruzos.github.io/education/) 
 
 
-### Languages <i class="fa fa-comments" aria-hidden="true"></i>
+<b>LANGUAGES</b> <i class="fa fa-comments" aria-hidden="true"></i>
 
 | Language | Level<sup>*</sup> | Certification/s |
 | ------------- | ------------- | ------------- | 
@@ -50,7 +50,7 @@ _2023 – ongoing:_	**Postdocoral researcher (MSCA fellow)** at [Université de 
 _2021 – 2023:_ **Postdocoral researcher** at [The Francis Crick Institute](https://www.crick.ac.uk/) and [University College of London](https://www.ucl.ac.uk/), United Kingdom.  
 _2016 – 2021:_ **Predoctoral researcher (national predoctoral fellow)** at [Universidade de Santiago de Compostela](https://www.usc.es/gl) and [Universidade de Vigo](https://www.uvigo.gal/en), Spain.  
 
-#### RESEARCH STAYS AS A VISITING SCIENTIST <i class="fa fa-globe" aria-hidden="true"></i>
+<b>RESEARCH STAYS AS A VISITING SCIENTIST <i class="fa fa-globe" aria-hidden="true"></i>
 <ul class="fa-ul">
   <li><i class="fa-li fa fa-check-square"></i> <b>Korea Advance Institute of Science and Technology</b> (KAIST), Daejeon (South Korea). Jan-Apr 2021</li>
   <li><i class="fa-li fa fa-check-square"></i> <b>University of Vigo</b>, Vigo (Spain). Oct-Dec 2020</li>
