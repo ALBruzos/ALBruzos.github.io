@@ -99,9 +99,22 @@ My scientific impact positions me with a current H index of 7, more than 1600 ci
 
 A full detailed list can be checked [here](https://albruzos.github.io/talks/)  
 
-### Outreach and Media <i class="fa fa-users" aria-hidden="true"></i>
+### Outreach <i class="fa fa-users" aria-hidden="true"></i>
 
-Every year I commit some time to bring science to society by organizing or joining different activities:
+Every year I commit some time to bring science to society by organizing or joining different activities.  
+* [Full details of my outreach activities](https://albruzos.github.io/outreach/)  
+* Infographic and chronological compilation of the activities:
+
+*Legend:*
+<i class="fa fa-paint-brush" aria-hidden="true"></i> Initiatives 
+<i class="fa fa-play-circle" aria-hidden="true"></i> Videos and short films
+<i class="fa fa-users" aria-hidden="true"></i> General public talks<br> 
+<i class="fa fa-university" aria-hidden="true"></i> School visits 
+<i class="fa fa-comment" aria-hidden="true"></i> Opinion editorials 
+<i class="fa fa-book" aria-hidden="true"></i> Popular science articles 
+<i class="fa fa-podcast" aria-hidden="true"></i>Podcast 
+{: .notice}
+
 **2023** 
 <i class="fa fa-book" aria-hidden="true"></i> 
 <i class="fa fa-university" aria-hidden="true"></i>
@@ -145,19 +158,8 @@ Every year I commit some time to bring science to society by organizing or joini
 <i class="fa fa-users" aria-hidden="true"></i> 
 <i class="fa fa-book" aria-hidden="true"></i>   
 
-*Legend:*
-<i class="fa fa-paint-brush" aria-hidden="true"></i> Initiatives 
-<i class="fa fa-play-circle" aria-hidden="true"></i> Videos and short films
-<i class="fa fa-users" aria-hidden="true"></i> General public talks<br> 
-<i class="fa fa-university" aria-hidden="true"></i> School visits 
-<i class="fa fa-comment" aria-hidden="true"></i> Opinion editorials 
-<i class="fa fa-book" aria-hidden="true"></i> Popular science articles 
-<i class="fa fa-podcast" aria-hidden="true"></i>Podcast 
-{: .notice}
-
-[Full details of my outreach activities](https://albruzos.github.io/outreach/)  
-
-**Watch out!** I am always available to talk to media about my research or career and it has been featured by well-known media such as the BBC or La Voz de Galicia. Check my [PR clipping](https://albruzos.github.io/media/)!
+### Media <i class="fa fa-users" aria-hidden="true"></i>
+**Watch out!** I am always available to talk to the media about my research or career and it has been featured in well-known media such as the BBC or La Voz de Galicia. Check my [PR clipping](https://albruzos.github.io/media/)!
 {: .notice}   
 
 ---
@@ -165,37 +167,31 @@ Every year I commit some time to bring science to society by organizing or joini
 <i class="fa fa-university" aria-hidden="true"></i> Academia  
 ======
 
-### Mentoring, Teaching and Outreach <i class="fa fa-users" aria-hidden="true"></i>
+### Mentoring
+I have supervised **2 Bachelor theses**, **1 Master thesis**, and **1 Erasmus intern** (University of Patras, Greece); one of the Bachelor theses was awarded for its linguistic quality. [More info](https://albruzos.github.io/teaching/supervision)
 
-Number of supervised students: 3 [More info](https://albruzos.github.io/teaching/supervision)      
-Number of teaching hours: 90 [More info](https://albruzos.github.io/teaching/university-teaching)  
-Number of outreach activities: 17 [More info](https://albruzos.github.io/outreach/)  
-Number of interviews: 9 [More info](https://albruzos.github.io/media/)  
+### Teaching 
+I have teaching experience in **3 public universities** - two Spanish and one British - where I have taught **112 official hours** of genetics in different degrees (Biology, Biotechnology, and Medicine). [More info](https://albruzos.github.io/teaching/university-teaching)  
 
 ### Skills, training courses and certifications <i class="fa fa-wrench" aria-hidden="true"></i> 
 Full detailed list can be checked [here](https://albruzos.github.io/skills-certifications/)
 
 
-Institutional citizenship 
+### Institutional citizenship 
 
 [More details](https://albruzos.github.io/institutional-citizenship/)
 
 ### Service
-* 27/06/2022: _Conference organization_. Member of the organizing and scientific committee for the **5th Crick Postdoc Symposium** in London (United Kingdom) with 160 attendees. The programme comprised two plenary talks, 11 short oral communications, exhibited 38 posters and awarded 4 prizes. 
-* 26-28/05/2021: _Conference organization_. Member of the organizing and scientific committee for the **VIII Youth Researchers Meeting** in Santiago de Compostela (Spain) with 300 attendees. The [programme](https://albruzos.github.io/files/ScientificProgramme_VIII-EncontroMocidadeInvestigadora.pdf) comprised three plenary talks, three parallel sessions gathering 135 short oral communications and exhibited 67 posters. [Watch here the "Awards and closing speech"](https://www.youtube.com/watch?v=oEo8HwLZy2s) or [Check here the news](https://www.linkedin.com/posts/alicialopezbruzos_conferences2021-conference-research-activity-6810986196924207105-O6Qw)  
-* 2021 – 2022: _PhD alumni representative_. Spokeswoman of doctoral students on the **International Doctoral School Direction Committee** (EDIUS). Universidade de Santiago de Compostela, Spain.
-* 2017 – 2018: _PhD alumni representative_. Spokeswoman of doctoral students on the **International Doctoral School Committee** (EIDO) and representative of the **Quality Commission** of the same body. Universidade de Vigo, Spain.
-* 2016 – 2018: _Consortium secretariat_. Secretary of the **International Common Cockle Genome Consortium** (ICCGC). Three face-to-face symposiums were organized to address the goals of building a reference genome for the cockle species. 
+
+<ul class="fa-ul">
+  <li><i class="fa fa-check-circle" aria-hidden="true"></i>Member of the organizing and scientific committee of 2 conferences (one in Spain, one in UK)</li>
+  <li><i class="fa fa-check-circle" aria-hidden="true"></i>Elected twice as PhD alumni representative in Spain</li>
+  <li><i class="fa fa-check-circle" aria-hidden="true"></i>Consortium secretariat of the **International Common Cockle Genome Consortium** </li>
+</ul>
+[More details](https://albruzos.github.io/institutional-citizenship/)
 
 ### Professional Membership
-* 2021-present.	[Society of Spanish Researchers in the United Kingdom (SRUK/CERU)](https://sruk.org.uk/) (Active member of the [Wom=n Equity & Research Committee](https://sruk.org.uk/teams/womn-equity-research-committee/))
-* 2021-present.	[The Spanish Society for Biochemistry and Molecular Biology (SEBBM)](https://sebbm.es/) (Member; number: 8706; proposing partner [Dr. María Mayán](http://www.inibic.es/portfolio-items/cellcom/)) 
-* 2020-present.	[Confederación Intersindical Galega (CIG)](https://www.cig.gal/) (Member of this labor union in my region of origin) 
-* 2020-present.	[InvestiGal](https://investi.gal/) (Member)  
-* 2019-present.	[Asamblea de Investigadoras de Compostela (AIC)](https://asembleadeinvestigadoras.gal/) (Member)  
-* 2019-present.	[European Association for Cancer Research (EACR)](https://www.eacr.org/) (Member and Ambassador; number: 28748) 
-* 2019-present.	[Asociación Española de Investigación sobre el Cáncer (ASEICA)](https://www.aseica.es) (Member; number: 1746)  
-  
+I belive in the importance of unions and associations to network and discuss with colleagues about various topics regarding our work. Therefore, I have been and I am a member of different societies worldwide. Unfortunately, my time is limited and I cannot contribute as much as I would like. [Check here my past and ongoing memberships](https://albruzos.github.io/institutional-citizenship/)
 <img src='/images/albruzos-memberships.png'>  
 
 
