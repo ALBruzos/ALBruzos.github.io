@@ -166,10 +166,10 @@ Every year I commit some time to bring science to society by organizing or joini
 <i class="fa fa-university" aria-hidden="true"></i> Academia  
 ======
 
-<b>MENTORING</b> <i class="fa fa-comments-o" aria-hidden="true"></i>  
+<b>MENTORING</b> <i class="fa fa-life-ring" aria-hidden="true"></i>  
 I have supervised **2 Bachelor theses**, **1 Master thesis**, and **1 Erasmus intern** (University of Patras, Greece); one of the Bachelor theses was awarded for its linguistic quality. [More info](https://albruzos.github.io/teaching/supervision)
 
-<b>TEACHING</b> <i class="fa fa-commenting-o" aria-hidden="true"></i>  
+<b>TEACHING</b> <i class="fa fa-users" aria-hidden="true"></i>  
 I have teaching experience in **3 public universities** - two Spanish and one British - where I have taught **112 official hours** of genetics in different degrees (Biology, Biotechnology, and Medicine). [More info](https://albruzos.github.io/teaching/university-teaching)  
 
 <b>SKILLS, COURSES & CERTIFICATIONS</b> <i class="fa fa-wrench" aria-hidden="true"></i>  
@@ -177,9 +177,9 @@ Full detailed list can be checked [here](https://albruzos.github.io/skills-certi
 
 <b>SERVICE & INSTITUTIONAL CITIZENSHIP</b> <i class="fa fa-paperclip" aria-hidden="true"></i>  
 <ul class="fa-ul">
-  <li><i class="fa fa-dot-circle-o" aria-hidden="true"></i>Member of the organizing and scientific committee of 2 conferences (one in Spain, one in UK)</li>
-  <li><i class="fa fa-dot-circle-o" aria-hidden="true"></i>Elected twice as PhD alumni representative in Spain</li>
-  <li><i class="fa fa-dot-circle-o" aria-hidden="true"></i>Consortium secretariat of the International Common Cockle Genome Consortium </li>
+  <li><i class="fa fa-check-circle" aria-hidden="true"></i>Member of the organizing and scientific committee of 2 conferences (one in Spain, one in UK)</li>
+  <li><i class="fa fa-check-circle" aria-hidden="true"></i>Elected twice as PhD alumni representative in Spain</li>
+  <li><i class="fa fa-check-circle" aria-hidden="true"></i>Consortium secretariat of the International Common Cockle Genome Consortium </li>
 </ul>
 
 [More details](https://albruzos.github.io/institutional-citizenship/)
