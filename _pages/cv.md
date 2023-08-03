@@ -70,17 +70,18 @@ _2016 – 2021:_ **Predoctoral researcher (national predoctoral fellow)** at [Un
 
 ### Publications <i class="fa fa-fw fa-paste"></i>
 
-| Topic  | Year | Journal | Impact Factor<sup>*</sup> | First authorship | Comments |
+| Topic  | Year | Journal | Impact Factor<sup>*</sup> | First authorship | Framework |
 | ------------- | ------------- | ------------- | ------------- |------------- |------------- |
-| Barberán et al. (includes Bruzos AL) | NA  | Under review in JID | NA | no | Postdoc UK |
-| Riachi et al. (includes Bruzos AL) | NA  | Under review in JID | NA | no | Postdoc UK |
-| [Bruzos et al.](https://www.biorxiv.org/content/10.1101/2022.08.06.503021v1) | NA  | Accepted in Nature Cancer | NA | yes | PhD Spain |
+| Santamarina, Bruzos et al. | NA  | In preparation | NA | no | PhD, Spain |
+| Barberán et al. (includes Bruzos AL) | NA  | Under review in JID | NA | no | Postdoc, UK |
+| Riachi et al. (includes Bruzos AL) | NA  | Under review in JID | NA | no | Postdoc, UK |
+| [Bruzos et al.](https://www.biorxiv.org/content/10.1101/2022.08.06.503021v1) | NA  | Accepted in Nature Cancer | NA | yes | PhD, Spain |
 | [Hermida et al. (includes Bruzos AL)](https://albruzos.github.io/publication/2022-10-10-PAPER-SciRep-ColorGWAS) | 2022  | Scientific reports (initial release [BioRxiv](https://www.biorxiv.org/content/10.1101/2022.04.13.488192v1) )  | 4.997 (2021) | no | Collaboration |
-| [García-Souto D, Bruzos AL, Díaz S et al.](https://albruzos.github.io/publication/2022-01-18-PAPER-eLife-ClamsContagiousCancers) | 2022  | Elife (initial release [BioRxiv](https://www.biorxiv.org/content/10.1101/2021.03.10.434714v1) ) | 8.713 (2021) | yes | PhD Spain |
+| [García-Souto D, Bruzos AL, Díaz S et al.](https://albruzos.github.io/publication/2022-01-18-PAPER-eLife-ClamsContagiousCancers) | 2022  | Elife (initial release [BioRxiv](https://www.biorxiv.org/content/10.1101/2021.03.10.434714v1) ) | 8.713 (2021) | yes | PhD, Spain |
 | [Ricardo et al. (includes Bruzos AL)](https://albruzos.github.io/publication/2022-01-08-PAPER_STOTEN_CockleShellsFingerprints) | 2022  | STOTEN  | 10.753 (2021)  | no | Collaboration |
 | [Álvarez et al. (includes Bruzos AL)](https://albruzos.github.io/publication/2021-10-25-PAPER_NatureCommunications_HeptatitisBintegrations) | 2021  | Nature Communications (initial release [BioRxiv](https://www.biorxiv.org/content/10.1101/2021.04.19.440412v1) ) | 17.694 | no |  Collaboration |
-| [Rodríguez-Martín et al. (includes Bruzos AL)](https://albruzos.github.io/publication/2020-02-05-PAPER2_NatureGenetics_PCAWG-retrotransposition) | 2020  | Nature Genetics (initial release [BioRxiv](https://www.biorxiv.org/content/10.1101/179705v3) ) | 38.333 | no | Master/PhD Spain |
-| [PCAWG (includes Bruzos AL)](https://albruzos.github.io/publication/2020-02-05-PAPER1_Nature_PCAWG) | 2020  | Nature  | 49.962 | no | Master/PhD Spain |
+| [Rodríguez-Martín et al. (includes Bruzos AL)](https://albruzos.github.io/publication/2020-02-05-PAPER2_NatureGenetics_PCAWG-retrotransposition) | 2020  | Nature Genetics (initial release [BioRxiv](https://www.biorxiv.org/content/10.1101/179705v3) ) | 38.333 | no | Master/PhD, Spain |
+| [PCAWG (includes Bruzos AL)](https://albruzos.github.io/publication/2020-02-05-PAPER1_Nature_PCAWG) | 2020  | Nature  | 49.962 | no | Master/PhD, Spain |
 
 <mark>Friday</mark>
 
