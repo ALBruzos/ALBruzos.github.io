@@ -8,61 +8,7 @@ author_profile: true
 
 <img src='/images/Tira_FotosOutreach_AliciaLBruzos.png'>  
 
-## Activities in reverse chronological order  
-**2023** 
-<i class="fa fa-book" aria-hidden="true"></i> 
-<i class="fa fa-university" aria-hidden="true"></i>
-<i class="fa fa-university" aria-hidden="true"></i> 
-<i class="fa fa-paint-brush" aria-hidden="true"></i> 
-<i class="fa fa-university" aria-hidden="true"></i> 
-<i class="fa fa-university" aria-hidden="true"></i>  
-**2022** 
-<i class="fa fa-university" aria-hidden="true"></i> 
-<i class="fa fa-comment" aria-hidden="true"></i> 
-<i class="fa fa-play-circle" aria-hidden="true"></i> 
-<i class="fa fa-university" aria-hidden="true"></i> 
-<i class="fa fa-users" aria-hidden="true"></i> 
-<i class="fa fa-university" aria-hidden="true"></i>
-<i class="fa fa-play-circle" aria-hidden="true"></i> 
-<i class="fa fa-users" aria-hidden="true"></i>
-<i class="fa fa-university" aria-hidden="true"></i>  
-**2021** 
-<i class="fa fa-book" aria-hidden="true"></i> 
-<i class="fa fa-university" aria-hidden="true"></i> 
-<i class="fa fa-university" aria-hidden="true"></i> 
-<i class="fa fa-paint-brush" aria-hidden="true"></i> 
-<i class="fa fa-book" aria-hidden="true"></i> 
-<i class="fa fa-university" aria-hidden="true"></i> 
-<i class="fa fa-comment" aria-hidden="true"></i> 
-<i class="fa fa-university" aria-hidden="true"></i>  
-**2020** 
-<i class="fa fa-book" aria-hidden="true"></i>
-<i class="fa fa-play-circle" aria-hidden="true"></i>
-<i class="fa fa-book" aria-hidden="true"></i> 
-<i class="fa fa-paint-brush" aria-hidden="true"></i> 
-<i class="fa fa-play-circle" aria-hidden="true"></i>  
-**2019** 
-<i class="fa fa-university" aria-hidden="true"></i> 
-<i class="fa fa-users" aria-hidden="true"></i> 
-<i class="fa fa-podcast" aria-hidden="true"></i> 
-<i class="fa fa-play-circle" aria-hidden="true"></i> 
-<i class="fa fa-paint-brush" aria-hidden="true"></i> 
-<i class="fa fa-book" aria-hidden="true"></i>  
-**2018** 
-<i class="fa fa-users" aria-hidden="true"></i> 
-<i class="fa fa-book" aria-hidden="true"></i>   
-
-*Legend:*
-<i class="fa fa-paint-brush" aria-hidden="true"></i> Initiatives 
-<i class="fa fa-play-circle" aria-hidden="true"></i> Videos and short films
-<i class="fa fa-users" aria-hidden="true"></i> General public talks<br> 
-<i class="fa fa-university" aria-hidden="true"></i> School visits 
-<i class="fa fa-comment" aria-hidden="true"></i> Opinion editorials 
-<i class="fa fa-book" aria-hidden="true"></i> Popular science articles 
-<i class="fa fa-podcast" aria-hidden="true"></i>Podcast 
-{: .notice}
-
-## Full list of outreach activities 
+### Full list of outreach activities: 
 
 <i class="fa fa-paint-brush" aria-hidden="true"></i> **<u>Miscellaneous initiatives</u> (4)** 
 * **Escaparates 11F** (2023). The project [Escaparates11F](http://madeinzaragoza.es/blog/escaparates-11f-2023/) is a joint initiative of *"Made in Zaragoza"* and the *11deFebrero* to browse the windows of the most creative stores in the city of Zaragoza (Spain) and discover more than 50 women scientists of all time. [See a picture](https://twitter.com/madeinzaragoza/status/1621883630803877897/photo/1)  
