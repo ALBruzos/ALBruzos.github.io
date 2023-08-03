@@ -50,10 +50,10 @@ _2016 – 2021:_ **Predoctoral researcher (national predoctoral fellow)** at [Un
 
 ### <i class="fa fa-globe" aria-hidden="true"></i> RESEARCH STAYS AS A VISITING SCIENTIST: 
 <ul class="fa-ul">
-  <li><i class="fa-li fa fa-check-square"></i>Korea Advance Institute of Science and Technology (KAIST), Daejeon (South Korea). Jan-Apr 2021</li>
-  <li><i class="fa-li fa fa-check-square"></i>University of Vigo (UVIGO), Vigo (Spain). Oct-Dec 2020</li>
-  <li><i class="fa-li fa fa-check-square"></i>National University of Ireland Galway (NUIG), Galway (Ireland). Mar-Apr 2019</li>
-  <li><i class="fa-li fa fa-check-square"></i>Pacific Northwest Research Institute (PNRI), Seattle (USA). Sep-Dec 2018</li>
+  <li><i class="fa-li fa fa-check-square"></i> <b>Korea Advance Institute of Science and Technology</b> (KAIST), Daejeon (South Korea). Jan-Apr 2021</li>
+  <li><i class="fa-li fa fa-check-square"></i> <b>University of Vigo</b>, Vigo (Spain). Oct-Dec 2020</li>
+  <li><i class="fa-li fa fa-check-square"></i> <b>National University of Ireland Galway</b>, Galway (Ireland). Mar-Apr 2019</li>
+  <li><i class="fa-li fa fa-check-square"></i> <b>Pacific Northwest Research Institute</b> (PNRI), Seattle (USA). Sep-Dec 2018</li>
 </ul>
 
 [More details about my work experience](https://albruzos.github.io/jobs/)  
@@ -81,6 +81,8 @@ _2016 – 2021:_ **Predoctoral researcher (national predoctoral fellow)** at [Un
 | [Álvarez et al. (includes Bruzos AL)](https://albruzos.github.io/publication/2021-10-25-PAPER_NatureCommunications_HeptatitisBintegrations) | 2021  | Nature Communications (initial release [BioRxiv](https://www.biorxiv.org/content/10.1101/2021.04.19.440412v1) ) | 17.694 | no |  Collaboration |
 | [Rodríguez-Martín et al. (includes Bruzos AL)](https://albruzos.github.io/publication/2020-02-05-PAPER2_NatureGenetics_PCAWG-retrotransposition) | 2020  | Nature Genetics (initial release [BioRxiv](https://www.biorxiv.org/content/10.1101/179705v3) ) | 38.333 | no | Master/PhD Spain |
 | [PCAWG (includes Bruzos AL)](https://albruzos.github.io/publication/2020-02-05-PAPER1_Nature_PCAWG) | 2020  | Nature  | 49.962 | no | Master/PhD Spain |
+
+<mark>Friday</mark>
 
 <sup>#</sup> Accepted manuscript, pending publication  
 <sup>*</sup> IF taken from Web of Science on the data relative to the publication unless otherwise stated year  
