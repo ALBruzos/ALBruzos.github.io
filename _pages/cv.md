@@ -75,9 +75,9 @@ My scientific impact positions me with a current H index of 7, more than 1600 ci
 
 | Topic  | Year | Journal | Impact Factor<sup>*</sup> | First authorship | Framework |
 | ------------- | ------------- | ------------- | ------------- |------------- |------------- |
-| Santamarina, Bruzos et al. | NA  | <mark>PENDING</mark>. In preparation | NA | no | PhD, Spain |
-| Barberán et al. (includes Bruzos AL) | NA  | <mark>PENDING</mark>. Under review in JID | NA | no | Postdoc, UK |
-| Riachi et al. (includes Bruzos AL) | NA  | <mark>PENDING</mark>. Under review in JID | NA | no | Postdoc, UK |
+| Santamarina, Bruzos et al.<sup>#</sup> | NA  | In preparation | NA | no | PhD, Spain |
+| Barberán et al. (includes Bruzos AL)<sup>#</sup> | NA  | Under review in JID | NA | no | Postdoc, UK |
+| Riachi et al. (includes Bruzos AL)<sup>#</sup> | NA  | Under review in JID | NA | no | Postdoc, UK |
 | [Bruzos et al.](https://www.biorxiv.org/content/10.1101/2022.08.06.503021v1)<sup>#</sup>| NA  | <mark>PENDING</mark>. Accepted in Nature Cancer | NA | yes | PhD, Spain |
 | [Hermida et al. (includes Bruzos AL)](https://albruzos.github.io/publication/2022-10-10-PAPER-SciRep-ColorGWAS) | 2022  | Scientific reports & [BioRxiv](https://www.biorxiv.org/content/10.1101/2022.04.13.488192v1)  | 4.997 (2021) | no | Collaboration |
 | [García-Souto D, Bruzos AL, Díaz S et al.](https://albruzos.github.io/publication/2022-01-18-PAPER-eLife-ClamsContagiousCancers) | 2022  | Elife & [BioRxiv](https://www.biorxiv.org/content/10.1101/2021.03.10.434714v1) | 8.713 (2021) | yes | PhD, Spain |
@@ -86,8 +86,8 @@ My scientific impact positions me with a current H index of 7, more than 1600 ci
 | [Rodríguez-Martín et al. (includes Bruzos AL)](https://albruzos.github.io/publication/2020-02-05-PAPER2_NatureGenetics_PCAWG-retrotransposition) | 2020  | Nature Genetics & [BioRxiv](https://www.biorxiv.org/content/10.1101/179705v3) | 38.333 | no | Master/PhD, Spain |
 | [PCAWG (includes Bruzos AL)](https://albruzos.github.io/publication/2020-02-05-PAPER1_Nature_PCAWG) | 2020  | Nature | 49.962 | no | Master/PhD, Spain |
 
-<sup>#</sup> Accepted manuscript, pending publication  
-<sup>*</sup> IF taken from Web of Science on the data relative to the publication unless otherwise stated year  
+<sup>#</sup> <mark>PENDING PUBLICATION</mark> 
+<sup>*</sup> IF taken from Web of Science for the year of the publication unless otherwise stated  
   
 ### Conferences <i class="fa fa-bullhorn" aria-hidden="true"></i>
 <ul class="fa-ul">
