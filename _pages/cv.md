@@ -177,9 +177,9 @@ Full detailed list can be checked [here](https://albruzos.github.io/skills-certi
 
 <b>SERVICE & INSTITUTIONAL CITIZENSHIP</b> <i class="fa fa-paperclip" aria-hidden="true"></i>  
 <ul class="fa-ul">
-  <li><i class="fa fa-check-square-o" aria-hidden="true"></i>Member of the organizing and scientific committee of 2 conferences (one in Spain, one in UK)</li>
-  <li><i class="fa fa-check-square-o" aria-hidden="true"></i>Elected twice as PhD alumni representative in Spain</li>
-  <li><i class="fa fa-check-square-o" aria-hidden="true"></i>Consortium secretariat of the International Common Cockle Genome Consortium </li>
+  <li><i class="fa fa-dot-circle-o" aria-hidden="true"></i>Member of the organizing and scientific committee of 2 conferences (one in Spain, one in UK)</li>
+  <li><i class="fa fa-dot-circle-o" aria-hidden="true"></i>Elected twice as PhD alumni representative in Spain</li>
+  <li><i class="fa fa-dot-circle-o" aria-hidden="true"></i>Consortium secretariat of the International Common Cockle Genome Consortium </li>
 </ul>
 
 [More details](https://albruzos.github.io/institutional-citizenship/)
