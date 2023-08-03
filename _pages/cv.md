@@ -75,10 +75,10 @@ My scientific impact positions me with a current H index of 7, more than 1600 ci
 
 | Topic  | Year | Journal | Impact Factor<sup>*</sup> | First authorship | Framework |
 | ------------- | ------------- | ------------- | ------------- |------------- |------------- |
-| Santamarina, Bruzos et al.<sup>#</sup> | NA  | In preparation | NA | no | PhD, Spain |
-| Barberán et al. (includes Bruzos AL)<sup>#</sup> | NA  | Under review in JID | NA | no | Postdoc, UK |
-| Riachi et al. (includes Bruzos AL)<sup>#</sup> | NA  | Under review in JID | NA | no | Postdoc, UK |
-| [Bruzos et al.](https://www.biorxiv.org/content/10.1101/2022.08.06.503021v1)<sup>#</sup>| NA  | <mark>PENDING</mark>. Accepted in Nature Cancer | NA | yes | PhD, Spain |
+| Santamarina, Bruzos et al.<sup><mark>#</mark></sup> | NA  | In preparation | NA | no | PhD, Spain |
+| Barberán et al. (includes Bruzos AL)<sup><mark>#</mark></sup> | NA  | Under review in JID | NA | no | Postdoc, UK |
+| Riachi et al. (includes Bruzos AL)<sup><mark>#</mark></sup> | NA  | Under review in JID | NA | no | Postdoc, UK |
+| [Bruzos et al.](https://www.biorxiv.org/content/10.1101/2022.08.06.503021v1)<sup><mark>#</mark></sup>| NA  | Accepted in Nature Cancer | NA | yes | PhD, Spain |
 | [Hermida et al. (includes Bruzos AL)](https://albruzos.github.io/publication/2022-10-10-PAPER-SciRep-ColorGWAS) | 2022  | Scientific reports & [BioRxiv](https://www.biorxiv.org/content/10.1101/2022.04.13.488192v1)  | 4.997 (2021) | no | Collaboration |
 | [García-Souto D, Bruzos AL, Díaz S et al.](https://albruzos.github.io/publication/2022-01-18-PAPER-eLife-ClamsContagiousCancers) | 2022  | Elife & [BioRxiv](https://www.biorxiv.org/content/10.1101/2021.03.10.434714v1) | 8.713 (2021) | yes | PhD, Spain |
 | [Ricardo et al. (includes Bruzos AL)](https://albruzos.github.io/publication/2022-01-08-PAPER_STOTEN_CockleShellsFingerprints) | 2022  | STOTEN  | 10.753 (2021)  | no | Collaboration |
