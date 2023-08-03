@@ -26,7 +26,7 @@ redirect_from:
 :   Erasmus year abroad at Université Libre de Bruxelles (Belgium).  
 :   Title of Degree thesis: _“Interpopulation variability in the level of photosynthesis inactivation by heat stress in Arbutus unedo”_ (With Honours)  
 
-[More info](https://albruzos.github.io/education/) 
+[More details of my academic education](https://albruzos.github.io/education/) 
 
 
 ### Languages <i class="fa fa-comments" aria-hidden="true"></i>
@@ -44,22 +44,19 @@ redirect_from:
 
 <i class="fa fa-fw fa-briefcase "></i> Work experience
 =======
-_2021 – ongoing:_	**Research Assistant.**  
-:   *Institution:* [The Francis Crick Institute](https://www.crick.ac.uk/) and [University College of London](https://www.ucl.ac.uk/), United Kingdom.  
-:   *Duties:* bioinformatical analysis  
-:   *Supervisor/s:* Veronica Kinsler  
+_2023 – ongoing:_	**Postdocoral researcher (MSCA fellow)** at [Université de Caen Normandie](https://www.unicaen.fr/), France.  
+_2021 – 2023:_ **Postdocoral researcher** at [The Francis Crick Institute](https://www.crick.ac.uk/) and [University College of London](https://www.ucl.ac.uk/), United Kingdom.  
+_2016 – 2021:_ **Predoctoral researcher (national predoctoral fellow)** at [Universidade de Santiago de Compostela](https://www.usc.es/gl) and [Universidade de Vigo](https://www.uvigo.gal/en), Spain.  
 
-_2018 – 2021:_ **Predoctoral researcher.**  
-:   *Institution:* [University of Santiago de Compostela](https://www.usc.es/gl), Spain.  
-:   *Duties:* continuation of doctoral studies  
-:   *Supervisor/s:* Jose M. C. Tubío and Seila Díaz Costas  
+### <i class="fa fa-globe" aria-hidden="true"></i> RESEARCH STAYS AS A VISITING SCIENTIST: 
+<ul class="fa-ul">
+  <li><i class="fa-li fa fa-check-square"></i>Korea Advance Institute of Science and Technology (KAIST), Daejeon (South Korea). Jan-Apr 2021</li>
+  <li><i class="fa-li fa fa-check-square"></i>University of Vigo (UVIGO), Vigo (Spain). Oct-Dec 2020</li>
+  <li><i class="fa-li fa fa-check-square"></i>National University of Ireland Galway (NUIG), Galway (Ireland). Mar-Apr 2019</li>
+  <li><i class="fa-li fa fa-check-square"></i>Pacific Northwest Research Institute (PNRI), Seattle (USA). Sep-Dec 2018</li>
+</ul>
 
-[Previous positions](https://albruzos.github.io/jobs/)  
-
-### RESEARCH STAYS AS A VISITING SCIENTIST <i class="fa fa-globe" aria-hidden="true"></i>
-Number of research stays: 4  
-International research stays: 3 (United States, Ireland and South Korea)  
-[More info](https://albruzos.github.io/jobs/)  
+[More details about my work experience](https://albruzos.github.io/jobs/)  
 
 ---
 
