@@ -71,7 +71,7 @@ _2016 – 2021:_ **Predoctoral researcher (national predoctoral fellow)** at [Un
 
 My scientific impact positions me with a current H index of 7, more than 1600 citations ([Google Scholar](https://scholar.google.com/citations?user=YyKE8DIAAAAJ)), and 5 JCR publications Q1 (see below).
 
-#### Publications <i class="fa fa-fw fa-paste"></i>
+<b>PUBLICATIONS</b> <i class="fa fa-fw fa-paste"></i>
 
 | Topic  | Year | Journal | Impact Factor<sup>*</sup> | First authorship | Framework |
 | ------------- | ------------- | ------------- | ------------- |------------- |------------- |
@@ -89,7 +89,7 @@ My scientific impact positions me with a current H index of 7, more than 1600 ci
 <sup>#</sup> <mark>PENDING PUBLICATION</mark> 
 <sup>*</sup> IF taken from Web of Science for the year of the publication unless otherwise stated  
   
-#### Conferences <i class="fa fa-bullhorn" aria-hidden="true"></i>
+<b>CONFERENCES</b> <i class="fa fa-bullhorn" aria-hidden="true"></i>
 <ul class="fa-ul">
   <li><i class="fa fa-check-circle" aria-hidden="true"></i>5 invited speaker talks</li>
   <li><i class="fa fa-check-circle" aria-hidden="true"></i>11 oral communications</li>
