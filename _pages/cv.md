@@ -167,10 +167,16 @@ Every year I commit some time to bring science to society by organizing or joini
 ======
 
 <b>MENTORING</b> <i class="fa fa-life-ring" aria-hidden="true"></i>  
-I have supervised **2 Bachelor theses**, **1 Master thesis**, and **1 Erasmus intern** (University of Patras, Greece); one of the Bachelor theses was awarded for its linguistic quality. [More info](https://albruzos.github.io/teaching/supervision)
+<ul class="fa-ul">
+  <li><i class="fa fa-check-circle" aria-hidden="true"></i>2 Bachelor theses<sup>**</sup> </li>
+  <li><i class="fa fa-check-circle" aria-hidden="true"></i>1 Master thesis</li>
+  <li><i class="fa fa-check-circle" aria-hidden="true"></i>1 Erasmus intern (University of Patras, Greece)</li>
+</ul>
+<sup>**</sup>One was awarded for its linguistic quality.  
+[More info](https://albruzos.github.io/teaching/supervision)  
 
 <b>TEACHING</b> <i class="fa fa-users" aria-hidden="true"></i>  
-I have teaching experience in **3 public universities** - two Spanish and one British - where I have taught **112 official hours** of genetics in different degrees (Biology, Biotechnology, and Medicine). [More info](https://albruzos.github.io/teaching/university-teaching)  
+A total of 112 teaching hours in **3 public universities** - two Spanish and one British - where I have taught genetics in different degrees (Biology, Biotechnology, and Medicine). [More details](https://albruzos.github.io/teaching/university-teaching)  
 
 <b>SKILLS, COURSES & CERTIFICATIONS</b> <i class="fa fa-wrench" aria-hidden="true"></i>  
 Full detailed list can be checked [here](https://albruzos.github.io/skills-certifications/)
