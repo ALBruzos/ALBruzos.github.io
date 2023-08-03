@@ -222,7 +222,7 @@ Full detailed list can be checked [here](https://albruzos.github.io/awardsgrants
 
 <ul class="fa-ul">
   <li><i class="fa-li fa fa-check-square"></i>2 grants</li>
-  <li><i class="fa-li fa fa-check-square"></i>2 fellowships</li>
+  <li><i class="fa-li fa fa-check-square"></i>5 fellowships</li>
   <li><i class="fa-li fa fa-check-square"></i>2 scholarships</li>
 </ul>
 
