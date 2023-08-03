@@ -178,7 +178,16 @@ Every year I commit some time to bring science to society by organizing or joini
 <b>TEACHING</b> <i class="fa fa-users" aria-hidden="true"></i>  
 A total of 112 teaching hours in **3 public universities** - two Spanish and one British - where I have taught genetics in different degrees (Biology, Biotechnology, and Medicine). [More details](https://albruzos.github.io/teaching/university-teaching)  
 
-<b>SKILLS, COURSES & CERTIFICATIONS</b> <i class="fa fa-wrench" aria-hidden="true"></i>  
+<b>SKILLS, COURSES, EXPEDITIONS & CERTIFICATIONS</b> <i class="fa fa-wrench" aria-hidden="true"></i>  
+Selection:  
+* 2023 - **Profesor Ayudante Doctor**. Agencia Nacional de Evaluación de la Calidad de la Acreditación (ANECA), Spain.
+* 2022 - **Sea Women Expeditions**. Arctic Norway ocean research endorsed by the UN Ocean Decade. Collect samples for an eDNA project aiming to assess phytoplankton (project leader [Kirsten Müller](https://uwaterloo.ca/biology/profile/kmmuller), University of Waterloo, Canada). [Watch Here an outreach activity](https://www.youtube.com/watch?v=G0H7d5mPJZs)
+* 2017 - **Craft Skipper**. Consellería do Mar, Xunta de Galicia, Spain. 
+* 2017 - **Animal Experimentation Certificate (A+B+C+D+E)**. Centro de Estudios Biosanitarios, Spain.
+* 2014 - **Open Water Diver License**. Scuba Schools International (SSI), Spain.
+
+![image](https://github.com/ALBruzos/ALBruzos.github.io/assets/15688556/e3e02d00-10e4-4a02-8b57-58d7bbb51770)
+
 Full detailed list can be checked [here](https://albruzos.github.io/skills-certifications/)
 
 <b>SERVICE & INSTITUTIONAL CITIZENSHIP</b> <i class="fa fa-paperclip" aria-hidden="true"></i>  
