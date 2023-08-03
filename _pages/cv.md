@@ -50,7 +50,7 @@ _2023 – ongoing:_	**Postdocoral researcher (MSCA fellow)** at [Université de 
 _2021 – 2023:_ **Postdocoral researcher** at [The Francis Crick Institute](https://www.crick.ac.uk/) and [University College of London](https://www.ucl.ac.uk/), United Kingdom.  
 _2016 – 2021:_ **Predoctoral researcher (national predoctoral fellow)** at [Universidade de Santiago de Compostela](https://www.usc.es/gl) and [Universidade de Vigo](https://www.uvigo.gal/en), Spain.  
 
-### <i class="fa fa-globe" aria-hidden="true"></i> RESEARCH STAYS AS A VISITING SCIENTIST: 
+#### RESEARCH STAYS AS A VISITING SCIENTIST <i class="fa fa-globe" aria-hidden="true"></i>
 <ul class="fa-ul">
   <li><i class="fa-li fa fa-check-square"></i> <b>Korea Advance Institute of Science and Technology</b> (KAIST), Daejeon (South Korea). Jan-Apr 2021</li>
   <li><i class="fa-li fa fa-check-square"></i> <b>University of Vigo</b>, Vigo (Spain). Oct-Dec 2020</li>
@@ -71,7 +71,7 @@ _2016 – 2021:_ **Predoctoral researcher (national predoctoral fellow)** at [Un
 
 My scientific impact positions me with a current H index of 7, more than 1600 citations ([Google Scholar](https://scholar.google.com/citations?user=YyKE8DIAAAAJ)), and 5 JCR publications Q1 (see below).
 
-### Publications <i class="fa fa-fw fa-paste"></i>
+#### Publications <i class="fa fa-fw fa-paste"></i>
 
 | Topic  | Year | Journal | Impact Factor<sup>*</sup> | First authorship | Framework |
 | ------------- | ------------- | ------------- | ------------- |------------- |------------- |
@@ -89,7 +89,7 @@ My scientific impact positions me with a current H index of 7, more than 1600 ci
 <sup>#</sup> <mark>PENDING PUBLICATION</mark> 
 <sup>*</sup> IF taken from Web of Science for the year of the publication unless otherwise stated  
   
-### Conferences <i class="fa fa-bullhorn" aria-hidden="true"></i>
+#### Conferences <i class="fa fa-bullhorn" aria-hidden="true"></i>
 <ul class="fa-ul">
   <li><i class="fa fa-check-circle" aria-hidden="true"></i>5 invited speaker talks</li>
   <li><i class="fa fa-check-circle" aria-hidden="true"></i>11 oral communications</li>
@@ -99,7 +99,7 @@ My scientific impact positions me with a current H index of 7, more than 1600 ci
 
 A full detailed list can be checked [here](https://albruzos.github.io/talks/)  
 
-### Outreach <i class="fa fa-users" aria-hidden="true"></i>
+#### Outreach <i class="fa fa-users" aria-hidden="true"></i>
 
 Every year I commit some time to bring science to society by organizing or joining different activities.  
 * [Full details of my outreach activities](https://albruzos.github.io/outreach/)  
@@ -158,7 +158,7 @@ Every year I commit some time to bring science to society by organizing or joini
 <i class="fa fa-users" aria-hidden="true"></i> 
 <i class="fa fa-book" aria-hidden="true"></i>   
 
-### Media <i class="fa fa-users" aria-hidden="true"></i>
+#### Media <i class="fa fa-users" aria-hidden="true"></i>
 **Watch out!** I am always available to talk to the media about my research or career and it has been featured in well-known media such as the BBC or La Voz de Galicia. Check my [PR clipping](https://albruzos.github.io/media/)!
 {: .notice}   
 
@@ -167,67 +167,60 @@ Every year I commit some time to bring science to society by organizing or joini
 <i class="fa fa-university" aria-hidden="true"></i> Academia  
 ======
 
-### Mentoring
+#### Mentoring
 I have supervised **2 Bachelor theses**, **1 Master thesis**, and **1 Erasmus intern** (University of Patras, Greece); one of the Bachelor theses was awarded for its linguistic quality. [More info](https://albruzos.github.io/teaching/supervision)
 
-### Teaching 
+#### Teaching 
 I have teaching experience in **3 public universities** - two Spanish and one British - where I have taught **112 official hours** of genetics in different degrees (Biology, Biotechnology, and Medicine). [More info](https://albruzos.github.io/teaching/university-teaching)  
 
-### Skills, training courses and certifications <i class="fa fa-wrench" aria-hidden="true"></i> 
+#### Skills, training courses and certifications <i class="fa fa-wrench" aria-hidden="true"></i> 
 Full detailed list can be checked [here](https://albruzos.github.io/skills-certifications/)
 
-
-### Institutional citizenship 
-
-[More details](https://albruzos.github.io/institutional-citizenship/)
-
-### Service
+#### Service & Institutional Citizenship 
 
 <ul class="fa-ul">
   <li><i class="fa fa-check-circle" aria-hidden="true"></i>Member of the organizing and scientific committee of 2 conferences (one in Spain, one in UK)</li>
   <li><i class="fa fa-check-circle" aria-hidden="true"></i>Elected twice as PhD alumni representative in Spain</li>
   <li><i class="fa fa-check-circle" aria-hidden="true"></i>Consortium secretariat of the **International Common Cockle Genome Consortium** </li>
 </ul>
+
 [More details](https://albruzos.github.io/institutional-citizenship/)
 
-### Professional Membership
+#### Professional Membership
 I belive in the importance of unions and associations to network and discuss with colleagues about various topics regarding our work. Therefore, I have been and I am a member of different societies worldwide. Unfortunately, my time is limited and I cannot contribute as much as I would like. [Check here my past and ongoing memberships](https://albruzos.github.io/institutional-citizenship/)
 <img src='/images/albruzos-memberships.png'>  
 
-
 ---
 
-<i class="fa fa-fw fa-trophy"></i> Awards 
+<i class="fa fa-fw fa-trophy"></i> Awards, Grants and Fellowships
 ======
 
+#### Award <i class="fa fa-fw fa-trophy"></i>
 <ul class="fa-ul">
   <li><i class="fa-li fa fa-check-square"></i>4 scientific prizes</li>
   <li><i class="fa-li fa fa-check-square"></i>2 litterary prizes</li>
   <li><i class="fa-li fa fa-check-square"></i>1 drawing prize</li>
 </ul>
+
 Full detailed list can be checked [here](https://albruzos.github.io/awardsgrants/awards/)
 
-<i class="fa fa-star" aria-hidden="true"></i> Grants and Fellowships 
-======
+#### Grants and Fellowships <i class="fa fa-star" aria-hidden="true"></i>  
 
 <ul class="fa-ul">
   <li><i class="fa-li fa fa-check-square"></i>2 grants</li>
   <li><i class="fa-li fa fa-check-square"></i>2 fellowships</li>
   <li><i class="fa-li fa fa-check-square"></i>2 scholarships</li>
 </ul>
+
 Full detailed list can be checked [here](https://albruzos.github.io/awardsgrants/grants/)
 
 ---
 
-
-
-<i class="fa fa-user" aria-hidden="true"></i> About me
+<i class="fa fa-user" aria-hidden="true"></i> About me & contact
 ======
 
 [Profile/Bio](https://albruzos.github.io/about/) <i class="fa fa-spinner fa-spin fa-lg fa-fw"></i><span class="sr-only">Loading...</span> [Autobiography](https://albruzos.github.io/biography/) <i class="fa fa-spinner fa-spin fa-lg fa-fw"></i><span class="sr-only">Loading...</span> [Photography portfolio](https://albruzos.github.io/portfolio/)  
 
 
-<i class="fa fa-envelope" aria-hidden="true"></i> Contact 
-======
-
+#### Contact <i class="fa fa-envelope" aria-hidden="true"></i>
 [Get in touch with me](https://albruzos.github.io/contact)
