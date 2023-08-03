@@ -1,6 +1,6 @@
 ---
 title: "Grants, fellowships and scholarships"
-excerpt: "2 grants, 2 fellowships, 2 scholarships <br/><img src='/images/Logos-grants_v1.png'>"
+excerpt: "2 grants, 5 fellowships, 2 scholarships <br/><img src='/images/Logos-grants_v1.png'>"
 collection: awardsgrants
 ---
 
