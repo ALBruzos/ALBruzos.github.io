@@ -86,7 +86,7 @@ My scientific impact positions me with a current H index of 7, more than 1600 ci
 | [Rodríguez-Martín et al. (includes Bruzos AL)](https://albruzos.github.io/publication/2020-02-05-PAPER2_NatureGenetics_PCAWG-retrotransposition) | 2020  | Nature Genetics & [BioRxiv](https://www.biorxiv.org/content/10.1101/179705v3) | 38.333 | no | Master/PhD, Spain |
 | [PCAWG (includes Bruzos AL)](https://albruzos.github.io/publication/2020-02-05-PAPER1_Nature_PCAWG) | 2020  | Nature | 49.962 | no | Master/PhD, Spain |
 
-<sup>#</sup> <mark>PENDING PUBLICATION</mark> 
+<sup>#</sup> <mark>PENDING PUBLICATION</mark>  
 <sup>*</sup> IF taken from Web of Science for the year of the publication unless otherwise stated  
   
 <b>CONFERENCES</b> <i class="fa fa-bullhorn" aria-hidden="true"></i>
@@ -115,14 +115,14 @@ Every year I commit some time to bring science to society by organizing or joini
 <i class="fa fa-podcast" aria-hidden="true"></i>Podcast 
 {: .notice}
 
-**2023** 
+*2023:* 
 <i class="fa fa-book" aria-hidden="true"></i> 
 <i class="fa fa-university" aria-hidden="true"></i>
 <i class="fa fa-university" aria-hidden="true"></i> 
 <i class="fa fa-paint-brush" aria-hidden="true"></i> 
 <i class="fa fa-university" aria-hidden="true"></i> 
 <i class="fa fa-university" aria-hidden="true"></i>  
-**2022** 
+*2022:* 
 <i class="fa fa-university" aria-hidden="true"></i> 
 <i class="fa fa-comment" aria-hidden="true"></i> 
 <i class="fa fa-play-circle" aria-hidden="true"></i> 
@@ -132,7 +132,7 @@ Every year I commit some time to bring science to society by organizing or joini
 <i class="fa fa-play-circle" aria-hidden="true"></i> 
 <i class="fa fa-users" aria-hidden="true"></i>
 <i class="fa fa-university" aria-hidden="true"></i>  
-**2021** 
+*2021:* 
 <i class="fa fa-book" aria-hidden="true"></i> 
 <i class="fa fa-university" aria-hidden="true"></i> 
 <i class="fa fa-university" aria-hidden="true"></i> 
@@ -141,20 +141,20 @@ Every year I commit some time to bring science to society by organizing or joini
 <i class="fa fa-university" aria-hidden="true"></i> 
 <i class="fa fa-comment" aria-hidden="true"></i> 
 <i class="fa fa-university" aria-hidden="true"></i>  
-**2020** 
+*2020:* 
 <i class="fa fa-book" aria-hidden="true"></i>
 <i class="fa fa-play-circle" aria-hidden="true"></i>
 <i class="fa fa-book" aria-hidden="true"></i> 
 <i class="fa fa-paint-brush" aria-hidden="true"></i> 
 <i class="fa fa-play-circle" aria-hidden="true"></i>  
-**2019** 
+*2019:* 
 <i class="fa fa-university" aria-hidden="true"></i> 
 <i class="fa fa-users" aria-hidden="true"></i> 
 <i class="fa fa-podcast" aria-hidden="true"></i> 
 <i class="fa fa-play-circle" aria-hidden="true"></i> 
 <i class="fa fa-paint-brush" aria-hidden="true"></i> 
 <i class="fa fa-book" aria-hidden="true"></i>  
-**2018** 
+*2018:* 
 <i class="fa fa-users" aria-hidden="true"></i> 
 <i class="fa fa-book" aria-hidden="true"></i>   
 
@@ -194,16 +194,17 @@ I believe in the importance of unions and associations to network and discuss wi
 <i class="fa fa-fw fa-trophy"></i> Awards, Grants and Fellowships
 ======
 
-#### Award <i class="fa fa-fw fa-trophy"></i>
+<b>AWARDS & HONOURS</b> <i class="fa fa-fw fa-trophy"></i>
 <ul class="fa-ul">
   <li><i class="fa-li fa fa-check-square"></i>4 scientific prizes</li>
+  <li><i class="fa-li fa fa-check-square"></i>5 outreach prizes</li>
   <li><i class="fa-li fa fa-check-square"></i>2 litterary prizes</li>
   <li><i class="fa-li fa fa-check-square"></i>1 drawing prize</li>
 </ul>
 
 Full detailed list can be checked [here](https://albruzos.github.io/awardsgrants/awards/)
 
-#### Grants and Fellowships <i class="fa fa-star" aria-hidden="true"></i>  
+<b>GRANTS & FELLOWSHIPS</b> <i class="fa fa-star" aria-hidden="true"></i>  
 
 <ul class="fa-ul">
   <li><i class="fa-li fa fa-check-square"></i>2 grants</li>
@@ -221,5 +222,5 @@ Full detailed list can be checked [here](https://albruzos.github.io/awardsgrants
 [Profile/Bio](https://albruzos.github.io/about/) <i class="fa fa-spinner fa-spin fa-lg fa-fw"></i><span class="sr-only">Loading...</span> [Autobiography](https://albruzos.github.io/biography/) <i class="fa fa-spinner fa-spin fa-lg fa-fw"></i><span class="sr-only">Loading...</span> [Photography portfolio](https://albruzos.github.io/portfolio/)  
 
 
-#### Contact <i class="fa fa-envelope" aria-hidden="true"></i>
-[Get in touch with me](https://albruzos.github.io/contact)
+<b>CONTACT</b>  <i class="fa fa-envelope" aria-hidden="true"></i>
+[...get in touch with me](https://albruzos.github.io/contact)
