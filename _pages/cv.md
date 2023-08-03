@@ -62,13 +62,14 @@ _2016 – 2021:_ **Predoctoral researcher (national predoctoral fellow)** at [Un
 
 ---
 
-<i class="fa fa-binoculars" aria-hidden="true"></i> Research and Academia
+<i class="fa fa-binoculars" aria-hidden="true"></i> Research
 ======
 
 | ORCID | WOK ResearcherID | Scopus Author ID |
 | ------------- | ------------- | ------------- | 
 | [0000-0003-4362-545X](https://orcid.org/0000-0003-4362-545X) | [D-7235-2018](https://publons.com/researcher/1404866/alicia-l-bruzos/) | [57214752778](https://www.scopus.com/authid/detail.uri?authorId=57214752778) |
 
+My scientific impact positions me with a current H index of 7, more than 1600 citations ([Google Scholar](https://scholar.google.com/citations?user=YyKE8DIAAAAJ)), and 5 JCR publications Q1 (see below).
 
 ### Publications <i class="fa fa-fw fa-paste"></i>
 
@@ -96,7 +97,71 @@ _2016 – 2021:_ **Predoctoral researcher (national predoctoral fellow)** at [Un
   <li><i class="fa fa-check-circle" aria-hidden="true"></i>3 awards </li>
 </ul>
 
-Full detailed list can be checked [here](https://albruzos.github.io/talks/)  
+A full detailed list can be checked [here](https://albruzos.github.io/talks/)  
+
+### Outreach and Media <i class="fa fa-users" aria-hidden="true"></i>
+
+Every year I commit some time to bring science to society by organizing or joining different activities:
+**2023** 
+<i class="fa fa-book" aria-hidden="true"></i> 
+<i class="fa fa-university" aria-hidden="true"></i>
+<i class="fa fa-university" aria-hidden="true"></i> 
+<i class="fa fa-paint-brush" aria-hidden="true"></i> 
+<i class="fa fa-university" aria-hidden="true"></i> 
+<i class="fa fa-university" aria-hidden="true"></i>  
+**2022** 
+<i class="fa fa-university" aria-hidden="true"></i> 
+<i class="fa fa-comment" aria-hidden="true"></i> 
+<i class="fa fa-play-circle" aria-hidden="true"></i> 
+<i class="fa fa-university" aria-hidden="true"></i> 
+<i class="fa fa-users" aria-hidden="true"></i> 
+<i class="fa fa-university" aria-hidden="true"></i>
+<i class="fa fa-play-circle" aria-hidden="true"></i> 
+<i class="fa fa-users" aria-hidden="true"></i>
+<i class="fa fa-university" aria-hidden="true"></i>  
+**2021** 
+<i class="fa fa-book" aria-hidden="true"></i> 
+<i class="fa fa-university" aria-hidden="true"></i> 
+<i class="fa fa-university" aria-hidden="true"></i> 
+<i class="fa fa-paint-brush" aria-hidden="true"></i> 
+<i class="fa fa-book" aria-hidden="true"></i> 
+<i class="fa fa-university" aria-hidden="true"></i> 
+<i class="fa fa-comment" aria-hidden="true"></i> 
+<i class="fa fa-university" aria-hidden="true"></i>  
+**2020** 
+<i class="fa fa-book" aria-hidden="true"></i>
+<i class="fa fa-play-circle" aria-hidden="true"></i>
+<i class="fa fa-book" aria-hidden="true"></i> 
+<i class="fa fa-paint-brush" aria-hidden="true"></i> 
+<i class="fa fa-play-circle" aria-hidden="true"></i>  
+**2019** 
+<i class="fa fa-university" aria-hidden="true"></i> 
+<i class="fa fa-users" aria-hidden="true"></i> 
+<i class="fa fa-podcast" aria-hidden="true"></i> 
+<i class="fa fa-play-circle" aria-hidden="true"></i> 
+<i class="fa fa-paint-brush" aria-hidden="true"></i> 
+<i class="fa fa-book" aria-hidden="true"></i>  
+**2018** 
+<i class="fa fa-users" aria-hidden="true"></i> 
+<i class="fa fa-book" aria-hidden="true"></i>   
+
+*Legend:*
+<i class="fa fa-paint-brush" aria-hidden="true"></i> Initiatives 
+<i class="fa fa-play-circle" aria-hidden="true"></i> Videos and short films
+<i class="fa fa-users" aria-hidden="true"></i> General public talks<br> 
+<i class="fa fa-university" aria-hidden="true"></i> School visits 
+<i class="fa fa-comment" aria-hidden="true"></i> Opinion editorials 
+<i class="fa fa-book" aria-hidden="true"></i> Popular science articles 
+<i class="fa fa-podcast" aria-hidden="true"></i>Podcast 
+{: .notice}
+
+[Full details of my outreach activities](https://albruzos.github.io/outreach/)  
+
+**Watch out!** I am always available to talk to media about my research or career and it has been featured by well-known media such as the BBC or La Voz de Galicia. Check my [PR clipping](https://albruzos.github.io/media/)!
+{: .notice}   
+
+<i class="fa fa-binoculars" aria-hidden="true"></i> Academia
+======
 
 ### Mentoring, Teaching and Outreach <i class="fa fa-users" aria-hidden="true"></i>
 
