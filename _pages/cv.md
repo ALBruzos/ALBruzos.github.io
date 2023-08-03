@@ -157,6 +157,7 @@ Every year I commit some time to bring science to society by organizing or joini
 <i class="fa fa-book" aria-hidden="true"></i>   
 
 <b>MEDIA</b> <i class="fa fa-users" aria-hidden="true"></i>
+
 **Watch out!** I am always available to talk to the media about my research or career and it has been featured in well-known media such as the BBC or La Voz de Galicia. Check my [PR clipping](https://albruzos.github.io/media/)!
 {: .notice}   
 
