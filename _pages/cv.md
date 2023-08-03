@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+{% include toc %}
+
 <img src='/images/1_TiraFotosPhD-AliciaLBruzos.png'>  
 
 <i class="fa fa-graduation-cap" aria-hidden="true"></i> Education
