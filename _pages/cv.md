@@ -186,8 +186,6 @@ Selection:
 * 2017 - **Animal Experimentation Certificate (A+B+C+D+E)**. Centro de Estudios Biosanitarios, Spain.
 * 2014 - **Open Water Diver License**. Scuba Schools International (SSI), Spain.
 
-![image](https://github.com/ALBruzos/ALBruzos.github.io/assets/15688556/e3e02d00-10e4-4a02-8b57-58d7bbb51770)
-
 Full detailed list can be checked [here](https://albruzos.github.io/skills-certifications/)
 
 <b>SERVICE & INSTITUTIONAL CITIZENSHIP</b> <i class="fa fa-paperclip" aria-hidden="true"></i>  
