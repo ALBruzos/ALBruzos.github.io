@@ -191,7 +191,7 @@ Full detailed list can be checked [here](https://albruzos.github.io/skills-certi
 [More details](https://albruzos.github.io/institutional-citizenship/)
 
 <b>PROFESSIONAL MEMBERSHIPS</b> <i class="fa fa-puzzle-piece" aria-hidden="true"></i>  
-I believe in the importance of unions and associations to network and discuss with colleagues about various topics regarding our work. Therefore, I have been and I am a member of different societies worldwide. Unfortunately, my time is limited and I cannot contribute as much as I would like. [Check here my past and ongoing memberships](https://albruzos.github.io/institutional-citizenship/)
+I believe in the importance of unions and associations to network and discuss with colleagues. Therefore, I have been and I am a member of different societies worldwide. Unfortunately, my time and money is limited and I cannot contribute as much as I would like. [Check here my past and ongoing memberships](https://albruzos.github.io/institutional-citizenship/)
 <img src='/images/albruzos-memberships.png'>  
 
 ---
