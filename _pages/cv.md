@@ -101,9 +101,7 @@ A full detailed list can be checked [here](https://albruzos.github.io/talks/)
 
 <b>OUTREACH</b> <i class="fa fa-users" aria-hidden="true"></i>
 
-Every year I commit some time to bring science to society by organizing or joining different activities.  
-* [Full details of my outreach activities](https://albruzos.github.io/outreach/)  
-* Infographic and chronological compilation of the activities:
+Every year I commit some time to bring science to society by organizing or joining different activities. [Check here the full list](https://albruzos.github.io/outreach/) and below an infographic and chronological compilation:
 
 *Legend:*
 <i class="fa fa-paint-brush" aria-hidden="true"></i> Initiatives 
