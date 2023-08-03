@@ -16,6 +16,9 @@ TV
 <i class="fa fa-camera" aria-hidden="true"></i>*TVG*. Short interview for the **Midday Newscast** of the regional television of Galicia about the Pan-cancer initiative *(06/02/2020)*. [Watch here complete video](https://www.youtube.com/watch?v=FpttVkiBLok)  
 <p align="center"><video src="https://user-images.githubusercontent.com/15688556/190830129-3268cccb-7408-4d3a-9895-ce164308b9d5.mp4" controls="controls" style="max-width: 500px;"></video></p>
 
+<i class="fa fa-camera" aria-hidden="true"></i>*TPA*. Short information for the **Evening Newscast** of the regional television of Asturias about my visit to a high school class to awaken scientific vocations with an emphasis on women. *(10/02/2023)*. [Watch here complete video](https://youtu.be/feiMZIoUHkk)  
+<p align="center"><video src="https://user-images.githubusercontent.com/15688556/258240103-60f7e927-ad60-40fd-9ffb-e992c07ed45b.mp4" controls="controls" style="max-width: 500px;"></video></p>
+
 Radio
 =====
 <i class="fa fa-volume-up" aria-hidden="true"></i>*BBC Cambridgeshire* and *BBC5 live*. Interview for the show **Naked Scientists** to talk about marine contagious cancers *(12/04/2022 and 17/04/2022)*. [Listen here](https://www.youtube.com/watch?v=EYt-oRvnBE0&t=1419s)  
