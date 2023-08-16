@@ -157,9 +157,8 @@ Every year I commit some time to bring science to society by organizing or joini
 <i class="fa fa-book" aria-hidden="true"></i>   
 
 <b>MEDIA</b> <i class="fa fa-users" aria-hidden="true"></i>
-
-**Watch out!** I am always available to talk to the media about my research or career and it has been featured in well-known media such as the BBC or La Voz de Galicia. Check my [PR clipping](https://albruzos.github.io/media/)!
-{: .notice}   
+Check my [PR clipping](https://albruzos.github.io/media/)  
+ 
 
 ---
 
@@ -168,12 +167,13 @@ Every year I commit some time to bring science to society by organizing or joini
 
 <b>MENTORING</b> <i class="fa fa-life-ring" aria-hidden="true"></i>  
 <ul class="fa-ul">
-  <li><i class="fa fa-check-circle" aria-hidden="true"></i>2 Bachelor theses<sup>**</sup> </li>
-  <li><i class="fa fa-check-circle" aria-hidden="true"></i>1 Master thesis</li>
+  <li><i class="fa fa-check-circle" aria-hidden="true"></i>2 Bachelor theses (University of Santiago de Compostela, Spain)<sup>**</sup> </li>
+  <li><i class="fa fa-check-circle" aria-hidden="true"></i>1 Master thesis (University of Coruña, Spain)</li>
   <li><i class="fa fa-check-circle" aria-hidden="true"></i>1 Erasmus intern (University of Patras, Greece)</li>
 </ul>
-<sup>**</sup>One was awarded for its linguistic quality.  
+ 
 [More info](https://albruzos.github.io/teaching/supervision)  
+<sup>**</sup>One thesis was awarded for its linguistic quality.  
 
 <b>TEACHING</b> <i class="fa fa-users" aria-hidden="true"></i>  
 A total of 112 teaching hours in **3 public universities** - two Spanish and one British - where I have taught genetics in different degrees (Biology, Biotechnology, and Medicine). [More details](https://albruzos.github.io/teaching/university-teaching)  
