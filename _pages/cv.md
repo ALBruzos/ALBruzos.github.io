@@ -119,7 +119,8 @@ Every year I commit some time to bring science to society by organizing or joini
 <i class="fa fa-university" aria-hidden="true"></i> 
 <i class="fa fa-paint-brush" aria-hidden="true"></i> 
 <i class="fa fa-university" aria-hidden="true"></i> 
-<i class="fa fa-university" aria-hidden="true"></i>  
+<i class="fa fa-university" aria-hidden="true"></i> 
+<i class="fa fa-book" aria-hidden="true"></i>  
 *2022:* 
 <i class="fa fa-university" aria-hidden="true"></i> 
 <i class="fa fa-comment" aria-hidden="true"></i> 
