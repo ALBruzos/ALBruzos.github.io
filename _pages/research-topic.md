@@ -27,23 +27,16 @@ Contagious cancers are known to occur in dogs (CTVT), Tasmanian devils (DFTD), a
 <img align="center" src="/images/AllContagiousCancers_v2.png"/> 
 </a>
 
-Want to know more about each case? 
-<i class="fa fa-play-circle" aria-hidden="true"></i> TED talk. [Elizabeth Murchison: Fighting a contagious cancer (Tasmanian devil)](https://www.ted.com/talks/elizabeth_murchison_fighting_a_contagious_cancer)
-
-<i class="fa fa-play-circle" aria-hidden="true"></i> Video: [Genetic causes of contagious metastases buried in the sandbed](https://youtu.be/JT4hV6yMRwo?si=1sVFgCrO_DyMSLvd). (Spanish audio, English/French subtitles)
-
+Want to know more about each case?  
+<i class="fa fa-play-circle" aria-hidden="true"></i> TED talk: [Fighting a contagious cancer (Tasmanian devil)](https://www.ted.com/talks/elizabeth_murchison_fighting_a_contagious_cancer)  
+<i class="fa fa-play-circle" aria-hidden="true"></i> Video: [11,000-year-old living dog cancer reveals its secrets (dogs)](https://youtu.be/FdAY02RT_nc?si=EGE4Z9uosoCUf569)  
+<i class="fa fa-play-circle" aria-hidden="true"></i> Video: [Genetic causes of contagious metastases buried in the sandbed (bivalves - cockles)](https://youtu.be/JT4hV6yMRwo?si=1sVFgCrO_DyMSLvd). (Spanish audio, English/French subtitles)  
 
 ## An ecological threat!
 Some marine contagious cancers can even cross the species barrier, check the case of cancer contagion between clam species in the Seas of Southern Europe:  
-<i class="fa fa-play-circle" aria-hidden="true"></i> Video: [English version](https://www.youtube.com/watch?v=faL_ALYuP4I&t=7s) or [Spanish version](https://www.youtube.com/watch?v=717MLSNLoUY)
+<i class="fa fa-play-circle" aria-hidden="true"></i> Video: [English version](https://www.youtube.com/watch?v=faL_ALYuP4I&t=7s) or [Spanish version](https://www.youtube.com/watch?v=717MLSNLoUY)  
 
 <a href="https://albruzos.github.io/publication/2022-01-18-PAPER-eLife-ClamsContagiousCancers" target="_self"> 
 <img width="22" height="25" border="0" align="center" src="/images/Chirla-to-Carneiro_v1.png"/> 
 </a>
-
-
-
-
-
-
 
