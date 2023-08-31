@@ -31,6 +31,10 @@ Radio
 
 Newspaper
 =====
+<i class="fa fa-book" aria-hidden="true"></i>**La Voz de Galicia**. Interview about my participation in the *72nd Lindau Nobel Laureate Meeting* *(08/07/2023)*. [Link](https://www.lavozdegalicia.es/noticia/sociedad/2023/07/07/gallega-mesa-nobel-e-sono-feito-realidade/00031688754223528493686.htm) - [Download Here]()  
+<i class="fa fa-book" aria-hidden="true"></i>**La Opinión**. Interview and picture for the regional newspaper about my scientific career *(10/06/2023)*. [Link](https://www.laopinioncoruna.es/gran-coruna/2023/06/10/cancer-berberechos-contagioso-ayuda-entender-88522173.html) - [Download Here]()  
+<i class="fa fa-book" aria-hidden="true"></i>**La Voz de Galicia**. Short news about a school visit to Ourense to promote women in science *(07/03/2023)*. [Link](https://www.prensaescuela.es/alicia-lopez-bruzos-desmonta-mitos-machistas-en-ciencia/) - [Download Here]()  
+
 <i class="fa fa-book" aria-hidden="true"></i>**El Correo Gallego**. Short interview and picture for the local newspaper to the scientific committee organizing the *VIII Youth Researchers Meeting* in Santiago de Compostela which I was part of *(02/06/2021)*. [Link](https://www.linkedin.com/posts/alicialopezbruzos_conferences2021-conference-research-activity-6810986196924207105-O6Qw)   
 <i class="fa fa-book" aria-hidden="true"></i>**GCiencia**. Recorded interview about Scuba Cancers project for a video published in the scientific newspaper *(09/05/2019)*. [Link](https://www.gciencia.com/contar-a-ciencia-vi/scuba-cancro-bivalvos/) and [video](https://www.youtube.com/watch?v=lM9RAQ-3Kmg)  
 <i class="fa fa-book" aria-hidden="true"></i>**La Voz de Galicia**. Interview and picture for the regional newspaper about the *Pan-cancer initiative* *(06/02/2020)*. [Link](https://www.lavozdegalicia.es/noticia/sociedad/2020/02/06/equipo-gallego-halla-causa-desconocida-origen-cancer/0003_202002G6P23991.htm)  
