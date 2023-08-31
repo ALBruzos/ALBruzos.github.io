@@ -33,8 +33,7 @@ Want to know more?
 * <i class="fa fa-play-circle" aria-hidden="true"></i> Video: [Genetic causes of contagious metastases buried in the sandbed (bivalves - cockles)](https://youtu.be/JT4hV6yMRwo?si=1sVFgCrO_DyMSLvd). (Spanish audio, English/French subtitles)  
 
 ## An ecological threat!
-Some marine contagious cancers can even cross the species barrier, check the case of cancer contagion between clam species in the Seas of Southern Europe:  
-<i class="fa fa-play-circle" aria-hidden="true"></i> Video: [English version](https://www.youtube.com/watch?v=faL_ALYuP4I&t=7s) or [Spanish version](https://www.youtube.com/watch?v=717MLSNLoUY)  
+Some marine contagious cancers can even cross the species barrier, check the case of cancer contagion between clam species in the Seas of Southern Europe:  <i class="fa fa-play-circle" aria-hidden="true"></i> Video [English version](https://www.youtube.com/watch?v=faL_ALYuP4I&t=7s) or [Spanish version](https://www.youtube.com/watch?v=717MLSNLoUY)  
 
 <a href="https://albruzos.github.io/publication/2022-01-18-PAPER-eLife-ClamsContagiousCancers" target="_blank"> 
 <img width="500" border="0" align="center" src="/images/Chirla-to-Carneiro_v1.png"/> 
