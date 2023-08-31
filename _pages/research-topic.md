@@ -15,23 +15,23 @@ Cancer occurs when a single cell in the body acquires genetic changes that drive
 <img align="center" src="/images/Metastasis-vs-MetastasisContagiosa-eng-01.png"/> 
 </a>
 
-A *contagious cancer* or *clonal transmissible cancer*
-
+A *contagious cancer* or *clonal transmissible cancer* is spread directly by the transfer of cells between individuals.
 
 ## Are they caused by a virus or pathogen?
 No. Some tumors are induced by infectious agents such as viruses, and though these agents can be contagious, each tumor still arises in the infected *individual by transformation of somatic cells* ([Metzger MJ, 2015](https://www.cell.com/cell/fulltext/S0092-8674(15)00243-3?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867415002433%3Fshowall%3Dtrue#secsectitle0025)). In contagious cancer cases, a tumor cell itself naturally spreads among individuals as a transmissible cell line.  
 
 ## What cases have been reported in nature?
+Contagious cancers are known to occur in dogs (CTVT), Tasmanian devils (DFTD), and several marine bivalves (BTN).
 
-In some species, cancer cells can be directly transmitted between individuals. 
+Want to know more about each case? Check the following videos:
+
 
 <i class="fa fa-play-circle" aria-hidden="true"></i> Video: [las causas genéticas de las metástasis contagiosas enterradas en la arena](https://youtu.be/JT4hV6yMRwo?si=1sVFgCrO_DyMSLvd). (Spanish audio, English/French subtitles)
 
 
 ## An ecological threat!
-Some marine contagious cancers can even cross the species barrier, check the case of clam species from Southern Europe:
-<i class="fa fa-play-circle" aria-hidden="true"></i> Video: cancer contagion between clam species in the Seas of Southern Europe. 
-[English version](https://www.youtube.com/watch?v=faL_ALYuP4I&t=7s) or [Spanish version](https://www.youtube.com/watch?v=717MLSNLoUY)
+Some marine contagious cancers can even cross the species barrier, check the case of cancer contagion between clam species in the Seas of Southern Europe:  
+<i class="fa fa-play-circle" aria-hidden="true"></i> Video: [English version](https://www.youtube.com/watch?v=faL_ALYuP4I&t=7s) or [Spanish version](https://www.youtube.com/watch?v=717MLSNLoUY)
 
 <a href="https://albruzos.github.io/publication/2022-01-18-PAPER-eLife-ClamsContagiousCancers" target="_self"> 
 <img align="center" src="/images/Chirla-to-Carneiro_v1.png"/> 
