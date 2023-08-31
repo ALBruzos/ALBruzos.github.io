@@ -61,7 +61,7 @@ el-cancer-se-puede-contagiar-al-menos-en-animales-163529)
 * **Opinion editorial** (2021). Brief opinion article for the regional newspaper La Voz de Galicia entitled *“Virus y cancer: una pareja peligrosa”*. La Voz de Galicia (20/12/2021, page 11). 
 * **Institutional bulletin** (2021). Brief article to encourage doctoral students to plan *international research stays* entitled *“Como che vai na túa estadía?”* nEDIUS 3:15. [Download Here](https://albruzos.github.io/files/outreach_2021-nEDIUS-researchstays.pdf)
 * **Popular science blog article** (2020). The story of how my master thesis gave me the opportunity to publish my first ever paper in a high-impact journal. Article entitled *“How my master’s thesis on jumping genes became part of an article in Nature”* published in [The Cancer Researcher](https://www.eacr.org/magazine) (EACR online magazine). [Read Here](https://magazine.eacr.org/how-my-masters-thesis-on-jumping-genes-became-part-of-an-article-in-nature/)
-* **Popular science article** (2019). *“Las claves de las metástasis enterradas en la arena.”* Encuentros en la Biología 169: 5–7. ISBN 2254-0296. [Download Here](https://ALBruzos.github.io/files/outreach_2019-EncuentrosEnLaBiologia.pdf)
+* **Popular science article** (2019). *“Las claves de las metástasis enterradas en la arena.”* Encuentros en la Biología 169: 5–7. ISBN 2254-0296. [Read Here](https://dialnet.unirioja.es/ejemplar/542832)
 * **Institutional blog article** (2018). *“Cáncer transmisible de bivalvos para desentrañar la evolución del cáncer.”* Océano Ecimat. [Read Here](https://oceanoecimat.wordpress.com/2018/05/11/cancer-transmisible-de-bivalvos-para-desentranar-la-evolucion-del-cancer/)
 
 <img src='/images/Tira_FotosOutreach_AliciaLBruzos.png'> 
