@@ -27,10 +27,10 @@ Contagious cancers are known to occur in dogs (CTVT), Tasmanian devils (DFTD), a
 <img align="center" src="/images/AllContagiousCancers_v2.png"/> 
 </a>
 
-Want to know more about each case? Check the following videos:
+Want to know more about each case? 
+<i class="fa fa-play-circle" aria-hidden="true"></i> TED talk. [Elizabeth Murchison: Fighting a contagious cancer (Tasmanian devil)](https://www.ted.com/talks/elizabeth_murchison_fighting_a_contagious_cancer)
 
-
-<i class="fa fa-play-circle" aria-hidden="true"></i> Video: [las causas genéticas de las metástasis contagiosas enterradas en la arena](https://youtu.be/JT4hV6yMRwo?si=1sVFgCrO_DyMSLvd). (Spanish audio, English/French subtitles)
+<i class="fa fa-play-circle" aria-hidden="true"></i> Video: [Genetic causes of contagious metastases buried in the sandbed](https://youtu.be/JT4hV6yMRwo?si=1sVFgCrO_DyMSLvd). (Spanish audio, English/French subtitles)
 
 
 ## An ecological threat!
@@ -46,5 +46,4 @@ Some marine contagious cancers can even cross the species barrier, check the cas
 
 
 
-<i class="fa fa-play-circle" aria-hidden="true"></i> TED talk. [Elizabeth Murchison: Fighting a contagious cancer](https://www.ted.com/talks/elizabeth_murchison_fighting_a_contagious_cancer)
 
