@@ -40,3 +40,23 @@ Some marine contagious cancers can even cross the species barrier, check the cas
 <img width="22" height="25" border="0" align="center" src="/images/Chirla-to-Carneiro_v1.png"/> 
 </a>
 
+
+<a href="https://albruzos.github.io/publication/2022-01-18-PAPER-eLife-ClamsContagiousCancers" target="_self"> 
+<img width="220" height="250" border="0" align="center" src="/images/Chirla-to-Carneiro_v1.png"/> 
+</a>
+
+
+<a href="https://albruzos.github.io/publication/2022-01-18-PAPER-eLife-ClamsContagiousCancers" target="_self"> 
+<img width="500" height="500" border="0" align="center" src="/images/Chirla-to-Carneiro_v1.png"/> 
+</a>
+
+
+<a href="https://albruzos.github.io/publication/2022-01-18-PAPER-eLife-ClamsContagiousCancers" target="_self"> 
+<img width="500" border="0" align="center" src="/images/Chirla-to-Carneiro_v1.png"/> 
+</a>
+
+
+<a href="https://albruzos.github.io/publication/2022-01-18-PAPER-eLife-ClamsContagiousCancers" target="_self"> 
+<img height="1000" border="0" align="center" src="/images/Chirla-to-Carneiro_v1.png"/> 
+</a>
+
