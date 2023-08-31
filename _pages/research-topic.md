@@ -18,6 +18,9 @@ Cancer occurs when a single cell in the body acquires genetic changes that drive
 A *contagious cancer* or *clonal transmissible cancer*
 
 
+## Are they caused by a virus or pathogen?
+No. Some tumors are induced by infectious agents such as viruses, and though these agents can be contagious, each tumor still arises in the infected *individual by transformation of somatic cells* ([Metzger MJ, 2015](https://www.cell.com/cell/fulltext/S0092-8674(15)00243-3?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867415002433%3Fshowall%3Dtrue#secsectitle0025)). In contagious cancer cases, a tumor cell itself naturally spreads among individuals as a transmissible cell line.  
+
 ## What cases have been reported in nature?
 
 In some species, cancer cells can be directly transmitted between individuals. 
