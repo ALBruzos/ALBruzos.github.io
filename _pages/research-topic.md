@@ -23,6 +23,10 @@ No. Some tumors are induced by infectious agents such as viruses, and though the
 ## What cases have been reported in nature?
 Contagious cancers are known to occur in dogs (CTVT), Tasmanian devils (DFTD), and several marine bivalves (BTN).
 
+<a href="https://commons.wikimedia.org/wiki/File:Metastasis-vs-MetastasisContagiosa_AliciaLBruzos.png" target="_self"> 
+<img align="center" src="/images/AllContagiousCancers_v2.png"/> 
+</a>
+
 Want to know more about each case? Check the following videos:
 
 
@@ -34,7 +38,7 @@ Some marine contagious cancers can even cross the species barrier, check the cas
 <i class="fa fa-play-circle" aria-hidden="true"></i> Video: [English version](https://www.youtube.com/watch?v=faL_ALYuP4I&t=7s) or [Spanish version](https://www.youtube.com/watch?v=717MLSNLoUY)
 
 <a href="https://albruzos.github.io/publication/2022-01-18-PAPER-eLife-ClamsContagiousCancers" target="_self"> 
-<img align="center" src="/images/Chirla-to-Carneiro_v1.png"/> 
+<img width="22" height="25" border="0" align="center" src="/images/Chirla-to-Carneiro_v1.png"/> 
 </a>
 
 
