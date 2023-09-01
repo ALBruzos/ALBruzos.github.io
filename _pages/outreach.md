@@ -6,6 +6,7 @@ author_profile: true
 
 {% include toc %}
 
+
 <img src='/images/Tira_FotosOutreach_AliciaLBruzos.png'> 
 
 > Commitment to public outreach is central in my career and therefore, I am always willing to participate on activities that engage society with the excitement of science. I have even participated in making a children’s coloring book <i class="fa fa-paint-brush" aria-hidden="true"></i> .
@@ -24,11 +25,10 @@ author_profile: true
 * **Research promotional film** (2020). Our regional government financed short films of *outstanding research projects* that were developed in Galicia. [Scuba Cancers](http://www.scubacancers.org/) project in which my doctoral thesis is framed was recorded and I participated with its content preparation and giving a short statement. [Watch here](https://www.youtube.com/watch?v=Ig3-LggH9Rs)
 * **Research promotional short film** (2020). Our research institute (CiMUS) recorded a promotional video with the participation of the authors involved in the *Pan-cancer initiative* when the results were published in high impact journals; my participation involved content edition, recorded statements and laboratory shots. [Watch here](https://www.youtube.com/watch?v=1fm9kL94xn0)
 * **Research video** (2019). ASEICA PhD video competition. Youth scientists talk about their *research in three minutes*, I reached more than 11,600 views in Twitter. [Watch here](www.twitter.com/BruzosAliciaL/status/1196606566365089792)
-* **Podcasting** (2019). Realization and production team of two episodes of the [CiMUSpodcast](https://www.ivoox.com/podcast-cimus-podcast_sq_f1817120_1.html) that was born with the purpose of getting the research carried out at CiMUS to other researchers, students and people not related to the scientific field.  
-[Episode 1](https://www.ivoox.com/capitulo-1-autismo-audios-mp3_rf_45092632_1.html) [Episode 2](https://www.ivoox.com/capitulo-2-cancer-audios-mp3_rf_47395915_1.html)   
+* **Podcasting** (2019). Realization and production team of two episodes of the [CiMUSpodcast](https://www.ivoox.com/podcast-cimus-podcast_sq_f1817120_1.html) that was born with the purpose of getting the research carried out at CiMUS to other researchers, students and people not related to the scientific field. [Episode 1](https://www.ivoox.com/capitulo-1-autismo-audios-mp3_rf_45092632_1.html) - [Episode 2](https://www.ivoox.com/capitulo-2-cancer-audios-mp3_rf_47395915_1.html)   
 
 
-<i class="fa fa-users" aria-hidden="true"></i> **<u>General public talks</u> (4)**  
+<i class="fa fa-users" aria-hidden="true"></i> **<u>General public talks</u> (6)**  
 =======
 * **Pint of Science Festival - Spain** (2023). 22-24 May 2022. I gave the talk *“El viaje submarino de una célula de cáncer”* at Bar la Olímpica, A Coruña, Spain. [Advertisement](https://pintofscience.es/event/el-viaje-submarino-de-una-celula-de-cancer)
 * **Young Marine Biologist Club** (2023). A two-parts talk covering [science](https://mymba.mba.ac.uk/resource/young-marine-biologist-club-the-underwater-journey-of-cancer-metastasis.html) and [career advice](https://mymba.mba.ac.uk/resource/young-marine-biologist-club-marine-cancer-career-advice.html) for young members of the [*Marine Biological Association*](https://www.mba.ac.uk/). [Advertisement](Young Marine Biologist Club)
