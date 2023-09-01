@@ -4,8 +4,7 @@ permalink: /outreach/
 author_profile: true
 ---
 
-{% include toc %}
-
+{% include toc %}  
 
 <img src='/images/Tira_FotosOutreach_AliciaLBruzos.png'> 
 
