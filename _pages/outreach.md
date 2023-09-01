@@ -4,19 +4,21 @@ permalink: /outreach/
 author_profile: true
 ---
 
+{% include toc %}
+
+<img src='/images/Tira_FotosOutreach_AliciaLBruzos.png'> 
+
 > Commitment to public outreach is central in my career and therefore, I am always willing to participate on activities that engage society with the excitement of science. I have even participated in making a children’s coloring book <i class="fa fa-paint-brush" aria-hidden="true"></i> .
 
-<img src='/images/Tira_FotosOutreach_AliciaLBruzos.png'>  
-
-### Full list of outreach activities: 
-
 <i class="fa fa-paint-brush" aria-hidden="true"></i> **<u>Miscellaneous initiatives</u> (4)** 
+=======
 * **Escaparates 11F** (2023). The project [Escaparates11F](http://madeinzaragoza.es/blog/escaparates-11f-2023/) is a joint initiative of *"Made in Zaragoza"* and the *11deFebrero* to browse the windows of the most creative stores in the city of Zaragoza (Spain) and discover more than 50 women scientists of all time. [See a picture](https://twitter.com/madeinzaragoza/status/1621883630803877897/photo/1)  
 * **Children’s colouring science book** (2021). The project *Scientists Meet the Artists* joined 12 scientists and 12 illustrators to design a series of drawings for children to colour and learn marine scientific concepts. The book was presented on the *World Oceans Day* (June 8th). [Download the book here](https://albruzos.github.io/files/outreach_2021-ScientistsMeetArtists.pdf), [Watch here the presentation day](https://tv.uvigo.es/video/60e852f1fe8ebc541a176b22) or [See children painting](https://twitter.com/campusdomar/status/1408319520893247488)
 * **Infography for a research association** (2020). Participation in the iniciative _"Que se investiga en Galicia?"_ of [InvestiGal](https://investi.gal/) association. [Visit Here](https://investi.gal/divulgacion/#infografias) [Download Here](https://drive.google.com/uc?export=download&id=1NsMMFnN4FlGWwWOEYlnmfxvamcodAJmc)
 * **Open doors day** (2019). Participation as an *instructor* in workshops, conferences and debates for kids and adults in the event Ciencia Sigular of CiMUS (Santiago de Compostela, Spain).
 
 <i class="fa fa-play-circle" aria-hidden="true"></i> **<u>Videos</u> and <i class="fa fa-podcast" aria-hidden="true"></i> <u>podcasting</u> (6)**
+=======
 * **Institutional video** (2022). The Galician initiative ‘Por máis mulleres na ciencia’ consisted on 7 videos recorded to show different roles that women can take in the science of IDIS, from managing or technicians to researchers or leaders. [Watch here](https://youtu.be/npxiCJKXCGo)
 * **3MT video** (2022). The activity #Cuéntame3min is for scientists of all stages and from all STEM areas to record a 3-minute video explaining their research to a non-specialized audience. [Watch here my application](https://www.youtube.com/watch?v=2TYl6BZ-_SA), I was awarded the first place [See here](https://albruzos.github.io/awardsgrants/awards/).  
 * **Research promotional film** (2020). Our regional government financed short films of *outstanding research projects* that were developed in Galicia. [Scuba Cancers](http://www.scubacancers.org/) project in which my doctoral thesis is framed was recorded and I participated with its content preparation and giving a short statement. [Watch here](https://www.youtube.com/watch?v=Ig3-LggH9Rs)
@@ -27,6 +29,7 @@ author_profile: true
 
 
 <i class="fa fa-users" aria-hidden="true"></i> **<u>General public talks</u> (4)**  
+=======
 * **Falling Walls Lab** (2022). Falling Walls is an international pitch competition about science, business, politics, arts and society. I was finalist in the Spanish national competition with the talk *“Breaking the Walls of Cancer Metastasis”*. [Watch here](https://youtu.be/FkpKAjYiPqE)
 * **Pint of Science Festival** (2022). PoS is an annual science festival that aims to communicate contemporary scientific developments to the public by bringing scientists to pubs, cafés and other public places to share their research and findings. 9-11 May 2022. I gave the talk *“The journey of a cancer cell”* at Ink@84, London, United Kingdom. [Advertisement](https://pintofscience.co.uk/event/demystifying-diseases) 
 * **Science outreach talk** (2019). *“Understanding metastasis through transmissible cancers”* [Happy Fridays](https://www.usc.es/cimus/es/HappyFridaysMay24) (Santiago de Compostela, Spain).
@@ -34,7 +37,7 @@ author_profile: true
 
 
 <i class="fa fa-university" aria-hidden="true"></i> **<u>School visits</u> (13: 9 Spanish + 3 British + 1 Canadian/US)**  
-
+=======
 *	**Maristas-Santa María**, Ourense, Spain. Students aged 15-16. Topic: **[La voz de la mujer STEM](https://www.prensaescuela.es/alicia-lopez-bruzos-desmonta-mitos-machistas-en-ciencia/)** (07-MAR-2023)  
 * **IES Mata Jove**, Gijón, Spain. Biology sudents aged 15-16. Topic: **[11 de febrero](https://11defebrero.org/)** [More info](https://www.matajove.es/11f-dia-de-la-mujer-y-la-nina-en-la-ciencia/) (10-FEB-2023)  
 * **British School**, A Coruña, Spain. 2 primary-school classes aged 6-7. Topic: **[Conócelas-ASEICA](https://www.aseica.es/arranca-la-tercera-edicion-de-conocelas)** (09-FEB-2023)  
@@ -50,6 +53,7 @@ author_profile: true
 *	**Compañía de María**, Santiago de Compostela, Spain. 9 classes aged 8-10. Topic: International DNA Day. (2019). *Monitor* of activities for pupils aged 8-10 organized for 9 primary-school classes in the *International DNA Day* (Colegio Compañía de María, Santiago de Compostela, Spain). [Picture Here](https://twitter.com/BruzosAliciaL/status/1121533459720286209)  
 
 <i class="fa fa-comment" aria-hidden="true"></i>**<u>Opinion editorials</u> (2) and <i class="fa fa-book" aria-hidden="true"></i> <u>popular science articles</u> (10)**  
+=======
 * **Popular science article** (2023). Article entitled *“El viaje de una célula submarina”* published in [The Conversation](https://theconversation.com/es) (open access news source). [Read Here](https://theconversation.com/el-viaje-submarino-de-la-metastasis-209399)
 * **Blog article** (2023). *Nobel laureates mentoring the next generation of scientists: insights from an early-career researcher* published in *FEBS blog* [Read Here](https://network.febs.org/posts/nobel-laureates-mentoring-the-next-generation-of-scientists-insights-from-an-early-career-researcher) 
 * **Popular science blog article** (2023). *“El cáncer de las almejas”* published in *Investigación y Ciencia*, n 556(January 2023), pages 50-54. [Download Here](https://ALBruzos.github.io/files/Investigacion-y-ciencia_n556.pdf)  
@@ -65,4 +69,5 @@ el-cancer-se-puede-contagiar-al-menos-en-animales-163529)
 * **Institutional blog article** (2018). *“Cáncer transmisible de bivalvos para desentrañar la evolución del cáncer.”* Océano Ecimat. [Read Here](https://oceanoecimat.wordpress.com/2018/05/11/cancer-transmisible-de-bivalvos-para-desentranar-la-evolucion-del-cancer/)
 
 <img src='/images/Tira_FotosOutreach_AliciaLBruzos.png'> 
+
 [Back to CV](https://albruzos.github.io/cv/)
