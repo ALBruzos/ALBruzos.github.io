@@ -39,17 +39,21 @@ author_profile: true
 * **Science outreach talk** (2018). *“Unravelling cancer evolution using cockles”* Café con Sal (Vigo, Spain). [Announcement in the news](http://www.ipacuicultura.com/noticias/ultima_hora/62069/el_ciclo_de_conferencias_de_cafe_con_sal_de_la_ecimat_aborda_como_los_berberechos_pueden_ayudar_a_desentranar_la_evolucion_del_cancer.html).
 
 
-<i class="fa fa-comment" aria-hidden="true"></i><u>Opinion editorials</u> (2) and <i class="fa fa-book" aria-hidden="true"></i> <u>popular science articles</u> (10)  
+<i class="fa fa-comment" aria-hidden="true"></i><u>Opinion editorials</u> (2) 
+=======
+* **Opinion editorial** (2022). Brief opinion article for the regional newspaper La Voz de Galicia entitled *“El cáncer se contagia en el mar”*. La Voz de Galicia (20/01/2022, page 13). [Read here]()
+* **Opinion editorial** (2021). Brief opinion article for the regional newspaper La Voz de Galicia entitled *“Virus y cancer: una pareja peligrosa”*. La Voz de Galicia (20/12/2021, page 11). [Read here]()
+
+  
+<i class="fa fa-book" aria-hidden="true"></i> <u>popular science articles</u> (10)  
 =======
 * **Popular science article** (2023). Article entitled *“El viaje de una célula submarina”* published in [The Conversation](https://theconversation.com/es) (open access news source). [Read Here](https://theconversation.com/el-viaje-submarino-de-la-metastasis-209399)
 * **Blog article** (2023). *Nobel laureates mentoring the next generation of scientists: insights from an early-career researcher* published in *FEBS blog* [Read Here](https://network.febs.org/posts/nobel-laureates-mentoring-the-next-generation-of-scientists-insights-from-an-early-career-researcher) 
 * **Popular science blog article** (2023). *“El cáncer de las almejas”* published in *Investigación y Ciencia*, n 556(January 2023), pages 50-54. [Download Here](https://ALBruzos.github.io/files/Investigacion-y-ciencia_n556.pdf)  
-* **Opinion editorial** (2022). Brief opinion article for the regional newspaper La Voz de Galicia entitled *“El cáncer se contagia en el mar”*. La Voz de Galicia (20/01/2022, page 13).
 * **Popular science article** (2022). *Contagio de cáncer en almejas: una amenaza ecológica* published in *Panorama acuicola*. [Read Here](https://panoramaacuicola.com/2022/06/30/contagio-de-cancer-en-almejas-una-amenaza-ecologica/)
 * **Popular science article** (2022). *"Cancer contagion on clams: an ecological threat"* published in *Aquaculture Magazine*. [Read Here](https://aquaculturemag.com/2022/05/18/cancer-contagion-on-clams-an-ecological-threat/)
 * **Popular science article** (2021). Overview about cancers that can be contagious. Article entitled *“El cáncer se puede contagiar (al menos en animales)”* published in [The Conversation](https://theconversation.com/es) (open access news source). [Read Here](https://theconversation.com/
 el-cancer-se-puede-contagiar-al-menos-en-animales-163529)
-* **Opinion editorial** (2021). Brief opinion article for the regional newspaper La Voz de Galicia entitled *“Virus y cancer: una pareja peligrosa”*. La Voz de Galicia (20/12/2021, page 11). 
 * **Institutional bulletin** (2021). Brief article to encourage doctoral students to plan *international research stays* entitled *“Como che vai na túa estadía?”* nEDIUS 3:15. [Download Here](https://albruzos.github.io/files/outreach_2021-nEDIUS-researchstays.pdf)
 * **Popular science blog article** (2020). The story of how my master thesis gave me the opportunity to publish my first ever paper in a high-impact journal. Article entitled *“How my master’s thesis on jumping genes became part of an article in Nature”* published in [The Cancer Researcher](https://www.eacr.org/magazine) (EACR online magazine). [Read Here](https://magazine.eacr.org/how-my-masters-thesis-on-jumping-genes-became-part-of-an-article-in-nature/)
 * **Popular science article** (2019). *“Las claves de las metástasis enterradas en la arena.”* Encuentros en la Biología 169: 5–7. ISBN 2254-0296. [Read Here](https://dialnet.unirioja.es/ejemplar/542832)
