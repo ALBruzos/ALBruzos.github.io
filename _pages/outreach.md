@@ -30,7 +30,8 @@ author_profile: true
 
 <i class="fa fa-users" aria-hidden="true"></i> **<u>General public talks</u> (4)**  
 =======
-* **Pint of Science Festival - Spain** (2023). 22-24 May 2022. I gave the talk *“El viaje submarino de una célula de cáncer”* at Bar la Olímpica, A Coruña, Spain. [Advertisement](https://pintofscience.es/event/el-viaje-submarino-de-una-celula-de-cancer) 
+* **Pint of Science Festival - Spain** (2023). 22-24 May 2022. I gave the talk *“El viaje submarino de una célula de cáncer”* at Bar la Olímpica, A Coruña, Spain. [Advertisement](https://pintofscience.es/event/el-viaje-submarino-de-una-celula-de-cancer)
+* **Young Marine Biologist Club** (2023). A two-parts talk covering [science](https://mymba.mba.ac.uk/resource/young-marine-biologist-club-the-underwater-journey-of-cancer-metastasis.html) and [career advice](https://mymba.mba.ac.uk/resource/young-marine-biologist-club-marine-cancer-career-advice.html) for young members of the [*Marine Biological Association*](https://www.mba.ac.uk/). [Advertisement](Young Marine Biologist Club)
 * **Falling Walls Lab** (2022). Falling Walls is an international pitch competition about science, business, politics, arts and society. I was finalist in the Spanish national competition with the talk *“Breaking the Walls of Cancer Metastasis”*. [Watch here](https://youtu.be/FkpKAjYiPqE)
 * **Pint of Science Festival - UK** (2022). PoS is an annual science festival that aims to communicate contemporary scientific developments to the public by bringing scientists to pubs, cafés and other public places to share their research and findings. 9-11 May 2022. I gave the talk *“The journey of a cancer cell”* at Ink@84, London, United Kingdom. [Advertisement](https://pintofscience.co.uk/event/demystifying-diseases) 
 * **Science outreach talk** (2019). *“Understanding metastasis through transmissible cancers”* [Happy Fridays](https://www.usc.es/cimus/es/HappyFridaysMay24) (Santiago de Compostela, Spain).
