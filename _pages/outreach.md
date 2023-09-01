@@ -11,14 +11,14 @@ author_profile: true
 
 > Commitment to public outreach is central in my career and therefore, I am always willing to participate on activities that engage society with the excitement of science. I have even participated in making a children’s coloring book <i class="fa fa-paint-brush" aria-hidden="true"></i> .
 
-<i class="fa fa-paint-brush" aria-hidden="true"></i> **<u>Miscellaneous initiatives</u> (4)** 
+<i class="fa fa-paint-brush" aria-hidden="true"></i> <u>Miscellaneous initiatives</u> (4)
 =======
 * **Escaparates 11F** (2023). The project [Escaparates11F](http://madeinzaragoza.es/blog/escaparates-11f-2023/) is a joint initiative of *"Made in Zaragoza"* and the *11deFebrero* to browse the windows of the most creative stores in the city of Zaragoza (Spain) and discover more than 50 women scientists of all time. [See a picture](https://twitter.com/madeinzaragoza/status/1621883630803877897/photo/1)  
 * **Children’s colouring science book** (2021). The project *Scientists Meet the Artists* joined 12 scientists and 12 illustrators to design a series of drawings for children to colour and learn marine scientific concepts. The book was presented on the *World Oceans Day* (June 8th). [Download the book here](https://albruzos.github.io/files/outreach_2021-ScientistsMeetArtists.pdf), [Watch here the presentation day](https://tv.uvigo.es/video/60e852f1fe8ebc541a176b22) or [See children painting](https://twitter.com/campusdomar/status/1408319520893247488)
 * **Infography for a research association** (2020). Participation in the iniciative _"Que se investiga en Galicia?"_ of [InvestiGal](https://investi.gal/) association. [Visit Here](https://investi.gal/divulgacion/#infografias) [Download Here](https://drive.google.com/uc?export=download&id=1NsMMFnN4FlGWwWOEYlnmfxvamcodAJmc)
 * **Open doors day** (2019). Participation as an *instructor* in workshops, conferences and debates for kids and adults in the event Ciencia Sigular of CiMUS (Santiago de Compostela, Spain).
 
-<i class="fa fa-play-circle" aria-hidden="true"></i> **<u>Videos</u> (5) and <i class="fa fa-podcast" aria-hidden="true"></i> <u>podcasting</u> (2)**
+<i class="fa fa-play-circle" aria-hidden="true"></i> <u>Videos</u> (5) and <i class="fa fa-podcast" aria-hidden="true"></i> <u>podcasting</u> (2)
 =======
 * **School radio** (2023). A school radio project produced by *IES Mata Jove* (Gijón, Spain) used by both students and teachers to learn how to broadcast content and reach the entire local community. [Listen Here: Apple podcast - episode 36](https://podcasts.apple.com/es/podcast/ep-36-mujer-y-ciencia-entrevista-a-alicia-l%C3%B3pez-con/id1555213649?i=1000606561029)
 * **Institutional video** (2022). The Galician initiative ‘Por máis mulleres na ciencia’ consisted on 7 videos recorded to show different roles that women can take in the science of IDIS, from managing or technicians to researchers or leaders. [Watch here](https://youtu.be/npxiCJKXCGo)
@@ -29,7 +29,7 @@ author_profile: true
 * **Podcasting** (2019). Realization and production team of two episodes of the [CiMUSpodcast](https://www.ivoox.com/podcast-cimus-podcast_sq_f1817120_1.html) that was born with the purpose of getting the research carried out at CiMUS to other researchers, students and people not related to the scientific field. [Episode 1](https://www.ivoox.com/capitulo-1-autismo-audios-mp3_rf_45092632_1.html) - [Episode 2](https://www.ivoox.com/capitulo-2-cancer-audios-mp3_rf_47395915_1.html)   
 
 
-<i class="fa fa-users" aria-hidden="true"></i> **<u>General public talks</u> (6)**  
+<i class="fa fa-users" aria-hidden="true"></i> <u>General public talks</u> (6) 
 =======
 * **Pint of Science Festival - Spain** (2023). 22-24 May 2022. I gave the talk *“El viaje submarino de una célula de cáncer”* at Bar la Olímpica, A Coruña, Spain. [Advertisement](https://pintofscience.es/event/el-viaje-submarino-de-una-celula-de-cancer)
 * **Young Marine Biologist Club** (2023). A two-parts talk covering [science](https://mymba.mba.ac.uk/resource/young-marine-biologist-club-the-underwater-journey-of-cancer-metastasis.html) and [career advice](https://mymba.mba.ac.uk/resource/young-marine-biologist-club-marine-cancer-career-advice.html) for young members of the [*Marine Biological Association*](https://www.mba.ac.uk/). [Advertisement](Young Marine Biologist Club)
@@ -39,7 +39,7 @@ author_profile: true
 * **Science outreach talk** (2018). *“Unravelling cancer evolution using cockles”* Café con Sal (Vigo, Spain). [Announcement in the news](http://www.ipacuicultura.com/noticias/ultima_hora/62069/el_ciclo_de_conferencias_de_cafe_con_sal_de_la_ecimat_aborda_como_los_berberechos_pueden_ayudar_a_desentranar_la_evolucion_del_cancer.html).
 
 
-<i class="fa fa-comment" aria-hidden="true"></i>**<u>Opinion editorials</u> (2) and <i class="fa fa-book" aria-hidden="true"></i> <u>popular science articles</u> (10)**  
+<i class="fa fa-comment" aria-hidden="true"></i><u>Opinion editorials</u> (2) and <i class="fa fa-book" aria-hidden="true"></i> <u>popular science articles</u> (10)  
 =======
 * **Popular science article** (2023). Article entitled *“El viaje de una célula submarina”* published in [The Conversation](https://theconversation.com/es) (open access news source). [Read Here](https://theconversation.com/el-viaje-submarino-de-la-metastasis-209399)
 * **Blog article** (2023). *Nobel laureates mentoring the next generation of scientists: insights from an early-career researcher* published in *FEBS blog* [Read Here](https://network.febs.org/posts/nobel-laureates-mentoring-the-next-generation-of-scientists-insights-from-an-early-career-researcher) 
@@ -56,7 +56,7 @@ el-cancer-se-puede-contagiar-al-menos-en-animales-163529)
 * **Institutional blog article** (2018). *“Cáncer transmisible de bivalvos para desentrañar la evolución del cáncer.”* Océano Ecimat. [Read Here](https://oceanoecimat.wordpress.com/2018/05/11/cancer-transmisible-de-bivalvos-para-desentranar-la-evolucion-del-cancer/)
 
 
-<i class="fa fa-university" aria-hidden="true"></i> **<u>School visits</u> (13: 9 Spanish + 3 British + 1 Canadian/US)**  
+<i class="fa fa-university" aria-hidden="true"></i> <u>School visits</u> (13: 9 Spanish + 3 British + 1 Canadian/US)  
 =======
 *	**Maristas-Santa María**, Ourense, Spain. Students aged 15-16. Topic: **[La voz de la mujer STEM](https://www.prensaescuela.es/alicia-lopez-bruzos-desmonta-mitos-machistas-en-ciencia/)** (07-MAR-2023)  
 * **IES Mata Jove**, Gijón, Spain. Biology sudents aged 15-16. Topic: **[11 de febrero](https://11defebrero.org/)** [More info](https://www.matajove.es/11f-dia-de-la-mujer-y-la-nina-en-la-ciencia/) (10-FEB-2023)  
