@@ -41,8 +41,8 @@ author_profile: true
 
 <i class="fa fa-comment" aria-hidden="true"></i><u>Opinion editorials</u> (2) 
 =======
-* **Opinion editorial** (2022). Brief opinion article for the regional newspaper La Voz de Galicia entitled *“El cáncer se contagia en el mar”*. La Voz de Galicia (20/01/2022, page 13). [Read here]()
-* **Opinion editorial** (2021). Brief opinion article for the regional newspaper La Voz de Galicia entitled *“Virus y cancer: una pareja peligrosa”*. La Voz de Galicia (20/12/2021, page 11). [Read here]()
+* **Opinion editorial** (2022). Brief opinion article for the regional newspaper *La Voz de Galici*a entitled *“El cáncer se contagia en el mar”* (20/01/2022, page 13). [Read here](https://albruzos.github.io/files/opinion/20220120-LaVozDeGalicia-Elcancersecontagiaenelmar.jpeg)
+* **Opinion editorial** (2021). Brief opinion article for the regional newspaper *La Voz de Galicia* entitled *“Virus y cancer: una pareja peligrosa”* (20/12/2021, page 11). [Read here](https://albruzos.github.io/files/opinion/20211220-LaVozDeGalicia-VirusyCancer.pdf)
 
   
 <i class="fa fa-book" aria-hidden="true"></i> <u>popular science articles</u> (10)  
