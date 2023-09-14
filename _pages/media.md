@@ -43,7 +43,7 @@ Newspaper
 
 Social networks
 =====
-<i class="fa fa-book" aria-hidden="true"></i>**BLOG: Women in Research**. Female scientists featured in this blog by Ulrike Boehm *(09/07/2023)* [Read here](https://womeninresearchblog.wordpress.com/2023/07/09/alicia-spain/)  
+<i class="fa fa-book" aria-hidden="true"></i>**BLOG: Women in Research**. Female scientists featured in this blog by Ulrike Boehm *(09/07/2023)* [Read here](https://womeninresearchblog.wordpress.com/2023/07/09/alicia-spain/) or [here](https://www.lindau-nobel.org/blog-women-in-research-lino23-alicia-l-bruzos/)    
 <i class="fa fa-podcast" aria-hidden="true"></i>**VOCES11F PODCAST**. Interview to talk about the 3MT Video Award *(13/06/2022)*. [Listen here](https://www.youtube.com/watch?v=VSCPKnIMPbw&t=1s)  
 <i class="fa fa-podcast" aria-hidden="true"></i>**NAKED SCIENTIST PODCAST**. Interview to talk about marine contagious cancers *(12/04/2022)*. [Listen here](https://www.youtube.com/watch?v=EYt-oRvnBE0&t=1419s)  
 <i class="fa fa-podcast" aria-hidden="true"></i>**ELIFE PODCAST**. Brief interview to highlight the findings of our recent publication of a novel contagious cancer among clams on the seas of southern Europe *(Episode 79, March 2022)*. [Listen here](https://www.youtube.com/watch?v=EpGii4c1Dtg)  
