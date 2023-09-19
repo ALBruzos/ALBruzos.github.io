@@ -11,6 +11,8 @@ author_profile: true
 ## Publications 
 I’ve been fortunate to have worked on several international and interesting research projects in the field of *cancer genomics*. Keep an eye on the space below to see the list of publications my work has contributed to (hopefully!) grow the knowledge of the field...
 
+* Bruzos, AL; Santamarina, M; García, D; ... Tubío, JMC. (2022) The evolution of two transmissible leukaemias colonizing the coasts of Europe. Biorxiv. * denotes first authorship. DOI: doi.org/10.1101/2022.08.06.503021. [Available in BioRxiv](https://www.biorxiv.org/content/10.1101/2022.08.06.503021v1). Accepted on Nature Cancer (publication due in early October).  
+
  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
