@@ -9,11 +9,11 @@ author_profile: true
 {% include toc %}
 
 ## Publications 
-I’ve been fortunate to have worked on several international and interesting research projects in the field of *cancer genomics*. Keep an eye on the space below to see the list of publications my work has contributed to (hopefully!) grow...
+I’ve been fortunate to have worked on several international and interesting research projects in the field of *cancer genomics*. Keep an eye on the space below to see the list of publications my work has contributed to (hopefully!) grow the knowledge of the field...
 
-{% for post in site.publications reversed %}
-   {% include archive-single-cv.html %}
-{% endfor %}
+ <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
 ## Peer-review
 My scientific expertise has led me to several invitations to take part in the peer-review system that ensures the rigorous standards of the scientific process. In particular, I have reviewed articles for the following journals:  
