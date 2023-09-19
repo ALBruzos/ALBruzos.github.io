@@ -12,7 +12,7 @@ author_profile: true
 I’ve been fortunate to have worked on several international and interesting research projects in the field of *cancer genomics*. Keep an eye on the space below to see the list of publications my work has contributed to (hopefully!) grow...
 
 {% for post in site.publications reversed %}
-   {% include archive-single.html %}
+   {% include archive-single-cv.html %}
 {% endfor %}
 
 ## Peer-review
@@ -28,11 +28,18 @@ All stated reviews have been certified by Publons / Web of Science: [D-7235-2018
 
 
 <!---
-**More information:**  
+Este es invertido pero muy largo:
+
  {% for post in site.publications reversed %}
    {% include archive-single.html %}
  {% endfor %}
 
+Este es invertido pero pequeño:
+ {% for post in site.publications reversed %}
+   {% include archive-single-cv.html %}
+{% endfor %}
+
+Este es orden normal y pequeño:
  <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
