@@ -6,7 +6,7 @@ excerpt: 'Retrotransposition analysis of PCAWG dataset.'
 date: 2020-02-05
 venue: 'Nature Genetics'
 paperurl: 'https://doi.org/10.1038/s41588-019-0562-0'
-citation: 'Rodriguez-Martin, B. et al. (2020). &quot;Pan-Cancer analysis of whole genomes identifies driver rearrangements promoted by LINE-1 retrotransposition.&quot; <i>Nature Genetics</i>. 52:306-319.'
+citation: 'Rodriguez-Martin, B et al (includes Bruzos AL). (2020). &quot;Pan-Cancer analysis of whole genomes identifies driver rearrangements promoted by LINE-1 retrotransposition.&quot; <i>Nature Genetics</i>. 52:306-319. doi: 10.1038/s41588-019-0562-0 - IF(2020) = 38.333'
 ---
 
 <img src='/files/papers/2020-02-05-PAPER2_NatureGenetics-screenshot.png' /> 
