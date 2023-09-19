@@ -6,16 +6,16 @@ excerpt: 'This paper is about elemental fingerprints of shells to trace the spec
 date: 2022-01-08
 venue: 'Science of the Total Environment (STOTEN)'
 paperurl: 'http://dx.doi.org/10.1016/j.scitotenv.2021.152304'
-citation: 'Ricardo, F. et al. (2022). &quot;Assessing the elemental fingerprints of cockle shells (Cerastoderma edule) to confirm their geographic origin from regional to international spatial scales.&quot; <i>STOTEN</i>. 814:152304.'
+citation: 'Ricardo, F et al (includes Bruzos AL). (2022). &quot;Assessing the elemental fingerprints of cockle shells <i>(Cerastoderma edule)</i> to confirm their geographic origin from regional to international spatial scales.&quot; <i>STOTEN</i>. 814:152304. doi: 10.1016/j.scitotenv.2021.152304 - IF(2021) = 10.753'
 ---
 
 <img src='/files/papers/2022-01-08-PAPER_STOTEN-screenshot.png' /> 
 
 **Alicia's citation:**  
-Ricardo, F. et al. (includes Bruzos A.L.). 2022. "Assessing the elemental fingerprints of cockle shells (Cerastoderma edule) to confirm their geographic origin from regional to international spatial scales." <i>STOTEN</i>, 814:152304.  IF(2021) = 10.753.
+Ricardo, F. et al. (includes Bruzos A.L.). 2022. "Assessing the elemental fingerprints of cockle shells <i>(Cerastoderma edule)</i> to confirm their geographic origin from regional to international spatial scales." <i>STOTEN</i>, 814:152304.  IF(2021) = 10.753.
 
 **All authors citation:**  
-Ricardo, F; Mamede, R; **Bruzos, AL**; Díaz, S; Thébault, J; Ferreira da Silva, E; Patinha, C; Calado, R (2022). Assessing the elemental fingerprints of cockle shells (Cerastoderma edule) to confirm their geographic origin from regional to international spatial scales. STOTEN, 814:152304. IF(2021) = 10.753. DOI: http://dx.doi.org/10.1016/j.scitotenv.2021.152304  
+Ricardo, F; Mamede, R; **Bruzos, AL**; Díaz, S; Thébault, J; Ferreira da Silva, E; Patinha, C; Calado, R (2022). Assessing the elemental fingerprints of cockle shells <i>(Cerastoderma edule)</i> to confirm their geographic origin from regional to international spatial scales. STOTEN, 814:152304. IF(2021) = 10.753. DOI: http://dx.doi.org/10.1016/j.scitotenv.2021.152304  
 
 **About the paper:**  
 Here, elemental fingerprints of shells are used to trace common cockle species within a regional, national and international spatial scale.  
