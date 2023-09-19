@@ -6,7 +6,7 @@ excerpt: 'My first publication from my Master Thesis.'
 date: 2020-02-05
 venue: 'Nature'
 paperurl: 'https://doi.org/10.1038/s41586-020-1969-6'
-citation: 'The ICGC/TCGA Pan-Cancer Analysis of Whole Genomes Consortium. (2020). &quot;Pan-Cancer analysis of whole genomes.&quot; <i>Nature</i>. 578:82-93.'
+citation: 'The ICGC/TCGA Pan-Cancer Analysis of Whole Genomes Consortium (includes Bruzos AL). (2020). &quot;Pan-Cancer analysis of whole genomes.&quot; <i>Nature</i>. 578:82-93. doi: 10.1038/s41586-020-1969-6 - IF(2020) = 49.962'
 ---
 
 <img src='/files/papers/2020-02-05-PAPER1_Nature_PCAWG-screenshot.png' />  
