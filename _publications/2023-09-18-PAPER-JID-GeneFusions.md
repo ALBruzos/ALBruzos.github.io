@@ -9,6 +9,10 @@ paperurl: 'https://doi.org/10.1016/j.jid.2023.06.213'
 citation: 'Martin SB#, Polubothu S#, Bruzos AL# et al. (2023). &quot;Mosaic BRAF fusions are a recurrent cause of congenital melanocytic naevi targetable by MEK inhibition.&quot; <i>The Journal of Investigative Dermatology</i>. doi: 10.1016/j.jid.2023.06.213 - IF(2021) = 7.590 (#equal contribution)'
 ---
 
+
+<img src='/files/papers/2023-09-18-PAPER-JID-GeneFusions-screenshot.png' />  
+
+
 **Alicia's citation:**  
 Martin SB#, Polubothu S#, Bruzos AL# et al. 2023. "Mosaic BRAF fusions are a recurrent cause of congenital melanocytic naevi targetable by MEK inhibition." <i>The Journal of Investigative Dermatology</i>, doi: 10.1016/j.jid.2023.06.213 (#equal contribution). IF(2021) = 7.590.  
 
