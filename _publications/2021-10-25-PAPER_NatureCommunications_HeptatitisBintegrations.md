@@ -6,7 +6,7 @@ excerpt: 'This paper is about rearrangements promoted by viral integrations of H
 date: 2021-10-25
 venue: 'Nature Communications'
 paperurl: 'https://doi.org/10.1038/s41467-021-26805-8'
-citation: 'Álvarez, E. G. et al. (2021). &quot;Aberrant integration of Hepatitis B virus DNA promotes major restructuring of human hepatocellular carcinoma genome architecture.&quot; <i>Nature Communications</i>. 12:6910.'
+citation: 'Álvarez, EG et al (includes Bruzos AL). (2021). &quot;Aberrant integration of Hepatitis B virus DNA promotes major restructuring of human hepatocellular carcinoma genome architecture.&quot; <i>Nature Communications</i>. 12:6910. doi: 10.1038/s41467-021-26805-8 - IF(2021) = 17.694'
 ---
 
 <img src='/files/papers/PAPER_NatureComms_screenshot.png' /> 
