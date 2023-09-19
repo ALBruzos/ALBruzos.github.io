@@ -11,9 +11,9 @@ author_profile: true
 ## Publications 
 I’ve been fortunate to have worked on several international and interesting research projects in the field of *cancer genomics*. Keep an eye on the space below to see the list of publications my work has contributed to (hopefully!) grow...
 
- <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+{% for post in site.publications reversed %}
+   {% include archive-single.html %}
+{% endfor %}
 
 ## Peer-review
 My scientific expertise has led me to several invitations to take part in the peer-review system that ensures the rigorous standards of the scientific process. In particular, I have reviewed articles for the following journals:  
@@ -32,6 +32,10 @@ All stated reviews have been certified by Publons / Web of Science: [D-7235-2018
  {% for post in site.publications reversed %}
    {% include archive-single.html %}
  {% endfor %}
+
+ <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 --->
 
 {% if author.googlescholar %}
