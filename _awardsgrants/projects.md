@@ -10,17 +10,17 @@ collection: awardsgrants
 ## Successful project funding applications
 I have participated in successful project applications to raise funds for research activities from public and private funders.
 
-| Project name  | Start year | End year | Project budget<sup>#</sup>  | Funder | Type | My role | 
+| Project name  | Duration | Project budget<sup>#</sup>  | Funder | Type | Funding purpose | My role | 
 | ------------- | ------------- | ------------- |------------- |------------- | ------------- | 
-| CANCER PARASITISM: Immunity mechanisms of bivalve transmissible cancers | 2023 | 2025 | 174.000,00 € | Marie Skłodowska-Curie Actions (MSCA) & Région Normandie (agreement no. 101034329) | Public: EU & regional | Principal investigator (supervised by C Detrée) | 
-| Consolidación GRC GI-1736 Medicina Xenómica | 2021 | 2024 | 400.000,00 € | Consellería de Cultura, Educación e Universidade. Xunta de Galicia, España. | Public: Regional  | Research assistant (PI: AM Carracedo) | 
-| Origins of a large-scale metastasis | 2021 | 2021 | 2.370,00 € | Boehringer Ingelheim Fonds | Private | Principal investigator |
-| SCUBA CANCERS: Finding the genetic causes of contagious metastases under the sea. | 2017 | 2021 | 1.492.500,00 € | European Research Council (ERC Starting grant ID 716290). | Public: EU | Predoctoral researcher (PI: JMC Tubío) | 
-| Evolution of bivalve transmissible cancers (doctoral thesis project) | 2017 | 2021 | 98.500,00€ | Spanish Ministry of Economy, Industry and Competitivity (Ref. BES-2016-078166) | Public: National | Principal investigator (supervised by JMC Tubio) | 
-| EMERALD NEO: Finding the clonal structure of cockle cancer on Ireland. | 2019 | 2019 | 5,992.84 € | Association of European Marine Biological Laboratories Expanded (ASSEMBLE Plus Transnational Access program, grant agreement no. 730984) | Public: EU | Co-principal investigator with S Diaz | 
+| CANCER PARASITISM: Immunity mechanisms of bivalve transmissible cancers | 2 years (2023-2025) | 174.000,00 € | Marie Skłodowska-Curie Actions (MSCA) & Région Normandie (agreement no. 101034329) | Public: EU & regional | Salary + research costs | Principal investigator (supervised by C Detrée) | 
+| Consolidación GRC GI-1736 Medicina Xenómica | 3 years (2021-2024) | 400.000,00 € | Consellería de Cultura, Educación e Universidade. Xunta de Galicia, España. | Public: Regional  | Research costs | Research assistant (PI: AM Carracedo) | 
+| Origins of a large-scale metastasis | 3 months (2021) | 2.370,00 € | Boehringer Ingelheim Fonds | Private | Travel costs | Principal investigator |
+| SCUBA CANCERS: Finding the genetic causes of contagious metastases under the sea. | 2017 | 2021 | 1.492.500,00 € | European Research Council (ERC Starting grant ID 716290). | Public: EU | Research costs | Predoctoral researcher (PI: JMC Tubío) | 
+| Evolution of bivalve transmissible cancers (doctoral thesis project) | 4.5 years<sup>*</sup> (2017-2021) | 98.500,00€ | Spanish Ministry of Economy, Industry and Competitivity (Ref. BES-2016-078166) | Public: National | Salary | Principal investigator (supervised by JMC Tubio) | 
+| EMERALD NEO: Finding the clonal structure of cockle cancer on Ireland. | 1 month (2019) | 5,992.84 € | Association of European Marine Biological Laboratories Expanded (ASSEMBLE Plus Transnational Access program, grant agreement no. 730984) | Public: EU | Travel costs | Co-principal investigator with S Diaz | 
 
 <sup>#</sup> Amount of funding to my organization
-
+<sup>*</sup> Usually it is for 4 years but due to the Covid pandemic, 0.5 years with extra funding were included.
 
 ## Research project participation
 <body>
