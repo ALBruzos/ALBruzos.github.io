@@ -19,7 +19,7 @@ I have participated in successful project applications to raise funds for resear
 | Evolution of bivalve transmissible cancers (doctoral thesis project) | 4.5 years<sup>*</sup> (2017-2021) | 98.500,00€ | Spanish Ministry of Economy, Industry and Competitivity (Ref. BES-2016-078166) | Public: National | Salary | Principal investigator (supervised by JMC Tubio) | 
 | EMERALD NEO: Finding the clonal structure of cockle cancer on Ireland. | 1 month (2019) | 5,992.84 € | Association of European Marine Biological Laboratories Expanded (ASSEMBLE Plus Transnational Access program, grant agreement no. 730984) | Public: EU | Travel costs | Co-principal investigator with S Diaz | 
 
-<sup>#</sup> Amount of funding to my organization
+<sup>#</sup> Amount of funding to my organization.  
 <sup>*</sup> Usually it is for 4 years but due to the Covid pandemic, 0.5 years with extra funding were included.
 
 ## Research project participation
