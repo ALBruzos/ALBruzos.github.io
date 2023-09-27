@@ -42,4 +42,4 @@ I have participated in successful project applications to raise funds for resear
 
 
 [Back to CV](https://albruzos.github.io/cv/)  
-[Back to PUBLICATIONS](https://albruzos.github.io/publications/)  
+
