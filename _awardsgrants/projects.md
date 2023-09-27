@@ -22,7 +22,8 @@ I have participated in successful project applications to raise funds for resear
 <sup>#</sup> Amount of funding to my organization.  
 <sup>*</sup> Usually it is for 4 years but due to the Covid pandemic, 0.5 years with extra funding were included.
 
-## Research project participation
+## International research projects participation
+I have participated in international research projects such as:  
 <body>
 <center>
   <p><b>100,000 Genomes Project:</b> 25,000 WGS cancer samples through Genomics England.<br></p>
