@@ -4,16 +4,14 @@ permalink: /projects/
 author_profile: true
 ---
 
-{% include toc %}
-
-| Project name  | Start year | End year | Funder | Project budget* | My role | 
+| Project name  | Start year | End year | Funder | Type | Project budget* | My role | 
 | ------------- | ------------- | ------------- |------------- |------------- | ------------- | 
-| CANCER PARASITISM: Immunity mechanisms of bivalve transmissible cancers | 2023 | 2025 | Marie Skłodowska-Curie Actions (MSCA) & Région Normandie (agreement no. 101034329) | 174.000,00 € | Principal investigator (supervised by C Detrée) | 
-| Consolidación GRC GI-1736 Medicina Xenómica | 2021 | 2024 | Consellería de Cultura, Educación e Universidade. Xunta de Galicia, España. | 400.000,00 € | Research assistant (PI: AM Carracedo) | 
-| Origins of a large-scale metastasis | 2021 | 2021 | Boehringer Ingelheim Fonds | 2.370,00 € | Principal investigator |
-| SCUBA CANCERS: Finding the genetic causes of contagious metastases under the sea. | 2017 | 2021 | European Research Council (ERC Starting grant ID 716290). | 1.492.500,00 € | Predoctoral researcher (PI: JMC Tubío) | 
-| Evolution of bivalve transmissible cancers (doctoral thesis project) | 2017 | 2021 | Spanish Ministry of Economy, Industry and Competitivity (Ref. BES-2016-078166) | 98.500,00€ | Principal investigator (supervised by JMC Tubio) | 
-| EMERALD NEO: Finding the clonal structure of cockle cancer on Ireland. | 2019 | 2019 | Association of European Marine Biological Laboratories Expanded (ASSEMBLE Plus Transnational Access program, grant agreement no. 730984) | 5,992.84 € | Co-principal investigator with S Diaz | 
+| CANCER PARASITISM: Immunity mechanisms of bivalve transmissible cancers | 2023 | 2025 | Marie Skłodowska-Curie Actions (MSCA) & Région Normandie (agreement no. 101034329) | European & regional | 174.000,00 € | Principal investigator (supervised by C Detrée) | 
+| Consolidación GRC GI-1736 Medicina Xenómica | 2021 | 2024 | Consellería de Cultura, Educación e Universidade. Xunta de Galicia, España. | Regional  | 400.000,00 € | Research assistant (PI: AM Carracedo) | 
+| Origins of a large-scale metastasis | 2021 | 2021 | Boehringer Ingelheim Fonds | Private | 2.370,00 € | Principal investigator |
+| SCUBA CANCERS: Finding the genetic causes of contagious metastases under the sea. | 2017 | 2021 | European Research Council (ERC Starting grant ID 716290). | European | 1.492.500,00 € | Predoctoral researcher (PI: JMC Tubío) | 
+| Evolution of bivalve transmissible cancers (doctoral thesis project) | 2017 | 2021 | Spanish Ministry of Economy, Industry and Competitivity (Ref. BES-2016-078166) | National | 98.500,00€ | Principal investigator (supervised by JMC Tubio) | 
+| EMERALD NEO: Finding the clonal structure of cockle cancer on Ireland. | 2019 | 2019 | Association of European Marine Biological Laboratories Expanded (ASSEMBLE Plus Transnational Access program, grant agreement no. 730984) | European | 5,992.84 € | Co-principal investigator with S Diaz | 
 
 * Amount of funding to your organization
 
@@ -37,31 +35,6 @@ author_profile: true
 </center>
 </body>
 
-## Consortia publications
-Consortia's work can lead us to important conclusions. Throughout my career, I have been part of the [PCAWG consortium](https://docs.icgc.org/pcawg/) that has published the following articles in which the consortium is an author:  
-	
-* [Retrospective evaluation of whole exome and genome mutation calls in 746 cancer samples](https://albruzos.github.io/publication/consortia/2020-Baileyetal.pdf) Bailey et al. (2020) *Nature communications* Comments: **lists my name**
-* [Sex differences in oncogenic mutational processes](https://albruzos.github.io/publication/consortia/2020-Constanceetal.pdf) Constance et al. (2020) *Nature communications* Comments: **lists my name**
-* [Patterns of somatic structural variation in human cancer genomes](https://www.nature.com/articles/s41586-019-1913-9) Li et al. (2020) *Nature*
-* [The repertoire of mutational signatures in human cancer](https://www.nature.com/articles/s41586-020-1943-3) Alexandrov et al. (2020) *Nature*
-* [The evolutionary history of 2,658 cancers](https://www.nature.com/articles/s41586-019-1907-7) Gerstung et al. (2020) *Nature*
-* [Genomic basis for RNA alterations in cancer](https://www.nature.com/articles/s41586-020-1970-0) Calabrese et al. (2020) *Nature*
-* [Analyses of non-coding somatic drivers in 2,658 cancer whole genomes](https://www.nature.com/articles/s41586-020-1965-x) Rheinbay et al. (2020) *Nature*
-* [Comprehensive molecular characterization of mitochondrial genomes in human cancers](https://www.nature.com/articles/s41588-019-0557-x) Yuan et al. (2020) *Nature genetics*
-* [Disruption of chromatin folding domains by somatic genomic rearrangements in human cancer](https://www.nature.com/articles/s41588-019-0564-y) Akdemir et al. (2020) *Nature genetics*
-* [The landscape of viral associations in human cancers](https://www.nature.com/articles/s41588-019-0558-9) Zapatka et al. (2020) *Nature genetics*
-* [Comprehensive analysis of chromothripsis in 2,658 human cancers using whole-genome sequencing](https://www.nature.com/articles/s41588-019-0576-7) Cortés et al. (2020) *Nature genetics*
-* [Butler enables rapid cloud-based analysis of thousands of human genomes](https://www.nature.com/articles/s41587-019-0360-3) Yakneen et al. (2020) *Nature biotechnology*
-* [Cancer LncRNA Census reveals evidence for deep functional conservation of long noncoding RNAs in tumorigenesis](https://www.nature.com/articles/s42003-019-0741-7) Carlevaro et al. (2020) *Communications Biology*
-* [Integrative pathway enrichment analysis of multivariate omics data](https://www.nature.com/articles/s41467-019-13983-9) Paczkowska et al. (2020) *Nature communications*
-* [Pathway and network analysis of more than 2500 whole cancer genomes](https://www.nature.com/articles/s41467-020-14367-0) Reyna et al. (2020) *Nature Communications*
-* [A deep learning system accurately classifies primary and metastatic cancers using passenger mutation patterns](https://www.nature.com/articles/s41467-019-13825-8) Jiao et al. (2020) *Nature Communications*
-* [High-coverage whole-genome analysis of 1220 cancers reveals hundreds of genes deregulated by rearrangement-mediated cis-regulatory alterations](https://www.nature.com/articles/s41467-019-13885-w) Zhang et al. (2020) *Nature communications*
-* [Genomic footprints of activated telomere maintenance mechanisms in cancer](https://www.nature.com/articles/s41467-019-13824-9) Sieverling et al. (2020) *Nature communications*
-* [Combined burden and functional impact tests for cancer driver discovery using DriverPower](https://www.nature.com/articles/s41467-019-13929-1) Shuai et al. (2020) *Nature Communications*
-* [Inferring structural variant cancer cell fraction](https://www.nature.com/articles/s41467-020-14351-8) Cmero et al. (2020) *Nature communications*
-* [Divergent mutational processes distinguish hypoxic and normoxic tumours](https://www.nature.com/articles/s41467-019-14052-x) Bhandari et al. (2020) *Nature communications*
-* [Reconstructing evolutionary trajectories of mutation signature activities in cancer using TrackSig](https://www.nature.com/articles/s41467-020-14352-7) Rubanova et al. (2020) *Nature Communications*  
 
 [Back to CV](https://albruzos.github.io/cv/)  
 [Back to PUBLICATIONS](https://albruzos.github.io/publications/)  
