@@ -1,17 +1,19 @@
 ---
-title: "Research projects and consortia participation"
+title: "Project funding and coordination"
 permalink: /projects/
 author_profile: true
+excerpt: "I have participated in successful project applications to raise funds for research activities from public and private funders."
+collection: awardsgrants
 ---
 
 | Project name  | Start year | End year | Funder | Type | Project budget* | My role | 
 | ------------- | ------------- | ------------- |------------- |------------- | ------------- | 
-| CANCER PARASITISM: Immunity mechanisms of bivalve transmissible cancers | 2023 | 2025 | Marie Skłodowska-Curie Actions (MSCA) & Région Normandie (agreement no. 101034329) | European & regional | 174.000,00 € | Principal investigator (supervised by C Detrée) | 
-| Consolidación GRC GI-1736 Medicina Xenómica | 2021 | 2024 | Consellería de Cultura, Educación e Universidade. Xunta de Galicia, España. | Regional  | 400.000,00 € | Research assistant (PI: AM Carracedo) | 
+| CANCER PARASITISM: Immunity mechanisms of bivalve transmissible cancers | 2023 | 2025 | Marie Skłodowska-Curie Actions (MSCA) & Région Normandie (agreement no. 101034329) | Public: EU & regional | 174.000,00 € | Principal investigator (supervised by C Detrée) | 
+| Consolidación GRC GI-1736 Medicina Xenómica | 2021 | 2024 | Consellería de Cultura, Educación e Universidade. Xunta de Galicia, España. | Public: Regional  | 400.000,00 € | Research assistant (PI: AM Carracedo) | 
 | Origins of a large-scale metastasis | 2021 | 2021 | Boehringer Ingelheim Fonds | Private | 2.370,00 € | Principal investigator |
-| SCUBA CANCERS: Finding the genetic causes of contagious metastases under the sea. | 2017 | 2021 | European Research Council (ERC Starting grant ID 716290). | European | 1.492.500,00 € | Predoctoral researcher (PI: JMC Tubío) | 
-| Evolution of bivalve transmissible cancers (doctoral thesis project) | 2017 | 2021 | Spanish Ministry of Economy, Industry and Competitivity (Ref. BES-2016-078166) | National | 98.500,00€ | Principal investigator (supervised by JMC Tubio) | 
-| EMERALD NEO: Finding the clonal structure of cockle cancer on Ireland. | 2019 | 2019 | Association of European Marine Biological Laboratories Expanded (ASSEMBLE Plus Transnational Access program, grant agreement no. 730984) | European | 5,992.84 € | Co-principal investigator with S Diaz | 
+| SCUBA CANCERS: Finding the genetic causes of contagious metastases under the sea. | 2017 | 2021 | European Research Council (ERC Starting grant ID 716290). | Public: EU | 1.492.500,00 € | Predoctoral researcher (PI: JMC Tubío) | 
+| Evolution of bivalve transmissible cancers (doctoral thesis project) | 2017 | 2021 | Spanish Ministry of Economy, Industry and Competitivity (Ref. BES-2016-078166) | Public: National | 98.500,00€ | Principal investigator (supervised by JMC Tubio) | 
+| EMERALD NEO: Finding the clonal structure of cockle cancer on Ireland. | 2019 | 2019 | Association of European Marine Biological Laboratories Expanded (ASSEMBLE Plus Transnational Access program, grant agreement no. 730984) | Public: EU | 5,992.84 € | Co-principal investigator with S Diaz | 
 
 * Amount of funding to your organization
 
