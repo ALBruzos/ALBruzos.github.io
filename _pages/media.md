@@ -63,6 +63,7 @@ Others
 
 | News date | Newspaper or media | Headline and link | 
 |  ---------------- | ---------------- | ---------------- |
+| **2023**-10-06| Podcast 'Muy al Día' | **Cánceres contagiosos en el mar ¡una investigación española!** [ivoox](https://www.ivoox.com/en/canceres-contagiosos-mar-una-investigacion-espanola-audios-mp3_rf_117163579_1.html) - [Apple Podcasts](https://podcasts.apple.com/es/podcast/c%C3%A1nceres-contagiosos-en-el-mar-una-investigaci%C3%B3n-espa%C3%B1ola/id1592094491?i=1000630390955) - [Spotify](https://open.spotify.com/episode/5zmoZBEc1v7sZoyfZQ0pQm?si=sz-6j094RF2SYUkjNuNIoQ) |
 | **2022**-12-18| La Voz de Galicia | **[Un estudio desvela que el cáncer se contagia entre algunos animales](https://www.lavozdegalicia.es/noticia/sociedad/2022/01/17/estudio-desvela-cancer-contagia-animales/00031642448497970386930.htm)** |
 | 2022-12-19| La Sexta – sección tecnoxplora | [Cómo se propaga un cáncer contagioso entre diferentes especies de almejas](https://www.lasexta.com/tecnologia-tecnoxplora/sinc/como-propaga-cancer-contagioso-diferentes-especies-almejas_2022012361ed0a75a635ca000101fe60.html) |
 | 2022-12-19| Nature World News | [Highly Contagious Blood Cancer Detected in Clams Threaten Marine Ecology](https://www.natureworldnews.com/articles/48964/20220119/contagious-blood-cancer-clam-species.htm) |
