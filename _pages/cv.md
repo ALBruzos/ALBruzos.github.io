@@ -75,7 +75,7 @@ My scientific impact positions me with a current H index of 7, more than 1600 ci
 
 | Paper link & authors  | Year | Journal | Impact Factor<sup>*</sup> | First authorship | Framework |
 | ------------- | ------------- | ------------- | ------------- |------------- |------------- |
-| Santamarina, Bruzos et al.<sup><mark>#</mark></sup> | NA  | In preparation | NA | no | PhD, Spain |
+| Santamarina, Bruzos et al.<sup><mark>#</mark></sup> | NA  | Under review in J Invert. Pathol. | NA | no | PhD, Spain |
 | Riachi et al. (includes Bruzos AL)<sup><mark>#</mark></sup> | NA  | Under review in JID | NA | no | Postdoc, UK |
 | [Bruzos et al.](https://albruzos.github.io/publication/2023-10-02-PAPER-NatureCancer-EvolutionCockleTransmissibleCancers) | 2023 | Nature Cancer & [BioRxiv](https://www.biorxiv.org/content/10.1101/2022.08.06.503021v1)| 23.177 (2021) | yes | PhD, Spain |
 | [Martin SB, Polubothu S, Bruzos AL et al.](https://albruzos.github.io/publication/2023-09-18-PAPER-JID-GeneFusions) | NA  | JID | 7.590 (2021) | yes | Postdoc, UK |
