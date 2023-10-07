@@ -38,14 +38,16 @@ author_profile: true
 * **Science outreach talk** (2018). *“Unravelling cancer evolution using cockles”* Café con Sal (Vigo, Spain). [Announcement in the news](http://www.ipacuicultura.com/noticias/ultima_hora/62069/el_ciclo_de_conferencias_de_cafe_con_sal_de_la_ecimat_aborda_como_los_berberechos_pueden_ayudar_a_desentranar_la_evolucion_del_cancer.html).
 
 
-<i class="fa fa-comment" aria-hidden="true"></i> Opinion editorials (2) 
+<i class="fa fa-comment" aria-hidden="true"></i> Opinion editorials (3) 
 =======
-* **Opinion editorial** (2022). Brief opinion article for the regional newspaper *La Voz de Galici*a entitled *“El cáncer se contagia en el mar”* (20/01/2022, page 13). [Read here](https://albruzos.github.io/files/opinion/20220120-LaVozDeGalicia-Elcancersecontagiaenelmar.jpeg)
-* **Opinion editorial** (2021). Brief opinion article for the regional newspaper *La Voz de Galicia* entitled *“Virus y cancer: una pareja peligrosa”* (20/12/2021, page 11). [Read here](https://albruzos.github.io/files/opinion/20211220-LaVozDeGalicia-VirusyCancer.pdf)
+* **Opinion editorial** (2023). A brief opinion article about marine animal models in basic research for the regional newspaper *La Voz de Galicia entitled *“La medicina sumergida en el océano”* (02/10/2023, page 13). [Read here](https://albruzos.github.io/files/opinion/20231002-LaVozDeGalicia-LaMedicinaSumergidaEnElOceano.png) or [here](https://www.lavozdegalicia.es/noticia/opinion/2023/10/03/medicina-sumergida-oceano/0003_202310G3P13994.htm)
+* **Opinion editorial** (2022). A brief opinion article for the regional newspaper *La Voz de Galicia* entitled *“El cáncer se contagia en el mar”* (20/01/2022, page 13). [Read here](https://albruzos.github.io/files/opinion/20220120-LaVozDeGalicia-Elcancersecontagiaenelmar.jpeg) or [here](https://www.lavozdegalicia.es/noticia/somosmar/2022/01/20/cancer-contagia-mar/0003_202201G20P13992.htm)  
+* **Opinion editorial** (2021). A brief opinion article for the regional newspaper *La Voz de Galicia* entitled *“Virus y cancer: una pareja peligrosa”* (20/12/2021, page 11). [Read here](https://albruzos.github.io/files/opinion/20211220-LaVozDeGalicia-VirusyCancer.pdf) or [here](https://www.lavozdegalicia.es/noticia/opinion/2021/12/20/virus-cancer-pareja-peligrosa/0003_202112G20P11991.htm)  
 
   
-<i class="fa fa-book" aria-hidden="true"></i> Popular science articles (10)  
+<i class="fa fa-book" aria-hidden="true"></i> Popular science articles (11)  
 =======
+* **Behind the paper - Nature Community** (2023). An article entitled *"Evolutionary Insights into Cockle Transmissible Cancers"* summarizing the main findings of my main PhD publication. [Read Here](https://cancercommunity.nature.com/posts/evolutionary-insights-into-cockle-transmissible-cancers)  
 * **The Conversation** (2023). Article entitled *“El viaje de una célula submarina”* that was finalist in the *Outreach Award in Medicine and Health* (open access news source). [Read Here](https://theconversation.com/el-viaje-submarino-de-la-metastasis-209399)
 * **FEBS blog** (2023). *Nobel laureates mentoring the next generation of scientists: insights from an early-career researcher* published in *FEBS blog* for the network members. [Read Here](https://network.febs.org/posts/nobel-laureates-mentoring-the-next-generation-of-scientists-insights-from-an-early-career-researcher) 
 * **Investigación y ciencia** (2023). *“El cáncer de las almejas”* published in *Investigación y Ciencia*, n 556(January 2023), pages 50-54 (Spanish version of ["Scientific American"](https://www.scientificamerican.com/). [Download Here](https://ALBruzos.github.io/files/Investigacion-y-ciencia_n556.pdf)  
