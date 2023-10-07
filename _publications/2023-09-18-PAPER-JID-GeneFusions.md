@@ -32,12 +32,12 @@ Current Publisher:  *ELSEVIER SCIENCE INC*, STE 800, 230 PARK AVE, NEW YORK, USA
   
 *Journal Impact Factor (JIF)*  
 -JIF: 7.590 (2021)  
--JIF Rank: 5/68 (2021 - pending to update)  
--JIF Quartile: Q1 (2021 - pending to update)   
+-JIF Rank: 5/68 (2021)  
+-JIF Quartile: Q1 (2021)   
 *Journal Citation Indicator (JCI)*  
 -JCR Category: DERMATOLOGY  
--JCR Category Rank: -    
--JCR Category Quartile: -    
+-JCR Category Rank: 6/70      
+-JCR Category Quartile: Q1      
 
 **Peer-review process:**  
 Received: 1 February 2023  
