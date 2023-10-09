@@ -47,7 +47,7 @@ redirect_from:
 <i class="fa fa-fw fa-briefcase "></i> Work experience
 =======
 _2023 – ongoing:_	**Postdocoral researcher (MSCA fellow)** at [Université de Caen Normandie](https://www.unicaen.fr/), France.  
-_2021 – 2023:_ **Postdocoral researcher** at [The Francis Crick Institute](https://www.crick.ac.uk/) and [University College of London](https://www.ucl.ac.uk/), United Kingdom.  
+_2021 – 2023:_ **Research assistant** at [The Francis Crick Institute](https://www.crick.ac.uk/) and [University College of London](https://www.ucl.ac.uk/), United Kingdom.  
 _2016 – 2021:_ **Predoctoral researcher (national predoctoral fellow)** at [Universidade de Santiago de Compostela](https://www.usc.es/gl) and [Universidade de Vigo](https://www.uvigo.gal/en), Spain.  
 
 <b>RESEARCH STAYS AS A VISITING SCIENTIST <i class="fa fa-globe" aria-hidden="true"></i>
