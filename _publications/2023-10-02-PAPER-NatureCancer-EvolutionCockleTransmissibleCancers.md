@@ -5,7 +5,7 @@ permalink: /publication/2023-10-02-PAPER-NatureCancer-EvolutionCockleTransmissib
 excerpt: ''
 date: 2023-10-02
 venue: 'Nature Cancer'
-paperurl: '[https://doi.org/10.1038/s43018-023-00641-9](https://doi.org/10.1038/s43018-023-00641-9)'
+paperurl: 'https://doi.org/10.1038/s43018-023-00641-9'
 citation: 'Bruzos AL, et al. (2023). &quot;Somatic evolution of marine transmissible leukemias in the common cockle, Cerastoderma edule.&quot; <i>Nature Cancer</i>. doi: https://doi.org/10.1038/s43018-023-00641-9 - IF(2021) = 23.177'
 ---
 
