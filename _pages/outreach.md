@@ -73,31 +73,48 @@ Biology sudents aged 15-16. Topic: **[11 de febrero](https://11defebrero.org/)**
 {: .notice}
   
 *	**British School**, A Coruña, SPAIN. 09-Feb-2023, in person.
+2 primary-school classes aged 6-7. Topic: **[Conócelas-ASEICA](https://www.aseica.es/arranca-la-tercera-edicion-de-conocelas)**
+{: .notice}
+
 *	**IES Rafael Dieste**, A Coruña, SPAIN. 07-Feb-2023, virtual.
-*	**RFIS Intermediate School**, Flemington, New Jersey, USA and **St. Theresa Catholic Elementary School**, Ontario, CANADA. 02-Dec-2022, virtual (watch here).
+Students aged 13. Topic: **[Conócelas-ASEICA](https://www.aseica.es/arranca-la-tercera-edicion-de-conocelas)**
+{: .notice}
+
+*	**RFIS Intermediate School**, Flemington, New Jersey, USA and **St. Theresa Catholic Elementary School**, Ontario, CANADA. 02-Dec-2022, virtual.
+Topic: **[Exploring By The Seat of Your Pants](https://www.exploringbytheseat.com/)** (02-DEC-2022). Initiative established on 2015 to connect those on the frontlines of science and exploration to classrooms through virtual sessions; 3,500+ live events, connecting over a million students with scientists and explorers in 100 countries. Together with Dr. Wing Yan (U. Melbourne, Australia), we gave a talk about *Water sampling on the Arctic Polar Circle for a eDNA project*. [Watch Here](https://www.youtube.com/watch?v=G0H7d5mPJZs)
+{: .notice}
+
 *	**Rotherfield Primary School**, London, UK. 14-Mar-2022, in person.
+I gave two 15-min talks addresed to ~100 scholars aged 6-10. Topic: [BSW](https://www.britishscienceweek.org/) is a ten-day celebration of science, technology, engineering and maths that took place between 11-20 March 2022.
+{: .notice}
+
 *	**CEIP Monte dos Postes**, Santiago de Compostela, SPAIN. 08-Feb-2022, virtual.
+2 primary-school classes aged 8-10. Topic: **[Conócelas-ASEICA](https://www.aseica.es/arranca-la-tercera-edicion-de-conocelas)**. [Pictures](https://twitter.com/BruzosAliciaL/status/1491178436244930561)
+{: .notice}
+
 *	**IES Federica Montseny**, Valencia, SPAIN. 07-Feb-2022, virtual.
-*	**Beaulieu Convent School**, Jersey, UK. 17-Dec-2021, virtual. 
+Students of a public vocational training. Topic: **[11 de febrero](https://11defebrero.org/)** is a citizen initiative to commemorate the International Day of Women and Girls in Science through activities to visibilize the work of women who are dedicated to STEM areas and create female role models for children who can contribute to the choice of these areas as professional careers. [More info](https://twitter.com/BruzosAliciaL/status/1491803176248381440)
+{: .notice}
+
+*	**Beaulieu Convent School**, Jersey, UK. 17-Dec-2021, virtual.
+Biology students of high school level. Topic: In pandemic time, this [project](https://www.skypeascientist.com/) is connecting real-life scientists with classrooms across the globe. (2021) [Class picture](https://twitter.com/BeaulieuBio/status/1471792405150056453) vs [Scientist picture](https://twitter.com/BruzosAliciaL/status/1471848905054863364/photo/1)
+{: .notice}
+
 *	**Acland Burghley School**, London, UK. 17-Nov-2021, in person.
+School’s networking event for Year 9 female students. Topic: women in STEM.
+{: .notice}
+
 *	**Colegio M. Peleteiro**, Santiago de Compostela, SPAIN. 17-Mar-2021, virtual.
+2 classes aged 17-18. Topic: Semana de orientación laboral. One hour talking with high school students about their career orientation focusing on STEM and particularly in biology, biotechnology, and biochemistry.
+{: .notice}
+  
 *	**Colegio M. Peleteiro**, Santiago de Compostela, SPAIN. 08-Feb-2021, virtual.
+2 classes aged 13-14. Topic: **[Conócelas-ASEICA](https://www.aseica.es/arranca-la-tercera-edicion-de-conocelas)** A project to encourage girls to study STEM organized by the [Spanish Association of Cancer Research](https://www.aseica.es). I gave a talk entitled *"¿Qué nos puede enseñar un berberecho sobre el cáncer?"* (2021) [Pictures](https://twitter.com/ASEICAnews/status/1369634686918660102)
+{: .notice}
+
 *	**Compañía de María**, Santiago de Compostela, SPAIN. 25-Apr-2019, in person.
-
- 
-* **IES Mata Jove**, Gijón, Spain. 
-* **British School**, A Coruña, Spain. 2 primary-school classes aged 6-7. Topic: **[Conócelas-ASEICA](https://www.aseica.es/arranca-la-tercera-edicion-de-conocelas)** (09-FEB-2023)  
-* **IES Rafael Dieste**, A Coruña, Spain. Students aged 13. Topic: **[Conócelas-ASEICA](https://www.aseica.es/arranca-la-tercera-edicion-de-conocelas)** (07-FEB-2023)  
-* **RFIS Intermediate School** (Flemington, New Jersey, US) and **St. Theresa Catholic Elementary School** (Ontario, Canada). Topic: **[Exploring By The Seat of Your Pants](https://www.exploringbytheseat.com/)** (02-DEC-2022). Initiative established on 2015 to connect those on the frontlines of science and exploration to classrooms through virtual sessions; 3,500+ live events, connecting over a million students with scientists and explorers in 100 countries. Together with Dr. Wing Yan (U. Melbourne, Australia), we gave a talk about *Water sampling on the Arctic Polar Circle for a eDNA project*. [Watch Here](https://www.youtube.com/watch?v=G0H7d5mPJZs)  
-* **Rotherfield Primary School**, London, UK. I gave two 15-min talks addresed to ~100 scholars aged 6-10. Topic: [BSW](https://www.britishscienceweek.org/) is a ten-day celebration of science, technology, engineering and maths that took place between 11-20 March 2022 (14-MAR-2022)  
-* **IES Federica Montseny**, Valencia, Spain. Students of a public vocational training. Topic: **[11 de febrero](https://11defebrero.org/)** is a citizen initiative to commemorate the International Day of Women and Girls in Science through activities to visibilize the work of women who are dedicated to STEM areas and create female role models for children who can contribute to the choice of these areas as professional careers. (2022) [More info](https://twitter.com/BruzosAliciaL/status/1491803176248381440)  
-* **CEIP Monte dos Postes**, Santiago de Compostela, Spain. 2 primary-school classes aged 8-10. Topic: **[Conócelas-ASEICA](https://www.aseica.es/arranca-la-tercera-edicion-de-conocelas)**. (8-FEB-2022) [Pictures](https://twitter.com/BruzosAliciaL/status/1491178436244930561)  
-* **Beaulieu Convent School**, Jersey, UK. Biology students of high school level. Topic: In pandemic time, this [project](https://www.skypeascientist.com/) is connecting real-life scientists with classrooms across the globe. (2021) [Class picture](https://twitter.com/BeaulieuBio/status/1471792405150056453) vs [Scientist picture](https://twitter.com/BruzosAliciaL/status/1471848905054863364/photo/1)  
-* **Acland Burghley School**, London, UK. School’s networking event for Year 9 female students. Topic: women in STEM. (2021)  
-*	**Colegio M. Peleteiro**, Santiago de Compostela, Spain. 2 classes aged 17-18. Topic: Semana de orientación laboral. One hour talking with high school students about their career orientation focusing on STEM and particularly in biology, biotechnology, and biochemistry. (2021)  
-*	**Colegio M. Peleteiro**, Santiago de Compostela, Spain. 2 classes aged 13-14. Topic: **[Conócelas-ASEICA](https://www.aseica.es/arranca-la-tercera-edicion-de-conocelas)** A project to encourage girls to study STEM organized by the [Spanish Association of Cancer Research](https://www.aseica.es). I gave a talk entitled *"¿Qué nos puede enseñar un berberecho sobre el cáncer?"* (2021) [Pictures](https://twitter.com/ASEICAnews/status/1369634686918660102)  
-*	**Compañía de María**, Santiago de Compostela, Spain. 9 classes aged 8-10. Topic: International DNA Day. (2019). *Monitor* of activities for pupils aged 8-10 organized for 9 primary-school classes in the *International DNA Day* (Colegio Compañía de María, Santiago de Compostela, Spain). [Picture Here](https://twitter.com/BruzosAliciaL/status/1121533459720286209)
-
+9 classes aged 8-10. Topic: International DNA Day. (2019). *Monitor* of activities for pupils aged 8-10 organized for 9 primary-school classes in the *International DNA Day* (Colegio Compañía de María, Santiago de Compostela, Spain). [Picture Here](https://twitter.com/BruzosAliciaL/status/1121533459720286209)
+{: .notice}
 
 <img src='/images/Tira_FotosOutreach_AliciaLBruzos.png'> 
 
