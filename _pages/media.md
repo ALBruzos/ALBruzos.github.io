@@ -15,11 +15,13 @@ author_profile: true
 
 TV
 =====
+<i class="fa fa-camera" aria-hidden="true"></i>*Canal Sur TV*. Interview by Teodoro León Gross for the **Morning Show 'Analysis Table'** of the public regional television of Andalucía about the publication in *Nature Cancer* of Scuba Cancers project *(09/10/2023)*. 'Mesa de análisis' or 'Analysis Table' is a political and social current affairs program that is showcased every morning on Canal Sur TV. [Watch here complete video](https://www.youtube.com/watch?v=83Wx3LRxdhU)  
+
+<i class="fa fa-camera" aria-hidden="true"></i>*TPA*. Short information for the **Evening Newscast** of the public regional television of Asturias about my visit to a high school class to awaken scientific vocations with an emphasis on women. *(10/02/2023)*. [Watch here complete video](https://youtu.be/feiMZIoUHkk)  
+<p align="center"><video src="https://user-images.githubusercontent.com/15688556/258240103-60f7e927-ad60-40fd-9ffb-e992c07ed45b.mp4" controls="controls" style="max-width: 500px;"></video></p>
+
 <i class="fa fa-camera" aria-hidden="true"></i>*TVG*. Short interview for the **Midday Newscast** of the regional television of Galicia about the Pan-cancer initiative *(06/02/2020)*. [Watch here complete video](https://www.youtube.com/watch?v=FpttVkiBLok)  
 <p align="center"><video src="https://user-images.githubusercontent.com/15688556/190830129-3268cccb-7408-4d3a-9895-ce164308b9d5.mp4" controls="controls" style="max-width: 500px;"></video></p>
-
-<i class="fa fa-camera" aria-hidden="true"></i>*TPA*. Short information for the **Evening Newscast** of the regional television of Asturias about my visit to a high school class to awaken scientific vocations with an emphasis on women. *(10/02/2023)*. [Watch here complete video](https://youtu.be/feiMZIoUHkk)  
-<p align="center"><video src="https://user-images.githubusercontent.com/15688556/258240103-60f7e927-ad60-40fd-9ffb-e992c07ed45b.mp4" controls="controls" style="max-width: 500px;"></video></p>
 
 Radio
 =====
