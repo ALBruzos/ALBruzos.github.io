@@ -40,9 +40,9 @@ author_profile: true
 
 <i class="fa fa-comment" aria-hidden="true"></i> Opinion editorials (3) 
 =======
-* **La medicina sumergida en el océano** (2023). A brief opinion editorial about marine animal models in basic research for the regional newspaper *La Voz de Galicia* (02/10/2023, page 13). [Read here](https://albruzos.github.io/files/opinion/20231002-LaVozDeGalicia-LaMedicinaSumergidaEnElOceano.png) or [here](https://www.lavozdegalicia.es/noticia/opinion/2023/10/03/medicina-sumergida-oceano/0003_202310G3P13994.htm)
-* **El cáncer se contagia en el mar** (2022). A brief opinion editorial for the regional newspaper *La Voz de Galicia* highlights the dangers of moving bivalve species from the Atlantic Ocean to the Mediterranean Sea (20/01/2022, page 13). [Read here](https://albruzos.github.io/files/opinion/20220120-LaVozDeGalicia-Elcancersecontagiaenelmar.jpeg) or [here](https://www.lavozdegalicia.es/noticia/somosmar/2022/01/20/cancer-contagia-mar/0003_202201G20P13992.htm)  
-* **Virus y cancer: una pareja peligrosa** (2021). A brief opinion editorial for the regional newspaper *La Voz de Galicia* about viral genome integrations and their role in causing some human cancers (20/12/2021, page 11). [Read here](https://albruzos.github.io/files/opinion/20211220-LaVozDeGalicia-VirusyCancer.pdf) or [here](https://www.lavozdegalicia.es/noticia/opinion/2021/12/20/virus-cancer-pareja-peligrosa/0003_202112G20P11991.htm)  
+* **La medicina sumergida en el océano** (2023). A brief opinion editorial about marine animal models in basic research for the regional newspaper *La Voz de Galicia* (02-Oct-2023, page 13). [Read here](https://albruzos.github.io/files/opinion/20231002-LaVozDeGalicia-LaMedicinaSumergidaEnElOceano.png) or [here](https://www.lavozdegalicia.es/noticia/opinion/2023/10/03/medicina-sumergida-oceano/0003_202310G3P13994.htm)
+* **El cáncer se contagia en el mar** (2022). A brief opinion editorial for the regional newspaper *La Voz de Galicia* highlights the dangers of moving bivalve species from the Atlantic Ocean to the Mediterranean Sea (20-Jan-2022, page 13). [Read here](https://albruzos.github.io/files/opinion/20220120-LaVozDeGalicia-Elcancersecontagiaenelmar.jpeg) or [here](https://www.lavozdegalicia.es/noticia/somosmar/2022/01/20/cancer-contagia-mar/0003_202201G20P13992.htm)  
+* **Virus y cancer: una pareja peligrosa** (2021). A brief opinion editorial for the regional newspaper *La Voz de Galicia* about viral genome integrations and their role in causing some human cancers (20-Dec-2021, page 11). [Read here](https://albruzos.github.io/files/opinion/20211220-LaVozDeGalicia-VirusyCancer.pdf) or [here](https://www.lavozdegalicia.es/noticia/opinion/2021/12/20/virus-cancer-pareja-peligrosa/0003_202112G20P11991.htm)  
 
   
 <i class="fa fa-book" aria-hidden="true"></i> Popular science articles (11)  
@@ -86,7 +86,7 @@ Students aged 13. Topic: **[Conócelas-ASEICA](https://www.aseica.es/arranca-la-
 
 *	**RFIS Intermediate School**, Flemington, New Jersey, USA and **St. Theresa Catholic Elementary School**, Ontario, CANADA. 02-Dec-2022, virtual.
 
-Topic: **[Exploring By The Seat of Your Pants](https://www.exploringbytheseat.com/)** (02-DEC-2022). Initiative established on 2015 to connect those on the frontlines of science and exploration to classrooms through virtual sessions; 3,500+ live events, connecting over a million students with scientists and explorers in 100 countries. Together with Dr. Wing Yan (U. Melbourne, Australia), we gave a talk about *Water sampling on the Arctic Polar Circle for a eDNA project*. [Watch Here](https://www.youtube.com/watch?v=G0H7d5mPJZs)
+Topic: **[Exploring By The Seat of Your Pants](https://www.exploringbytheseat.com/)**. Initiative established on 2015 to connect those on the frontlines of science and exploration to classrooms through virtual sessions; 3,500+ live events, connecting over a million students with scientists and explorers in 100 countries. Together with Dr. Wing Yan (U. Melbourne, Australia), we gave a talk about *Water sampling on the Arctic Polar Circle for a eDNA project*. [Watch Here](https://www.youtube.com/watch?v=G0H7d5mPJZs)
 {: .notice}
 
 *	**Rotherfield Primary School**, London, UK. 14-Mar-2022, in person.
