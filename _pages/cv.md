@@ -86,8 +86,9 @@ My scientific impact positions me with a current H index of 7, more than 1,800 c
 | #2 | [Rodríguez-Martín et al. (includes Bruzos AL)](https://albruzos.github.io/publication/2020-02-05-PAPER2_NatureGenetics_PCAWG-retrotransposition) | 2020  | Nature Genetics & [BioRxiv](https://www.biorxiv.org/content/10.1101/179705v3) | 38.333 | no | Master/PhD, Spain |
 | #1 | [PCAWG (includes Bruzos AL)](https://albruzos.github.io/publication/2020-02-05-PAPER1_Nature_PCAWG) | 2020  | Nature | 49.962 | no | Master/PhD, Spain |
 
-<sup>#</sup> <mark>PENDING PUBLICATION</mark>  
+<mark><sup>#</sup></mark> PENDING PUBLICATION  
 <sup>*</sup> IF taken from [Journal Citation Report (JCR)](https://mjl.clarivate.com/) for the year of the publication unless otherwise stated  
+Find more details [here](https://albruzos.github.io/publications/).  
   
 <b>CONFERENCES</b> <i class="fa fa-bullhorn" aria-hidden="true"></i>
 <ul class="fa-ul">
