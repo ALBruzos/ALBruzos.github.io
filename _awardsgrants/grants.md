@@ -5,6 +5,7 @@ collection: awardsgrants
 ---
 
 * 2023:	**European postdoctoral fellowship (2023-2025)**. Marie Skłodowska-Curie Actions (MSCA) and Région Normandie (grant agreement no. 101034329). Programme [Winning Normandy](https://www.normandie.fr/winningnormandy-fellowship-program) Université de Caen Normandie, France.
+* 2023: **National postdoctoral “Juan de la Cierva” fellowship (2024-2026)**. Spanish Ministry of Science ([Ref. JDC2022-048396-I - page 15](https://www.aei.gob.es/sites/default/files/convocatory_info/file/2023-09/PRP_SELECCIONADOS_RESERVAS_JDC%202022_firmada.pdf)). Budget: 50.700,00 €. CSIC - Instituto de Investigaciones Marinas, Spain. DECLINED to take the MSCA.
 * 2023:	**Mangold fellowship**. Funds to cover the _72nd Lindau Nobel Laureate Meeting_, Germany. 
 * 2022: **Falling Walls Lab fellowship**. Funded by Sociedad Española de Bioquímica y Biología Molecular to attend _Falling Walls Lab_, Spain. 
 * 2021: **Travel grant**. [Boheringer Ingelheim Fonds](https://www.bifonds.de/fellowships-grants/travel-grants/), Germany. 
