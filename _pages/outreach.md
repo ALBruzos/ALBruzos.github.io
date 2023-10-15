@@ -63,8 +63,29 @@ el-cancer-se-puede-contagiar-al-menos-en-animales-163529)
 
 <i class="fa fa-university" aria-hidden="true"></i> School visits (13: 9 Spanish + 3 British + 1 Canadian/US)  
 =======
-*	**Maristas-Santa María**, Ourense, Spain. Students aged 15-16. Topic: **[La voz de la mujer STEM](https://www.prensaescuela.es/alicia-lopez-bruzos-desmonta-mitos-machistas-en-ciencia/)** (07-MAR-2023)  
-* **IES Mata Jove**, Gijón, Spain. Biology sudents aged 15-16. Topic: **[11 de febrero](https://11defebrero.org/)** [More info](https://www.matajove.es/11f-dia-de-la-mujer-y-la-nina-en-la-ciencia/) (10-FEB-2023)  
+
+*	**Maristas-Santa María**, Ourense, SPAIN. 07-Mar-2023, in person.
+Topic: **[La voz de la mujer STEM](https://www.prensaescuela.es/alicia-lopez-bruzos-desmonta-mitos-machistas-en-ciencia/)** Students aged 15-16. 
+
+
+*	**IES Mata Jove**, Gijón, SPAIN. 10-Feb-2023, in person.
+Biology sudents aged 15-16. Topic: **[11 de febrero](https://11defebrero.org/)** [More info](https://www.matajove.es/11f-dia-de-la-mujer-y-la-nina-en-la-ciencia/) 
+{: .notice}
+  
+*	**British School**, A Coruña, SPAIN. 09-Feb-2023, in person.
+*	**IES Rafael Dieste**, A Coruña, SPAIN. 07-Feb-2023, virtual.
+*	**RFIS Intermediate School**, Flemington, New Jersey, USA and **St. Theresa Catholic Elementary School**, Ontario, CANADA. 02-Dec-2022, virtual (watch here).
+*	**Rotherfield Primary School**, London, UK. 14-Mar-2022, in person.
+*	**CEIP Monte dos Postes**, Santiago de Compostela, SPAIN. 08-Feb-2022, virtual.
+*	**IES Federica Montseny**, Valencia, SPAIN. 07-Feb-2022, virtual.
+*	**Beaulieu Convent School**, Jersey, UK. 17-Dec-2021, virtual. 
+*	**Acland Burghley School**, London, UK. 17-Nov-2021, in person.
+*	**Colegio M. Peleteiro**, Santiago de Compostela, SPAIN. 17-Mar-2021, virtual.
+*	**Colegio M. Peleteiro**, Santiago de Compostela, SPAIN. 08-Feb-2021, virtual.
+*	**Compañía de María**, Santiago de Compostela, SPAIN. 25-Apr-2019, in person.
+
+ 
+* **IES Mata Jove**, Gijón, Spain. 
 * **British School**, A Coruña, Spain. 2 primary-school classes aged 6-7. Topic: **[Conócelas-ASEICA](https://www.aseica.es/arranca-la-tercera-edicion-de-conocelas)** (09-FEB-2023)  
 * **IES Rafael Dieste**, A Coruña, Spain. Students aged 13. Topic: **[Conócelas-ASEICA](https://www.aseica.es/arranca-la-tercera-edicion-de-conocelas)** (07-FEB-2023)  
 * **RFIS Intermediate School** (Flemington, New Jersey, US) and **St. Theresa Catholic Elementary School** (Ontario, Canada). Topic: **[Exploring By The Seat of Your Pants](https://www.exploringbytheseat.com/)** (02-DEC-2022). Initiative established on 2015 to connect those on the frontlines of science and exploration to classrooms through virtual sessions; 3,500+ live events, connecting over a million students with scientists and explorers in 100 countries. Together with Dr. Wing Yan (U. Melbourne, Australia), we gave a talk about *Water sampling on the Arctic Polar Circle for a eDNA project*. [Watch Here](https://www.youtube.com/watch?v=G0H7d5mPJZs)  
