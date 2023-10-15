@@ -18,8 +18,8 @@ I’ve been fortunate to have worked on several international and interesting re
 #### Under review publications (available as preprints or request)  
 * Riachi, M et al. (includes Bruzos, AL). (2023) *Keratinocyte cholesterol deficiency is a druggable final common pathway in hyperproliferative inflammatory skin disease.* Under review in the *Journal of Investigative Dermatology*.
   
-* Santamarina, M; Bruzos, AL; Pequeño, A; Rodríguez-Castro, J; Díaz, S. (2023) *Novel PCR molecular assay for the identification of marine transmissible cancers from Cerastoderma edule.* Under review in the *Journal of Invertebrate Pathology*.
-
+* Santamarina, M; Bruzos, AL; Pequeño, A; Rodríguez-Castro, J; Díaz, S. (2023) *Novel PCR molecular assay for the identification of marine transmissible cancers from Cerastoderma edule.* Under review in the *Journal of Invertebrate Pathology*. Available as a pre-print at [SSRN](https://ssrn.com/abstract=4595284): [doi.org/10.2139/ssrn.4595284](http://dx.doi.org/10.2139/ssrn.4595284)
+ 
 ## Peer-reviewing activity
 My scientific expertise has led me to several invitations to take part in the peer-review system that ensures the rigorous standards of the scientific process. In particular, I have reviewed articles for the following journals:  
 <ul class="fa-ul">
