@@ -4,6 +4,8 @@ excerpt: "4 scientific prizes, 5 outreach prizes, 2 literary prizes, 1 drawing p
 collection: awardsgrants
 ---
 
+<img src='/images/Tira_FotosPremios_AliciaLBruzos.png'>  
+
 Throughout my life, I have been awarded several prizes and awards:
 * 2023:	**Hamilton Award.** Society for the Study of Evolution, US. _Finalist,_ 500 USD.
 * 2023:	**Outreach Award in Medicine and Health.** Fundación Lilly and The Conversation, Spain. _Finalist._ Publication of the article _“El viaje de una célula submarina”_. [Read here]([)](https://theconversation.com/el-viaje-submarino-de-la-metastasis-209399)
