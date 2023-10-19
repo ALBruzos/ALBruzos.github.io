@@ -65,7 +65,7 @@ Others
 <center> <h2>MY SCIENCE IN THE NEWS</h2> </center>
 <img src='/images/TiraFotos_3_media_AliciaLBruzos.png'>  
 
-> Research publications which I co-authored were mentioned in more than 100 news in more than 40 different newspapers. In the following table you can check some of them:
+> Research publications that I co-authored were mentioned in more than 150 news in more than 40 different newspapers and more than 10 countries. For instance, see here the [Wellcome Sanger Institute to media coverage report](https://twitter.com/BruzosAliciaL/status/1711356686546375093/photo/1) of my main PhD publication. In the following table you can check some of them:
 
 | News date | Newspaper or media | Headline and link | 
 |  ---------------- | ---------------- | ---------------- |
