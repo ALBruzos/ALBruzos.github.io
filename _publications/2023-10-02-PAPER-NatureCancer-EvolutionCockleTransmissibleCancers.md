@@ -20,10 +20,6 @@ This paper was the work of 7 years studying the genetics of cockle transmissible
 * Watch a 3-min video [here](https://www.youtube.com/watch?v=Ig3-LggH9Rs&list=PLoM6RxNCUIv89Of2_GZjb7VRvn7uemf5k&index=2) about the ERC-StG project that funded this research.  
 <mark>Do not hesitate to reach out to get a pdf copy of the article or discuss the results.</mark>  
 
-**More information:**  
-Visit online version: [doi.org/**10.7554/eLife.66946**](https://doi.org/10.7554/eLife.66946)  
-[Download PDF here](https://ALBruzos.github.io/files/papers/2022-01-18-PAPER_eLife_ContagiousCancer-clams.pdf)
-
 **Authorship:**  
 Position of AL Bruzos: 1 (first authorship)  
 Total number of authors: 45  
