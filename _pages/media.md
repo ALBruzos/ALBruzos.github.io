@@ -43,8 +43,9 @@ Newspaper
 <i class="fa fa-book" aria-hidden="true"></i>**La Voz de Galicia**. Interview and picture for the regional newspaper about the *Pan-cancer initiative* *(06/02/2020)*. [Link](https://www.lavozdegalicia.es/noticia/sociedad/2020/02/06/equipo-gallego-halla-causa-desconocida-origen-cancer/0003_202002G6P23991.htm)  
 <i class="fa fa-book" aria-hidden="true"></i>**La Gaceta**. Interview and picture for Salamanca’s newspaper about my doctoral research with *cockles* to find the genetic causes of contagious metastasis *(10/12/2017)*. [Link](https://www.genomesdisease.tech/media/20171210_EntevistaAliciaSalamanca.pdf)  
 
-Social networks
+Podcasts and Social Networks
 =====
+<i class="fa fa-podcast" aria-hidden="true"></i>**Muy al día PODCAST**. Half an hour interview talking about contagious cancers in cockles and science *(09/10/2023)*. [Listen here](https://www.youtube.com/watch?v=VSCPKnIMPbw&t=1s) [ivoox](https://www.ivoox.com/en/cientifica-alicia-lopez-bruzos-nos-explica-el-audios-mp3_rf_117405310_1.html) - [Apple Podcasts](https://podcasts.apple.com/es/podcast/la-cient%C3%ADfica-alicia-l%C3%B3pez-bruzos-nos-explica-el/id1592094491?i=1000630649637) - [Spotify](https://open.spotify.com/episode/1Yht65s14IJTSGTEWuhb1P)   
 <i class="fa fa-book" aria-hidden="true"></i>**BLOG: Women in Research**. Female scientists featured in this blog by Ulrike Boehm *(09/07/2023)* [Read here](https://womeninresearchblog.wordpress.com/2023/07/09/alicia-spain/) or [here](https://www.lindau-nobel.org/blog-women-in-research-lino23-alicia-l-bruzos/)    
 <i class="fa fa-podcast" aria-hidden="true"></i>**VOCES11F PODCAST**. Interview to talk about the 3MT Video Award *(13/06/2022)*. [Listen here](https://www.youtube.com/watch?v=VSCPKnIMPbw&t=1s)  
 <i class="fa fa-podcast" aria-hidden="true"></i>**NAKED SCIENTIST PODCAST**. Interview to talk about marine contagious cancers *(12/04/2022)*. [Listen here](https://www.youtube.com/watch?v=EYt-oRvnBE0&t=1419s)  
