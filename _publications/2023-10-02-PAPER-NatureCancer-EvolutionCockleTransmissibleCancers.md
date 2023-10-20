@@ -16,8 +16,11 @@ IF(2021) = 23.177
 
 **About the paper:**  
 This paper was the work of 7 years studying the genetics of cockle transmissible cancers.  
-* [Read here](https://cancercommunity.nature.com/posts/evolutionary-insights-into-cockle-transmissible-cancers) a summary of the main findings.  
-* Watch a 3-min video [here](https://www.youtube.com/watch?v=Ig3-LggH9Rs&list=PLoM6RxNCUIv89Of2_GZjb7VRvn7uemf5k&index=2) about the ERC-StG project that funded this research.  
+* [Read here a Behind the paper blog post](https://cancercommunity.nature.com/posts/evolutionary-insights-into-cockle-transmissible-cancers) summarizing the main findings.  
+* Watch a 3-min video [here](https://www.youtube.com/watch?v=Ig3-LggH9Rs&list=PLoM6RxNCUIv89Of2_GZjb7VRvn7uemf5k&index=2) about the ERC-StG project that funded this research.
+* [Tweetorial Tubio lab](https://twitter.com/MobileGenomes/status/1708865647327805674)
+* [Tweetorial Metzger lab](https://twitter.com/themetzgerm/status/1708958093617635434)
+
 <mark>Do not hesitate to reach out to get a pdf copy of the article or discuss the results.</mark>  
 
 **Authorship:**  
