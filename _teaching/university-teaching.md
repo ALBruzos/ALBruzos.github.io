@@ -8,17 +8,18 @@ permalink: /teaching/university-teaching
 
 **Total:** 112 certified hours, 3 public universities, 5 different courses, 6 years of experience
 
-| Academic Year  | Course | University | Degree | Hours | Language | Country |
-| ------------- | ------------- | ------------- |------------- |------------- | ------------- | ------------- |
-| 2022/2023 | Selected Student Component | [University College of London](https://www.ucl.ac.uk/) | Medicine MBBS BSc | 8 | English | UK |
-| 2022/2023 | FLS – meet a researcher module | [University College of London](https://www.ucl.ac.uk/) | Faculty of Life Sciences | 10 | English | UK |
-| 2021/2022 | Selected Student Component | [University College of London](https://www.ucl.ac.uk/) | Medicine MBBS BSc | 12 | English | UK |
-| 2020/2021 | Genetics II | [Universidade de Santiago de Compostela](https://www.usc.gal) | BSc. in Biotechnology | 8 | Spanish | Spain |
-| 2020/2021 | Genetics I | [Universidade de Santiago de Compostela](https://www.usc.gal) | BSc. in Biology | 40 | Spanish | Spain |
-| 2019/2020 | Human Genetics | [Universidade de Santiago de Compostela](https://www.usc.gal) | BSc. in Biology | 2 | Spanish | Spain |
-| 2019/2020 | Genetics I | [Universidade de Santiago de Compostela](https://www.usc.gal) | BSc. in Biology | 13 | Spanish | Spain |
-| 2018/2019 | Genetics II | [Universidade de Santiago de Compostela](https://www.usc.gal) | BSc. in Biology | 16 | Spanish | Spain |
-| 2017/2018 | Genetics II | [Universidade de Vigo](https://www.uvigo.gal) | BSc. in Biology | 3 | English | Spain |
+| Academic Year  | Course | University | Degree | Hours | Students no. | Language | Country |
+| ------------- | ------------- | ------------- |------------- |------------- |------------- | ------------- | ------------- |
+| 2023/2024 | Physiologie du gène à l’organisme (UE SBME19B) | [Université Caen Normandie](https://www.unicaen.fr/) | Master Sciences de la Mer | 2 | ~15 | French | France |
+| 2022/2023 | Selected Student Component | [University College of London](https://www.ucl.ac.uk/) | Medicine MBBS BSc | 8 | 20 | English | UK |
+| 2022/2023 | FLS – meet a researcher module | [University College of London](https://www.ucl.ac.uk/) | BSc. in Biological Sciences (Faculty of Life Sciences) | 10 | 18 | English | UK |
+| 2021/2022 | Selected Student Component | [University College of London](https://www.ucl.ac.uk/) | Medicine MBBS BSc | 12 | 20 | English | UK |
+| 2020/2021 | Genetics II | [Universidade de Santiago de Compostela](https://www.usc.gal) | BSc. in Biotechnology | 8 | ~30 | Spanish | Spain |
+| 2020/2021 | Genetics I | [Universidade de Santiago de Compostela](https://www.usc.gal) | BSc. in Biology | 40 | ~30 | Spanish | Spain |
+| 2019/2020 | Genetics I | [Universidade de Santiago de Compostela](https://www.usc.gal) | BSc. in Biology | 13 | ~30 | Spanish | Spain |
+| 2019/2020 | Human Genetics | [Universidade de Santiago de Compostela](https://www.usc.gal) | BSc. in Biology | 2 | ~80 | Spanish | Spain |
+| 2018/2019 | Genetics II | [Universidade de Santiago de Compostela](https://www.usc.gal) | BSc. in Biology | 16 | ~30 | Spanish | Spain |
+| 2017/2018 | Genetics II | [Universidade de Vigo](https://www.uvigo.gal) | BSc. in Biology | 3 | ~20 | English | Spain |
 
 <img src='/images/Tira_FotosTeaching-noNames_AliciaLBruzos.png'>  
 
