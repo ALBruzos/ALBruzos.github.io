@@ -13,7 +13,7 @@ collection: awardsgrants
 * 2017: **EuroMarine Young Scientist Fellowship**. [European Marine Research Network](https://www.euromarinenetwork.eu/), Spain. Budget: 500,00 €.
 * 2017: **National Doctoral Fellowship (2017-2021)**. Spanish Ministry of Economy, Industry and Competitivity (Ref. BES-2016-078166). Universidade de Vigo, Spain. Budget: 98.500,00 €.
 * 2013: **Erasmus scholarship**. [Université Libre de Bruxelles](https://www.ulb.be/en), Belgium. One year to study abroad.
-* 2009: **Summer Exchange scholarship**. Xunta de Galicia. France.
+* 2009: **Summer Exchange scholarship**. Alliance Française and Xunta de Galicia, Internat Lycée Flora Tristan, Camblanes, France.
 
 
 <img src='/images/Logos-grants_v1.png'>  
