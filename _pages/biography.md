@@ -35,9 +35,7 @@ Her first postdoctoral experience took place at the internationally renowned _Th
 
 ## Present and future: a look full of hope
 
-As the next step in my career, my goal was to establish an independent research line on marine contagious cancer. I was successful in securing a Marie Skłodowska-Curie (MSCA) fellowship at _Université de Caen Normandie_ in France. She chose this site because of the importance of having the samples right outside the doorstep, which is essential for establishing in-depth experiments and analyses both in the laboratory and in the field. 
-
-Nowadays, she works in France and is looking forward to the next step on her career.
+As the next step in her career, she was successful in securing a Marie Skłodowska-Curie (MSCA) fellowship at _Université de Caen Normandie_ in France. She chose this site because of the importance of having the samples right outside the doorstep, which is essential for establishing in-depth experiments and analyses both in the laboratory and in the field. Nowadays, she works in France and is looking forward to the next step in her career.
 
 Alicia is a scientific woman hard working to build a career on science. Let's see what happens with the next lines of this biography...
 
