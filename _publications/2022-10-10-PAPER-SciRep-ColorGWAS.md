@@ -15,9 +15,11 @@ Hermida, M. et al. (includes Bruzos A.L.). 2022. "The first high-density genetic
 **All authors citation:**  
 Hermida, M; Robledo, D; Díaz, S; **Bruzos, AL**; Blanco, A; Pardo, BG; Martínez, P (2022). The first high-density genetic map of common cockle <i>(Cerastoderma edule)</i> reveals a major QTL controlling shell color variation. Sci Rep 12:16971. IF(2021) = 4.996. DOI:[10.1038/s41598-022-21214-3](https://doi.org/10.1038/s41598-022-21214-3) 
 
+**About the paper:**  
+In this study, a high-density genetic map was applied to ascertain the genetic basis of color variation in cockle shells. A major QTL on chromosome 13 was found to be associated with different color traits. This was a collaboration during my research as a PhD student.  
+
 **More information:**  
 Visit online version: [nature.com/articles/s41598-022-21214-3](https://www.nature.com/articles/s41598-022-21214-3)  
-
 
 **Authorship:**  
 Position of AL Bruzos: 5  
