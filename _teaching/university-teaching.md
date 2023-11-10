@@ -36,9 +36,14 @@ BSc: Bachelor in Science
 MBBS: Medicine Bachelor and Bachelor of Surgery  
 
 
-**Teacher trainning courses/certificates:**  
-* 2017 - Higher Education Lecturing Accreditation (HELA). UNIVERSIDADE DE VIGO.
-* 2021 - Research Supervision. UNIVERSITY COLLEGE OF LONDON. The course provides information and guidance on UCL regulations and frameworks for research supervision; establishing and maintaining effective working relationships with your supervisees; doctoral skills development requirements and the Research Student Log signposting to further support provided centrally by UCL and locally in faculties and departments.
+### Teaching training courses/certificates:
+
+* 2023: **Profesor Ayudante Doctor (PAD)**. Agencia Nacional de Evaluación de la Calidad de la Acreditación (ANECA), SPAIN. *Goal:* similar to a non-tenured assistant professor, must hold a PhD, accreditation required.
+
+* 2021: **Research Supervision**. University College London, UK. *Goal:*The course provides information and guidance on UCL regulations and frameworks for research supervision; establishing and maintaining effective working relationships with your supervisees; doctoral skills development requirements and the Research Student Log signposting to further support provided centrally by UCL and locally in faculties and departments.
+
+* 2017: **Higher Education Lecturing Accreditation (HELA)**. Universidade de Vigo, SPAIN. 16 hours + test (19/04/2017-20/04/2017). *Goal:* qualification to teach in English.
+  
 
 [Back to CV](https://albruzos.github.io/cv/)
 
