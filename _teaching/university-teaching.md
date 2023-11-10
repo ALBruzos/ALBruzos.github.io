@@ -30,8 +30,6 @@ permalink: /teaching/university-teaching
 | 2018/2019     | Genetics II | [Universidade de Santiago de Compostela](https://www.usc.gal) | BSc. in Biology | ~30 | lab practice | teaching assistant | 16 | Spanish | Spain |
 | 2017/2018     | Genetics II | [Universidade de Vigo](https://www.uvigo.gal) | BSc. in Biology | ~20 | bioinformatic practice | teaching assistant | 3 | English | Spain |
 
-<img src='/images/Tira_FotosTeaching-noNames_AliciaLBruzos.png'>  
-
 **Legend**:  
 BSc: Bachelor in Science  
 MBBS: Medicine Bachelor and Bachelor of Surgery  
@@ -47,6 +45,8 @@ MBBS: Medicine Bachelor and Bachelor of Surgery
 
 * 2017: **Higher Education Lecturing Accreditation (HELA)**. Universidade de Vigo, SPAIN. *Hours:* 16 hours + test (19/04/2017-20/04/2017). *Goal:* qualification to teach in English.
   
+<img src='/images/Tira_FotosTeaching-noNames_AliciaLBruzos.png'>  
+
 
 [Back to CV](https://albruzos.github.io/cv/)
 
