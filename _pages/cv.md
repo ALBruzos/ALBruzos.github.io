@@ -73,7 +73,7 @@ My scientific impact positions me with a current H index of 7, more than 1,800 c
 
 <b>PUBLICATIONS</b> <i class="fa fa-fw fa-paste"></i>
 
-| No. | Paper link & authors  | Year | Journal & preprint repository | Impact Factor<sup>*</sup> | First authorship | Framework |
+| No. | Paper link & authors  | Year | Journal & preprint repository | Impact Factor & rank<sup>*</sup> | First authorship | Framework |
 | ------------- | ------------- | ------------- | ------------- | ------------- |------------- |------------- |
 | - | Riachi et al. (includes Bruzos AL)<sup><mark>#</mark></sup> | NA  | Under review in JID | NA | no | Postdoc, UK |
 | - | Santamarina, Bruzos et al.<sup><mark>#</mark></sup> | NA  | Under review in J Invert. Pathol. & [SSRN](https://ssrn.com/abstract=4595284) | NA | no | PhD, Spain |
@@ -87,7 +87,7 @@ My scientific impact positions me with a current H index of 7, more than 1,800 c
 | #1 | [PCAWG (includes Bruzos AL)](https://albruzos.github.io/publication/2020-02-05-PAPER1_Nature_PCAWG) | 2020 - D1 | Nature | 49.962 | no | Master/PhD, Spain |
 
 <mark><sup>#</sup></mark> PENDING PUBLICATION  
-<sup>*</sup> IF taken from [Journal Citation Report (JCR)](https://mjl.clarivate.com/) for the year of the publication unless otherwise stated  
+<sup>*</sup> IF taken from [Journal Citation Report (JCR)](https://mjl.clarivate.com/) for the year of the publication unless otherwise stated. Quartile (Q1 ≤ 0.25) and decile (D1 ≤ 0.1) rankings are indicated.  
 Find more details [here](https://albruzos.github.io/publications/).  
   
 <b>CONFERENCES</b> <i class="fa fa-bullhorn" aria-hidden="true"></i>
