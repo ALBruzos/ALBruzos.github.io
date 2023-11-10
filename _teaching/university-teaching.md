@@ -38,6 +38,8 @@ MBBS: Medicine Bachelor and Bachelor of Surgery
 
 ### Teaching training courses/certificates:
 
+*ongoing: **MSc in University Teaching**. Universidad Europea de Madrid (online), SPAIN. *Goal:* knowing all the didactic-pedagogical, research, innovation and use of technology areas that a university teacher must master. Official title, 60 ECTS. Expected for February 2025.
+
 * 2023: **Profesor Ayudante Doctor (PAD)**. Agencia Nacional de Evaluación de la Calidad de la Acreditación (ANECA), SPAIN. *Goal:* similar to a non-tenured assistant professor, must hold a PhD, accreditation required.
 
 * 2021: **Research Supervision**. University College London, UK. *Goal:*The course provides information and guidance on UCL regulations and frameworks for research supervision; establishing and maintaining effective working relationships with your supervisees; doctoral skills development requirements and the Research Student Log signposting to further support provided centrally by UCL and locally in faculties and departments.
