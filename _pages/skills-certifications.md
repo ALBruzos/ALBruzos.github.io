@@ -11,12 +11,12 @@ redirect_from:
 > Problems by definition cross many academic disciplines.  
 > Lucas Remmerswaal
 
-2023:	**Sauveteur Secouriste (SST)**. Université de Caen Normandie, FRANCE. First aid training for accidents in field missions. Hours: 14.
-2017:	**Craft Skipper License (sailing specialization, PER)**. Consellería do Mar (Xunta de Galicia) and Sailway, SPAIN. Hours: 60 (30h theory, 16h engine, 12h VHF, 16h sailing, 1h30 exam)
-2017:	**Animal Experimentation Certificate (A+B+C+D+E)**. Centro de Estudios Biosanitarios, SPAIN. Hours: 140 (practicum of fish and rodents). Capacitated by Comunidad de Madrid, SPAIN.
-2014:	**Open Water Diver License**. Scuba Schools International (SSI) and Mergullo Compostela, SPAIN. Hours: 60
-2012:	**Monitora de Actividades de Tiempo Libre**. Escola Aire Libre de Cáritas Diocesana de Santiago, SPAIN. Certified by Consellería de Traballo (Xunta de Galicia). Hours: 350.
-2007:	**Elementary Music Degree (specialties: traverse flute and piano)**. Conservatorio Profesional de Música de Viveiro, SPAIN. Years: 5
+2023:	**Sauveteur Secouriste (SST)**. Université de Caen Normandie, FRANCE. First aid training for accidents in field missions. Hours: 14.  
+2017:	**Craft Skipper License (sailing specialization, PER)**. Consellería do Mar (Xunta de Galicia) and Sailway, SPAIN. Hours: 60 (30h theory, 16h engine, 12h VHF, 16h sailing, 1h30 exam)  
+2017:	**Animal Experimentation Certificate (A+B+C+D+E)**. Centro de Estudios Biosanitarios, SPAIN. Hours: 140 (practicum of fish and rodents). Capacitated by Comunidad de Madrid, SPAIN.  
+2014:	**Open Water Diver License**. Scuba Schools International (SSI) and Mergullo Compostela, SPAIN. Hours: 60  
+2012:	**Monitora de Actividades de Tiempo Libre**. Escola Aire Libre de Cáritas Diocesana de Santiago, SPAIN. Certified by Consellería de Traballo (Xunta de Galicia). Hours: 350.  
+2007:	**Elementary Music Degree (specialties: traverse flute and piano)**. Conservatorio Profesional de Música de Viveiro, SPAIN. Years: 5  
 
 ## Skills  
 <img src='/images/skills-bruzos.png'>  
