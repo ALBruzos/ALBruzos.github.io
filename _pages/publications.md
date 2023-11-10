@@ -23,10 +23,10 @@ I’ve been fortunate to have worked on several international and interesting re
 ## Peer-reviewing activity
 My scientific expertise has led me to several invitations to take part in the peer-review system that ensures the rigorous standards of the scientific process. In particular, I have reviewed articles for the following journals:  
 <ul class="fa-ul">
-  <li><i class="fa-li fa fa-check-square"></i>1 for <i>Science</i>. IF(2021)=63.8</li>
-  <li><i class="fa-li fa fa-check-square"></i>1 for <i>Science Advances</i>. IF(2021)=14.9</li>
-  <li><i class="fa-li fa fa-check-square"></i>1 for <i>Wiley Molecular Ecology</i>. IF(2022)=6.2 </li>
-  <li><i class="fa-li fa fa-check-square"></i>1 for <i>Proceedings of the Royal Society B - Biological Sciences</i>. IF(2022)=5.5 </li>
+  <li><i class="fa-li fa fa-check-square"></i>1 for <i>Science (AAAS)</i>. IF(2021)=56.9, JCR rank (2022) 2/73 (D1)</li>
+  <li><i class="fa-li fa fa-check-square"></i>1 for <i>Science Advances (AAAS)</i>. IF(2021)=13.6, JCR rank (2022) 7/73 (D1)</li>
+  <li><i class="fa-li fa fa-check-square"></i>1 for <i>Molecular Ecology (Wiley)</i>. IF(2022)=4.9, JCR rank (2022) 8/52 (Q1) </li>
+  <li><i class="fa-li fa fa-check-square"></i>1 for <i>Proceedings of the Royal Society B - Biological Sciences</i>. IF(2022)=4.7, JCR rank (2022) 10/52 (Q1)</li>
 </ul>
 
 All stated reviews have been certified by Publons / Web of Science: [D-7235-2018](https://publons.com/researcher/1404866/alicia-l-bruzos/).
