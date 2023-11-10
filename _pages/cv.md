@@ -75,15 +75,15 @@ My scientific impact positions me with a current H index of 7, more than 1,800 c
 
 | No. | Paper link & authors  | Year | Journal & preprint repository | Impact Factor & rank<sup>*</sup> | First authorship | Framework |
 | ------------- | ------------- | ------------- | ------------- | ------------- |------------- |------------- |
-| - | Riachi et al. (includes Bruzos AL)<sup><mark>#</mark></sup> | NA  | Under review in JID | NA | no | Postdoc, UK |
-| - | Santamarina, Bruzos et al.<sup><mark>#</mark></sup> | NA  | Under review in J Invert. Pathol. & [SSRN](https://ssrn.com/abstract=4595284) | NA | no | PhD, Spain |
-| #8 | [Bruzos et al.](https://albruzos.github.io/publication/2023-10-02-PAPER-NatureCancer-EvolutionCockleTransmissibleCancers) | 2023 | Nature Cancer & [BioRxiv](https://www.biorxiv.org/content/10.1101/2022.08.06.503021v1)| 23.177 (2021); D1 | yes | PhD, Spain |
+| - | Riachi M et al. (includes Bruzos AL)<sup><mark>#</mark></sup> | NA  | Under review in JID | NA | no | Postdoc, UK |
+| - | Santamarina M, Bruzos AL et al.<sup><mark>#</mark></sup> | NA  | Under review in J Invert. Pathol. & [SSRN](https://ssrn.com/abstract=4595284) | NA | no | PhD, Spain |
+| #8 | [Bruzos AL et al.](https://albruzos.github.io/publication/2023-10-02-PAPER-NatureCancer-EvolutionCockleTransmissibleCancers) | 2023 | Nature Cancer & [BioRxiv](https://www.biorxiv.org/content/10.1101/2022.08.06.503021v1)| 23.177 (2021); D1 | yes | PhD, Spain |
 | #7 | [Martin SB, Polubothu S, Bruzos AL et al.](https://albruzos.github.io/publication/2023-09-18-PAPER-JID-GeneFusions) | 2023  | JID | 7.590 (2021); D1 | yes | Postdoc, UK |
-| #6 | [Hermida et al. (includes Bruzos AL)](https://albruzos.github.io/publication/2022-10-10-PAPER-SciRep-ColorGWAS) | 2022  | Scientific reports & [BioRxiv](https://www.biorxiv.org/content/10.1101/2022.04.13.488192v1)  | 4.997 (2021); Q1 | no | Collaboration |
+| #6 | [Hermida M et al. (includes Bruzos AL)](https://albruzos.github.io/publication/2022-10-10-PAPER-SciRep-ColorGWAS) | 2022  | Scientific reports & [BioRxiv](https://www.biorxiv.org/content/10.1101/2022.04.13.488192v1)  | 4.997 (2021); Q1 | no | Collaboration |
 | #5 | [García-Souto D, Bruzos AL, Díaz S et al.](https://albruzos.github.io/publication/2022-01-18-PAPER-eLife-ClamsContagiousCancers) | 2022  | Elife & [BioRxiv](https://www.biorxiv.org/content/10.1101/2021.03.10.434714v1) | 8.713 (2021); D1 | yes | PhD, Spain |
-| #4 | [Ricardo et al. (includes Bruzos AL)](https://albruzos.github.io/publication/2022-01-08-PAPER_STOTEN_CockleShellsFingerprints) | 2022  | STOTEN  | 10.753 (2021); D1  | no | Collaboration |
-| #3 | [Álvarez et al. (includes Bruzos AL)](https://albruzos.github.io/publication/2021-10-25-PAPER_NatureCommunications_HeptatitisBintegrations) | 2021  | Nature Communications & [BioRxiv](https://www.biorxiv.org/content/10.1101/2021.04.19.440412v1) | 17.694; D1 | no |  Collaboration |
-| #2 | [Rodríguez-Martín et al. (includes Bruzos AL)](https://albruzos.github.io/publication/2020-02-05-PAPER2_NatureGenetics_PCAWG-retrotransposition) | 2020  | Nature Genetics & [BioRxiv](https://www.biorxiv.org/content/10.1101/179705v3) | 38.333; D1 | no | Master/PhD, Spain |
+| #4 | [Ricardo F et al. (includes Bruzos AL)](https://albruzos.github.io/publication/2022-01-08-PAPER_STOTEN_CockleShellsFingerprints) | 2022  | STOTEN  | 10.753 (2021); D1  | no | Collaboration |
+| #3 | [Álvarez EG et al. (includes Bruzos AL)](https://albruzos.github.io/publication/2021-10-25-PAPER_NatureCommunications_HeptatitisBintegrations) | 2021  | Nature Communications & [BioRxiv](https://www.biorxiv.org/content/10.1101/2021.04.19.440412v1) | 17.694; D1 | no |  Collaboration |
+| #2 | [Rodríguez-Martín B et al. (includes Bruzos AL)](https://albruzos.github.io/publication/2020-02-05-PAPER2_NatureGenetics_PCAWG-retrotransposition) | 2020  | Nature Genetics & [BioRxiv](https://www.biorxiv.org/content/10.1101/179705v3) | 38.333; D1 | no | Master/PhD, Spain |
 | #1 | [PCAWG (includes Bruzos AL)](https://albruzos.github.io/publication/2020-02-05-PAPER1_Nature_PCAWG) | 2020 | Nature | 49.962; D1 | no | Master/PhD, Spain |
 
 <mark><sup>#</sup></mark> PENDING PUBLICATION  
