@@ -6,7 +6,14 @@ date: 2022-01-21
 permalink: /teaching/university-teaching
 ---
 
-**Total:** 112 certified hours, 3 public universities, 5 different courses, 6 years of experience
+### Summary:
+* 125 certified hours
+* 4 public universities
+* 3 different countries (Spain, UK, France) and languages
+* 5 different courses
+* 7 academic years of experience (from 2017 to date)
+
+### More details:
 
 | Academic Year | Course | University | Degree | Students no. | Type | Role | Hours | Language | Country |
 | ------------- | ------------- | ------------- |------------- |------------- |------------- | ------------- | ------------- | ------------- | ------------- |
