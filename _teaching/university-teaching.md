@@ -12,8 +12,9 @@ permalink: /teaching/university-teaching
 * 3 different countries (Spain, UK, France) and languages
 * 5 different courses
 * 7 academic years of experience (from 2017 to date)
+* 1520 hours of teacher training (ongoing, see below)
 
-### More details:
+### Teaching experience details:
 
 | Academic Year | Course | University | Degree | Students no. | Type | Role | Hours | Language | Country |
 | ------------- | ------------- | ------------- |------------- |------------- |------------- | ------------- | ------------- | ------------- | ------------- |
@@ -31,20 +32,20 @@ permalink: /teaching/university-teaching
 
 <img src='/images/Tira_FotosTeaching-noNames_AliciaLBruzos.png'>  
 
-**Lengend**:  
+**Legend**:  
 BSc: Bachelor in Science  
 MBBS: Medicine Bachelor and Bachelor of Surgery  
 
 
 ### Teaching training courses/certificates:
 
-*ongoing: **MSc in University Teaching**. Universidad Europea de Madrid (online), SPAIN. *Goal:* knowing all the didactic-pedagogical, research, innovation and use of technology areas that a university teacher must master. Official title, 60 ECTS. Expected for February 2025.
+*ongoing: **MSc in University Teaching**. Universidad Europea de Madrid (online), SPAIN. *Goal:* knowing all the didactic-pedagogical, research, innovation, and use of technology areas that a university teacher must master. *Hours:* 1500. Official title, 60 ECTS. Expected for February 2025.
 
 * 2023: **Profesor Ayudante Doctor (PAD)**. Agencia Nacional de Evaluación de la Calidad de la Acreditación (ANECA), SPAIN. *Goal:* similar to a non-tenured assistant professor, must hold a PhD, accreditation required.
 
-* 2021: **Research Supervision**. University College London, UK. *Goal:*The course provides information and guidance on UCL regulations and frameworks for research supervision; establishing and maintaining effective working relationships with your supervisees; doctoral skills development requirements and the Research Student Log signposting to further support provided centrally by UCL and locally in faculties and departments.
+* 2021: **Research Supervision**. University College London, UK. *Goal:*The course provides information and guidance on UCL regulations and frameworks for research supervision; establishing and maintaining effective working relationships with your supervisees; doctoral skills development requirements and the Research Student Log signposting to further support provided centrally by UCL and locally in faculties and departments. *Hours:* 4.
 
-* 2017: **Higher Education Lecturing Accreditation (HELA)**. Universidade de Vigo, SPAIN. 16 hours + test (19/04/2017-20/04/2017). *Goal:* qualification to teach in English.
+* 2017: **Higher Education Lecturing Accreditation (HELA)**. Universidade de Vigo, SPAIN. *Hours:* 16 hours + test (19/04/2017-20/04/2017). *Goal:* qualification to teach in English.
   
 
 [Back to CV](https://albruzos.github.io/cv/)
@@ -53,14 +54,25 @@ MBBS: Medicine Bachelor and Bachelor of Surgery
 
 
 <!---
-TABLE IN PLAIN TEXT:
+Text in plain text:
 
-2021/2022. Medical Student-Selected Component. University College of London. MBBS BSc. in Medicine. Hours: 8 (English)
-2020/2021. Genetics II. Universidade de Santiago de Compostela. BSc. in Biotechnology. Hours: 8 (Spanish) 
-2020/2021. Genetics I. Universidade de Santiago de Compostela. BSc. in Biology. Hours: 40 (Spanish) 
-2019/2020. Human Genetics. Universidade de Santiago de Compostela. BSc. in Biology. Hours: 2 (Spanish) 
-2019/2020. Genetics I. Universidade de Santiago de Compostela. BSc. in Biology. Hours: 13 (Spanish) 
-2018/2019. Genetics II. Universidade de Santiago de Compostela. BSc. in Biology. Hours: 16 (Spanish) 
-2017/2018. Genetics II. Universidade de Vigo. BSc. in Biology. Hours: 3 (English) 
+2023/2024	
+* Physiologie du gène à l’organisme (UE SBME19B). Université Caen Normandie, FRANCE. Master Sciences de la Mer. Students no.: 15. Role: lecturer. Type: seminar. Hours: 2 (French)
+* Module 2: core bioinformatics. Universitat Autònoma de Barcelona, SPAIN. Msc. in Bioinformatics. Students no.: 20. Role: lecturer. Type: seminar. Hours: 1 (English)
+2022/2023	
+* Medical Student-Selected Component. University College of London, UK. MBBS BSc. in Medicine. Students no.: 20. Role: lecturer. Type: seminar + practice. Hours: 12 (English)
+* Meet a researcher module. University College London, UK. Faculty of Life Sciences. BSc. in Biological Sciences. Students no.: 18. Role: lecturer. Type: seminars. Hours: 16 (English)
+2021/2022	
+* Medical Student-Selected Component. University College London, UK. MBBS BSc. in Medicine. Students no.: 20. Role: lecturer. Type: seminar + practice Hours: 12 (English)
+2020/2021	
+* Genetics I. Univ. de Santiago de Compostela, SPAIN. BSc. in Biology. Students no.: ~30. Role: lecturer. Type: seminars. Hours: 40 (Spanish)
+* Genetics II. Universidade de Santiago de Compostela, SPAIN. BSc. in Biotechnology. Students no.: ~30. Role: teaching assistant. Type: seminars. Hours: 8 (Spanish)
+2019/2020 
+* Genetics I. Univ. de Santiago de Compostela, SPAIN. BSc. in Biology. Students no.:  ~30. Role: lecturer. Type: seminars. Hours: 13 (Spanish)
+* Human Genetics. Universidade de Santiago de Compostela, SPAIN. BSc. in Biology. Students no.: ~80. Role: lecturer. Type: online seminar. Hours: 2 (Spanish) 
+2018/2019 
+* Genetics II. Univ. de Santiago de Compostela, SPAIN. BSc. in Biology. Students no.: ~30. Role: teaching assistant. Type: lab practice. Hours: 16 (Spanish) 
+2017/2018	
+* Genetics II. Universidade de Vigo, SPAIN. BSc. in Biology. Students no.: ~20. Role: teaching assistant. Type: bioinformatic practice. Hours: 3 (English) 
 
 -->
