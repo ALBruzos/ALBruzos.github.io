@@ -20,9 +20,9 @@ permalink: /teaching/university-teaching
 | ------------- | ------------- | ------------- |------------- |------------- |------------- | ------------- | ------------- | ------------- | ------------- |
 | 2023/2024     | Physiologie du gène à l’organisme (UE SBME19B) | [Université Caen Normandie](https://www.unicaen.fr/) | Master Sciences de la Mer | ~15 | seminar | lecturer | 2 | French | France |
 | 2023/2024     | Core bioinformatics (module 2) | [Universitat Autònoma de Barcelona](https://www.uab.cat/web/estudiar/official-master-s-degrees/general-information/bioinformatics-1096480962610.html?param1=1327908905033) | MSc. in Bioinformatics | ~20 | seminar | lecturer | 1 | English | Spain |
-| 2022/2023     | Medical Student-Selected Component | [University College of London](https://www.ucl.ac.uk/) | Medicine MBBS BSc | 20 | seminar+practice | lecturer | 12 |  English | UK |
+| 2022/2023     | Medical Student-Selected Component | [University College of London](https://www.ucl.ac.uk/) | Medicine MBBS BSc | 20 | seminar + practice | lecturer | 12 |  English | UK |
 | 2022/2023     | Meet a researcher module | [University College of London](https://www.ucl.ac.uk/) | BSc. in Biological Sciences (Faculty of Life Sciences, FLS) | 18 | seminars | lecturer | 16 | English | UK |
-| 2021/2022     | Medical Student-Selected Component | [University College of London](https://www.ucl.ac.uk/) | Medicine MBBS BSc | 20 | seminar+practice | lecturer | 12 | English | UK |
+| 2021/2022     | Medical Student-Selected Component | [University College of London](https://www.ucl.ac.uk/) | Medicine MBBS BSc | 20 | seminar + practice | lecturer | 12 | English | UK |
 | 2020/2021     | Genetics I | [Universidade de Santiago de Compostela](https://www.usc.gal) | BSc. in Biology | ~30 | seminars | lecturer | 40 | Spanish | Spain |
 | 2020/2021     | Genetics II | [Universidade de Santiago de Compostela](https://www.usc.gal) | BSc. in Biotechnology | ~30 | seminars | teaching assistant | 8 | Spanish | Spain |
 | 2019/2020     | Genetics I | [Universidade de Santiago de Compostela](https://www.usc.gal) | BSc. in Biology | ~30 | seminars | lecturer | 13 | Spanish | Spain |
