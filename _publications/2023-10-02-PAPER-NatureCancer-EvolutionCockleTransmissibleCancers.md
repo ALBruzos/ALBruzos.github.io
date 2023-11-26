@@ -10,7 +10,7 @@ citation: 'Bruzos AL, et al. (2023). &quot;Somatic evolution of marine transmiss
 ---
 
 **Complete Citation:**  
-Bruzos AL, Santamarina M, García-Souto D, Díaz S, Rocha S, Zamora J, Lee Y, Viña-Feás A, Quail MA, Otero I, Pequeño A, Temes J, Rodriguez-Castro J, Aramburu L, Vidal A, Villanueva A, Costas D,Rodríguez R, Prieto T, Tomás L, Alvariño P, Alonso J, Cao A, Iglesias D, Carballal MJ, Amaral AM, Balseiro P, Calado R, El Khalfi B, Izagirre U, Montaudouin X, Pade NG, Probert I, Ricardo F, Ruiz P, Skazina M, Smolarz K, Pasantes JJ, Villalba A, Ning Z, Ju YS, Posada D, Demeulemeester J, Baez-Ortega A, Tubio JMC. "Somatic evolution of marine transmissible leukemias in the common cockle, Cerastoderma edule." <i>Nature Cancer</i>, doi: https://doi.org/10.1038/s43018-023-00641-9  
+Bruzos AL, Santamarina M, García-Souto D, Díaz S, Rocha S, Zamora J, Lee Y, Viña-Feás A, Quail MA, Otero I, Pequeño A, Temes J, Rodriguez-Castro J, Aramburu L, Vidal A, Villanueva A, Costas D,Rodríguez R, Prieto T, Tomás L, Alvariño P, Alonso J, Cao A, Iglesias D, Carballal MJ, Amaral AM, Balseiro P, Calado R, El Khalfi B, Izagirre U, Montaudouin X, Pade NG, Probert I, Ricardo F, Ruiz P, Skazina M, Smolarz K, Pasantes JJ, Villalba A, Ning Z, Ju YS, Posada D, Demeulemeester J, Baez-Ortega A, Tubio JMC. "Somatic evolution of marine transmissible leukemias in the common cockle, *Cerastoderma edule*." <i>Nature Cancer</i> **4**, 1575–1591 (2023). doi: [https://doi.org/10.1038/s43018-023-00641-9](https://doi.org/10.1038/s43018-023-00641-9)  
 Previously published on [Biorxiv](https://www.biorxiv.org/content/10.1101/2022.08.06.503021v1).   
 IF(2021) = 23.177  
 
