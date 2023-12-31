@@ -11,11 +11,13 @@ permalink: /teaching/supervision
 
 | Academic Year  | Title | Student | Supervisors | Degree | Type | University | Country | Language |
 | ------------- | ------------- | ------------- |------------- |------------- | ------------- | ------------- | ------------- | ------------- |
-| 2020/2021 | *“Molecular diagnostic of different clonal lineages of transmissible cancer”*<sup>*</sup> | Andrea E. Arias Díaz | Alicia L. Bruzos, Jose M. C. Tubío | BSc. in Biology | Degree Thesis | Universidade de Santiago de Compostela | Spain  | Galician |
-| 2019/2020 | *“Identification of driver mutations in marine transmissible cancers through exome sequencing analysis”* | Iago Otero Coto | Alicia L. Bruzos, Jose M. C. Tubío | MSc. in Bioinformatics | Master Thesis | Universidade da Coruña | Spain | English |
-| 2019/2020 | *“Characterization of a genomic molecular marker of a marine transmissible cancer”* | Ana Copena Soutelo | Alicia L. Bruzos, Jose M. C. Tubío | BSc. in Biology | Degree Thesis | Universidade de Santiago de Compostela | Spain  | Spanish |
+| 2023/2024 | *“Transmission horizontale du cancer chez les espèces bivalves de la côte atlantique française”*<sup>#</sup> | Angele Moulin | Dr Alicia L. Bruzos | MSc. Sciences de la Mer | Master Thesis | Université de Caen Normandie | France | French |
+| 2020/2021 | *“Molecular diagnostic of different clonal lineages of transmissible cancer”*<sup>*</sup> | Andrea E. Arias Díaz | Alicia L Bruzos, Dr Jose MC Tubío | BSc. in Biology | Degree Thesis | Universidade de Santiago de Compostela | Spain  | Galician |
+| 2019/2020 | *“Identification of driver mutations in marine transmissible cancers through exome sequencing analysis”* | Iago Otero Coto | Alicia L Bruzos, Dr Jose MC Tubío | MSc. in Bioinformatics | Master Thesis | Universidade da Coruña | Spain | English |
+| 2019/2020 | *“Characterization of a genomic molecular marker of a marine transmissible cancer”* | Ana Copena Soutelo | Alicia L Bruzos, Dr Jose MC Tubío | BSc. in Biology | Degree Thesis | Universidade de Santiago de Compostela | Spain  | Spanish |
 
 
+<sup>#</sup>Ongoing
 <sup>*</sup>Awarded for linguistic quality by the USC Language Normalization Service in the category of sciences.  
 
 
