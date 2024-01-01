@@ -45,8 +45,9 @@ author_profile: true
 * **Virus y cancer: una pareja peligrosa** (2021). A brief opinion editorial for the regional newspaper *La Voz de Galicia* about viral genome integrations and their role in causing some human cancers (20-Dec-2021, page 11). [Read here](https://albruzos.github.io/files/opinion/20211220-LaVozDeGalicia-VirusyCancer.pdf) or [here](https://www.lavozdegalicia.es/noticia/opinion/2021/12/20/virus-cancer-pareja-peligrosa/0003_202112G20P11991.htm)  
 
   
-<i class="fa fa-book" aria-hidden="true"></i> Popular science articles (11)  
+<i class="fa fa-book" aria-hidden="true"></i> Popular science articles (12)  
 =======
+* **Frontiers for Young Minds** (2023). An article entitled *"Contagious Cancers That Can Spread Between Ocean Organisms"* about general concepts of the biology of these cancers, it was reviewed by 2 young children. [Read Here](https://kids.frontiersin.org/articles/10.3389/frym.2023.1129218)  
 * **Behind the paper - Nature Community** (2023). An article entitled *"Evolutionary Insights into Cockle Transmissible Cancers"* summarizing the main findings of my main PhD publication. [Read Here](https://cancercommunity.nature.com/posts/evolutionary-insights-into-cockle-transmissible-cancers)  
 * **The Conversation** (2023). Article entitled *“El viaje de una célula submarina”* that was finalist in the *Outreach Award in Medicine and Health* (open access news source). [Read Here](https://theconversation.com/el-viaje-submarino-de-la-metastasis-209399)
 * **FEBS blog** (2023). *Nobel laureates mentoring the next generation of scientists: insights from an early-career researcher* published in *FEBS blog* for the network members. [Read Here](https://network.febs.org/posts/nobel-laureates-mentoring-the-next-generation-of-scientists-insights-from-an-early-career-researcher) 
