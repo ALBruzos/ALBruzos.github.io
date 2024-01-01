@@ -75,7 +75,8 @@ Others
 
 | News date | Newspaper or media | Headline and link | 
 |  ---------------- | ---------------- | ---------------- |
-| **2023**-10-02 | ABC | [ Secuencian un extraño cáncer que se propaga por el mar entre los berberechos](https://www.abc.es/ciencia/secuencian-extrano-cancer-propaga-mar-berberechos-20231002173638-nt.html ) |
+| **2023**-12-20 | Gciencia | [Os dez avances da ciencia galega en 2023](https://www.gciencia.com/perspectivas/dez-investigacions-cientificas-galegas-salientables-2023/) |
+| 2023-10-02 | ABC | [ Secuencian un extraño cáncer que se propaga por el mar entre los berberechos](https://www.abc.es/ciencia/secuencian-extrano-cancer-propaga-mar-berberechos-20231002173638-nt.html ) |
 | 2023-10-02 | Cadena Ser | [ Secuencian el genoma de cáncer contagioso entre berberechos, que no afecta a los humanos](https://cadenaser.com/nacional/2023/10/02/secuencian-el-genoma-de-cancer-contagioso-entre-berberechos-que-no-afecta-a-los-humanos-cadena-ser/ ) |
 | 2023-10-02 | Columna Digital | [ Extraño cáncer contagioso en berberechos](https://columnadigital.com/extrano-cancer-contagioso-en-berberechos-ciencia/ ) |
 | 2023-10-02 | Con Salud | [ La genómica desvela la evolución de un cáncer que se transmite a través del agua del mar](https://www.consalud.es/pacientes/genomica-desvela-evolucion-cancer-se-transmite-traves-agua-mar_135164_102.html ) |
