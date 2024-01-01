@@ -56,6 +56,10 @@ Consortia's work can lead us to important conclusions. Throughout my career, I h
 * [Inferring structural variant cancer cell fraction](https://www.nature.com/articles/s41467-020-14351-8) Cmero et al. (2020) *Nature communications*
 * [Divergent mutational processes distinguish hypoxic and normoxic tumours](https://www.nature.com/articles/s41467-019-14052-x) Bhandari et al. (2020) *Nature communications*
 * [Reconstructing evolutionary trajectories of mutation signature activities in cancer using TrackSig](https://www.nature.com/articles/s41467-020-14352-7) Rubanova et al. (2020) *Nature Communications*  
+  
+  
+</u>Copyright Notice</u>  
+The information contained in these directories is made available as a mechanism to ensure timely dissemination of scholarly/technical information on a non-commercial basis. Copyright and all rights therein are maintained by the authors and/or publishers. It is understood that all individuals reading this information will adhere to the terms/constraints invoked by the copyright holders. Publications may not be copied for commercial redistribution, republication, or dissemination without the copyright holders' explicit permission.  
 
 
 <!---
