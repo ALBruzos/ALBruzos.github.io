@@ -35,7 +35,7 @@ BSc: Bachelor in Science
 MBBS: Medicine Bachelor and Bachelor of Surgery  
 
 
-### Teaching training courses/certificates:
+### Teaching training courses and accreditations:
 
 * ongoing: **MSc in University Teaching**. Universidad Europea de Madrid (online), SPAIN. *Goal:* knowing all the didactic-pedagogical, research, innovation, and use of technology areas that a university teacher must master. *Hours:* 1500. Official title, 60 ECTS. Expected for February 2025.
 
