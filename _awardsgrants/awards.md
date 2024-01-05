@@ -1,6 +1,6 @@
 ---
 title: "Awards"
-excerpt: "4 scientific prizes, 5 outreach prizes, 2 literary prizes, 1 drawing prize<br/><img src='/images/Tira_FotosPremios_AliciaLBruzos.png'>"
+excerpt: "16 prizes on different categories (science, outreach, literary and drawing)<br/><img src='/images/Tira_FotosPremios_AliciaLBruzos.png'>"
 collection: awardsgrants
 ---
 
