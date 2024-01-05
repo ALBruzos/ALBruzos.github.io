@@ -180,7 +180,7 @@ Check my [PR clipping](https://albruzos.github.io/media/)
 <sup>**</sup>One thesis was awarded for its linguistic quality.  
 
 <b>TEACHING</b> <i class="fa fa-users" aria-hidden="true"></i>  
-A total of 112 teaching hours in **3 public universities** - two Spanish and one British - where I have taught genetics in different degrees (Biology, Biotechnology, and Medicine). [More details](https://albruzos.github.io/teaching/university-teaching)  
+A total of 125 teaching hours in **4 public universities** - two Spanish, one British, and one French - where I have taught genetics in different degrees (Biology, Biotechnology, and Medicine). [More details](https://albruzos.github.io/teaching/university-teaching)  
 
 <b>SKILLS, COURSES, EXPEDITIONS & CERTIFICATIONS</b> <i class="fa fa-wrench" aria-hidden="true"></i>  
 <ul class="fa-ul">
@@ -204,7 +204,7 @@ Full detailed list can be checked [here](https://albruzos.github.io/skills-certi
 [More details](https://albruzos.github.io/institutional-citizenship/)
 
 <b>PROFESSIONAL MEMBERSHIPS</b> <i class="fa fa-puzzle-piece" aria-hidden="true"></i>  
-I believe in the importance of unions and associations to network and discuss with colleagues. Therefore, I have been and I am a member of different societies worldwide. Unfortunately, my time and money is limited and I cannot contribute as much as I would like. [Check here my past and ongoing memberships](https://albruzos.github.io/institutional-citizenship/)
+I believe in the importance of unions and associations to network and discuss with colleagues. Therefore, I have been and I am a member of different societies worldwide. Unfortunately, my time and money are limited and I cannot contribute as much as I would like. [Check here my past and ongoing memberships](https://albruzos.github.io/institutional-citizenship/)
 <img src='/images/albruzos-memberships.png'>  
 
 ---
