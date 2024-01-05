@@ -18,6 +18,9 @@ redirect_from:
 :   Specialization in Cancer.  
 :   Title of Doctoral Thesis: _"Evolution of bivalve transmissible cancers"_  
 
+**MSc. in Higher Education Teaching**, Universidad Europea, Spain.  
+:   *2023 – ongoing*	  
+
 **MSc. in Bioinformatics**, Universitat Autònoma de Barcelona, Spain.  
 :   *2015 – 2016*	  
 :   Specialization in Genomics.  
@@ -46,7 +49,7 @@ redirect_from:
 
 <i class="fa fa-fw fa-briefcase "></i> Work experience
 =======
-_2023 – ongoing:_	**Postdocoral researcher (MSCA fellow)** at [Université de Caen Normandie](https://www.unicaen.fr/), France.  
+_2023 – ongoing:_	**Postdoctoral researcher (MSCA fellow)** at [Université de Caen Normandie](https://www.unicaen.fr/), France.  
 _2021 – 2023:_ **Research assistant** at [The Francis Crick Institute](https://www.crick.ac.uk/) and [University College of London](https://www.ucl.ac.uk/), United Kingdom.  
 _2016 – 2021:_ **Predoctoral researcher (national predoctoral fellow)** at [Universidade de Santiago de Compostela](https://www.usc.es/gl) and [Universidade de Vigo](https://www.uvigo.gal/en), Spain.  
 
@@ -92,27 +95,16 @@ Find more details [here](https://albruzos.github.io/publications/).
   
 <b>CONFERENCES</b> <i class="fa fa-bullhorn" aria-hidden="true"></i>
 <ul class="fa-ul">
-  <li><i class="fa fa-check-circle" aria-hidden="true"></i>5 invited speaker talks</li>
-  <li><i class="fa fa-check-circle" aria-hidden="true"></i>11 oral communications</li>
-  <li><i class="fa fa-check-circle" aria-hidden="true"></i>13 posters</li>
-  <li><i class="fa fa-check-circle" aria-hidden="true"></i>3 awards </li>
+  <li><i class="fa fa-check-circle" aria-hidden="true"></i>7 invited speaker talks</li>
+  <li><i class="fa fa-check-circle" aria-hidden="true"></i>16 oral communications</li>
+  <li><i class="fa fa-check-circle" aria-hidden="true"></i>20 posters</li>
+  <li><i class="fa fa-check-circle" aria-hidden="true"></i>5 awards (best poster / talk)</li>
 </ul>
 
 A full detailed list can be checked [here](https://albruzos.github.io/talks/)  
 
-<b>OUTREACH</b> <i class="fa fa-users" aria-hidden="true"></i>
-
+<b>OUTREACH</b> <i class="fa fa-users" aria-hidden="true"></i>  
 Every year I commit some time to bring science to society by organizing or joining different activities. [Check here the full list](https://albruzos.github.io/outreach/) and below an infographic and chronological compilation:
-
-*Legend:*
-<i class="fa fa-paint-brush" aria-hidden="true"></i> Initiatives 
-<i class="fa fa-play-circle" aria-hidden="true"></i> Videos and short films
-<i class="fa fa-users" aria-hidden="true"></i> General public talks<br> 
-<i class="fa fa-university" aria-hidden="true"></i> School visits 
-<i class="fa fa-comment" aria-hidden="true"></i> Opinion editorials 
-<i class="fa fa-book" aria-hidden="true"></i> Popular science articles 
-<i class="fa fa-podcast" aria-hidden="true"></i>Podcast 
-{: .notice}
 
 *2023:* 
 <i class="fa fa-book" aria-hidden="true"></i> 
@@ -158,7 +150,17 @@ Every year I commit some time to bring science to society by organizing or joini
 <i class="fa fa-users" aria-hidden="true"></i> 
 <i class="fa fa-book" aria-hidden="true"></i>   
 
-<b>MEDIA</b> <i class="fa fa-users" aria-hidden="true"></i>
+*Legend:*
+<i class="fa fa-paint-brush" aria-hidden="true"></i> Initiatives 
+<i class="fa fa-play-circle" aria-hidden="true"></i> Videos and short films
+<i class="fa fa-users" aria-hidden="true"></i> General public talks<br> 
+<i class="fa fa-university" aria-hidden="true"></i> School visits 
+<i class="fa fa-comment" aria-hidden="true"></i> Opinion editorials 
+<i class="fa fa-book" aria-hidden="true"></i> Popular science articles 
+<i class="fa fa-podcast" aria-hidden="true"></i>Podcast 
+{: .notice}
+
+<b>MEDIA</b> <i class="fa fa-users" aria-hidden="true"></i>  
 Check my [PR clipping](https://albruzos.github.io/media/)  
  
 
