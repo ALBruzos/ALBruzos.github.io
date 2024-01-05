@@ -14,13 +14,14 @@ author_profile: true
 * 2016 – 2018: _Consortium secretariat_. Secretary of the **International Common Cockle Genome Consortium** (ICCGC). Three face-to-face symposiums were organized to address the goals of building a reference genome for the cockle species. 
 
 ### Professional Membership
-* 2021-present.	[Society of Spanish Researchers in the United Kingdom (SRUK/CERU)](https://sruk.org.uk/) (Active member of the [Wom=n Equity & Research Committee](https://sruk.org.uk/teams/womn-equity-research-committee/))
-* 2021-present.	[The Spanish Society for Biochemistry and Molecular Biology (SEBBM)](https://sebbm.es/) (Member; number: 8706; proposing partner [Dr. María Mayán](http://www.inibic.es/portfolio-items/cellcom/)) 
-* 2020-present.	[Confederación Intersindical Galega (CIG)](https://www.cig.gal/) (Member of this labor union in my region of origin) 
+* 2023-present. [Marie Curie Alumni Association (MCAA)](https://www.mariecuriealumni.eu/) (Member)
+* 2023-present. [Sociedad Española de Biología Evolutiva (SESBE)](https://sesbe.org/) (Member)
+* 2021-2023.	[Society of Spanish Researchers in the United Kingdom (SRUK/CERU)](https://sruk.org.uk/) (Active member of the [Wom=n Equity & Research Committee](https://sruk.org.uk/teams/womn-equity-research-committee/))
+* 2021-2024.	[The Spanish Society for Biochemistry and Molecular Biology (SEBBM)](https://sebbm.es/) and [Federation of European Biochemical Societies (FEBS)](https://www.febs.org/) (Member; number: 8706; proposing partner [Dr. María Mayán](http://www.inibic.es/portfolio-items/cellcom/)) 
+* 2020-2022.	[Confederación Intersindical Galega (CIG)](https://www.cig.gal/) (Member of this labor union in my region of origin) 
 * 2020-present.	[InvestiGal](https://investi.gal/) (Member)  
-* 2019-present.	[Asamblea de Investigadoras de Compostela (AIC)](https://asembleadeinvestigadoras.gal/) (Member)  
-* 2019-present.	[European Association for Cancer Research (EACR)](https://www.eacr.org/) (Member and Ambassador; number: 28748) 
-* 2019-present.	[Asociación Española de Investigación sobre el Cáncer (ASEICA)](https://www.aseica.es) (Member; number: 1746)  
+* 2019-2021.	[Asamblea de Investigadoras de Compostela (AIC)](https://asembleadeinvestigadoras.gal/) (Member)  
+* 2019-present.	[European Association for Cancer Research (EACR)](https://www.eacr.org/) (Member and Ambassador; number: 28748) and [Asociación Española de Investigación sobre el Cáncer (ASEICA)](https://www.aseica.es) (Member; number: 1746)  
   
 <img src='/images/albruzos-memberships.png'>  
 
