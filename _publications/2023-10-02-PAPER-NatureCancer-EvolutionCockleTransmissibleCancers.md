@@ -24,7 +24,7 @@ This paper was the work of 7 years studying the genetics of cockle transmissible
 * [Tweetorial Metzger lab](https://twitter.com/themetzgerm/status/1708958093617635434)
 
 **More information:**  
-[Download paper here](https://ALBruzos.github.io/files/papers/2023-10-02-Bruzosetal_NatureCancer_CockleBTNevolution.pdf)
+[Download paper here](https://ALBruzos.github.io/files/papers/2023-10-02-Bruzosetal_NatureCancer_CockleBTNevolution.pdf)  
 <mark>Do not hesitate to reach out to discuss the results.</mark>  
 
 **Authorship:**  
