@@ -6,13 +6,15 @@ excerpt: ''
 date: 2023-10-02
 venue: 'Nature Cancer'
 paperurl: 'https://doi.org/10.1038/s43018-023-00641-9'
-citation: 'Bruzos AL, et al. (2023). &quot;Somatic evolution of marine transmissible leukemias in the common cockle, Cerastoderma edule.&quot; <i>Nature Cancer</i>. doi: https://doi.org/10.1038/s43018-023-00641-9 - IF(2021) = 23.177'
+citation: 'Bruzos AL, et al. (2023). &quot;Somatic evolution of marine transmissible leukemias in the common cockle, Cerastoderma edule.&quot; <i>Nature Cancer</i>: 4, 1575–1591. doi: https://doi.org/10.1038/s43018-023-00641-9 - JIF(2022) = 22.07 - Journal JCR Category (2022) = D1 (11/317)'
 ---
+
+<img src='/files/papers/2023-10-02-Bruzosetal_NatureCancer_CockleBTNevolution.png' /> 
 
 **Complete Citation:**  
 Bruzos AL, Santamarina M, García-Souto D, Díaz S, Rocha S, Zamora J, Lee Y, Viña-Feás A, Quail MA, Otero I, Pequeño A, Temes J, Rodriguez-Castro J, Aramburu L, Vidal A, Villanueva A, Costas D,Rodríguez R, Prieto T, Tomás L, Alvariño P, Alonso J, Cao A, Iglesias D, Carballal MJ, Amaral AM, Balseiro P, Calado R, El Khalfi B, Izagirre U, Montaudouin X, Pade NG, Probert I, Ricardo F, Ruiz P, Skazina M, Smolarz K, Pasantes JJ, Villalba A, Ning Z, Ju YS, Posada D, Demeulemeester J, Baez-Ortega A, Tubio JMC. "Somatic evolution of marine transmissible leukemias in the common cockle, *Cerastoderma edule*." <i>Nature Cancer</i> **4**, 1575–1591 (2023). doi: [https://doi.org/10.1038/s43018-023-00641-9](https://doi.org/10.1038/s43018-023-00641-9)  
 Previously published on [Biorxiv](https://www.biorxiv.org/content/10.1101/2022.08.06.503021v1).   
-IF(2021) = 23.177  
+IF(2022) = 22.07  
 
 **About the paper:**  
 This paper was the work of 7 years studying the genetics of cockle transmissible cancers.  
@@ -21,7 +23,9 @@ This paper was the work of 7 years studying the genetics of cockle transmissible
 * [Tweetorial Tubio lab](https://twitter.com/MobileGenomes/status/1708865647327805674)
 * [Tweetorial Metzger lab](https://twitter.com/themetzgerm/status/1708958093617635434)
 
-<mark>Do not hesitate to reach out to get a pdf copy of the article or discuss the results.</mark>  
+**More information:**  
+[Download paper here](https://ALBruzos.github.io/files/papers/2020-02-05-PAPER_NatureGenetics_PCAWG-retrotransposition.pdf)
+<mark>Do not hesitate to reach out to discuss the results.</mark>  
 
 **Authorship:**  
 Position of AL Bruzos: 1 (first authorship)  
@@ -41,3 +45,7 @@ JCR Category Quartile: Q1 (11/317)
 Received: 22 November 2022  
 Accepted: 23 August 2023  
 Published: 02 October 2023  
+
+**Journal cover:**  
+<img src='/files/papers/2023-10-02-Bruzosetal_NatureCancerCover.png' width="526" height="659" />  
+
