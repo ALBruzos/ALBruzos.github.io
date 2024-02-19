@@ -21,6 +21,9 @@ permalink: /teaching/supervision
 <sup>*</sup>Awarded for linguistic quality by the USC Language Normalization Service in the category of sciences.  
 
 
+## External evaluator of PhD thesis
+* 2024: *"New signaling pathways implicated in resistance to targeted therapy in tumors with alterations of the MAPK pathway"*, doctoral thesis presented by **Amanda Guitián Caamaño** at University of A Coruña. Report issued on February 16th, 2024.
+
 <img src='/images/Tira_FotosTeaching-noNames_AliciaLBruzos.png'>  
 
 
