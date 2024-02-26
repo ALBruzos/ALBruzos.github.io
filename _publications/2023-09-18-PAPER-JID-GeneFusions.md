@@ -6,7 +6,7 @@ excerpt: 'This paper reports mosaic BRAF and RAF fusions as a cause of CMN.'
 date: 2023-09-18
 venue: 'The Journal of Investigative Dermatology'
 paperurl: 'https://doi.org/10.1016/j.jid.2023.06.213'
-citation: 'Martin SB#, Polubothu S#, Bruzos AL# et al. (2023). &quot;Mosaic BRAF fusions are a recurrent cause of congenital melanocytic naevi targetable by MEK inhibition.&quot; <i>The Journal of Investigative Dermatology</i>. doi: 10.1016/j.jid.2023.06.213 - IF(2021) = 7.590 (#equal contribution)'
+citation: 'Martin SB#, Polubothu S#, Bruzos AL# et al. (2023). &quot;Mosaic BRAF fusions are a recurrent cause of congenital melanocytic naevi targetable by MEK inhibition.&quot; <i>The Journal of Investigative Dermatology</i>, 144(3):593-600. doi: 10.1016/j.jid.2023.06.213 - IF(2021) = 7.590 (#equal contribution)'
 ---
 
 
@@ -14,10 +14,10 @@ citation: 'Martin SB#, Polubothu S#, Bruzos AL# et al. (2023). &quot;Mosaic BRAF
 
 
 **Alicia's citation:**  
-Martin SB#, Polubothu S#, Bruzos AL# et al. 2023. "Mosaic BRAF fusions are a recurrent cause of congenital melanocytic naevi targetable by MEK inhibition." <i>The Journal of Investigative Dermatology</i>, doi: 10.1016/j.jid.2023.06.213 (#equal contribution). IF(2021) = 7.590.  
+Martin SB#, Polubothu S#, Bruzos AL# et al. 2023. "Mosaic BRAF fusions are a recurrent cause of congenital melanocytic naevi targetable by MEK inhibition." <i>The Journal of Investigative Dermatology</i>,144(3):593-600. doi: 10.1016/j.jid.2023.06.213 (#equal contribution). IF(2021) = 7.590.  
 
 **All authors citation:**  
-Martin SB#, Polubothu S#, Bruzos AL#, Kelly G, Horswell S, Sauvadet A, Bryant D, Zecchin D, Riachi M, Michailidis F, Sadri A, Muwanga-Nanyonjo N, Lopez-Balboa P, Knöpfel N, Bulstrode N, Pittman A, Yeh I, Kinsler V. (2023) "Mosaic BRAF fusions are a recurrent cause of congenital melanocytic naevi targetable by MEK inhibition." The Journal of Investigative Dermatology, DOI: [10.1016/j.jid.2023.06.213](https://doi.org/10.1016/j.jid.2023.06.213) IF(2021) = 7.590 (#equal contribution)
+Martin SB#, Polubothu S#, Bruzos AL#, Kelly G, Horswell S, Sauvadet A, Bryant D, Zecchin D, Riachi M, Michailidis F, Sadri A, Muwanga-Nanyonjo N, Lopez-Balboa P, Knöpfel N, Bulstrode N, Pittman A, Yeh I, Kinsler V. (2023) "Mosaic BRAF fusions are a recurrent cause of congenital melanocytic naevi targetable by MEK inhibition." The Journal of Investigative Dermatology, 144(3):593-600. DOI: [10.1016/j.jid.2023.06.213](https://doi.org/10.1016/j.jid.2023.06.213) IF(2021) = 7.590 (#equal contribution)
 
 **About the paper:**  
 Here, we studied a subset of 169 children with multiple congenital melanocytic naevi (CMN), that were wild-type for NRAS/BRAF mutations. We revealed and validated recurrent mosaic BRAF fusions and RAF1 fusions that involved the loss of the 5’ regulatory domain of BRAF/RAF1 but preserved the kinase domain. Due to the relation with MAPK hyperactivation, trametinib was tested in vitro and in two patients showing promising results. I was involved in the bioinformatic analysis of mosaic gene fusions during my postdoc in the United Kingdom, this publication does not include my PhD supervisor.  
