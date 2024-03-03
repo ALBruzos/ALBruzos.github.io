@@ -19,7 +19,13 @@ Previously published on [Biorxiv](https://www.biorxiv.org/content/10.1101/2021.0
 IF(2021) = 8.713  
 
 **About the paper:**  
-In this paper we report a new contagious cancer affecting the warty venus clam that was originated in the striped venus clam and it is currently found in the Mediterranean Sea and the Atlantic Ocean.  
+<!---In this paper we report a new contagious cancer affecting the warty venus clam that was originated in the striped venus clam and it is currently found in the Mediterranean Sea and the Atlantic Ocean.---> 
+
+**Scope:** We report a new hemic neoplasia described on clams found on the Mediterranean and Atlantic coasts of Spain with histological, cytogenetic, TEM, and flow cytometry analysis. Furthermore, the genomic study revealed that the cancer originated on the striped clams and then spread to the warty venus clams, so it is a contagion between different species. Genetic analysis suggested a recent emergence of this cancer. Therefore, the fact that cancer is so similar in Atlantic and Mediterranean clams suggests that human activity may have contributed to its spread. 
+**Impact:** These findings not only shed light onto an unknown case of inter-species bivalve contagion but highlight the importance of measures to safeguard our oceans’ health.
+**My contribution:** I was involved in all the experiments and some analyses under the supervision of Dr S Díaz, it was also included as one chapter of my doctoral thesis.
+**Personal importance:** This was my first publication as first-author, in addition, we created a “video abstract” for the general. 
+{: .notice}
 
 Watch a 2-min video [here](https://www.youtube.com/watch?v=faL_ALYuP4I) to find out the main findings of this research, we also have a [Spanish version here](https://www.youtube.com/watch?v=717MLSNLoUY).
 
