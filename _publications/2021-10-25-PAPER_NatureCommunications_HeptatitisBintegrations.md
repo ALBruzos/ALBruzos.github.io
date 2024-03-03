@@ -18,7 +18,12 @@ Álvarez, E. G. et al. (includes Bruzos A.L.). 2021. "Aberrant integration of H
 Álvarez, EG; Demeulemeester, J; Otero, P; Jolly, C; García-Souto, D; Pequeño-Valtierra, A; Zamora, J; Tojo, M; Temes, J; Baez-Ortega, A; Rodriguez-Martin, B; Oitaben, A; **Bruzos, AL**; … Tubio, JMC. 2021. Aberrant integration of Hepatitis B virus DNA promotes major restructuring of human hepatocellular carcinoma genome architecture. Nature Communications, 12:6910. IF(2021) = 17.694. DOI: https://doi.org/10.1038/s41467-021-26805-8   
 
 **About the paper:**  
-Here, we identify and characterize a remarkable mutational mechanism in human hepatocellular carcinoma caused by Hepatitis B virus, by which DNA molecules from the virus are inserted into the tumour genome causing dramatic changes in its configuration, including non-homologous chromosomal fusions and megabase-size telomeric deletions. *I participated in the wet-lab validation of the mechanism.*  
+<!--- Here, we identify and characterize a remarkable mutational mechanism in human hepatocellular carcinoma caused by Hepatitis B virus, by which DNA molecules from the virus are inserted into the tumour genome causing dramatic changes in its configuration, including non-homologous chromosomal fusions and megabase-size telomeric deletions. *I participated in the wet-lab validation of the mechanism.*--->  
+
+**Scope:** we identified and characterized a mutational mechanism in human hepatocellular carcinoma (HCC) caused by Hepatitis B virus (HBV), by which DNA molecules from the virus are inserted into the tumour genome causing genomic rearrangements, including non-homologous chromosomal fusions, dicentric chromosomes, and large telomeric deletions. It was present in at least 8% of HCC tumours, and provided the necessary driver rearrangements for cancer progression, including the loss of crucial tumor suppressor genes. They occur early during liver cancer evolution, with some rearrangements estimated to occur up to two decades before cancer diagnosis. 
+**Impact:** The research underscores the importance of understanding the genomic impact of HBV integration in liver cancer and highlights the clinical implications of early detection of HBV-mediated rearrangements.
+**My contribution:** I participated in the wet-lab validation of the mechanism.
+{: .notice}
 
 **More information:**  
 Visit online version: [doi.org/**10.1038/s41467-021-26805-8**](https://doi.org/10.1038/s41467-021-26805-8)  
