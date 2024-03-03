@@ -20,7 +20,13 @@ Martin SB#, Polubothu S#, Bruzos AL# et al. 2023. "Mosaic BRAF fusions are a rec
 Martin SB#, Polubothu S#, Bruzos AL#, Kelly G, Horswell S, Sauvadet A, Bryant D, Zecchin D, Riachi M, Michailidis F, Sadri A, Muwanga-Nanyonjo N, Lopez-Balboa P, Knöpfel N, Bulstrode N, Pittman A, Yeh I, Kinsler V. (2023) "Mosaic BRAF fusions are a recurrent cause of congenital melanocytic naevi targetable by MEK inhibition." The Journal of Investigative Dermatology, 144(3):593-600. DOI: [10.1016/j.jid.2023.06.213](https://doi.org/10.1016/j.jid.2023.06.213) IF(2021) = 7.590 (#equal contribution)
 
 **About the paper:**  
-Here, we studied a subset of 169 children with multiple congenital melanocytic naevi (CMN), that were wild-type for NRAS/BRAF mutations. We revealed and validated recurrent mosaic BRAF fusions and RAF1 fusions that involved the loss of the 5’ regulatory domain of BRAF/RAF1 but preserved the kinase domain. Due to the relation with MAPK hyperactivation, trametinib was tested in vitro and in two patients showing promising results. I was involved in the bioinformatic analysis of mosaic gene fusions during my postdoc in the United Kingdom, this publication does not include my PhD supervisor.  
+<!---Here, we studied a subset of 169 children with multiple congenital melanocytic naevi (CMN), that were wild-type for NRAS/BRAF mutations. We revealed and validated recurrent mosaic BRAF fusions and RAF1 fusions that involved the loss of the 5’ regulatory domain of BRAF/RAF1 but preserved the kinase domain. Due to the relation with MAPK hyperactivation, trametinib was tested in vitro and in two patients showing promising results. I was involved in the bioinformatic analysis of mosaic gene fusions during my postdoc in the United Kingdom, this publication does not include my PhD supervisor.--->
+
+**Scope:** We studied a subset of 169 children with multiple congenital melanocytic naevi (CMN), that were wild-type for NRAS/BRAF mutations. We revealed and validated recurrent mosaic BRAF fusions and RAF1 fusions that involved the loss of the 5’ regulatory domain of BRAF/RAF1 but preserved the kinase domain. Due to the relation with MAPK hyperactivation, trametinib was tested in vitro and in two patients showing promising results. 
+**Impact:** Previously known recurrent causes of CMN are mosaic heterozygous missense pathogenic variants in NRAS (68% cases) and BRAF (7% cases) with 25% of patients with an unknown cause. This research reveals recurrent mosaic gene fusions as a mechanism and identifies trametinib as a promising treatment option. 
+**My contribution:** I was involved in the bioinformatic analysis of mosaic gene fusions. 
+**Personal importance:** This first-author publication of my postdoc in the United Kingdom marks my independence from my thesis supervisor's guidance.
+{: .notice}
 
 **Authorship:**  
 Position of AL Bruzos: 3  
