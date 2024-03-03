@@ -15,9 +15,10 @@ citation: 'The ICGC/TCGA Pan-Cancer Analysis of Whole Genomes Consortium (includ
 The ICGC/TCGA Pan-Cancer Analysis of Whole Genomes Consortium (includes Bruzos A.L.). 2020. "Pan-Cancer analysis of whole genomes". <i>Nature</i>, 578:82-93. IF = 49.962 (2020).  
 
 **About the paper:**  
+<!---???---> 
 
 **Scope:** The flagship of the ICGC/TCGA Pan-Cancer Analysis of Whole Genomes Consortium that describes the main scientific findings from the analyses of 2,954 cancer whole genomes and their matched normal tissues across 38 tumour types. The study provides insights into the landscape of genetic alterations driving cancer, including both coding and non-coding elements. Key findings include the prevalence of driver mutations in cancer genomes, the occurrence of chromothripsis as an early event in tumor evolution, and the role of abnormal telomere maintenance mechanisms. Additionally, the study explores the influence of germline variants on somatic mutation patterns and identifies new mutational signatures and mechanisms driving cancer development.
-**Impact:** It represents an effort in understanding the genomic landscape of cancer and has far-reaching implications for diagnosis, treatment, and management. By analysing a large cohort of whole cancer genomes, the study uncovers fundamental insights into the genetic mechanisms of cancer evolution.
+**Impact:** It represents an effort to understand the genomic landscape of cancer and has far-reaching implications for diagnosis, treatment, and management. By analysing a large cohort of whole cancer genomes, the study uncovers fundamental insights into the genetic mechanisms of cancer evolution.
 **My contribution:** I did bioinformatic analysis and data visualization of figure 6d of this paper.
 **Personal importance:** This was my first peer-reviewed publication so, it’s an honour that it was published in a high-impact journal and featured on the cover of the issue. 
 {: .notice}
