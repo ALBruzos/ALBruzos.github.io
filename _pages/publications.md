@@ -58,9 +58,8 @@ Consortia's work can lead us to important conclusions. Throughout my career, I h
 * [Reconstructing evolutionary trajectories of mutation signature activities in cancer using TrackSig](https://www.nature.com/articles/s41467-020-14352-7) Rubanova et al. (2020) *Nature Communications*  
   
   
-*Copyright Notice*  
-The information contained in these directories is made available as a mechanism to ensure timely dissemination of scholarly/technical information on a non-commercial basis. Copyright and all rights therein are maintained by the authors and/or publishers. It is understood that all individuals reading this information will adhere to the terms/constraints invoked by the copyright holders. Publications may not be copied for commercial redistribution, republication, or dissemination without the copyright holders' explicit permission.  
-
+*Copyright Notice:* The information contained in these directories is made available as a mechanism to ensure timely dissemination of scholarly/technical information on a non-commercial basis. Copyright and all rights therein are maintained by the authors and/or publishers. It is understood that all individuals reading this information will adhere to the terms/constraints invoked by the copyright holders. Publications may not be copied for commercial redistribution, republication, or dissemination without the copyright holders' explicit permission.  
+{: .notice}
 
 <!---
 Este es invertido pero muy largo:
