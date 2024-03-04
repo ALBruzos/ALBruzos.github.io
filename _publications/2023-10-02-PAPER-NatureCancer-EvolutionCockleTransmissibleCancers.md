@@ -24,6 +24,12 @@ This paper was the work of 7 years studying the genetics of cockle transmissible
 * [Tweetorial Tubio lab](https://twitter.com/MobileGenomes/status/1708865647327805674)
 * [Tweetorial Metzger lab](https://twitter.com/themetzgerm/status/1708958093617635434)
 
+**Scope:** This article describes the main scientific results from the analysis of approximately 500 cockle genomes to understand the evolutionary history of two lineages of leukemia-like cancers transmitted among cockle populations. We discovered extensive genome instability, horizontal transfer of mitochondria, the ontogeny of two cancer lineages, complete genome duplication, co-infections, lineage-specific signatures and much more. 
+**Impact:** This research offers unprecedented insights into marine contagious cancers. Understanding the origins and evolution of cockle transmissible cancers, and how their cells interact with cockle cells and the marine environment, could help protect animal populations while providing insight into how cancers can metastasize on different species and survive for thousands of years as parasites.
+**My contribution:** I was involved in all the experiments, analysis, and discussions that gave rise to this article, in fact, it comprises two chapters of my doctoral thesis.
+**Personal importance:** This is the most important publication of my career so far because it encompasses the results of six years of research. So, it’s an honour that it was published in a high-impact journal that rarely publishes research on non-model species. Even more, this publication was featured on the cover of the issue.
+{: .notice}
+
 **More information:**  
 [Download paper here](https://ALBruzos.github.io/files/papers/2023-10-02-Bruzosetal_NatureCancer_CockleBTNevolution.pdf)  
 <mark>Do not hesitate to reach out to discuss the results.</mark>  
