@@ -9,6 +9,8 @@ paperurl: 'https://doi.org/10.1038/s41598-022-21214-3'
 citation: 'Hermida M et al (includes Bruzos AL). (2022). &quot;The first high-density genetic map of common cockle <i>(Cerastoderma edule)</i> reveals a major QTL controlling shell color variation.&quot; <i>Scientific reports</i>. 12:16971. doi: 10.1038/s41598-022-21214-3 - IF(2021) = 4.996'
 ---
 
+<img src='/files/papers/2022-10-10-PAPER-SciRep-ColorGWAS-screenshot.png' />  
+
 **Alicia's citation:**  
 Hermida, M. et al. (includes Bruzos A.L.). 2022. "The first high-density genetic map of common cockle <i>(Cerastoderma edule)</i> reveals a major QTL controlling shell color variation." <i>Scientific Reports</i>, 12:16971.  IF(2021) = 4.996.
 
