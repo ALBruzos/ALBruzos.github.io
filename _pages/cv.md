@@ -10,7 +10,7 @@ redirect_from:
 {% include toc %}
 
 <img src='/images/1_TiraFotosPhD-AliciaLBruzos.png'>  
-[Download here a PDF version of my CV](https://ALBruzos.github.io/files/CVs/CV_AliciaLBruzos.pdf) 
+<center> Download [here a PDF version of my CV](https://ALBruzos.github.io/files/CVs/CV_AliciaLBruzos.pdf) </center>
 
 <i class="fa fa-graduation-cap" aria-hidden="true"></i> Education
 =======
