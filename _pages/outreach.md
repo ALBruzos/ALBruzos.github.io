@@ -11,7 +11,7 @@ author_profile: true
 > Commitment to public outreach is central in my career and therefore, I am always willing to participate on activities that engage society with the excitement of science. I have even participated in making a children’s coloring book <i class="fa fa-paint-brush" aria-hidden="true"></i> .
 
 
-Scientific fairs (4) <i class="fa fa-shopping-basket" aria-hidden="true"></i> <i class="fa fa-shopping-bag" aria-hidden="true"></i> <i class="fa fa-puzzle-piece" aria-hidden="true"></i> <i class="fa fa-paint-brush" aria-hidden="true"></i> 
+<i class="fa fa-puzzle-piece" aria-hidden="true"></i> Scientific fairs (4) 
 =======
 * **Fête de la Science** (2024). Preparation of a workshop for the two-day open doors (12-13 October 2024) of the marine station of Université de Caen Normandie (Luc-sur-mer, France). [Pictures](https://x.com/BruzosAliciaL/status/1846212389047292322)
 * **For Girls in Science** (2024). Speed-dating with high-school students at the Cité des Sciences (Paris, France). [Pictures](https://x.com/4womeninscience/status/1844793032354242991)
