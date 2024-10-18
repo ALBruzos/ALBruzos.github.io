@@ -10,11 +10,6 @@ author_profile: true
 
 > Commitment to public outreach is central in my career and therefore, I am always willing to participate on activities that engage society with the excitement of science. I have even participated in making a children’s coloring book <i class="fa fa-paint-brush" aria-hidden="true"></i> .
 
-<i class="fa fa-paint-brush" aria-hidden="true"></i> Miscellaneous initiatives (3)
-=======
-* **Escaparates 11F** (2023). The project [Escaparates11F](http://madeinzaragoza.es/blog/escaparates-11f-2023/) is a joint initiative of *"Made in Zaragoza"* and the *11deFebrero* to browse the windows of the most creative stores in the city of Zaragoza (Spain) and discover more than 50 women scientists of all time. [See a picture](https://twitter.com/madeinzaragoza/status/1621883630803877897/photo/1)  
-* **Children’s colouring science book** (2021). The project *Scientists Meet the Artists* joined 12 scientists and 12 illustrators to design a series of drawings for children to colour and learn marine scientific concepts. The book was presented on the *World Oceans Day* (June 8th). [Download the book here](https://albruzos.github.io/files/outreach_2021-ScientistsMeetArtists.pdf), [Watch here the presentation day](https://tv.uvigo.es/video/60e852f1fe8ebc541a176b22) or [See children painting](https://twitter.com/campusdomar/status/1408319520893247488)
-* **Infography for a research association** (2020). Participation in the iniciative _"Que se investiga en Galicia?"_ of [InvestiGal](https://investi.gal/) association. [Visit Here](https://investi.gal/divulgacion/#infografias) [Download Here](https://drive.google.com/uc?export=download&id=1NsMMFnN4FlGWwWOEYlnmfxvamcodAJmc)
 
 Scientific fairs (4) <i class="fa fa-shopping-basket" aria-hidden="true"></i> <i class="fa fa-shopping-bag" aria-hidden="true"></i> <i class="fa fa-puzzle-piece" aria-hidden="true"></i> <i class="fa fa-paint-brush" aria-hidden="true"></i> 
 =======
@@ -27,13 +22,18 @@ Scientific fairs (4) <i class="fa fa-shopping-basket" aria-hidden="true"></i> <i
 <i class="fa fa-play-circle" aria-hidden="true"></i> Videos (6) and <i class="fa fa-podcast" aria-hidden="true"></i> podcasting (2)
 =======
 * **Project promotional film** (2024). The CCMAR research institute during my research stay recorded a promotional video for the funding agency of the AquaExcel TNA grant; my participation involved content edition, recorded statements and laboratory shots. [Watch here](https://www.youtube.com/watch?v=ZDUU6VT1qzE)
-* **School radio** (2023). A school radio project produced by *IES Mata Jove* (Gijón, Spain) used by both students and teachers to learn how to broadcast content and reach the entire local community. [Listen Here: Apple podcast - episode 36](https://podcasts.apple.com/es/podcast/ep-36-mujer-y-ciencia-entrevista-a-alicia-l%C3%B3pez-con/id1555213649?i=1000606561029)
 * **Institutional video** (2022). The Galician initiative ‘Por máis mulleres na ciencia’ consisted on 7 videos recorded to show different roles that women can take in the science of IDIS, from managing or technicians to researchers or leaders. [Watch here](https://youtu.be/npxiCJKXCGo)
 * **3MT video** (2022). The activity #Cuéntame3min is for scientists of all stages and from all STEM areas to record a 3-minute video explaining their research to a non-specialized audience. [Watch here my application](https://www.youtube.com/watch?v=2TYl6BZ-_SA), I was awarded the first place [See here](https://albruzos.github.io/awardsgrants/awards/).  
 * **Research promotional film** (2020). Our regional government financed short films of *outstanding research projects* that were developed in Galicia. [Scuba Cancers](http://www.scubacancers.org/) project in which my doctoral thesis is framed was recorded and I participated with its content preparation and gave a short statement. [Watch here](https://www.youtube.com/watch?v=Ig3-LggH9Rs)
 * **Research promotional short film** (2020). Our research institute (CiMUS) recorded a promotional video with the participation of the authors involved in the *Pan-cancer initiative* when the results were published in high-impact journals; my participation involved content edition, recorded statements and laboratory shots. [Watch here](https://www.youtube.com/watch?v=1fm9kL94xn0)
-* **Research video** (2019). ASEICA PhD video competition. Youth scientists talk about their *research in three minutes*, I reached more than 11,600 views in Twitter. [Watch here](www.twitter.com/BruzosAliciaL/status/1196606566365089792)
-* **Podcasting** (2019). Realization and production team of two episodes of the [CiMUSpodcast](https://www.ivoox.com/podcast-cimus-podcast_sq_f1817120_1.html) that was born with the purpose of getting the research carried out at CiMUS to other researchers, students and people not related to the scientific field. [Episode 1](https://www.ivoox.com/capitulo-1-autismo-audios-mp3_rf_45092632_1.html) - [Episode 2](https://www.ivoox.com/capitulo-2-cancer-audios-mp3_rf_47395915_1.html)   
+* **Research video** (2019). ASEICA PhD video competition. Youth scientists talk about their *research in three minutes*, I reached more than 11,600 views in Twitter. [Watch here](www.twitter.com/BruzosAliciaL/status/1196606566365089792)  
+
+
+<i class="fa fa-paint-brush" aria-hidden="true"></i> Miscellaneous initiatives (3)
+=======
+* **Escaparates 11F** (2023). The project [Escaparates11F](http://madeinzaragoza.es/blog/escaparates-11f-2023/) is a joint initiative of *"Made in Zaragoza"* and the *11deFebrero* to browse the windows of the most creative stores in the city of Zaragoza (Spain) and discover more than 50 women scientists of all time. [See a picture](https://twitter.com/madeinzaragoza/status/1621883630803877897/photo/1)  
+* **Children’s colouring science book** (2021). The project *Scientists Meet the Artists* joined 12 scientists and 12 illustrators to design a series of drawings for children to colour and learn marine scientific concepts. The book was presented on the *World Oceans Day* (June 8th). [Download the book here](https://albruzos.github.io/files/outreach_2021-ScientistsMeetArtists.pdf), [Watch here the presentation day](https://tv.uvigo.es/video/60e852f1fe8ebc541a176b22) or [See children painting](https://twitter.com/campusdomar/status/1408319520893247488)
+* **Infography for a research association** (2020). Participation in the iniciative _"Que se investiga en Galicia?"_ of [InvestiGal](https://investi.gal/) association. [Visit Here](https://investi.gal/divulgacion/#infografias) [Download Here](https://drive.google.com/uc?export=download&id=1NsMMFnN4FlGWwWOEYlnmfxvamcodAJmc)
 
 
 <i class="fa fa-users" aria-hidden="true"></i> General public talks (8) 
@@ -141,6 +141,12 @@ School’s networking event for Year 9 female students. Topic: women in STEM.
 9 classes aged 8-10. Topic: International DNA Day. (2019). *Monitor* of activities for pupils aged 8-10 organized for 9 primary-school classes in the *International DNA Day* (Colegio Compañía de María, Santiago de Compostela, Spain). [Picture Here](https://twitter.com/BruzosAliciaL/status/1121533459720286209)
 {: .notice}
 
+
+<i class="fa fa-podcast" aria-hidden="true"></i> Podcasting (2)
+=======
+* **School radio** (2023). A school radio project produced by *IES Mata Jove* (Gijón, Spain) used by both students and teachers to learn how to broadcast content and reach the entire local community. [Listen Here: Apple podcast - episode 36](https://podcasts.apple.com/es/podcast/ep-36-mujer-y-ciencia-entrevista-a-alicia-l%C3%B3pez-con/id1555213649?i=1000606561029)
+* **Podcasting** (2019). Realization and production team of two episodes of the [CiMUSpodcast](https://www.ivoox.com/podcast-cimus-podcast_sq_f1817120_1.html) that was born with the purpose of getting the research carried out at CiMUS to other researchers, students and people not related to the scientific field. [Episode 1](https://www.ivoox.com/capitulo-1-autismo-audios-mp3_rf_45092632_1.html) - [Episode 2](https://www.ivoox.com/capitulo-2-cancer-audios-mp3_rf_47395915_1.html)
+  
 <img src='/images/Tira_FotosOutreach_AliciaLBruzos.png'> 
 
 [Back to CV](https://albruzos.github.io/cv/)
