@@ -10,26 +10,37 @@ author_profile: true
 
 > Commitment to public outreach is central in my career and therefore, I am always willing to participate on activities that engage society with the excitement of science. I have even participated in making a children’s coloring book <i class="fa fa-paint-brush" aria-hidden="true"></i> .
 
-<i class="fa fa-paint-brush" aria-hidden="true"></i> Miscellaneous initiatives (4)
+<i class="fa fa-paint-brush" aria-hidden="true"></i> Miscellaneous initiatives (3)
 =======
 * **Escaparates 11F** (2023). The project [Escaparates11F](http://madeinzaragoza.es/blog/escaparates-11f-2023/) is a joint initiative of *"Made in Zaragoza"* and the *11deFebrero* to browse the windows of the most creative stores in the city of Zaragoza (Spain) and discover more than 50 women scientists of all time. [See a picture](https://twitter.com/madeinzaragoza/status/1621883630803877897/photo/1)  
 * **Children’s colouring science book** (2021). The project *Scientists Meet the Artists* joined 12 scientists and 12 illustrators to design a series of drawings for children to colour and learn marine scientific concepts. The book was presented on the *World Oceans Day* (June 8th). [Download the book here](https://albruzos.github.io/files/outreach_2021-ScientistsMeetArtists.pdf), [Watch here the presentation day](https://tv.uvigo.es/video/60e852f1fe8ebc541a176b22) or [See children painting](https://twitter.com/campusdomar/status/1408319520893247488)
 * **Infography for a research association** (2020). Participation in the iniciative _"Que se investiga en Galicia?"_ of [InvestiGal](https://investi.gal/) association. [Visit Here](https://investi.gal/divulgacion/#infografias) [Download Here](https://drive.google.com/uc?export=download&id=1NsMMFnN4FlGWwWOEYlnmfxvamcodAJmc)
+
+<i class="fa fa-paint-brush" aria-hidden="true"></i> Scientific fairs (4)
+=======
+* **Fête de la Science** (2024). Preparation of a workshop for the two-day open doors (12-13 October 2024) of the marine station of Université de Caen Normandie (Luc-sur-mer, France). [Pictures](https://x.com/BruzosAliciaL/status/1846212389047292322)
+* **For Girls in Science** (2024). Speed-dating with high-school students at the Cité des Sciences (Paris, France). [Pictures](https://x.com/4womeninscience/status/1844793032354242991)
+* **Cullerciencia** (2023). A 20-min talk for the attendees of the fair. [Watch here](https://www.youtube.com/watch?app=desktop&v=t11IrQas_WM)
 * **Open doors day** (2019). Participation as an *instructor* in workshops, conferences and debates for kids and adults in the event Ciencia Sigular of CiMUS (Santiago de Compostela, Spain).
 
-<i class="fa fa-play-circle" aria-hidden="true"></i> Videos (5) and <i class="fa fa-podcast" aria-hidden="true"></i> podcasting (2)
+
+<i class="fa fa-play-circle" aria-hidden="true"></i> Videos (6) and <i class="fa fa-podcast" aria-hidden="true"></i> podcasting (2)
 =======
+* **Project promotional film** (2024). The CCMAR research institute during my research stay recorded a promotional video for the funding agency of the AquaExcel TNA grant; my participation involved content edition, recorded statements and laboratory shots. [Watch here](https://www.youtube.com/watch?v=ZDUU6VT1qzE)
 * **School radio** (2023). A school radio project produced by *IES Mata Jove* (Gijón, Spain) used by both students and teachers to learn how to broadcast content and reach the entire local community. [Listen Here: Apple podcast - episode 36](https://podcasts.apple.com/es/podcast/ep-36-mujer-y-ciencia-entrevista-a-alicia-l%C3%B3pez-con/id1555213649?i=1000606561029)
 * **Institutional video** (2022). The Galician initiative ‘Por máis mulleres na ciencia’ consisted on 7 videos recorded to show different roles that women can take in the science of IDIS, from managing or technicians to researchers or leaders. [Watch here](https://youtu.be/npxiCJKXCGo)
 * **3MT video** (2022). The activity #Cuéntame3min is for scientists of all stages and from all STEM areas to record a 3-minute video explaining their research to a non-specialized audience. [Watch here my application](https://www.youtube.com/watch?v=2TYl6BZ-_SA), I was awarded the first place [See here](https://albruzos.github.io/awardsgrants/awards/).  
-* **Research promotional film** (2020). Our regional government financed short films of *outstanding research projects* that were developed in Galicia. [Scuba Cancers](http://www.scubacancers.org/) project in which my doctoral thesis is framed was recorded and I participated with its content preparation and giving a short statement. [Watch here](https://www.youtube.com/watch?v=Ig3-LggH9Rs)
-* **Research promotional short film** (2020). Our research institute (CiMUS) recorded a promotional video with the participation of the authors involved in the *Pan-cancer initiative* when the results were published in high impact journals; my participation involved content edition, recorded statements and laboratory shots. [Watch here](https://www.youtube.com/watch?v=1fm9kL94xn0)
+* **Research promotional film** (2020). Our regional government financed short films of *outstanding research projects* that were developed in Galicia. [Scuba Cancers](http://www.scubacancers.org/) project in which my doctoral thesis is framed was recorded and I participated with its content preparation and gave a short statement. [Watch here](https://www.youtube.com/watch?v=Ig3-LggH9Rs)
+* **Research promotional short film** (2020). Our research institute (CiMUS) recorded a promotional video with the participation of the authors involved in the *Pan-cancer initiative* when the results were published in high-impact journals; my participation involved content edition, recorded statements and laboratory shots. [Watch here](https://www.youtube.com/watch?v=1fm9kL94xn0)
 * **Research video** (2019). ASEICA PhD video competition. Youth scientists talk about their *research in three minutes*, I reached more than 11,600 views in Twitter. [Watch here](www.twitter.com/BruzosAliciaL/status/1196606566365089792)
 * **Podcasting** (2019). Realization and production team of two episodes of the [CiMUSpodcast](https://www.ivoox.com/podcast-cimus-podcast_sq_f1817120_1.html) that was born with the purpose of getting the research carried out at CiMUS to other researchers, students and people not related to the scientific field. [Episode 1](https://www.ivoox.com/capitulo-1-autismo-audios-mp3_rf_45092632_1.html) - [Episode 2](https://www.ivoox.com/capitulo-2-cancer-audios-mp3_rf_47395915_1.html)   
 
 
-<i class="fa fa-users" aria-hidden="true"></i> General public talks (6) 
+<i class="fa fa-users" aria-hidden="true"></i> General public talks (8) 
 =======
+* **Fête de la Science** (2024). 11 October 2024. I gave the talk *“Le voyage marin d'une cellule cancéreuse”* at Caen, France. [Advertisement](https://www.fetedelascience.fr/le-voyage-marin-d-une-cellule-cancereuse) and [Pictures](https://x.com/BruzosAliciaL/status/1846212389047292322)
+*  **Pint of Science Festival - France** (2024). 22-24 May 2022. I gave the talk *“El viaje submarino de una célula de cáncer”* at Bar la Olímpica, A Coruña, Spain. [Advertisement](https://pintofscience.es/event/el-viaje-submarino-de-una-celula-de-cancer)
+[Video](https://x.com/BruzosAliciaL/status/1790136788213793139) and [Picture](https://x.com/BruzosAliciaL/status/1790138013231579461)
 * **Pint of Science Festival - Spain** (2023). 22-24 May 2022. I gave the talk *“El viaje submarino de una célula de cáncer”* at Bar la Olímpica, A Coruña, Spain. [Advertisement](https://pintofscience.es/event/el-viaje-submarino-de-una-celula-de-cancer)
 * **Young Marine Biologist Club** (2023). A two-parts talk covering [science](https://mymba.mba.ac.uk/resource/young-marine-biologist-club-the-underwater-journey-of-cancer-metastasis.html) and [career advice](https://mymba.mba.ac.uk/resource/young-marine-biologist-club-marine-cancer-career-advice.html) for young members of the [*Marine Biological Association*](https://www.mba.ac.uk/). [Advertisement](Young Marine Biologist Club)
 * **Falling Walls Lab** (2022). Falling Walls is an international pitch competition about science, business, politics, arts and society. I was finalist in the Spanish national competition with the talk *“Breaking the Walls of Cancer Metastasis”*. [Watch here](https://youtu.be/FkpKAjYiPqE)
