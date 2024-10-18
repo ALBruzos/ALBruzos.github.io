@@ -19,7 +19,7 @@ author_profile: true
 * **Open doors day** (2019). Participation as an *instructor* in workshops, conferences and debates for kids and adults in the event Ciencia Sigular of CiMUS (Santiago de Compostela, Spain).
 
 
-<i class="fa fa-play-circle" aria-hidden="true"></i> Videos (6) and <i class="fa fa-podcast" aria-hidden="true"></i> podcasting (2)
+<i class="fa fa-play-circle" aria-hidden="true"></i> Videos (6) 
 =======
 * **Project promotional film** (2024). The CCMAR research institute during my research stay recorded a promotional video for the funding agency of the AquaExcel TNA grant; my participation involved content edition, recorded statements and laboratory shots. [Watch here](https://www.youtube.com/watch?v=ZDUU6VT1qzE)
 * **Institutional video** (2022). The Galician initiative ‘Por máis mulleres na ciencia’ consisted on 7 videos recorded to show different roles that women can take in the science of IDIS, from managing or technicians to researchers or leaders. [Watch here](https://youtu.be/npxiCJKXCGo)
