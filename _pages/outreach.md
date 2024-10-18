@@ -16,7 +16,7 @@ author_profile: true
 * **Children’s colouring science book** (2021). The project *Scientists Meet the Artists* joined 12 scientists and 12 illustrators to design a series of drawings for children to colour and learn marine scientific concepts. The book was presented on the *World Oceans Day* (June 8th). [Download the book here](https://albruzos.github.io/files/outreach_2021-ScientistsMeetArtists.pdf), [Watch here the presentation day](https://tv.uvigo.es/video/60e852f1fe8ebc541a176b22) or [See children painting](https://twitter.com/campusdomar/status/1408319520893247488)
 * **Infography for a research association** (2020). Participation in the iniciative _"Que se investiga en Galicia?"_ of [InvestiGal](https://investi.gal/) association. [Visit Here](https://investi.gal/divulgacion/#infografias) [Download Here](https://drive.google.com/uc?export=download&id=1NsMMFnN4FlGWwWOEYlnmfxvamcodAJmc)
 
-<i class="fa fa-paint-brush" aria-hidden="true"></i> Scientific fairs (4)
+Scientific fairs (4) <i class="fa fa-shopping-basket" aria-hidden="true"></i> <i class="fa fa-shopping-bag" aria-hidden="true"></i> <i class="fa fa-puzzle-piece" aria-hidden="true"></i> <i class="fa fa-paint-brush" aria-hidden="true"></i> 
 =======
 * **Fête de la Science** (2024). Preparation of a workshop for the two-day open doors (12-13 October 2024) of the marine station of Université de Caen Normandie (Luc-sur-mer, France). [Pictures](https://x.com/BruzosAliciaL/status/1846212389047292322)
 * **For Girls in Science** (2024). Speed-dating with high-school students at the Cité des Sciences (Paris, France). [Pictures](https://x.com/4womeninscience/status/1844793032354242991)
