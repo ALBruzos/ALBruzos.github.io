@@ -77,10 +77,10 @@ My scientific impact positions me with a current H index of 7, more than 1,800 c
 
 <b>PUBLICATIONS</b> <i class="fa fa-fw fa-paste"></i>
 
-| No. | Paper link & authors  | Year | Journal & preprint repository | Impact Factor & rank<sup>*</sup> | First authorship | Framework |
+| No. | Paper link & authors  | Year | Journal & preprint repository | Impact Factor & rank<sup>*</sup> | First authorship or corresponding | Framework |
 | ------------- | ------------- | ------------- | ------------- | ------------- |------------- |------------- |
 | - | Riachi M et al. (includes Bruzos AL)<sup><mark>#</mark></sup> | NA  | Under review in JID | NA | no | Postdoc, UK |
-| #9 | Santamarina M, Bruzos AL et al.<sup><mark>#</mark></sup> | NA  | J Invert. Pathol. & [SSRN](https://ssrn.com/abstract=4595284) | NA | no | PhD, Spain |
+| #9 | [Santamarina M, Bruzos AL et al.](https://albruzos.github.io/publication/2024-11-08_PAPER_JInvertebrPathology_DiagnosticPCR-CedBTN) | 2024 | J Invert. Pathol. & [SSRN](https://ssrn.com/abstract=4595284) | 3.6 (2023); Q1 | yes | PhD, Spain |
 | #8 | [Bruzos AL et al.](https://albruzos.github.io/publication/2023-10-02-PAPER-NatureCancer-EvolutionCockleTransmissibleCancers) | 2023 | Nature Cancer & [BioRxiv](https://www.biorxiv.org/content/10.1101/2022.08.06.503021v1)| 23.177 (2021); D1 | yes | PhD, Spain |
 | #7 | [Martin SB, Polubothu S, Bruzos AL et al.](https://albruzos.github.io/publication/2023-09-18-PAPER-JID-GeneFusions) | 2023  | JID | 7.590 (2021); D1 | yes | Postdoc, UK |
 | #6 | [Hermida M et al. (includes Bruzos AL)](https://albruzos.github.io/publication/2022-10-10-PAPER-SciRep-ColorGWAS) | 2022  | Scientific reports & [BioRxiv](https://www.biorxiv.org/content/10.1101/2022.04.13.488192v1)  | 4.997 (2021); Q1 | no | Collaboration |
