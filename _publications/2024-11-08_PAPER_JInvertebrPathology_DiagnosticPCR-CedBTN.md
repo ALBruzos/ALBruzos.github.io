@@ -25,6 +25,10 @@ Santamarina M#, Bruzos AL#*, Pequeño A, Rodríguez-Castro J, Díaz S*, Tubio JM
 **Scope:** We developed a simple PCR-based diagnostic assay to identify and distinguish two transmissible cancer lineages in cockles (CedBTN1 and CedBTN2) by amplifying DNA across two tumor-specific deletions. The assay showed high sensitivity and specificity in testing 88 samples. This fast, cost-effective, and easy-to-use method enables reliable disease monitoring and detection of new affected areas, providing all laboratories with an accessible tool. **My contribution:** I am a first-author because I contributed to project design, I mentored a bachelor student that performed initial work, I collected and processed some samples, I performed bioinformatic analysis, I prepared figures and I drafted some sections of the article.
 {: .notice}
 
+**More information:**  
+[Download paper here](https://ALBruzos.github.io/files/papers/2024-11-08_PAPER_JInvertebrPathology_DiagnosticPCR-CedBTN.pdf)  
+Available as a pre-print at [SSRN](https://ssrn.com/abstract=4595284): [doi.org/10.2139/ssrn.4595284](http://dx.doi.org/10.2139/ssrn.4595284)
+
 **Authorship:**  
 Position of AL Bruzos: 2  
 Total number of authors: 6  
