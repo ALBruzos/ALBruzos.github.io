@@ -1,5 +1,5 @@
 ---
-title: "Mosaic BRAF fusions are a recurrent cause of congenital melanocytic naevi targetable by MEK inhibition"
+title: "Novel PCR assay for the identification of two transmissible cancers in Cerastoderma edule."
 collection: publications
 permalink: /publication/2024-11-08_PAPER_JInvertebrPathology_DiagnosticPCR-CedBTN
 excerpt: 'This paper we developed a simple PCR-based diagnostic assay to identify and distinguish two transmissible cancer lineages in cockles by amplifying DNA across two tumor-specific deletions.'
