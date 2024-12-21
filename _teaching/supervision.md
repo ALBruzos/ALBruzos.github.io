@@ -23,7 +23,8 @@ permalink: /teaching/supervision
 
 
 ## External evaluator of PhD thesis
-* 2024: *"New signaling pathways implicated in resistance to targeted therapy in tumors with alterations of the MAPK pathway"*, doctoral thesis presented by **Amanda Guitián Caamaño** at University of A Coruña. Report issued on February 16th, 2024.
+* 2024: *"Evolution and Genomic Heterogeneity in Solid Tumors"*, doctoral thesis presented by **Laura Tomás** at University of Vigo (Spain) Report issued on August 23rd, 2024.
+* 2024: *"New signaling pathways implicated in resistance to targeted therapy in tumors with alterations of the MAPK pathway"*, doctoral thesis presented by **Amanda Guitián Caamaño** at University of A Coruña (Spain). Report issued on February 16th, 2024.
 
 <img src='/images/Tira_FotosTeaching-noNames_AliciaLBruzos.png'>  
 
