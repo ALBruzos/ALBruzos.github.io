@@ -7,17 +7,19 @@ permalink: /teaching/university-teaching
 ---
 
 ### Summary:
-* 125 certified hours
-* 4 public universities
-* 3 different countries (Spain, UK, France) and languages
-* 5 different courses
-* 7 academic years of experience (from 2017 to date)
+* 132,5 certified hours
+* 5 public universities
+* 4 different countries (Spain, UK, France, Chile) and languages
+* 7 different courses
+* 8 academic years of experience (from 2017 to date)
 * 1520 hours of teacher training (ongoing, see below)
 
 ### Teaching experience details:
 
 | Academic Year | Course | University | Degree | Students no. | Type (My role) | Hours | Language | Country |
 | ------------- | ------------- | ------------- |------------- |------------- | ------------- | ------------- | ------------- | ------------- |
+| 2024     | Sistemas acuáticos ([see post](https://www.instagram.com/p/DCkKiLhSSq-/?img_index=1)) | [Universidad de O'Higgins](https://www.uoh.cl/) | Licenciatura en Ciencias Ambientales (título profesional Ingeniero Ambiental) | 10 | seminar + practice (lecturer) | 4.5 | Spanish | Chile |
+| 2024     | Cambio climático y presiones antrópicas | [Universidad de O'Higgins](https://www.uoh.cl/) | Magíster en Ciencias Ambientales y de la Tierra | 8 | seminar (lecturer) | 3 | Spanish | Chile |
 | 2023/2024     | Physiologie du gène à l’organisme (UE SBME19B) | [Université Caen Normandie](https://www.unicaen.fr/) | Master Sciences de la Mer | ~15 | seminar (lecturer) | 2 | French | France |
 | 2023/2024     | Core bioinformatics (module 2) | [Universitat Autònoma de Barcelona](https://www.uab.cat/web/estudiar/official-master-s-degrees/general-information/bioinformatics-1096480962610.html?param1=1327908905033) | MSc. in Bioinformatics | ~20 | seminar (lecturer) | 1 | English | Spain |
 | 2022/2023     | Medical Student-Selected Component | [University College of London](https://www.ucl.ac.uk/) | Medicine MBBS BSc | 20 | seminar + practice (lecturer) | 12 |  English | UK |
