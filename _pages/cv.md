@@ -73,7 +73,7 @@ _2016 – 2021:_ **Predoctoral researcher (national predoctoral fellow)** at [Un
 | ------------- | ------------- | ------------- | 
 | [0000-0003-4362-545X](https://orcid.org/0000-0003-4362-545X) | [D-7235-2018](https://publons.com/researcher/1404866/alicia-l-bruzos/) | [57214752778](https://www.scopus.com/authid/detail.uri?authorId=57214752778) |
 
-My scientific impact positions me with a current H index of 7, more than 1,800 citations ([Google Scholar](https://scholar.google.com/citations?user=YyKE8DIAAAAJ)), and several Q1 JCR publications that can be seen in the following table:  
+My scientific impact positions me with a minimum H-index of 5, more than 1,800 citations, and several Q1 JCR publications that can be seen in the following tables:  
 
 | Source | H-index | Date of access | Citations no. |
 | ------------- | ------------- | ------------- | ------------- | 
@@ -81,7 +81,6 @@ My scientific impact positions me with a current H index of 7, more than 1,800 c
 | [WOS](https://www.webofscience.com/wos/author/record/D-7235-2018)| 5 | 22/12/2024 | 1,842 |
 | [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57214752778)| 22 | 22/12/2024 | 4,697 |
 | [ResearchGate](https://www.researchgate.net/profile/Alicia-Bruzos)| 11 | 22/12/2024 | 2,695 |
-
 
 <b>PUBLICATIONS</b> <i class="fa fa-fw fa-paste"></i>
 
