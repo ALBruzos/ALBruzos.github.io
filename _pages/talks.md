@@ -21,13 +21,13 @@ author_profile: true
 
 <i class="fa fa-bell" aria-hidden="true"></i> Invited speaker (4)
 =======
-[4] <b>International Symposium on Coastal Ecological Health</b>: <a href="https://www.uoh.cl/simposio-internacional-dio-termino-a-proyecto-fovi-de-investigadora-uoh/" target="_blank">(Instituto de Ciencias Agroalimentarias, Animales y Ambientales (ICA3))</a>. San Fernando, Chile (25/11/2024 - 25/11/2024). Oral communication: <i>La historia evolutiva de los cánceres contagiosos de berberechos y almejas</i>. <b>Bruzos, A.L.</b><br><br>
+[4] <b>International Symposium on Coastal Ecological Health</b>: <a href="https://www.uoh.cl/simposio-internacional-dio-termino-a-proyecto-fovi-de-investigadora-uoh/" target="_blank">(Instituto de Ciencias Agroalimentarias, Animales y Ambientales (ICA3))</a>. San Fernando, Chile (25/11/2024 - 25/11/2024). Oral communication: <i>La historia evolutiva de los cánceres contagiosos de berberechos y almejas</i>. <b>Bruzos, A.L.</b><br>
 
-[3] <b>Bivalve Transmissible Neoplasia Workshop</b>: <a href="https://lienss.univ-larochelle.fr/Bivalve-Transmissible-Neoplasia-Workshop" target="_blank">(LIttoral ENvironnement et Sociétés)</a>. La Rochelle, France (14/11/2024 - 15/11/2024). Oral communication: <i>Evolution of bivalve transmissible cancers</i>. <b>Bruzos, A.L.</b><br><br>
+[3] <b>Bivalve Transmissible Neoplasia Workshop</b>: <a href="https://lienss.univ-larochelle.fr/Bivalve-Transmissible-Neoplasia-Workshop" target="_blank">(LIttoral ENvironnement et Sociétés)</a>. La Rochelle, France (14/11/2024 - 15/11/2024). Oral communication: <i>Evolution of bivalve transmissible cancers</i>. <b>Bruzos, A.L.</b><br>
 
-[2] <b>2nd International Ocean Health Symposium</b>: <a href="https://events.geomar.de/event/2/page/7-about-the-speakers" target="_blank">(GEOMAR Helmholtz Centre for Ocean Research Kiel & Kiel University)</a>. Kiel, Germany (29/08/2022 - 31/08/2022). Oral communication: <i>Clonal evolution of a marine transmissible cancer that colonizes the Atlantic coast of Europe</i>. <b>Bruzos, A.L.</b>; Díaz, S; Santamarina, M; Rocha, S; Otero, I; Zamora, J; García-Souto, D; Pequeño, A; Rodríguez-Castro, J; Temes, J; Posada, D; Tubío, J<br><br>
+[2] <b>2nd International Ocean Health Symposium</b>: <a href="https://events.geomar.de/event/2/page/7-about-the-speakers" target="_blank">(GEOMAR Helmholtz Centre for Ocean Research Kiel & Kiel University)</a>. Kiel, Germany (29/08/2022 - 31/08/2022). Oral communication: <i>Clonal evolution of a marine transmissible cancer that colonizes the Atlantic coast of Europe</i>. <b>Bruzos, A.L.</b>; Díaz, S; Santamarina, M; Rocha, S; Otero, I; Zamora, J; García-Souto, D; Pequeño, A; Rodríguez-Castro, J; Temes, J; Posada, D; Tubío, J<br>
 
-[1] <b>Assemblée Générale EMBRC-France</b>: <a href="-" target="_blank">(European Marine Biological Resource Centre (EMBRC-France))</a>. Banyuls-sur-mer, France (16/05/2017 - 18/05/2017). Oral communication: <i>Finding the genetic causes of contagious metastases under the sea</i>. <b>Bruzos, A.L.</b>; Tubío, J<br><br>
+[1] <b>Assemblée Générale EMBRC-France</b>: <a href="-" target="_blank">(European Marine Biological Resource Centre (EMBRC-France))</a>. Banyuls-sur-mer, France (16/05/2017 - 18/05/2017). Oral communication: <i>Finding the genetic causes of contagious metastases under the sea</i>. <b>Bruzos, A.L.</b>; Tubío, J<br>
 
 
 
