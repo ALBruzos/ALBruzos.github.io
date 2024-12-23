@@ -103,9 +103,11 @@ Find more details [here](https://albruzos.github.io/publications/).
   
 <b>CONFERENCES</b> <i class="fa fa-bullhorn" aria-hidden="true"></i>
 <ul class="fa-ul">
-  <li><i class="fa fa-check-circle" aria-hidden="true"></i>7 invited speaker talks</li>
-  <li><i class="fa fa-check-circle" aria-hidden="true"></i>16 oral communications</li>
-  <li><i class="fa fa-check-circle" aria-hidden="true"></i>20 posters</li>
+  <li><i class="fa fa-check-circle" aria-hidden="true"></i>4 invited speaker talks</li>
+  <li><i class="fa fa-check-circle" aria-hidden="true"></i>20 oral communications</li>
+  <li><i class="fa fa-check-circle" aria-hidden="true"></i>26 posters</li>
+  <li>8 invited seminars</li>
+  <li>3 events organized</li>
   <li><i class="fa fa-check-circle" aria-hidden="true"></i>5 awards (best poster / talk)</li>
 </ul>
 
