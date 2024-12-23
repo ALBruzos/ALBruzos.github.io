@@ -142,7 +142,7 @@ Organization
 =======
 ...
 
-Seminars
+Invited Seminars
 =======
 ...
 
