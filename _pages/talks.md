@@ -135,11 +135,7 @@ author_profile: true
 [1] <u>Rodríguez-Martín, B.</u>; <b><u>Bruzos, A.L.</u></b>; Campbell, P.J.; <u>Tubío, J.M.C.</u> (2016, June). <i>Pan-cancer patterns of somatic retrotransposition</i>. Poster at <b>III Edición de Investigación Biomédica del Cáncer en Galicia</b>. A Coruña (Spain). <br><br>  
 
 
-<i class="fa fa-users" aria-hidden="true"></i> Attendance
-=======
-<b>72nd Lindau Nobel Laureate Meeting</b>, 25 June - 30 June 2023, Lindau (Germany). More information at: <a href="https://www.lindau-nobel.org" target="_blank">www.lindau-nobel.org</a>
-  
-Organization
+Organization (3)
 =======
 ...
 
@@ -160,6 +156,11 @@ Invited Seminars (8)
 [2] <b>Schwarz Lab Seminars</b>: <a href="-" target="_blank">(Max Delbrück Center for Molecular Medicine)</a>. Berlin, Germany (31/05/2021 - 31/05/2021). Seminar title: <i>Scuba Cancers: finding the genetic causes of contagious metastases under the sea</i>.<br>
 
 [1] <b>CIBIO-InBIO Seminar Series</b>: <a href="https://www.youtube.com/watch?v=fQyKsSLm-rY" target="_blank">(Universidade de Porto)</a>. Porto, Portugal (16/04/2021 - 16/04/2021). Seminar title: <i>Unravelling the genetic story of marine contagious metastases</i>.<br>
+
+<i class="fa fa-users" aria-hidden="true"></i> Attendance
+=======
+<b>72nd Lindau Nobel Laureate Meeting</b>, 25 June - 30 June 2023, Lindau (Germany). More information at: <a href="https://www.lindau-nobel.org" target="_blank">www.lindau-nobel.org</a>
+  
 
 
 
