@@ -135,7 +135,7 @@ author_profile: true
 [1] <u>Rodríguez-Martín, B.</u>; <b><u>Bruzos, A.L.</u></b>; Campbell, P.J.; <u>Tubío, J.M.C.</u> (2016, June). <i>Pan-cancer patterns of somatic retrotransposition</i>. Poster at <b>III Edición de Investigación Biomédica del Cáncer en Galicia</b>. A Coruña (Spain). <br><br>  
 
 
-Organization (3)
+<i class="fa fa-puzzle-piece" aria-hidden="true"></i> Organization (3)
 =======
 ...
 
