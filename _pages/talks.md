@@ -21,7 +21,7 @@ author_profile: true
 
 <i class="fa fa-bell" aria-hidden="true"></i> Invited speaker (4)
 =======
-[4] <b>International Symposium on Coastal Ecological Health</b>: <a href="https://www.uoh.cl/simposio-internacional-dio-termino-a-proyecto-fovi-de-investigadora-uoh/" target="_blank">(Instituto de Ciencias Agroalimentarias, Animales y Ambientales (ICA3))</a>. San Fernando, Chile (25/11/2024 - 25/11/2024). Oral communication: <i>La historia evolutiva de los cánceres contagiosos de berberechos y almejas</i>.<br>
+[4] <b>International Symposium on Coastal Ecological Health</b>: <a href="https://www.uoh.cl/simposio-internacional-dio-termino-a-proyecto-fovi-de-investigadora-uoh/" target="_blank">(Instituto de Ciencias Agroalimentarias, Animales y Ambientales (ICA3))</a>. San Fernando, Chile (25/11/2024). Oral communication: <i>La historia evolutiva de los cánceres contagiosos de berberechos y almejas</i>.<br>
 
 [3] <b>Bivalve Transmissible Neoplasia Workshop</b>: <a href="https://lienss.univ-larochelle.fr/Bivalve-Transmissible-Neoplasia-Workshop" target="_blank">(LIttoral ENvironnement et Sociétés)</a>. La Rochelle, France (14/11/2024 - 15/11/2024). Oral communication: <i>Evolution of bivalve transmissible cancers</i>.<br>
 
