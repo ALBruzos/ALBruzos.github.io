@@ -21,13 +21,13 @@ author_profile: true
 
 <i class="fa fa-bell" aria-hidden="true"></i> Invited speaker (4)
 =======
-[4] <b>International Symposium on Coastal Ecological Health</b>: <a href="https://www.uoh.cl/simposio-internacional-dio-termino-a-proyecto-fovi-de-investigadora-uoh/" target="_blank">(Instituto de Ciencias Agroalimentarias, Animales y Ambientales (ICA3))</a>. San Fernando, Chile (25/11/2024 - 25/11/2024). Oral communication: <i>La historia evolutiva de los cánceres contagiosos de berberechos y almejas</i>. <b>Bruzos, A.L.</b><br>
+[4] <b>International Symposium on Coastal Ecological Health</b>: <a href="https://www.uoh.cl/simposio-internacional-dio-termino-a-proyecto-fovi-de-investigadora-uoh/" target="_blank">(Instituto de Ciencias Agroalimentarias, Animales y Ambientales (ICA3))</a>. San Fernando, Chile (25/11/2024 - 25/11/2024). Oral communication: <i>La historia evolutiva de los cánceres contagiosos de berberechos y almejas</i>.<br>
 
-[3] <b>Bivalve Transmissible Neoplasia Workshop</b>: <a href="https://lienss.univ-larochelle.fr/Bivalve-Transmissible-Neoplasia-Workshop" target="_blank">(LIttoral ENvironnement et Sociétés)</a>. La Rochelle, France (14/11/2024 - 15/11/2024). Oral communication: <i>Evolution of bivalve transmissible cancers</i>. <b>Bruzos, A.L.</b><br>
+[3] <b>Bivalve Transmissible Neoplasia Workshop</b>: <a href="https://lienss.univ-larochelle.fr/Bivalve-Transmissible-Neoplasia-Workshop" target="_blank">(LIttoral ENvironnement et Sociétés)</a>. La Rochelle, France (14/11/2024 - 15/11/2024). Oral communication: <i>Evolution of bivalve transmissible cancers</i>.<br>
 
-[2] <b>2nd International Ocean Health Symposium</b>: <a href="https://events.geomar.de/event/2/page/7-about-the-speakers" target="_blank">(GEOMAR Helmholtz Centre for Ocean Research Kiel & Kiel University)</a>. Kiel, Germany (29/08/2022 - 31/08/2022). Oral communication: <i>Clonal evolution of a marine transmissible cancer that colonizes the Atlantic coast of Europe</i>. <b>Bruzos, A.L.</b>; Díaz, S; Santamarina, M; Rocha, S; Otero, I; Zamora, J; García-Souto, D; Pequeño, A; Rodríguez-Castro, J; Temes, J; Posada, D; Tubío, J<br>
+[2] <b>2nd International Ocean Health Symposium</b>: <a href="https://events.geomar.de/event/2/page/7-about-the-speakers" target="_blank">(GEOMAR Helmholtz Centre for Ocean Research Kiel & Kiel University)</a>. Kiel, Germany (29/08/2022 - 31/08/2022). Oral communication: <i>Clonal evolution of a marine transmissible cancer that colonizes the Atlantic coast of Europe</i>.<br>
 
-[1] <b>Assemblée Générale EMBRC-France</b>: <a href="-" target="_blank">(European Marine Biological Resource Centre (EMBRC-France))</a>. Banyuls-sur-mer, France (16/05/2017 - 18/05/2017). Oral communication: <i>Finding the genetic causes of contagious metastases under the sea</i>. <b>Bruzos, A.L.</b>; Tubío, J<br>
+[1] <b>Assemblée Générale EMBRC-France</b>: <a href="-" target="_blank">(European Marine Biological Resource Centre (EMBRC-France))</a>. Banyuls-sur-mer, France (16/05/2017 - 18/05/2017). Oral communication: <i>Finding the genetic causes of contagious metastases under the sea</i>.<br>
 
 
 
@@ -142,9 +142,25 @@ Organization
 =======
 ...
 
-Invited Seminars
+Invited Seminars (8)
 =======
-...
+[8] <b>Seminarios IFOP</b>: <a href="https://www.ifop.cl/ifop-fortalece-su-vinculacion-internacional/ " target="_blank">(Instituto de Fomento Pesquero (IFOP))</a>. Puerto Montt, Chile (19/11/2024 - 19/11/2024). Seminar title: <i>Historia evolutiva de los cánceres contagiosos en moluscos</i>.<br>
+
+[7] <b>Seminaires BOREA</b>: <a href="https://borea.mnhn.fr/fr/actualit%C3%A9-borea/revoir-%C2%AB-aventures-cellules-canc%C3%A9reuses-transmises-entre-bivalves-marins-un-point" target="_blank">(Laboratoire de biologie des organismes et des écosystèmes aquatiques)</a>. Caen, France (22/10/2024 - 22/10/2024). Seminar title: <i>Les aventures des cellules cancéreuses transmises entre bivalves marins : un point de vue génétique</i>.<br>
+
+[6] <b>CCMAR seminar</b>: <a href="https://ccmar.ualg.pt/activity/evolution-cockle-transmissible-cancers" target="_blank">(Centro de Ciências do Mar do Algarve (CCMAR))</a>. Faro, Portugal (17/07/2024 - 17/07/2024). Seminar title: <i>Evolution of cockle transmissible cancers</i>.<br>
+
+[5] <b>TransEvo core seminar</b>: <a href="NA" target="_blank">(University of Kiel)</a>. Kiel, Germany (13/12/2023 - 13/12/2023). Seminar title: <i>Somatic evolution of marine transmissible cancers</i>.<br>
+
+[4] <b>Invitational seminar at MPI-MM</b>: <a href="https://www.mpi-bremen.de/en/Alicia-L.-bruzos-contagious-cancers-and-their-spread-among-marine-bivalves.html#:~:text=In%20bivalves%2C%20the%20cancer%20develops,host%20and%20propagate%20inside%20it." target="_blank">(Max Planck Institute for Marine Microbiology)</a>. Bremen, Germany (12/12/2023 - 12/12/2023). Seminar title: <i>Contagious Cancers and their spread among marine bivalves </i>.<br>
+
+[3] <b>CCMAR seminar</b>: <a href="https://www.youtube.com/watch?v=LsZRQIJmw_o" target="_blank">(Centro de Ciências do Mar do Algarve (CCMAR))</a>. Faro, Portugal (30/06/2021 - 30/06/2021). Seminar title: <i>Contagious Cancers: sequencing reveals a pandemic affecting clams in our seas</i>.<br>
+
+[2] <b>Schwarz Lab Seminars</b>: <a href="-" target="_blank">(Max Delbrück Center for Molecular Medicine)</a>. Berlin, Germany (31/05/2021 - 31/05/2021). Seminar title: <i>Scuba Cancers: finding the genetic causes of contagious metastases under the sea</i>.<br>
+
+[1] <b>CIBIO-InBIO Seminar Series</b>: <a href="https://www.youtube.com/watch?v=fQyKsSLm-rY" target="_blank">(Universidade de Porto)</a>. Porto, Portugal (16/04/2021 - 16/04/2021). Seminar title: <i>Unravelling the genetic story of marine contagious metastases</i>.<br>
+
+
 
 <!--
 {% for post in site.talks reversed %}
