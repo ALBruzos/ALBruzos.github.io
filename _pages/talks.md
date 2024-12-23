@@ -139,7 +139,7 @@ Organization (3)
 =======
 ...
 
-Invited Seminars (8)
+<i class="fa fa-university" aria-hidden="true"></i> Invited Seminars (8)
 =======
 [8] <b>Seminarios IFOP</b>: <a href="https://www.ifop.cl/ifop-fortalece-su-vinculacion-internacional/ " target="_blank">(Instituto de Fomento Pesquero (IFOP))</a>. Puerto Montt, Chile (19/11/2024 - 19/11/2024). Seminar title: <i>Historia evolutiva de los cánceres contagiosos en moluscos</i>.<br>
 
