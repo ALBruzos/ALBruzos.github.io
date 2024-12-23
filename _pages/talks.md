@@ -19,7 +19,8 @@ author_profile: true
 
 
 
-<h2> <i class="fa fa-bell" aria-hidden="true"></i> Invited speaker (7)</h2>  
+<i class="fa fa-bell" aria-hidden="true"></i> Invited speaker (7)
+=======
 
 [7] <b><u>Bruzos, A.L.</u></b> (2023, December 13). <i>Somatic evolution of marine transmissible cancers.</i> <b>TransEvo core seminar. University of Kiel</b>. Kiel (Germany). <br><br>
 
@@ -37,8 +38,8 @@ author_profile: true
 
 
 
-<h2> <i class="fa fa-bullhorn" aria-hidden="true"></i> Oral communications (20/25)</h2>
-<!-- Write your comments here -->
+<i class="fa fa-bullhorn" aria-hidden="true"></i> Oral communications (20/25)
+=======
 
 [25] <b>48th FEBS congress</b>: <a href="https://2024.febscongress.org/" target="_blank">(Federation of European Biochemical Societies)</a>. Milan, Italy (29/06/2024 - 3/07/2024). Oral communication: <i>Evolution of marine contagious cancers in cockles characterized by genomic instability</i>. <b><u>Bruzos, A.L.</u></b>; Santamarina, M; Díaz, S.; Rocha, S; García, D.; Zamora, J; Lee, Y.; Ju, Y.; Posada, D; Demeulemeester, J,; Baez-Ortega, A.; Tubío, J. <i class="fa fa-book" aria-hidden="true"></i> FEBS Open Bio 2024;14(S2):2-91 (SpT-11-1), DOI: <a href="https://doi.org/10.1002/2211-5463.13836" target="_blank">https://doi.org/10.1002/2211-5463.13836</a> <br><br>
 
@@ -93,7 +94,8 @@ author_profile: true
 
 
 
-<h2> <i class="fa fa-map" aria-hidden="true"></i> Poster communications (12/22)</h2>  
+<i class="fa fa-map" aria-hidden="true"></i> Poster communications (12/22)
+=======
 [21-22] <b><u>Bruzos, A.L.</u></b>; Santamarina, M; Díaz, S.; Rocha, S; García, D.; Zamora, J; Lee, Y.; Ju, Y.; Posada, D; Demeulemeester, J,; Baez-Ortega, A.; Tubío, J. (2024, June/July) <i><a href="https://www.researchgate.net/publication/382150793_Evolution_of_marine_contagious_cancers_in_cockles_characterized_by_genomic_instability?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InByb2ZpbGUiLCJwYWdlIjoicHJvZmlsZSIsInByZXZpb3VzUGFnZSI6ImhvbWUiLCJwb3NpdGlvbiI6InBhZ2VDb250ZW50In19" target="_blank">Evolution of marine contagious cancers in cockles characterized by genomic instability.</a></i> Poster at <b>48th FEBS congress</b> and <b>23th Young Scientist Forum</b>, Italy. <br><br>
 
 
@@ -138,12 +140,17 @@ author_profile: true
 [1] <u>Rodríguez-Martín, B.</u>; <b><u>Bruzos, A.L.</u></b>; Campbell, P.J.; <u>Tubío, J.M.C.</u> (2016, June). <i>Pan-cancer patterns of somatic retrotransposition</i>. Poster at <b>III Edición de Investigación Biomédica del Cáncer en Galicia</b>. A Coruña (Spain). <br><br>  
 
 
-<h2> <i class="fa fa-users" aria-hidden="true"></i> Attendance</h2>
+<i class="fa fa-users" aria-hidden="true"></i> Attendance
+=======
 <b>72nd Lindau Nobel Laureate Meeting</b>, 25 June - 30 June 2023, Lindau (Germany). More information at: <a href="https://www.lindau-nobel.org" target="_blank">www.lindau-nobel.org</a>
   
+Organization
+=======
+...
 
-
-
+Seminars
+=======
+...
 
 <!--
 {% for post in site.talks reversed %}
