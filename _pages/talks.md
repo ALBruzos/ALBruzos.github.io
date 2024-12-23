@@ -9,7 +9,7 @@ author_profile: true
 
 <img src='/images/Tira_FotosCongresos_AliciaLBruzos.png'>  
 
-<p>I have presented my research at <u>56 international and national congresses/conferences/symposia</u> in 9 different countries of the world. I have given <b>4 invited speaker talks</b> and <b>20 oral communications</b>, I have presented <b>26 posters</b> and I have won <b>3 awards for best poster</b> and <b>2 for best talk</b>. If you would like to venture into marine contagious cancers, do not hesitate to [contact me](https://albruzos.github.io/contact/)! I always do my best to accommodate invitations and events to share and discuss this topic! </p> 
+<p>I have presented my research at <u>56 international and national congresses/conferences/symposia</u> in 9 different countries of the world. I have given <b>4 invited speaker talks</b> and <b>20 oral communications</b>, I have presented <b>26 posters</b> and I have won <b>3 awards for best poster</b> and <b>2 for best talk</b>. If you would like to venture into marine contagious cancers, do not hesitate to [contact me](https://albruzos.github.io/contact/) ! I always do my best to accommodate invitations and events to share and discuss this topic! </p> 
 
 <!-- 
 #MAP of conferences
