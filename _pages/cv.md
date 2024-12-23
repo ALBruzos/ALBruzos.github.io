@@ -106,8 +106,8 @@ Find more details [here](https://albruzos.github.io/publications/).
   <li><i class="fa fa-check-circle" aria-hidden="true"></i>4 invited speaker talks</li>
   <li><i class="fa fa-check-circle" aria-hidden="true"></i>20 oral communications</li>
   <li><i class="fa fa-check-circle" aria-hidden="true"></i>26 posters</li>
-  <li>8 invited seminars</li>
-  <li>3 events organized</li>
+  <li><i class="fa fa-university" aria-hidden="true"></i>8 invited seminars</li>
+  <li><i class="fa fa-puzzle-piece" aria-hidden="true"></i>3 events organized</li>
   <li><i class="fa fa-check-circle" aria-hidden="true"></i>5 awards (best poster / talk)</li>
 </ul>
 
