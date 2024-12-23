@@ -19,22 +19,16 @@ author_profile: true
 
 
 
-<i class="fa fa-bell" aria-hidden="true"></i> Invited speaker (7)
+<i class="fa fa-bell" aria-hidden="true"></i> Invited speaker (4)
 =======
+[4] <b>International Symposium on Coastal Ecological Health</b>: <a href="https://www.uoh.cl/simposio-internacional-dio-termino-a-proyecto-fovi-de-investigadora-uoh/" target="_blank">(Instituto de Ciencias Agroalimentarias, Animales y Ambientales (ICA3))</a>. San Fernando, Chile (25/11/2024 - 25/11/2024). Oral communication: <i>La historia evolutiva de los cánceres contagiosos de berberechos y almejas</i>. <b>Bruzos, A.L.</b><br><br>
 
-[7] <b><u>Bruzos, A.L.</u></b> (2023, December 13). <i>Somatic evolution of marine transmissible cancers.</i> <b>TransEvo core seminar. University of Kiel</b>. Kiel (Germany). <br><br>
+[3] <b>Bivalve Transmissible Neoplasia Workshop</b>: <a href="https://lienss.univ-larochelle.fr/Bivalve-Transmissible-Neoplasia-Workshop" target="_blank">(LIttoral ENvironnement et Sociétés)</a>. La Rochelle, France (14/11/2024 - 15/11/2024). Oral communication: <i>Evolution of bivalve transmissible cancers</i>. <b>Bruzos, A.L.</b><br><br>
 
-[6] <b><u>Bruzos, A.L.</u></b> (2023, December 12). <i><a href="https://www.mpi-bremen.de/en/Alicia-L.-bruzos-contagious-cancers-and-their-spread-among-marine-bivalves.html#:~:text=In%20bivalves%2C%20the%20cancer%20develops,host%20and%20propagate%20inside%20it." target="_blank">Contagious Cancers and their spread among marine bivalves</a></i> <b>Invitational seminar at the Max Planck Institute for Marine Microbiology</b>. Bremen (Germany). <br><br>
+[2] <b>2nd International Ocean Health Symposium</b>: <a href="https://events.geomar.de/event/2/page/7-about-the-speakers" target="_blank">(GEOMAR Helmholtz Centre for Ocean Research Kiel & Kiel University)</a>. Kiel, Germany (29/08/2022 - 31/08/2022). Oral communication: <i>Clonal evolution of a marine transmissible cancer that colonizes the Atlantic coast of Europe</i>. <b>Bruzos, A.L.</b>; Díaz, S; Santamarina, M; Rocha, S; Otero, I; Zamora, J; García-Souto, D; Pequeño, A; Rodríguez-Castro, J; Temes, J; Posada, D; Tubío, J<br><br>
 
-[5] <b><u>Bruzos, A.L.</u></b>; Díaz, S.; Santamarina, M; Rocha, S; Otero, I; Zamora, J; García-Souto, D.; Pequeño, A; Rodríguez-Castro, J.; Temes, J; Posada, D; Tubío, J. (2022, August). <i><a href="https://events.geomar.de/event/2/page/7-about-the-speakers" target="_blank">Clonal evolution of a marine transmissible cancer that colonizes the Atlantic coast of Europe.</a></i> <b>2nd International Ocean Health Symposium</b>. Kiel (Germany). <br><br>
+[1] <b>Assemblée Générale EMBRC-France</b>: <a href="-" target="_blank">(European Marine Biological Resource Centre (EMBRC-France))</a>. Banyuls-sur-mer, France (16/05/2017 - 18/05/2017). Oral communication: <i>Finding the genetic causes of contagious metastases under the sea</i>. <b>Bruzos, A.L.</b>; Tubío, J<br><br>
 
-[4] <b><u>Bruzos, A.L.</u></b>; Díaz, S.; García-Souto, D.; Rocha, S; Temes, J; Zamora, J; Rodríguez-Castro, J.; Posada, D; Tubío, J. (2021, April). <i>Scuba Cancers: finding the genetic causes of contagious metastases under the sea. </i> Schwarz Lab Seminars at <b>Max Delbrück Center for Molecular Medicine</b>, Berlin, virtual edition (Germany). <br><br>
-
-[3] <b><u>Bruzos, A.L.</u></b>; García-Souto, D.; Díaz, S.; Rocha, S; Pequeño, A; Roman-Lewis, C; Alonso, J; Rodriguez, R; Costas, D; Rodríguez-Castro, J.; Villanueva, A; Silva, L;Valencia, JM; Annona, G; Tarallo, A; Ricardo, F; Bratos, A; Posada, D; Pasantes, J; Tubío, J. (2021, July). <i><a href="https://albruzos.github.io/talks/2021-talk-ccmar" target="_blank">Contagious Cancers: sequencing reveals a pandemic affecting clams in our seas.</a></i> <b>Centro de Ciências do Mar (CCMAR) </b>, Universidade do Algarve, virtual edition (Portugal). <br><br>
-
-[2] <b><u>Bruzos, A.L.</u></b>; Díaz, S.; García-Souto, D.; Rocha, S; Temes, J; Zamora, J; Rodríguez-Castro, J.; Posada, D; Tubío, J. (2021, April). <i><a href="https://albruzos.github.io/talks/2021-talk-cibio" target="_blank">Unravelling the genetic story of marine contagious metastases.</a></i> Oral communication in <b>CIBIO-InBIO Seminar Series</b>, Universidade de Porto, virtual edition (Portugal). <br><br>
-
-[1] <b><u>Bruzos, A.L.</u></b>; Tubío, J. (2017, May). <i>Finding the genetic causes of contagious metastases under the sea.</i> Oral communication in <b>Assemblée Générale EMBRC-France</b>, EMBRC, Bannyuls-sur-mer (France). <br><br>
 
 
 
