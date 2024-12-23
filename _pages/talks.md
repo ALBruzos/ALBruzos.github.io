@@ -11,10 +11,11 @@ author_profile: true
 
 <p>I have presented my research at <u>56 international and national congresses/conferences/symposia</u> in 9 different countries of the world. I have given <b>4 invited speaker talks</b> and <b>20 oral communications</b>, I have presented <b>26 posters</b> and I have won <b>3 awards for best poster</b> and <b>2 for best talk</b>. If you would like to venture into marine contagious cancers, do not hesitate to [contact me](https://albruzos.github.io/contact/)! I always do my best to accommodate invitations and events to share and discuss this topic! </p> 
 
+<!-- 
+#MAP of conferences
 <p align="center"><iframe src="/talkmap/map.html" height="400" width="850" style="border:none;"></iframe></p>
-
 <FONT COLOR="#45B39D">Highlighting legend: <u>Underlined</u> author presenting the communication; <b>Bold</b> CV’s author and conference name; <i class="fa fa-star" aria-hidden="true"></i> Award; <i class="fa fa-book" aria-hidden="true"></i> DOI or book chapter with ISBN.</FONT> <br><br>
-
+-->
 
 
 
