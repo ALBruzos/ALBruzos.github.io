@@ -174,41 +174,36 @@ author_profile: true
 
 
 
-<i class="fa fa-trophy" aria-hidden="true"></i> Best talk/poster awards (5)
+<i class="fa fa-trophy" aria-hidden="true"></i> Best talk/poster awards (6)
 =======
 
-<i class="fa fa-star" aria-hidden="true"></i> <b>Best Talk Prize</b> (December 2023): XIV reunión de jóvenes investigador@s en el extranjero (IYI), Santiago de Compostela (Spain). Second prize, people’s vote. <a href="https://cimus.usc.gal/es/noticias/xiv-reunion-de-jovenes-investigadores-en-el-extranjero-2023-en-el-cimus" target="_blank">Link</a> <br>
-
-<i class="fa fa-star" aria-hidden="true"></i> <b>Hamilton Award finalist</b> (June 2023):Evolution: Hamilton Award Symposium, Albuquerque (USA). 500 USD
-
-<i class="fa fa-star" aria-hidden="true"></i> <b>II Best Scientific Panel Prize</b> (October 2019): XXII Foro dos Recursos Mariños e da Acuicultura das Rías Galegas, O Grove (Spain). Second prize. <a href="https://x.com/IPacuicultura/status/1182639436607184899" target="_blank">Link</a> <br>
-
-<i class="fa fa-star" aria-hidden="true"></i> <b>I Best Scientific Panel Prize</b> (October 2019): XXII Foro dos Recursos Mariños e da Acuicultura das Rías Galegas, O Grove (Spain). First prize. <a href="https://x.com/IPacuicultura/status/1182639436607184899" target="_blank">Link</a> <br>
-
-<i class="fa fa-star" aria-hidden="true"></i> <b>Best Scientific Panel Prize</b> (October 2017): XX Foro dos Recursos Mariños e da Acuicultura das Rías Galegas, O Grove (Spain). First prize. <a href="https://www.uvigo.gal/universidade/comunicacion/duvi/especialistas-centro-singular-marino-ganan-primeiro-premio-foro-recursos-marinos-acuicultura-rias" target="_blank">Link</a> <br>
-
-<p align="center">
-  <img src="/images/awards/Award2017-AliciaLBruzos.jpg" alt="Award 2017 - Alicia L. Bruzos" width="300"><br>
-  <i>Award 2017 - Best Scientific Panel Prize</i>
-</p>
-
-<p align="center">
-  <img src="/images/awards/Award2019-AliciaLBruzos.jpg" alt="Award 2019 - Alicia L. Bruzos" width="300"><br>
-  <i>Award 2019 - Best Scientific Panel Prizes (First and Second)</i>
-</p>
-
-<p align="center">
-  <img src="/images/awards/Award2022-AliciaLBruzos.JPG" alt="Award 2022 - Alicia L. Bruzos" width="300"><br>
-  <i>Award 2022</i>
-</p>
-
+<i class="fa fa-star" aria-hidden="true"></i> <b>Best Talk Prize</b> (December 2023): XIV reunión de jóvenes investigador@s en el extranjero (IYI), Santiago de Compostela (Spain). Second prize, people’s vote. <a href="https://cimus.usc.gal/es/noticias/xiv-reunion-de-jovenes-investigadores-en-el-extranjero-2023-en-el-cimus" target="_blank">Link</a> - <a href="https://albruzos.github.io/files/media/20231228_LaVozdeGalicia.pdf" target="_blank">Press</a>
+<br>
 <p align="center">
   <img src="/images/awards/Award2023-AliciaLBruzos.jpg" alt="Award 2023 - Alicia L. Bruzos" width="300"><br>
-  <i>Award 2023 - Best Talk Prize</i>
+  <i>Best Talk Prize (2023)</i>
 </p>
 
+<i class="fa fa-star" aria-hidden="true"></i> <b>Best Talk Prize</b> (December 2022): XIII reunión de jóvenes investigador@s en el extranjero (IYI), Vigo (Spain). Second prize, people’s vote. <br>
+<p align="center">
+  <img src="/images/awards/Award2022-AliciaLBruzos.JPG" alt="Award 2022 - Alicia L. Bruzos" width="300"><br>
+  <i>Best Talk Prize (2022)</i>
+</p>
 
+<i class="fa fa-star" aria-hidden="true"></i> <b>Hamilton Award finalist</b> (June 2023):Evolution: Hamilton Award Symposium, Albuquerque (USA). 500 USD.
 
+<i class="fa fa-star" aria-hidden="true"></i> <b>II Best Scientific Panel Prize</b> (October 2019): XXII Foro dos Recursos Mariños e da Acuicultura das Rías Galegas, O Grove (Spain). Second prize. 50 EUR. <a href="https://x.com/IPacuicultura/status/1182639436607184899" target="_blank">Link</a> <br>
+<p align="center">
+  <img src="/images/awards/Award2019-AliciaLBruzos.jpg" alt="Award 2019 - Alicia L. Bruzos" width="300"><br>
+  <i>Best Scientific Panel Prizes (2019)</i>
+</p>
+<i class="fa fa-star" aria-hidden="true"></i> <b>I Best Scientific Panel Prize</b> (October 2019): XXII Foro dos Recursos Mariños e da Acuicultura das Rías Galegas, O Grove (Spain). First prize. 400EUR. <a href="https://x.com/IPacuicultura/status/1182639436607184899" target="_blank">Link</a> <br>
+
+<i class="fa fa-star" aria-hidden="true"></i> <b>Best Scientific Panel Prize</b> (October 2017): XX Foro dos Recursos Mariños e da Acuicultura das Rías Galegas, O Grove (Spain). First prize. 400 EUR. <a href="https://www.uvigo.gal/universidade/comunicacion/duvi/especialistas-centro-singular-marino-ganan-primeiro-premio-foro-recursos-marinos-acuicultura-rias" target="_blank">Link</a> <br>
+<p align="center">
+  <img src="/images/awards/Award2017-AliciaLBruzos.jpg" alt="Award 2017 - Alicia L. Bruzos" width="300"><br>
+  <i>Best Scientific Panel Prize (2017).</i>
+</p>
 
 <i class="fa fa-puzzle-piece" aria-hidden="true"></i> Conference organization: Organizing and Scientific Committees (3)
 =======
