@@ -36,8 +36,7 @@ author_profile: true
 
 <i class="fa fa-bullhorn" aria-hidden="true"></i> Oral communications (20/24)
 =======
-<FONT COLOR="#45B39D">Highlighting legend: <u>Underlined</u> author presenting the communication; <i class="fa fa-star" aria-hidden="true"></i> Award; <i class="fa fa-book" aria-hidden="true"></i> DOI or book chapter with ISBN.</FONT> <br><br>
-
+<FONT COLOR="#45B39D">Highlighting legend: <u>Underlined</u> author presenting the communication (20 out of 24 were given my Bruzos); <i class="fa fa-star" aria-hidden="true"></i> Award; <i class="fa fa-book" aria-hidden="true"></i> DOI or book chapter with ISBN.</FONT>
 
 [24] <b>48th FEBS congress</b>: <a href="https://2024.febscongress.org/" target="_blank">(Federation of European Biochemical Societies)</a>. Milan, Italy (29/06/2024 - 3/07/2024). Oral communication: <i>Evolution of marine contagious cancers in cockles characterized by genomic instability</i>. <b><u>Bruzos, A.L.</u></b>; Santamarina, M; Díaz, S.; Rocha, S; García, D.; Zamora, J; Lee, Y.; Ju, Y.; Posada, D; Demeulemeester, J,; Baez-Ortega, A.; Tubío, J. <i class="fa fa-book" aria-hidden="true"></i> FEBS Open Bio 2024;14(S2):2-91 (SpT-11-1), DOI: <a href="https://doi.org/10.1002/2211-5463.13836" target="_blank">https://doi.org/10.1002/2211-5463.13836</a> <br>
 
