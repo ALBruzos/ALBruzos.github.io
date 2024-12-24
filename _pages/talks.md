@@ -215,45 +215,41 @@ author_profile: true
 <i class="fa fa-puzzle-piece" aria-hidden="true"></i> Conference organization: Organizing and Scientific Committees (3)
 =======
 
-### Chilean Coastal Ecological Health Symposium (June 4, 2024)
+Chilean Coastal Ecological Health Symposium (June 4, 2024)
+==========
 **Role**: Organizing Committee Member (of a committee of 3)  
 **Organizer**: Université de Caen Normandie  
 **Location**: Caen, France  
-**Details**:  
-- Duration: 8 hours  
-- Attendees: 30  
-- Program: 4 plenary talks, 1 institutional speech, 1 panel discussion  
-- Funding: Project FOVI230047 funded by the national government of Chile  
-- [Symposium Details](https://borea.mnhn.fr/fr/actualité-borea/chilean-coastal-ecological-health-symposium-4-juin-2024-université-caen-normandie)
-
----
-
-### 5th Crick Postdoc Symposium (June 27, 2022)
+**Duration**: 8 hours  
+**Program**: 4 plenary talks, 1 institutional speech, 1 panel discussion  
+**Attendees**: 30  
+**Funding**: Project FOVI230047 funded by the national government of Chile.  
+[Symposium Details](https://borea.mnhn.fr/fr/actualité-borea/chilean-coastal-ecological-health-symposium-4-juin-2024-université-caen-normandie)  
+  
+5th Crick Postdoc Symposium (June 27, 2022)
+==========
 **Role**: Organizing Committee Member (of a committee of 5)  
 **Organizer**: The Francis Crick Institute  
 **Location**: London, UK  
-**Details**:  
-- Duration: 1 day  
-- Attendees: 160  
-- Program: 2 plenary talks, 11 short oral communications, 38 posters  
-- Awards: 4 prizes awarded  
-- Funding: The Francis Crick Institute, UK  
+**Duration**: 1 day  
+**Program**: 2 plenary talks, 11 short oral communications, 38 posters  
+**Awards**: 4 prizes awarded  
+**Attendees**: 160  
+**Funding**: The Francis Crick Institute, UK.  
 
----
-
-### VIII Young Researchers Meeting (EMI) (May 26–28, 2021)
+VIII Young Researchers Meeting (EMI) (May 26–28, 2021)
+==========
 **Role**: Organizing and Scientific Committee Member & Editor of Abstracts Book (of a committee of 8)  
 **Organizer**: Universidade de Santiago de Compostela  
 **Location**: Santiago de Compostela, Spain  
 **Details**:  
-- Duration: 3 days  
-- Attendees: 300  
-- Program: 3 plenary talks, 3 parallel sessions with 135 short oral communications and 67 posters  
-- Abstracts Book: *VIII Encontro da Mocidade Investigadora: libro de resumos*. Published by Servizo de Publicacións Campus Vida.  
-  - ISBN: 978-84-19155-34-4  
-  - DOI: [10.15304/9788419155344](https://dx.doi.org/10.15304/9788419155344)  
-- Funding: International Doctoral School Direction Committee (EDIUS), Universidade de Santiago de Compostela, Spain  
-- [Media Coverage](https://albruzos.github.io/files/media/20210602_PERIODICO_ElcorreoGallego_EMI.pdf)
+**Duration**: 3 days  
+**Attendees**: 300  
+**Program**: 3 plenary talks, 3 parallel sessions with 135 short oral communications and 67 posters  
+**Abstracts Book**: *VIII Encontro da Mocidade Investigadora: libro de resumos*. Published by Servizo de Publicacións Campus Vida. ISBN: 978-84-19155-34-4. DOI: [10.15304/9788419155344](https://dx.doi.org/10.15304/9788419155344).  
+**Attendees**: 300  
+**Funding**: International Doctoral School Direction Committee (EDIUS), Universidade de Santiago de Compostela, Spain.  
+[Media Coverage](https://albruzos.github.io/files/media/20210602_PERIODICO_ElcorreoGallego_EMI.pdf)  
 
 
 
