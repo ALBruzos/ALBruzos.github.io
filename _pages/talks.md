@@ -215,8 +215,7 @@ author_profile: true
 <i class="fa fa-puzzle-piece" aria-hidden="true"></i> Conference organization: Organizing and Scientific Committees (3)
 =======
 
-Chilean Coastal Ecological Health Symposium (June 4, 2024)
-==========
+**Chilean Coastal Ecological Health Symposium** (June 4, 2024)
 **Role**: Organizing Committee Member (of a committee of 3)  
 **Organizer**: Université de Caen Normandie  
 **Location**: Caen, France  
@@ -226,8 +225,7 @@ Chilean Coastal Ecological Health Symposium (June 4, 2024)
 **Funding**: Project FOVI230047 funded by the national government of Chile.  
 [Symposium Details](https://borea.mnhn.fr/fr/actualité-borea/chilean-coastal-ecological-health-symposium-4-juin-2024-université-caen-normandie)  
   
-5th Crick Postdoc Symposium (June 27, 2022)
-==========
+**5th Crick Postdoc Symposium** (June 27, 2022)
 **Role**: Organizing Committee Member (of a committee of 5)  
 **Organizer**: The Francis Crick Institute  
 **Location**: London, UK  
@@ -237,8 +235,7 @@ Chilean Coastal Ecological Health Symposium (June 4, 2024)
 **Attendees**: 160  
 **Funding**: The Francis Crick Institute, UK.  
 
-VIII Young Researchers Meeting (EMI) (May 26–28, 2021)
-==========
+**VIII Young Researchers Meeting (EMI)** (May 26–28, 2021)
 **Role**: Organizing and Scientific Committee Member & Editor of Abstracts Book (of a committee of 8)  
 **Organizer**: Universidade de Santiago de Compostela  
 **Location**: Santiago de Compostela, Spain  
