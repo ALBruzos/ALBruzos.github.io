@@ -183,6 +183,25 @@ author_profile: true
 
 <i class="fa fa-star" aria-hidden="true"></i> <b>Best Scientific Panel Prize</b> (October 2017): XX Foro dos Recursos Mariños e da Acuicultura das Rías Galegas, O Grove (Spain). First prize. <a href="https://www.uvigo.gal/universidade/comunicacion/duvi/especialistas-centro-singular-marino-ganan-primeiro-premio-foro-recursos-marinos-acuicultura-rias" target="_blank">Link</a> <br>
 
+<p align="center">
+  <img src="/images/awards/Award2017-AliciaLBruzos.jpg" alt="Award 2017 - Alicia L. Bruzos" width="300"><br>
+  <i>Award 2017 - Best Scientific Panel Prize</i>
+</p>
+
+<p align="center">
+  <img src="/images/awards/Award2019-AliciaLBruzos.jpg" alt="Award 2019 - Alicia L. Bruzos" width="300"><br>
+  <i>Award 2019 - Best Scientific Panel Prizes (First and Second)</i>
+</p>
+
+<p align="center">
+  <img src="/images/awards/Award2022-AliciaLBruzos.JPG" alt="Award 2022 - Alicia L. Bruzos" width="300"><br>
+  <i>Award 2022</i>
+</p>
+
+<p align="center">
+  <img src="/images/awards/Award2023-AliciaLBruzos.jpg" alt="Award 2023 - Alicia L. Bruzos" width="300"><br>
+  <i>Award 2023 - Best Talk Prize</i>
+</p>
 
 
 <i class="fa fa-users" aria-hidden="true"></i> Attendance
