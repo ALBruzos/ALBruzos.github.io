@@ -25,7 +25,7 @@ author_profile: true
 
 [4] <b>Bivalve Transmissible Neoplasia Workshop</b>: <a href="https://lienss.univ-larochelle.fr/Bivalve-Transmissible-Neoplasia-Workshop" target="_blank">(LIttoral ENvironnement et Sociétés)</a>. La Rochelle, France (14/11/2024 - 15/11/2024). Title: <i>Evolution of bivalve transmissible cancers</i>.<br>
 
-[3] <b>Jornada Usuarios CESGA 2023</b>: <a href="https://www.cesga.es/jornada-de-usuarios-cesga-2023/" target="_blank">(Galicia Supercomputing Center (CESGA))</a>. Santiago de Compostela, Spain (14/12/2023). Title: <i>Evolución de leucemias marinas transmisible en berberechos y almeja </i>.
+[3] <b>Jornada Usuarios CESGA 2023</b>: <a href="https://www.cesga.es/jornada-de-usuarios-cesga-2023/" target="_blank">(Galicia Supercomputing Center (CESGA))</a>. Santiago de Compostela, Spain (14/12/2023). Title: <i>Evolución de leucemias marinas transmisible en berberechos y almeja</i>. <a href="https://youtu.be/gRHrFJR6rfU?si=R61wiIzWQhGes9GM" target="_blank">Watch here</a> <br>
 
 [2] <b>2nd International Ocean Health Symposium</b>: <a href="https://events.geomar.de/event/2/page/7-about-the-speakers" target="_blank">(GEOMAR Helmholtz Centre for Ocean Research Kiel & Kiel University)</a>. Kiel, Germany (29/08/2022 - 31/08/2022). Title: <i>Clonal evolution of a marine transmissible cancer that colonizes the Atlantic coast of Europe</i>.<br>
 
@@ -54,7 +54,7 @@ author_profile: true
 
 [18] <b>Foro Malacológico de la Sociedad Española de Malacología</b>: <a href="https://foro-sem-2023.uca.es/" target="_blank">(Sociedad Española de Malacología)</a>. Cádiz, Spain (14/09/2023 - 16/09/2023). Oral communication: <i>Cánceres Transmisibles Marinos en berberecho común</i>. <u>Díaz, S.</u>; <b>Bruzos, A.L.</b>; Santamarina, M; Rocha, S; García-Souto, D.; Baez, A.; Tubío, J.<br>
 
-[17] <b>Evolution: Hamilton Award Symposium</b>: <a href="https://www.evolutionmeetings.org/" target="_blank">(Joint annual meeting of the American Society of Naturalists, the Society for the Study of Evolution, and the Society of Systematic Biologists)</a>. Albuquerque, USA (2/06/2023 - 3/06/2023). Oral communication: <i> The evolution of two transmissible leukaemias colonizing the coasts of Europe</i>. <b><u>Bruzos, A.L.</u></b>; Díaz, S.; Santamarina, M; Rocha, S; Otero, I; Zamora, J; García-Souto, D.; Pequeño, A; Rodríguez-Castro, J.; Temes, J; Posada, D; Tubío, J. <i class="fa fa-star" aria-hidden="true"></i> <a href="" target="_blank">Award finalist (500 USD)</a> <br>
+[17] <b>Evolution: Hamilton Award Symposium</b>: <a href="https://www.evolutionmeetings.org/" target="_blank">(Joint annual meeting of the American Society of Naturalists, the Society for the Study of Evolution, and the Society of Systematic Biologists)</a>. Albuquerque, USA (2/06/2023 - 3/06/2023). Oral communication: <i> The evolution of two transmissible leukaemias colonizing the coasts of Europe</i>. <b><u>Bruzos, A.L.</u></b>; Díaz, S.; Santamarina, M; Rocha, S; Otero, I; Zamora, J; García-Souto, D.; Pequeño, A; Rodríguez-Castro, J.; Temes, J; Posada, D; Tubío, J. <a href="https://youtu.be/jIdREuwcD4I?si=TxjDrpa9zvV0e49G" target="_blank">Watch here</a> <i class="fa fa-star" aria-hidden="true"></i> <a href="" target="_blank">Award finalist (500 USD)</a> <br>
 
 [16] <b>XIII Reunión de jóvenes investigador@s en el extranjero (IYI)</b>: <a href="https://iyimeeting.com/" target="_blank">(Instituto de Investigación Biomédica (INIBIC) & Centro de Investigación en Nanomateriais e Biomedicina (CINBIO))</a>. Vigo, Spain (27/12/2022 - 27/12/2022). Oral communication: <i>Genetic causes of multiple congenital melanocytic naevi</i>. <b><u>Bruzos, A.L.</u></b>;Barberan, S.; Polubothu, S.; Bulstrode, N.; Spence, G.; Kinsler, V. <i class="fa fa-star" aria-hidden="true"></i> <a href="" target="_blank">Best Talk Prize (second prize, people’s vote)</a> <br>
 
@@ -64,7 +64,7 @@ author_profile: true
 
 [13] <b>21st ESPD Annual Meeting</b>: <a href="https://www.espd.info/espd2022" target="_blank">(European Society for Pediatric Dermatology (ESPD))</a>. Munich, Germany (20/05/2022 - 22/05/2022). Oral communication: <i>Mosaic BRAF fusions are a recurrent cause of multiple congenital melanocytic naevi</i>. <u>Polubothu, S</u>; Barberan, S; <b>Bruzos, A.L.</b>; Bryant, D; Spence, G; Bulstrode, N; Kinsler, V. <br>
 
-[12] <b>19th Portugaliae Genetica</b>: <a href="https://www.i3s.up.pt/event?v=205" target="_blank">(Instituto de Investigação e Inovação em Saúde)</a>. Lisboa, Portugal (24/03/2022 - 25/03/2022). Oral communication: <i>Heterogeneity of cockle transmissible cancers</i>. <b><u>Bruzos, A.L.</u></b>; Díaz, S; Rocha, S; Zamora, J; Santamarina, M; Otero, I; García-Souto, D; Rodríguez-Castro, J; Pequeño, A; Temes, J; Posada, D; Tubío, J. <br>
+[12] <b>19th Portugaliae Genetica</b>: <a href="https://www.i3s.up.pt/event?v=205" target="_blank">(Instituto de Investigação e Inovação em Saúde)</a>. Lisboa, Portugal (24/03/2022 - 25/03/2022). Oral communication: <i>Heterogeneity of cockle transmissible cancers</i>. <b><u>Bruzos, A.L.</u></b>; Díaz, S; Rocha, S; Zamora, J; Santamarina, M; Otero, I; García-Souto, D; Rodríguez-Castro, J; Pequeño, A; Temes, J; Posada, D; Tubío, J. <a href="https://youtu.be/J8JbGkMnLhA?si=m0kt8-zYLsm7dswW" target="_blank">Watch here</a>  <br>
 
 [11] <b>VIII Young Researchers Meeting (EMI)</b>: <a href="https://www.usc.gal/gl/centro/escola-doutoramento-internacional-usc/eventos/viii-encontro-mocidade-investigadora" target="_blank">(Universidade de Santiago de Compostela)</a>. Santiago de Compostela, Spain (26/05/2021 - 28/05/2021). Oral communication: <i>Multiple cancer clones metastasize the Atlantic Coast of Europe</i>. <b><u>Bruzos, A.L.</u></b>; Díaz, S; García-Souto, D; Rocha, S; Temes, J; Zamora, J; Rodríguez-Castro, J; Posada, D; Tubío, J <i class="fa fa-book" aria-hidden="true"></i> Book chapter in: VIII Encontro da Mocidade Investigadora: libro de resumos. 264(1):154. Servizo de Publicacións Campus Vida., ISBN: 978-84-19155-34-4, DOI: <a href="https://dx.doi.org/10.15304/9788419155344" target="_blank">https://dx.doi.org/10.15304/9788419155344</a> <br>
 
@@ -157,7 +157,7 @@ author_profile: true
 =======
 [8] <b>Seminarios IFOP</b>: <a href="https://www.ifop.cl/ifop-fortalece-su-vinculacion-internacional/ " target="_blank">(Instituto de Fomento Pesquero (IFOP))</a>. Puerto Montt, Chile (19/11/2024). Seminar title: <i>Historia evolutiva de los cánceres contagiosos en moluscos</i>.<br>
 
-[7] <b>Seminaires BOREA</b>: <a href="https://borea.mnhn.fr/fr/actualit%C3%A9-borea/revoir-%C2%AB-aventures-cellules-canc%C3%A9reuses-transmises-entre-bivalves-marins-un-point" target="_blank">(Laboratoire de biologie des organismes et des écosystèmes aquatiques)</a>. Caen, France (22/10/2024). Seminar title: <i>Les aventures des cellules cancéreuses transmises entre bivalves marins : un point de vue génétique</i>.<br>
+[7] <b>Seminaires BOREA</b>: <a href="https://borea.mnhn.fr/fr/actualit%C3%A9-borea/revoir-%C2%AB-aventures-cellules-canc%C3%A9reuses-transmises-entre-bivalves-marins-un-point" target="_blank">(Laboratoire de biologie des organismes et des écosystèmes aquatiques)</a>. Caen, France (22/10/2024). Seminar title: <i>Les aventures des cellules cancéreuses transmises entre bivalves marins : un point de vue génétique</i>. <a href="https://youtu.be/oIXzL89suK8?si=2a7AKvve2L0sc1fx" target="_blank">Watch here</a> <br>
 
 [6] <b>CCMAR seminar</b>: <a href="https://ccmar.ualg.pt/activity/evolution-cockle-transmissible-cancers" target="_blank">(Centro de Ciências do Mar do Algarve (CCMAR))</a>. Faro, Portugal (17/07/2024). Seminar title: <i>Evolution of cockle transmissible cancers</i>.<br>
 
@@ -165,11 +165,11 @@ author_profile: true
 
 [4] <b>Invitational seminar at MPI-MM</b>: <a href="https://www.mpi-bremen.de/en/Alicia-L.-bruzos-contagious-cancers-and-their-spread-among-marine-bivalves.html#:~:text=In%20bivalves%2C%20the%20cancer%20develops,host%20and%20propagate%20inside%20it." target="_blank">(Max Planck Institute for Marine Microbiology)</a>. Bremen, Germany (12/12/2023). Seminar title: <i>Contagious Cancers and their spread among marine bivalves </i>.<br>
 
-[3] <b>CCMAR seminar</b>: <a href="https://www.youtube.com/watch?v=LsZRQIJmw_o" target="_blank">(Centro de Ciências do Mar do Algarve (CCMAR))</a>. Faro, Portugal (30/06/2021). Seminar title: <i>Contagious Cancers: sequencing reveals a pandemic affecting clams in our seas</i>.<br>
+[3] <b>CCMAR seminar</b>: <a href="https://www.youtube.com/watch?v=LsZRQIJmw_o" target="_blank">(Centro de Ciências do Mar do Algarve (CCMAR))</a>. Faro, Portugal (30/06/2021). Seminar title: <i>Contagious Cancers: sequencing reveals a pandemic affecting clams in our seas</i>. <a href="https://www.youtube.com/live/LsZRQIJmw_o?si=oAVPHmoUUrQKXSiX" target="_blank">Watch here</a><br>
 
 [2] <b>Schwarz Lab Seminars</b>: <a href="-" target="_blank">(Max Delbrück Center for Molecular Medicine)</a>. Berlin, Germany (31/05/2021). Seminar title: <i>Scuba Cancers: finding the genetic causes of contagious metastases under the sea</i>.<br>
 
-[1] <b>CIBIO-InBIO Seminar Series</b>: <a href="https://www.youtube.com/watch?v=fQyKsSLm-rY" target="_blank">(Universidade de Porto)</a>. Porto, Portugal (16/04/2021). Seminar title: <i>Unravelling the genetic story of marine contagious metastases</i>.<br>
+[1] <b>CIBIO-InBIO Seminar Series</b>: <a href="https://www.youtube.com/watch?v=fQyKsSLm-rY" target="_blank">(Universidade de Porto)</a>. Porto, Portugal (16/04/2021). Seminar title: <i>Unravelling the genetic story of marine contagious metastases</i>. <a href="https://youtu.be/fQyKsSLm-rY?si=6QNWSxDwcitGTG_J" target="_blank">Watch here</a> <br>
 
 
 
@@ -190,7 +190,7 @@ author_profile: true
   <i>Best Talk Prize (2022)</i>
 </p>
 
-<i class="fa fa-star" aria-hidden="true"></i> <b>Hamilton Award finalist</b> (June 2023):Evolution: Hamilton Award Symposium, Albuquerque (USA). 500 USD.
+<i class="fa fa-star" aria-hidden="true"></i> <b>Hamilton Award finalist</b> (June 2023):Evolution: Hamilton Award Symposium, Albuquerque (USA). 500 USD. <a href="https://youtu.be/jIdREuwcD4I?si=TxjDrpa9zvV0e49G" target="_blank">Watch here</a> 
 
 <i class="fa fa-star" aria-hidden="true"></i> <b>II Best Scientific Panel Prize</b> (October 2019): XXII Foro dos Recursos Mariños e da Acuicultura das Rías Galegas, O Grove (Spain). Second prize. 50 EUR. <a href="https://x.com/IPacuicultura/status/1182639436607184899" target="_blank">Link</a> <br>
 <i class="fa fa-star" aria-hidden="true"></i> <b>I Best Scientific Panel Prize</b> (October 2019): XXII Foro dos Recursos Mariños e da Acuicultura das Rías Galegas, O Grove (Spain). First prize. 400EUR. <a href="https://x.com/IPacuicultura/status/1182639436607184899" target="_blank">Link</a> <br>
