@@ -152,9 +152,6 @@ author_profile: true
  
 
 
-<i class="fa fa-puzzle-piece" aria-hidden="true"></i> Organization (3)
-=======
-...
 
 <i class="fa fa-university" aria-hidden="true"></i> Invited Seminars (8)
 =======
@@ -173,6 +170,9 @@ author_profile: true
 [2] <b>Schwarz Lab Seminars</b>: <a href="-" target="_blank">(Max Delbrück Center for Molecular Medicine)</a>. Berlin, Germany (31/05/2021). Seminar title: <i>Scuba Cancers: finding the genetic causes of contagious metastases under the sea</i>.<br>
 
 [1] <b>CIBIO-InBIO Seminar Series</b>: <a href="https://www.youtube.com/watch?v=fQyKsSLm-rY" target="_blank">(Universidade de Porto)</a>. Porto, Portugal (16/04/2021). Seminar title: <i>Unravelling the genetic story of marine contagious metastases</i>.<br>
+
+
+
 
 <i class="fa fa-trophy" aria-hidden="true"></i> Best talk/poster awards (5)
 =======
@@ -206,6 +206,56 @@ author_profile: true
   <img src="/images/awards/Award2023-AliciaLBruzos.jpg" alt="Award 2023 - Alicia L. Bruzos" width="300"><br>
   <i>Award 2023 - Best Talk Prize</i>
 </p>
+
+
+
+
+<i class="fa fa-puzzle-piece" aria-hidden="true"></i> Conference organization: Organizing and Scientific Committees (3)
+=======
+
+### Chilean Coastal Ecological Health Symposium (June 4, 2024)
+**Role**: Organizing Committee Member (of a committee of 3)  
+**Organizer**: Université de Caen Normandie  
+**Location**: Caen, France  
+**Details**:  
+- Duration: 8 hours  
+- Attendees: 30  
+- Program: 4 plenary talks, 1 institutional speech, 1 panel discussion  
+- Funding: Project FOVI230047 funded by the national government of Chile  
+- [Symposium Details](https://borea.mnhn.fr/fr/actualité-borea/chilean-coastal-ecological-health-symposium-4-juin-2024-université-caen-normandie)
+
+---
+
+### 5th Crick Postdoc Symposium (June 27, 2022)
+**Role**: Organizing Committee Member (of a committee of 5)  
+**Organizer**: The Francis Crick Institute  
+**Location**: London, UK  
+**Details**:  
+- Duration: 1 day  
+- Attendees: 160  
+- Program: 2 plenary talks, 11 short oral communications, 38 posters  
+- Awards: 4 prizes awarded  
+- Funding: The Francis Crick Institute, UK  
+
+---
+
+### VIII Young Researchers Meeting (EMI) (May 26–28, 2021)
+**Role**: Organizing and Scientific Committee Member & Editor of Abstracts Book (of a committee of 8)  
+**Organizer**: Universidade de Santiago de Compostela  
+**Location**: Santiago de Compostela, Spain  
+**Details**:  
+- Duration: 3 days  
+- Attendees: 300  
+- Program: 3 plenary talks, 3 parallel sessions with 135 short oral communications and 67 posters  
+- Abstracts Book: *VIII Encontro da Mocidade Investigadora: libro de resumos*. Published by Servizo de Publicacións Campus Vida.  
+  - ISBN: 978-84-19155-34-4  
+  - DOI: [10.15304/9788419155344](https://dx.doi.org/10.15304/9788419155344)  
+- Funding: International Doctoral School Direction Committee (EDIUS), Universidade de Santiago de Compostela, Spain  
+- [Media Coverage](https://albruzos.github.io/files/media/20210602_PERIODICO_ElcorreoGallego_EMI.pdf)
+
+
+
+
 
 
 <i class="fa fa-users" aria-hidden="true"></i> Attendance
