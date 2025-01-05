@@ -19,7 +19,7 @@ author_profile: true
 
 
 
-<i class="fa fa-bell" aria-hidden="true"></i> Invited speaker (4)
+<i class="fa fa-bell" aria-hidden="true"></i> Invited speaker (5)
 =======
 [5] <b>International Symposium on Coastal Ecological Health</b>: <a href="https://www.uoh.cl/simposio-internacional-dio-termino-a-proyecto-fovi-de-investigadora-uoh/" target="_blank">(Instituto de Ciencias Agroalimentarias, Animales y Ambientales (ICA3))</a>. San Fernando, Chile (25/11/2024). Title: <i>La historia evolutiva de los cánceres contagiosos de berberechos y almejas</i>.<br>
 
