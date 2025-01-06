@@ -192,6 +192,13 @@ Check my [PR clipping](https://albruzos.github.io/media/)
 <b>TEACHING</b> <i class="fa fa-users" aria-hidden="true"></i>  
 A total of 125 teaching hours in **4 public universities** - two Spanish, one British, and one French - where I have taught genetics in different degrees (Biology, Biotechnology, and Medicine). [More details](https://albruzos.github.io/teaching/university-teaching)  
 
+<b>LEADERSHIP</b> <i class="fa fa-users" aria-hidden="true"></i>  
+ <ul class="fa-ul">
+  <li><i class="fa fa-check-circle" aria-hidden="true"></i>Jury of [Galicia Spin-Off Awards](https://www.gciencia.com/talento/o-xurado-dos-galicia-spin-off-reune-a-persoas-destacadas-da-ciencia-a-empresa-e-a-comunicacion/) in 2024, called and organized by GCiencia.
+</li>
+  <li><i class="fa fa-check-circle" aria-hidden="true"></i>[External evaluator](https://albruzos.github.io/teaching/supervision) of 2 PhD thesis</li>
+</ul>
+
 <b>SKILLS, COURSES, EXPEDITIONS & CERTIFICATIONS</b> <i class="fa fa-wrench" aria-hidden="true"></i>  
 <ul class="fa-ul">
   <li><i class="fa fa-check-circle" aria-hidden="true"></i><b>Profesor Ayudante Doctor</b> (2023). Agencia Nacional de Evaluación de la Calidad de la Acreditación (ANECA), Spain.</li>
