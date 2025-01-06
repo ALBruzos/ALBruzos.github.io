@@ -54,9 +54,9 @@ _2023 – ongoing:_	**Postdoctoral researcher (MSCA fellow)** at [Université de
 _2021 – 2023:_ **Research assistant** at [The Francis Crick Institute](https://www.crick.ac.uk/) and [University College of London](https://www.ucl.ac.uk/), UNITED KINGDOM.  
 _2016 – 2021:_ **Predoctoral researcher (national predoctoral fellow)** at [Universidade de Santiago de Compostela](https://www.usc.es/gl) and [Universidade de Vigo](https://www.uvigo.gal/en), SPAIN.  
 
-<b>RESEARCH STAYS AS A VISITING SCIENTIST <i class="fa fa-globe" aria-hidden="true"></i>
+<b>RESEARCH STAYS AS A VISITING SCIENTIST</b> <i class="fa fa-globe" aria-hidden="true"></i>
 <ul class="fa-ul">
-  <li><i class="fa-li fa fa-check-square"></i> <b>Centro de Ciências do Mar (CCMAR), Algarve, PORTUGAL. Jul-Aug 2024</li>
+  <li><i class="fa-li fa fa-check-square"></i> <b>Centro de Ciências do Mar (CCMAR)</b>, Algarve, PORTUGAL. Jul-Aug 2024</li>
   <li><i class="fa-li fa fa-check-square"></i> <b>Korea Advance Institute of Science and Technology</b> (KAIST), Daejeon, SOUTH KOREA. Jan-Apr 2021</li>
   <li><i class="fa-li fa fa-check-square"></i> <b>University of Vigo</b>, Vigo, SPAIN. Oct-Dec 2020</li>
   <li><i class="fa-li fa fa-check-square"></i> <b>National University of Ireland Galway</b>, Galway, IRELAND. Mar-Apr 2019</li>
