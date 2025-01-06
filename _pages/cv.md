@@ -50,16 +50,17 @@ Download [here a PDF version of my CV](https://ALBruzos.github.io/files/CVs/CV_A
 
 <i class="fa fa-fw fa-briefcase "></i> Work experience
 =======
-_2023 – ongoing:_	**Postdoctoral researcher (MSCA fellow)** at [Université de Caen Normandie](https://www.unicaen.fr/), France.  
-_2021 – 2023:_ **Research assistant** at [The Francis Crick Institute](https://www.crick.ac.uk/) and [University College of London](https://www.ucl.ac.uk/), United Kingdom.  
-_2016 – 2021:_ **Predoctoral researcher (national predoctoral fellow)** at [Universidade de Santiago de Compostela](https://www.usc.es/gl) and [Universidade de Vigo](https://www.uvigo.gal/en), Spain.  
+_2023 – ongoing:_	**Postdoctoral researcher (MSCA fellow)** at [Université de Caen Normandie](https://www.unicaen.fr/), FRANCE.  
+_2021 – 2023:_ **Research assistant** at [The Francis Crick Institute](https://www.crick.ac.uk/) and [University College of London](https://www.ucl.ac.uk/), UNITED KINGDOM.  
+_2016 – 2021:_ **Predoctoral researcher (national predoctoral fellow)** at [Universidade de Santiago de Compostela](https://www.usc.es/gl) and [Universidade de Vigo](https://www.uvigo.gal/en), SPAIN.  
 
 <b>RESEARCH STAYS AS A VISITING SCIENTIST <i class="fa fa-globe" aria-hidden="true"></i>
 <ul class="fa-ul">
-  <li><i class="fa-li fa fa-check-square"></i> <b>Korea Advance Institute of Science and Technology</b> (KAIST), Daejeon (South Korea). Jan-Apr 2021</li>
-  <li><i class="fa-li fa fa-check-square"></i> <b>University of Vigo</b>, Vigo (Spain). Oct-Dec 2020</li>
-  <li><i class="fa-li fa fa-check-square"></i> <b>National University of Ireland Galway</b>, Galway (Ireland). Mar-Apr 2019</li>
-  <li><i class="fa-li fa fa-check-square"></i> <b>Pacific Northwest Research Institute</b> (PNRI), Seattle (USA). Sep-Dec 2018</li>
+  <li><i class="fa-li fa fa-check-square"></i> <b>Centro de Ciências do Mar (CCMAR), Algarve, PORTUGAL. Jul-Aug 2024</li>
+  <li><i class="fa-li fa fa-check-square"></i> <b>Korea Advance Institute of Science and Technology</b> (KAIST), Daejeon, SOUTH KOREA. Jan-Apr 2021</li>
+  <li><i class="fa-li fa fa-check-square"></i> <b>University of Vigo</b>, Vigo, SPAIN. Oct-Dec 2020</li>
+  <li><i class="fa-li fa fa-check-square"></i> <b>National University of Ireland Galway</b>, Galway, IRELAND. Mar-Apr 2019</li>
+  <li><i class="fa-li fa fa-check-square"></i> <b>Pacific Northwest Research Institute</b> (PNRI), Seattle, USA. Sep-Dec 2018</li>
 </ul>
 
 [More details about my work experience](https://albruzos.github.io/jobs/)  
@@ -193,11 +194,8 @@ Check my [PR clipping](https://albruzos.github.io/media/)
 A total of 125 teaching hours in **4 public universities** - two Spanish, one British, and one French - where I have taught genetics in different degrees (Biology, Biotechnology, and Medicine). [More details](https://albruzos.github.io/teaching/university-teaching)  
 
 <b>LEADERSHIP</b> <i class="fa fa-users" aria-hidden="true"></i>  
- <ul class="fa-ul">
-  <li><i class="fa fa-check-circle" aria-hidden="true"></i>Jury of [Galicia Spin-Off Awards](https://www.gciencia.com/talento/o-xurado-dos-galicia-spin-off-reune-a-persoas-destacadas-da-ciencia-a-empresa-e-a-comunicacion/) in 2024, called and organized by GCiencia.
-</li>
-  <li><i class="fa fa-check-circle" aria-hidden="true"></i>[External evaluator](https://albruzos.github.io/teaching/supervision) of 2 PhD thesis</li>
-</ul>
+- Jury of [Galicia Spin-Off Awards](https://www.gciencia.com/talento/o-xurado-dos-galicia-spin-off-reune-a-persoas-destacadas-da-ciencia-a-empresa-e-a-comunicacion/) in 2024, called and organized by GCiencia.
+- [External evaluator](https://albruzos.github.io/teaching/supervision) of 2 PhD thesis.  
 
 <b>SKILLS, COURSES, EXPEDITIONS & CERTIFICATIONS</b> <i class="fa fa-wrench" aria-hidden="true"></i>  
 <ul class="fa-ul">
