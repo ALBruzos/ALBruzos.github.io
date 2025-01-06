@@ -63,7 +63,9 @@ _2016 – 2021:_ **Predoctoral researcher (national predoctoral fellow)** at [Un
   <li><i class="fa-li fa fa-check-square"></i> <b>Pacific Northwest Research Institute</b> (PNRI), Seattle, USA. Sep-Dec 2018</li>
 </ul>
 
+
 [More details about my work experience](https://albruzos.github.io/jobs/)  
+
 
 ---
 
