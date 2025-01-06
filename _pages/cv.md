@@ -261,5 +261,5 @@ Full detailed list can be checked [here](https://albruzos.github.io/awardsgrants
 [...get in touch with me](https://albruzos.github.io/contact)
 
 
-_Last update: Aug 2023_
+_Last update: Jan 2025_
 {: .notice}
