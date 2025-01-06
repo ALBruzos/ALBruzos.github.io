@@ -54,6 +54,12 @@ _Summer 2012:_ **Camp Instructor of Australian students**.
 :   *Institution:* Montemar Summer School, Spain.  
 
 ### RESEARCH STAYS AS A VISITING SCIENTIST
+2024: **Centro de Ciências do Mar (CCMAR)**, Algarve, (Portugal).  
+:   *Research topic:* Assessing the cross-species transmission and prevalence of hemic neoplasia in bivalves.  
+:   *Supervisor:* Dra. Ana Margarida Amaral.  
+:   *Funding:* AquaExcel TNA grant.  
+:   *Time:* July to August (07-JUL-2024 to 02-AUG-2024).  
+
 2021: **Korea Advance Institute of Science and Technology (KAIST)**, Daejeon (South Korea).  
 :   *Research topic:* Analyzing expression and cell origin using RNA-seq data.  
 :   *Supervisor:* Dr. Young Seok Ju.  
@@ -68,7 +74,7 @@ _Summer 2012:_ **Camp Instructor of Australian students**.
 2019: **National University of Ireland Galway (NUIG)**, Galway (Ireland).  
 :   *Research topic:* Studying the clonal structure of contagious cancers in Irish cockles.  
 :   *Supervisor*: Prof. Mark Johnson.  
-:   *Funding:* AssemblePlus (grant agreement no. 730984)  
+:   *Funding:* AssemblePlus TNA grant (grant agreement no. 730984)  
 :   *Time:* March to April (11-MAR-2019 to 12-ABR-2019).  
 
 2018: **Pacific Northwest Research Institute (PNRI)**, Seattle (USA).  
