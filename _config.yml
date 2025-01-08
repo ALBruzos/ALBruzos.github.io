@@ -255,7 +255,18 @@ defaults:
       layout: portfolio
       author_profile: true
       share: true
-
+  # news
+  - scope:
+      path: ""
+      type: news
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+      
 # Sass/SCSS
 sass:
   sass_dir: _sass
