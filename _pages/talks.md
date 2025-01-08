@@ -96,6 +96,10 @@ author_profile: true
 =======
 <FONT COLOR="#45B39D">Highlighting legend: <u>Underlined</u> author presenting the communication (20 out of 24 were given my Bruzos); <i class="fa fa-map" aria-hidden="true"></i> Link to download the poster; <i class="fa fa-star" aria-hidden="true"></i> Award; <i class="fa fa-book" aria-hidden="true"></i> DOI or book chapter with ISBN.</FONT>
 
+Whenever possible, all posters are openly available on my [ResearchGate profile](https://www.researchgate.net/profile/Alicia-Bruzos/publications).
+{: .notice}
+
+
 <!-- Not presented by me: 1, 4, 6, 7, 8, 13, 16, 17, 20, 21 -->
 
 [23] <b>Échanges scientifiques 'For Women in Science'</b>: (Fondation L'Óreal & UNESCO). Paris, France (9/10/2024 - 9/10/2024). Poster title: <i>Immune mechanisms of transmissible cancers in bivalves</i>. <b><u>Bruzos, A.L.</u></b> <i class="fa fa-star" aria-hidden="true"></i> <a href="https://www.exteriores.gob.es/RepresentacionesPermanentes/unesco/es/Comunicacion/Noticias/Paginas/Articulos/La-joven-bi%C3%B3loga-espa%C3%B1ola-Alicia-L--Bruzos-es-galardonada-con-el-Premio-J%C3%B3venes-Talentos-Francia-2024-L%E2%80%99Or%C3%A9al-UNESCO-Para-l.aspx" target="_blank">FWIS jeunes talents</a> <br>
