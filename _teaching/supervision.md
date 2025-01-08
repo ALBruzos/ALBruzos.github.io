@@ -6,7 +6,7 @@ date: 2021-12-01
 permalink: /teaching/supervision
 ---
 
-**Total**: 2 Bachelor Thesis, 3 Master Thesis
+**Total**: 3 Master Thesis, 2 Bachelor Thesis
 
 
 | Academic Year (defense date)  | Title | Student | Supervisors | Degree (Type) | University, Country (Language) | Grade |
