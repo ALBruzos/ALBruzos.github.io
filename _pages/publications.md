@@ -25,6 +25,7 @@ My scientific expertise has led me to several invitations to take part in the pe
   <li><i class="fa-li fa fa-check-square"></i>1 for <i>Science Advances (AAAS)</i>. IF(2021)=13.6, JCR rank (2022) 7/73 (D1)</li>
   <li><i class="fa-li fa fa-check-square"></i>1 for <i>Molecular Ecology (Wiley)</i>. IF(2022)=4.9, JCR rank (2022) 8/52 (Q1) </li>
   <li><i class="fa-li fa fa-check-square"></i>1 for <i>Proceedings of the Royal Society B - Biological Sciences</i>. IF(2022)=4.7, JCR rank (2022) 10/52 (Q1)</li>
+  <li><i class="fa-li fa fa-check-square"></i>1 for <i>Scientific Reports</i>.</li>
 </ul>
 
 All stated reviews have been certified by Publons / Web of Science: [D-7235-2018](https://publons.com/researcher/1404866/alicia-l-bruzos/).
