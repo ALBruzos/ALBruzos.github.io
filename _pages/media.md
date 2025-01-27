@@ -59,7 +59,8 @@ author_profile: true
 4 <i class="icon-book"></i>
 5 <i class="fa fa-picture-o" aria-hidden="true"></i>
 6 <i class="fa fa-picture-o" aria-hidden="true"></i>
-7
+7 <i class="fa fa-file" aria-hidden="true"></i>
+8 <i class="fa fa-file-image-o" aria-hidden="true"></i>
 
 
 Here I highlight the main interviews, however, other interviews are listed in the Section *My science in the news* below.  
