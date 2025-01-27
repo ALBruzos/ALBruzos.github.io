@@ -12,15 +12,17 @@ author_profile: true
 
 <img src='/images/TiraFotos_1_media_AliciaLBruzos.png'>  
 
+<!---to comment ---> 
+
 # Selected Media Appearances
 
-## <i class="fa fa-camera" aria-hidden="true"></i> TV
+## <i class="fa fa-camera" aria-hidden="true"></i> TV (5/11)
 
 1. **Televisión de Galicia (TVG).** Short interview by Roberto Vilar, Marcial Mouro, and Raquel Atanes for the show **Quen Anda Aí**, discussing my research and the L'Oreal-UNESCO 'For Women in Science' Prize (15/10/2024). *Quen Anda Aí* is a political and social affairs program aired weekday afternoons on TVG. [Watch complete video](https://www.youtube.com/watch?v=VZ4v2DaXv-4&t=167s)
 
 2. **France 3 Normandie.** Reportage for the **Midday and Evening Newscast**, featuring my scientific career and the L'Oreal-UNESCO 'For Women in Science' Prize (09/10/2024). [Watch complete video](https://www.youtube.com/watch?v=cv9hi7oB1vs&t=2s)
 
-3. **Canal Sur TV.** Interview by Teodoro León Gross for the show **Analysis Table**, covering the publication of the *Nature Cancer* article on the Scuba Cancers project (09/10/2023). *Analysis Table* is a political and social current affairs program showcased every weekday morning on Canal Sur TV. [Watch complete video](https://www.youtube.com/watch?v=83Wx3LRxdhU)
+3. **Canal Sur TV.** Interview by Teodoro León Gross for the show **Analysis Table**, covering the publication of the *Nature Cancer* article on the Scuba Cancers project (09/10/2023). *Mesa de análisis* is a political and social current affairs program showcased every weekday morning on Canal Sur TV. [Watch complete video](https://www.youtube.com/watch?v=83Wx3LRxdhU)
 
 4. **Televisión del Principado de Asturias (TPA).**  Short feature on the **Evening Newscast** about my visit to a high school to inspire scientific vocations, with a special focus on women (10/02/2023). [Watch complete video](https://youtu.be/feiMZIoUHkk)  
 ![Preview 1](https://user-images.githubusercontent.com/15688556/258240103-60f7e927-ad60-40fd-9ffb-e992c07ed45b.mp4)  
@@ -28,16 +30,32 @@ author_profile: true
 5. **Televisión de Galicia (TVG).** Short interview on the **Midday Newscast** about the Pan-cancer initiative (06/02/2020). [Watch complete video](https://www.youtube.com/watch?v=FpttVkiBLok)  
 ![Preview 2](https://user-images.githubusercontent.com/15688556/190830129-3268cccb-7408-4d3a-9895-ce164308b9d5.mp4)
 
-## <i class="fa fa-volume-up" aria-hidden="true"></i> Radio
-<!--- <i class="fa fa-volume-up" aria-hidden="true"></i>*EITB*. Interview about science and research for the show **xx** ---> 
-<i class="fa fa-volume-up" aria-hidden="true"></i>*Canal Extremadura*. Interview about marine contagious cancers for the show **Principio de Incertidumbre**. *(09/12/2023)*. [Listen here](https://www.canalextremadura.es/a-la-carta/principio-de-incertidumbre/audios/principio-de-incertidumbre-091223) - [ivoox](https://www.ivoox.com/principio-incertidumbre-canceres-transmisibles-berberechos-09-12-23-audios-mp3_rf_120810956_1.html) - [Apple Podcasts](https://podcasts.apple.com/es/podcast/principio-de-incertidumbre-cánceres-transmisibles-en/id1070524537?i=1000638004812)  
-<i class="fa fa-volume-up" aria-hidden="true"></i>*RNE*. Interview about the *Nature Cancer* publication on cockle contagious cancers for the show **Españoles en la mar**. *(06/11/2023)*. [Listen here](https://youtu.be/MlO6IKyaSoU)  
-<i class="fa fa-volume-up" aria-hidden="true"></i>*CUAC FM*. Interview during my participation in the Science Fair *"Cullerciencia"* of A Coruña *(10/06/2023)*. [Listen here](https://www.youtube.com/watch?v=SH2388ic23o) | [Complete episode](https://cuacfm.org/radioco/programmes/la-ciencia-es-femenino/6x20/)   
-<i class="fa fa-volume-up" aria-hidden="true"></i>*BBC Cambridgeshire* and *BBC5 live*. Interview for the show **Naked Scientists** to talk about marine contagious cancers *(12/04/2022 and 17/04/2022)*. [Listen here](https://www.youtube.com/watch?v=EYt-oRvnBE0&t=1419s)  
-<i class="fa fa-volume-up" aria-hidden="true"></i>*CRTVG*. Interview for the radio show **Convivir** to talk about my research within the framework of Scuba Cancers project *(21/01/2022)*. [Listen here](https://www.youtube.com/watch?v=Pzi0KQ4i7Qk&t=506s)  
-<i class="fa fa-volume-up" aria-hidden="true"></i>*CUAC FM*. Interview for the radio show **Ciencia es Femenino** to talk about my research and the role of women in science *(20/06/2021)*. [Listen here](https://www.youtube.com/watch?v=bAO6dC8e2k4) | [Live picture](https://twitter.com/cienciaytu/status/1406551854612455424) | [Commercial bulletin](https://ALBruzos.github.io/images/lacienciaesfemenino-junio2021.jpg)   
-<i class="fa fa-volume-up" aria-hidden="true"></i>*CRTVG*. Live interview in the show **Galicia Por Diante** of the regional radio of Galicia about the Pan-cancer initiative *(06/02/2020)*. [Listen here](https://www.youtube.com/watch?v=ZOKAGpGxypw) | [Picture](https://twitter.com/GxDRadioGalega/status/1225431511324938243)  
-<i class="fa fa-volume-up" aria-hidden="true"></i>*CRTVG*. Interview for the radio show and podcast **Efervesciencia** to talk about science, my PhD project and our recent publications in the framework of the Pan-cancer initiative *(20/02/2020)*. [Listen here](https://www.youtube.com/watch?v=kAaldyn0ul8) | [Picture](https://twitter.com/efervesciencia/status/1230249919614771204)  
+## <i class="fa fa-volume-up" aria-hidden="true"></i> Radio (6/28)
+
+1. *CUAC FM*. Interview for the radio show **Ciencia es Femenino** to talk about my research, living abroad and the role of women in STEM *(26/01/2025)*. [Listen here](https://youtu.be/2Tc9i1VI7xI)
+
+2. *CRTVG*. Two live interview in the show **Galicia Por Diante** of the regional radio of Galicia featuring the award 'For Women in Science' of Fondation L'Óreal-UNESCO. [Listen here 1](https://youtu.be/DK5mGs0xZjw) *(08/10/2024)* | [Listen here 2]() *(04/11/2024)*
+
+3.*Sweet FM*. Short interview of the musical radio of Normandie featuring the award 'For Women in Science' of Fondation L'Óreal-UNESCO *(09/10/2024)*. [Listen here 1](https://octopus.saooti.com/main/pub/podcast/881473-Une-distinction-pour-une-jeune-chercheuse-installée-dans-le-Calvados?productor=e95bfbe0-15a3-4769-8387-d8e74ab384c4) 
+
+4. *RNE*. Interview about the *Nature Cancer* publication on cockle contagious cancers for the show **Españoles en la mar**. *(06/11/2023)*. [Listen here](https://youtu.be/MlO6IKyaSoU)  
+
+5. *BBC Cambridgeshire* and *BBC5 live*. Interview for the show **Naked Scientists** to talk about marine contagious cancers *(12/04/2022 and 17/04/2022)*. [Listen here](https://www.youtube.com/watch?v=EYt-oRvnBE0&t=1419s) 
+
+6. *CRTVG*. Interview for the radio show and podcast **Efervesciencia** to talk about science, my PhD project and our recent publications in the framework of the Pan-cancer initiative *(20/02/2020)*. [Listen here](https://www.youtube.com/watch?v=kAaldyn0ul8) | [Picture](https://twitter.com/efervesciencia/status/1230249919614771204)
+
+   
+
+## <i class="fa fa-podcast" aria-hidden="true"></i> Podcasts (5/6)
+
+*Canal Extremadura*. Interview about marine contagious cancers for the show **Principio de Incertidumbre**. *(09/12/2023)*. [Listen here](https://www.canalextremadura.es/a-la-carta/principio-de-incertidumbre/audios/principio-de-incertidumbre-091223) - [ivoox](https://www.ivoox.com/principio-incertidumbre-canceres-transmisibles-berberechos-09-12-23-audios-mp3_rf_120810956_1.html) - [Apple Podcasts](https://podcasts.apple.com/es/podcast/principio-de-incertidumbre-cánceres-transmisibles-en/id1070524537?i=1000638004812)  
+
+**Muy al día PODCAST**. Half an hour interview talking about contagious cancers in cockles and science *(09/10/2023)*. [Listen here](https://www.youtube.com/watch?v=VSCPKnIMPbw&t=1s) [ivoox](https://www.ivoox.com/en/cientifica-alicia-lopez-bruzos-nos-explica-el-audios-mp3_rf_117405310_1.html) - [Apple Podcasts](https://podcasts.apple.com/es/podcast/la-cient%C3%ADfica-alicia-l%C3%B3pez-bruzos-nos-explica-el/id1592094491?i=1000630649637) - [Spotify](https://open.spotify.com/episode/1Yht65s14IJTSGTEWuhb1P)   
+<i class="fa fa-podcast" aria-hidden="true"></i>**VOCES11F PODCAST**. Interview to talk about the 3MT Video Award *(13/06/2022)*. [Listen here](https://www.youtube.com/watch?v=VSCPKnIMPbw&t=1s)  
+<i class="fa fa-podcast" aria-hidden="true"></i>**NAKED SCIENTIST PODCAST**. Interview to talk about marine contagious cancers *(12/04/2022)*. [Listen here](https://www.youtube.com/watch?v=EYt-oRvnBE0&t=1419s)
+<i class="fa fa-podcast" aria-hidden="true"></i>**ELIFE PODCAST**. Brief interview to highlight the findings of our recent publication of a novel contagious cancer among clams on the seas of southern Europe *(Episode 79, March 2022)*. [Listen here](https://www.youtube.com/watch?v=EpGii4c1Dtg)  
+
+
 
 ## <i class="fa fa-book" aria-hidden="true"></i> Newspaper
 
@@ -56,21 +74,14 @@ Here I highlight the main interviews, however, other interviews are listed in th
 <i class="fa fa-book" aria-hidden="true"></i>**La Voz de Galicia**. Interview and picture for the regional newspaper about the *Pan-cancer initiative* *(06/02/2020)*. [Link](https://www.lavozdegalicia.es/noticia/sociedad/2020/02/06/equipo-gallego-halla-causa-desconocida-origen-cancer/0003_202002G6P23991.htm)  
 <i class="fa fa-book" aria-hidden="true"></i>**La Gaceta**. Interview and picture for Salamanca’s newspaper about my doctoral research with *cockles* to find the genetic causes of contagious metastasis *(10/12/2017)*. [Link](https://www.genomesdisease.tech/media/20171210_EntevistaAliciaSalamanca.pdf)  
 
-Podcasts and Social Networks
-=====
-<i class="fa fa-podcast" aria-hidden="true"></i>**Muy al día PODCAST**. Half an hour interview talking about contagious cancers in cockles and science *(09/10/2023)*. [Listen here](https://www.youtube.com/watch?v=VSCPKnIMPbw&t=1s) [ivoox](https://www.ivoox.com/en/cientifica-alicia-lopez-bruzos-nos-explica-el-audios-mp3_rf_117405310_1.html) - [Apple Podcasts](https://podcasts.apple.com/es/podcast/la-cient%C3%ADfica-alicia-l%C3%B3pez-bruzos-nos-explica-el/id1592094491?i=1000630649637) - [Spotify](https://open.spotify.com/episode/1Yht65s14IJTSGTEWuhb1P)   
-<i class="fa fa-book" aria-hidden="true"></i>**BLOG: Women in Research**. Female scientists featured in this blog by Ulrike Boehm *(09/07/2023)* [Read here](https://womeninresearchblog.wordpress.com/2023/07/09/alicia-spain/) or [here](https://www.lindau-nobel.org/blog-women-in-research-lino23-alicia-l-bruzos/)    
-<i class="fa fa-podcast" aria-hidden="true"></i>**VOCES11F PODCAST**. Interview to talk about the 3MT Video Award *(13/06/2022)*. [Listen here](https://www.youtube.com/watch?v=VSCPKnIMPbw&t=1s)  
-<i class="fa fa-podcast" aria-hidden="true"></i>**NAKED SCIENTIST PODCAST**. Interview to talk about marine contagious cancers *(12/04/2022)*. [Listen here](https://www.youtube.com/watch?v=EYt-oRvnBE0&t=1419s)  
-<i class="fa fa-podcast" aria-hidden="true"></i>**ELIFE PODCAST**. Brief interview to highlight the findings of our recent publication of a novel contagious cancer among clams on the seas of southern Europe *(Episode 79, March 2022)*. [Listen here](https://www.youtube.com/watch?v=EpGii4c1Dtg)  
-<i class="fa fa-spinner" aria-hidden="true"></i>**TWITCH**. Interview for the show **Ciencia e tal**, a programme that gives insights into the latest scientific research that is being done *(31/08/2021)*. [Watch it here](https://www.youtube.com/watch?v=ySERdYkGR1A)  
-<i class="fa fa-spinner" aria-hidden="true"></i>**INSTAGRAM**. Interview for #Pintíficas initiative organized by the **Pint of Science** on the International Day of Girls and Women in Science *(11/02/2020)*. [Watch it here](https://www.youtube.com/watch?v=VK5JApXx8UE)  
 
 Others
 =====
 <i class="fa fa-university" aria-hidden="true"></i>**Official invitation to the regional government**. Meeting with the President of Xunta de Galicia chaired by Alberto Núñez Feijóo and the Minister of Economy, Business and Innovation chaired by Francisco Conde López *(19/02/2020)*. [Official picture](https://twitter.com/FeijooGalicia/status/1230144864978898944)  
 
-
+<i class="fa fa-book" aria-hidden="true"></i>**BLOG: Women in Research**. Female scientists featured in this blog by Ulrike Boehm *(09/07/2023)* [Read here](https://womeninresearchblog.wordpress.com/2023/07/09/alicia-spain/) or [here](https://www.lindau-nobel.org/blog-women-in-research-lino23-alicia-l-bruzos/)    
+<i class="fa fa-spinner" aria-hidden="true"></i>**TWITCH**. Interview for the show **Ciencia e tal**, a programme that gives insights into the latest scientific research that is being done *(31/08/2021)*. [Watch it here](https://www.youtube.com/watch?v=ySERdYkGR1A)  
+<i class="fa fa-spinner" aria-hidden="true"></i>**INSTAGRAM**. Interview for #Pintíficas initiative organized by the **Pint of Science** on the International Day of Girls and Women in Science *(11/02/2020)*. [Watch it here](https://www.youtube.com/watch?v=VK5JApXx8UE)  
 
 <center> <h2>MY SCIENCE IN THE NEWS</h2> </center>
 <img src='/images/TiraFotos_3_media_AliciaLBruzos.png'>  
