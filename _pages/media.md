@@ -16,27 +16,15 @@ author_profile: true
 
 ## <i class="fa fa-camera" aria-hidden="true"></i> TV
 
-1. **Televisión de Galicia (TVG)**  
-   *Short interview by Roberto Vilar, Marcial Mouro, and Raquel Atanes for the* **Quen Anda Aí** *show about my research and the L'Oreal-UNESCO 'For Women in Science' Prize* (15/10/2024).  
-   *Quen Anda Aí* is a political and social current affairs program showcased every working afternoon on TVG.  
-   [Watch complete video](https://www.youtube.com/watch?v=VZ4v2DaXv-4&t=167s)
+1. **Televisión de Galicia (TVG).** Short interview by Roberto Vilar, Marcial Mouro, and Raquel Atanes for the show **Quen Anda Aí**, discussing my research and the L'Oreal-UNESCO 'For Women in Science' Prize (15/10/2024). *Quen Anda Aí* is a political and social affairs program aired weekday afternoons on TVG. [Watch complete video](https://www.youtube.com/watch?v=VZ4v2DaXv-4&t=167s)
 
-2. **France 3 Normandie**  
-   *Reportage for the* **Midday and Evening Newscast** *about my scientific career and the L'Oreal-UNESCO 'For Women in Science' Prize* (09/10/2024).  
-   [Watch complete video](https://www.youtube.com/watch?v=cv9hi7oB1vs&t=2s)
+2. **France 3 Normandie.** Reportage for the **Midday and Evening Newscast**, featuring my scientific career and the L'Oreal-UNESCO 'For Women in Science' Prize (09/10/2024). [Watch complete video](https://www.youtube.com/watch?v=cv9hi7oB1vs&t=2s)
 
-3. **Canal Sur TV**  
-   *Interview by Teodoro León Gross for the* **Morning Show 'Analysis Table'** *about the publication in* *Nature Cancer* *of the Scuba Cancers project* (09/10/2023).  
-   *Analysis Table* is a political and social current affairs program showcased every working morning on Canal Sur TV.  
-   [Watch complete video](https://www.youtube.com/watch?v=83Wx3LRxdhU)
+3. **Canal Sur TV.** Interview by Teodoro León Gross for the show **Analysis Table**, covering the publication of the *Nature Cancer* article on the Scuba Cancers project (09/10/2023). *Analysis Table* is a political and social current affairs program showcased every weekday morning on Canal Sur TV. [Watch complete video](https://www.youtube.com/watch?v=83Wx3LRxdhU)
 
-4. **Televisión del Principado de Asturias (TPA)**  
-   *Short information for the* **Evening Newscast** *about my visit to a high school class to awaken scientific vocations with an emphasis on women* (10/02/2023).  
-   [Watch complete video](https://youtu.be/feiMZIoUHkk)
+4. **Televisión del Principado de Asturias (TPA).**  Short feature on the **Evening Newscast** about my visit to a high school to inspire scientific vocations, with a special focus on women (10/02/2023). [Watch complete video](https://youtu.be/feiMZIoUHkk)
 
-5. **Televisión de Galicia (TVG)**  
-   *Short interview for the* **Midday Newscast** *about the Pan-cancer initiative* (06/02/2020).  
-   [Watch complete video](https://www.youtube.com/watch?v=FpttVkiBLok)
+5. **Televisión de Galicia (TVG).** Short interview on the **Midday Newscast** about the Pan-cancer initiative (06/02/2020). [Watch complete video](https://www.youtube.com/watch?v=FpttVkiBLok)
 
 Below are some short extracts. Full videos are available through the links above:
 ![Preview 1](https://user-images.githubusercontent.com/15688556/258240103-60f7e927-ad60-40fd-9ffb-e992c07ed45b.mp4)  
