@@ -52,7 +52,11 @@ author_profile: true
 2. **Le Major**. [Réflexions sur le succès: Déplacer des montagnes](https://ALBruzos.github.io/files/media/LeMajorMagazine_Dic2024_Mindset-entretienAliciaLBruzos.pdf) (17/12/2024)  
 
 
-## <i class="fa fa-book" aria-hidden="true"></i> Newspaper <i class="fa fa-newspaper-o" aria-hidden="true"></i> <i class="fa fa-file-text" aria-hidden="true"></i>
+## <i class="fa fa-book" aria-hidden="true"></i> Newspaper 
+1 <i class="fa fa-newspaper-o" aria-hidden="true"></i> 
+2 <i class="fa fa-file-text" aria-hidden="true"></i>
+3 <i class="fa fa-book" aria-hidden="true"></i>
+4 <i class="icon-book"></i>
 
 
 Here I highlight the main interviews, however, other interviews are listed in the Section *My science in the news* below.  
