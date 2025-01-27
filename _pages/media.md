@@ -52,17 +52,7 @@ author_profile: true
 2. **Le Major**. [Réflexions sur le succès: Déplacer des montagnes](https://ALBruzos.github.io/files/media/LeMajorMagazine_Dic2024_Mindset-entretienAliciaLBruzos.pdf) (17/12/2024)  
 
 
-## <i class="fa fa-book" aria-hidden="true"></i> Newspaper 
-1 <i class="fa fa-newspaper-o" aria-hidden="true"></i> 
-2 <i class="fa fa-file-text" aria-hidden="true"></i>
-3 <i class="fa fa-book" aria-hidden="true"></i>
-4 <i class="icon-book"></i>
-5 <i class="fa fa-picture-o" aria-hidden="true"></i>
-6 <i class="fa fa-picture-o" aria-hidden="true"></i>
-7 <i class="fa fa-file" aria-hidden="true"></i>
-8 <i class="fa fa-file-image-o" aria-hidden="true"></i>
-
-
+## <i class="fa fa-file" aria-hidden="true"></i> Newspaper 
 Here I highlight the main interviews, however, other interviews are listed in the Section *My science in the news* below.  
 <i class="fa fa-book" aria-hidden="true"></i>**La Voz de Galicia**. Interview for the award in the XIV encuentro de jóvenes investigador@s en el extranjero. *(28/12/2023)*. [Link](https://www.lavozdegalicia.es/noticia/sociedad/2023/12/28/span-langglagora-atraio-cartos-teno-investilos-noutro-paisspan/0003_202312G28P24993.htm) - [Download Here](https://ALBruzos.github.io/files/media/20231228_LaVozdeGalicia.pdf)   
 <i class="fa fa-book" aria-hidden="true"></i>**Faro de Vigo**. Interview about my career for the section of Galician people working at the forefront abroad. *(28/12/2023)*. [Link](https://www.farodevigo.es/estela/2023/11/05/espana-hay-talento-falta-inversion-94209972.html) - [Download Here](https://ALBruzos.github.io/files/media/20231105_FaroDeVigo_GallegosALaVanguardia.pdf)   
@@ -84,7 +74,6 @@ Here I highlight the main interviews, however, other interviews are listed in th
 2. **BLOG: Women in Research**. Female scientists featured in this blog by Ulrike Boehm *(09/07/2023)* [Read here](https://womeninresearchblog.wordpress.com/2023/07/09/alicia-spain/) or [here](https://www.lindau-nobel.org/blog-women-in-research-lino23-alicia-l-bruzos/)    
 3. **TWITCH**. Interview for the show **Ciencia e tal**, a programme that gives insights into the latest scientific research that is being done *(31/08/2021)*. [Watch it here](https://www.youtube.com/watch?v=ySERdYkGR1A)  
 4. **INSTAGRAM**. Interview for #Pintíficas initiative organized by the **Pint of Science** on the International Day of Girls and Women in Science *(11/02/2020)*. [Watch it here](https://www.youtube.com/watch?v=VK5JApXx8UE)  
-
 
 <img src='/images/TiraFotos_1_media_AliciaLBruzos.png'>  
 
