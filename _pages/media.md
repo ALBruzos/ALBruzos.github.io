@@ -32,31 +32,20 @@ author_profile: true
 
 ## <i class="fa fa-volume-up" aria-hidden="true"></i> Radio (6/28)
 
-1. *CUAC FM*. Interview for the radio show **Ciencia es Femenino** to talk about my research, living abroad and the role of women in STEM *(26/01/2025)*. [Listen here](https://youtu.be/2Tc9i1VI7xI)
-
-2. *CRTVG*. Two live interview in the show **Galicia Por Diante** of the regional radio of Galicia featuring the award 'For Women in Science' of Fondation L'Óreal-UNESCO. [Listen here 1](https://youtu.be/DK5mGs0xZjw) *(08/10/2024)* - [Listen here 2]() *(04/11/2024)*
-
-3. *Sweet FM*. Short interview of the musical radio of Normandie featuring the award 'For Women in Science' of Fondation L'Óreal-UNESCO *(09/10/2024)*. [Listen here 1](https://octopus.saooti.com/main/pub/podcast/881473-Une-distinction-pour-une-jeune-chercheuse-installée-dans-le-Calvados?productor=e95bfbe0-15a3-4769-8387-d8e74ab384c4) 
-
-4. *RNE*. Interview about the *Nature Cancer* publication on cockle contagious cancers for the show **Españoles en la mar**. *(06/11/2023)*. [Listen here](https://youtu.be/MlO6IKyaSoU)  
-
-5. *BBC Cambridgeshire* and *BBC5 live*. Interview for the show **Naked Scientists** to talk about marine contagious cancers *(12/04/2022 and 17/04/2022)*. [Listen here](https://www.youtube.com/watch?v=EYt-oRvnBE0&t=1419s) 
-
-6. *CRTVG*. Interview for the radio show and podcast **Efervesciencia** to talk about science, my PhD project and our recent publications in the framework of the Pan-cancer initiative *(20/02/2020)*. [Listen here](https://www.youtube.com/watch?v=kAaldyn0ul8) - [Picture](https://twitter.com/efervesciencia/status/1230249919614771204)
+1. **CUAC FM**. Interview for **Ciencia es Femenino** about my research, living abroad, and women in STEM (26/01/2025). [Listen here](https://youtu.be/2Tc9i1VI7xI)  
+2. **CRTVG**. Two live interviews for **Galicia Por Diante**, discussing the L'Oreal-UNESCO 'For Women in Science' Prize (08/10/2024, 04/11/2024). [Listen 1](https://youtu.be/DK5mGs0xZjw)  
+3. **Sweet FM**. Short feature on the L'Oreal-UNESCO 'For Women in Science' Prize (09/10/2024). [Listen here](https://octopus.saooti.com/main/pub/podcast/881473-Une-distinction-pour-une-jeune-chercheuse-installée-dans-le-Calvados?productor=e95bfbe0-15a3-4769-8387-d8e74ab384c4)  
+4. **RNE**. Interview for **Españoles en la mar** about the *Nature Cancer* article on contagious cancers in cockles (06/11/2023). [Listen here](https://youtu.be/MlO6IKyaSoU)  
+5. **BBC Cambridgeshire** & **BBC5 Live**. Interview for **Naked Scientist** about marine contagious cancers (12/04/2022, 17/04/2022). [Listen here](https://www.youtube.com/watch?v=EYt-oRvnBE0&t=1419s)  
+6. **CRTVG**. Featured on **Efervesciencia** to discuss my PhD project, recent publications, and the Pan-cancer initiative (20/02/2020). [Listen here](https://www.youtube.com/watch?v=kAaldyn0ul8) - [Picture](https://twitter.com/efervesciencia/status/1230249919614771204)  
 
 ## <i class="fa fa-podcast" aria-hidden="true"></i> Podcasts (5/6)
 
-1. **Cultivando o mar**. Interview about marine contagious cancers *(TBA)*.
-
-2. **Principio de Incertidumbre** Interview about marine contagious cancers for the show **Principio de Incertidumbre** which is also broadcast on the radio *Canal Extremadura* *(09/12/2023)*. [Listen here](https://www.canalextremadura.es/a-la-carta/principio-de-incertidumbre/audios/principio-de-incertidumbre-091223) - [ivoox](https://www.ivoox.com/principio-incertidumbre-canceres-transmisibles-berberechos-09-12-23-audios-mp3_rf_120810956_1.html) - [Apple Podcasts](https://podcasts.apple.com/es/podcast/principio-de-incertidumbre-cánceres-transmisibles-en/id1070524537?i=1000638004812)  
-
-3. **Muy al día**. Half an hour interview talking about contagious cancers in cockles and science *(09/10/2023)*. [Listen here](https://www.youtube.com/watch?v=VSCPKnIMPbw&t=1s) [ivoox](https://www.ivoox.com/en/cientifica-alicia-lopez-bruzos-nos-explica-el-audios-mp3_rf_117405310_1.html) - [Apple Podcasts](https://podcasts.apple.com/es/podcast/la-cient%C3%ADfica-alicia-l%C3%B3pez-bruzos-nos-explica-el/id1592094491?i=1000630649637) - [Spotify](https://open.spotify.com/episode/1Yht65s14IJTSGTEWuhb1P)  
-
-4. **VOCES11F**. Interview to talk about the 3MT Video Award *(13/06/2022)*. [Listen here](https://www.youtube.com/watch?v=VSCPKnIMPbw&t=1s)  
-
-5. **eLife podcast (episode 79)**. Brief interview to highlight the findings of our recent publication of a novel contagious cancer among clams on the seas of southern Europe *(01/03/2022)*. [Listen here](https://www.youtube.com/watch?v=EpGii4c1Dtg)  
-
-
+1. **Cultivando o mar**. Interview on marine contagious cancers *(TBA)*.  
+2. **Principio de Incertidumbre**. Discussion on contagious cancers in cockles, also aired on *Canal Extremadura* (09/12/2023). [Listen here](https://www.canalextremadura.es/a-la-carta/principio-de-incertidumbre/audios/principio-de-incertidumbre-091223) - [ivoox](https://www.ivoox.com/principio-incertidumbre-canceres-transmisibles-berberechos-09-12-23-audios-mp3_rf_120810956_1.html) - [Apple Podcasts](https://podcasts.apple.com/es/podcast/principio-de-incertidumbre-cánceres-transmisibles-en/id1070524537?i=1000638004812)   
+3. **Muy al día**. Half-hour interview on contagious cancers and science (09/10/2023). [Listen here](https://www.youtube.com/watch?v=VSCPKnIMPbw&t=1s)  
+4. **VOCES11F**. Interview highlighting the 3MT Video Award (13/06/2022). [Listen here](https://www.youtube.com/watch?v=VSCPKnIMPbw&t=1s)  
+5. **eLife Podcast (Episode 79)**. Brief segment on our discovery of a novel contagious cancer in clams (01/03/2022). [Listen here](https://www.youtube.com/watch?v=EpGii4c1Dtg)  
 
 ## <i class="fa fa-book" aria-hidden="true"></i> Newspaper
 
