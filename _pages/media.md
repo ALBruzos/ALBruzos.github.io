@@ -75,13 +75,11 @@ Here I highlight the main interviews, however, other interviews are listed in th
 <i class="fa fa-book" aria-hidden="true"></i>**La Gaceta**. Interview and picture for Salamanca’s newspaper about my doctoral research with *cockles* to find the genetic causes of contagious metastasis *(10/12/2017)*. [Link](https://www.genomesdisease.tech/media/20171210_EntevistaAliciaSalamanca.pdf)  
 
 
-Others
-=====
-<i class="fa fa-university" aria-hidden="true"></i>**Official invitation to the regional government**. Meeting with the President of Xunta de Galicia chaired by Alberto Núñez Feijóo and the Minister of Economy, Business and Innovation chaired by Francisco Conde López *(19/02/2020)*. [Official picture](https://twitter.com/FeijooGalicia/status/1230144864978898944)  
-
-<i class="fa fa-book" aria-hidden="true"></i>**BLOG: Women in Research**. Female scientists featured in this blog by Ulrike Boehm *(09/07/2023)* [Read here](https://womeninresearchblog.wordpress.com/2023/07/09/alicia-spain/) or [here](https://www.lindau-nobel.org/blog-women-in-research-lino23-alicia-l-bruzos/)    
-<i class="fa fa-spinner" aria-hidden="true"></i>**TWITCH**. Interview for the show **Ciencia e tal**, a programme that gives insights into the latest scientific research that is being done *(31/08/2021)*. [Watch it here](https://www.youtube.com/watch?v=ySERdYkGR1A)  
-<i class="fa fa-spinner" aria-hidden="true"></i>**INSTAGRAM**. Interview for #Pintíficas initiative organized by the **Pint of Science** on the International Day of Girls and Women in Science *(11/02/2020)*. [Watch it here](https://www.youtube.com/watch?v=VK5JApXx8UE)  
+## <i class="fa fa-spinner" aria-hidden="true"></i> Others
+1. <i class="fa fa-university" aria-hidden="true"></i>**Official invitation to the regional government**. Meeting with the President of Xunta de Galicia chaired by Alberto Núñez Feijóo and the Minister of Economy, Business and Innovation chaired by Francisco Conde López *(19/02/2020)*. [Official picture](https://twitter.com/FeijooGalicia/status/1230144864978898944)  
+2. **BLOG: Women in Research**. Female scientists featured in this blog by Ulrike Boehm *(09/07/2023)* [Read here](https://womeninresearchblog.wordpress.com/2023/07/09/alicia-spain/) or [here](https://www.lindau-nobel.org/blog-women-in-research-lino23-alicia-l-bruzos/)    
+3. **TWITCH**. Interview for the show **Ciencia e tal**, a programme that gives insights into the latest scientific research that is being done *(31/08/2021)*. [Watch it here](https://www.youtube.com/watch?v=ySERdYkGR1A)  
+4. **INSTAGRAM**. Interview for #Pintíficas initiative organized by the **Pint of Science** on the International Day of Girls and Women in Science *(11/02/2020)*. [Watch it here](https://www.youtube.com/watch?v=VK5JApXx8UE)  
 
 # Archive of Media Appearances
 <img src='/images/TiraFotos_3_media_AliciaLBruzos.png'>  
