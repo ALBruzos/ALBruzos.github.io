@@ -52,7 +52,8 @@ author_profile: true
 2. **Le Major**. [Réflexions sur le succès: Déplacer des montagnes](https://ALBruzos.github.io/files/media/LeMajorMagazine_Dic2024_Mindset-entretienAliciaLBruzos.pdf) (17/12/2024)  
 
 
-## <i class="fa fa-book" aria-hidden="true"></i> Newspaper
+## <i class="fa fa-book" aria-hidden="true"></i> Newspaper <i class="fa fa-newspaper-o" aria-hidden="true"></i> <i class="fa fa-file-text" aria-hidden="true"></i>
+
 
 Here I highlight the main interviews, however, other interviews are listed in the Section *My science in the news* below.  
 <i class="fa fa-book" aria-hidden="true"></i>**La Voz de Galicia**. Interview for the award in the XIV encuentro de jóvenes investigador@s en el extranjero. *(28/12/2023)*. [Link](https://www.lavozdegalicia.es/noticia/sociedad/2023/12/28/span-langglagora-atraio-cartos-teno-investilos-noutro-paisspan/0003_202312G28P24993.htm) - [Download Here](https://ALBruzos.github.io/files/media/20231228_LaVozdeGalicia.pdf)   
