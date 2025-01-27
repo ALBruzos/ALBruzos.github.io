@@ -39,9 +39,9 @@ author_profile: true
 5. **BBC Cambridgeshire** & **BBC5 Live**. Interview for **Naked Scientist** about marine contagious cancers (12/04/2022, 17/04/2022). [Listen here](https://www.youtube.com/watch?v=EYt-oRvnBE0&t=1419s)  
 6. **CRTVG**. Featured on **Efervesciencia** to discuss my PhD project, recent publications, and the Pan-cancer initiative (20/02/2020). [Listen here](https://www.youtube.com/watch?v=kAaldyn0ul8) - [Picture](https://twitter.com/efervesciencia/status/1230249919614771204)  
 
-## <i class="fa fa-podcast" aria-hidden="true"></i> Podcasts (5/6)
+## <i class="fa fa-podcast" aria-hidden="true"></i> Podcasts (5/7)
 
-1. **Cultivando o mar**. Interview on marine contagious cancers *(TBA)*.  
+1. **C'est Pas Faux**. Interview on marine contagious cancers in French *(05/11/2024)*. [Listen here](https://phenix.fm/podcast/les-cancers-contagieux/)  
 2. **Principio de Incertidumbre**. Discussion on contagious cancers in cockles, also aired on *Canal Extremadura* (09/12/2023). [Listen here](https://www.canalextremadura.es/a-la-carta/principio-de-incertidumbre/audios/principio-de-incertidumbre-091223) - [ivoox](https://www.ivoox.com/principio-incertidumbre-canceres-transmisibles-berberechos-09-12-23-audios-mp3_rf_120810956_1.html) - [Apple Podcasts](https://podcasts.apple.com/es/podcast/principio-de-incertidumbre-cánceres-transmisibles-en/id1070524537?i=1000638004812)   
 3. **Muy al día**. Half-hour interview on contagious cancers and science (09/10/2023). [Listen here](https://www.youtube.com/watch?v=VSCPKnIMPbw&t=1s)  
 4. **VOCES11F**. Interview highlighting the 3MT Video Award (13/06/2022). [Listen here](https://www.youtube.com/watch?v=VSCPKnIMPbw&t=1s)  
