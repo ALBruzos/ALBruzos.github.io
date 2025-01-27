@@ -47,7 +47,7 @@ author_profile: true
 4. **VOCES11F**. Interview highlighting the 3MT Video Award (13/06/2022). [Listen here](https://www.youtube.com/watch?v=VSCPKnIMPbw&t=1s)  
 5. **eLife Podcast (Episode 79)**. Brief segment on our discovery of a novel contagious cancer in clams (01/03/2022). [Listen here](https://www.youtube.com/watch?v=EpGii4c1Dtg)  
 
-## <i class="fa fa-book" aria-hidden="true"></i> Magazines
+## <i class="fa fa-book" aria-hidden="true"></i> Magazines (2/2)
 1. **Yo Dona**. [Alicia L. Bruzos, experta en genoma del cáncer: "No hay que ser un genio para triunfar en ciencia"](https://ALBruzos.github.io/files/media/YoDona_Nov2024_entrevistaALBruzos.pdf) (30/11/2024)  
 2. **Le Major**. [Réflexions sur le succès: Déplacer des montagnes](https://ALBruzos.github.io/files/media/LeMajorMagazine_Dic2024_Mindset-entretienAliciaLBruzos.pdf) (17/12/2024)  
 
