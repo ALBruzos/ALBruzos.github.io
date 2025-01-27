@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-<p>I have presented my research at <u>52 international and national conferences</u> in 9 different countries of the world. If you would like to venture into marine contagious cancers, do not hesitate to <a href="https://albruzos.github.io/contact/" target="_blank">contact me</a> - I always do my best to accommodate invitations and events to share and discuss this topic! </p> 
+<p>I have had the privilege of presenting my research at <u>52 international and national conferences</u> across 9 countries. Below, you’ll find a comprehensive list of these events. If you’re interested in marine contagious cancers, feel free to <a href="https://albruzos.github.io/contact/" target="_blank">reach out</a>. I always do my best to accommodate invitations and events to share and discuss and share insights about this topic!</p>
 {% include toc %}
 
 <img src='/images/Tira_FotosCongresos_AliciaLBruzos.png'>  
