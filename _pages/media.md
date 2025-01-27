@@ -25,16 +25,16 @@ author_profile: true
 3. **Canal Sur TV.** Interview by Teodoro León Gross for the show **Analysis Table**, covering the publication of the *Nature Cancer* article on the Scuba Cancers project (09/10/2023). *Mesa de análisis* is a political and social current affairs program showcased every weekday morning on Canal Sur TV. [Watch complete video](https://www.youtube.com/watch?v=83Wx3LRxdhU)
 
 4. **Televisión del Principado de Asturias (TPA).**  Short feature on the **Evening Newscast** about my visit to a high school to inspire scientific vocations, with a special focus on women (10/02/2023). [Watch complete video](https://youtu.be/feiMZIoUHkk)  
-![Preview 1](https://user-images.githubusercontent.com/15688556/258240103-60f7e927-ad60-40fd-9ffb-e992c07ed45b.mp4)  
+<!---![Preview 1](https://user-images.githubusercontent.com/15688556/258240103-60f7e927-ad60-40fd-9ffb-e992c07ed45b.mp4)  ---> 
 
 5. **Televisión de Galicia (TVG).** Short interview on the **Midday Newscast** about the Pan-cancer initiative (06/02/2020). [Watch complete video](https://www.youtube.com/watch?v=FpttVkiBLok)  
-![Preview 2](https://user-images.githubusercontent.com/15688556/190830129-3268cccb-7408-4d3a-9895-ce164308b9d5.mp4)
+<!---![Preview 2](https://user-images.githubusercontent.com/15688556/190830129-3268cccb-7408-4d3a-9895-ce164308b9d5.mp4)---> 
 
 ## <i class="fa fa-volume-up" aria-hidden="true"></i> Radio (6/28)
 
 1. *CUAC FM*. Interview for the radio show **Ciencia es Femenino** to talk about my research, living abroad and the role of women in STEM *(26/01/2025)*. [Listen here](https://youtu.be/2Tc9i1VI7xI)
 
-2. *CRTVG*. Two live interview in the show **Galicia Por Diante** of the regional radio of Galicia featuring the award 'For Women in Science' of Fondation L'Óreal-UNESCO. [Listen here 1](https://youtu.be/DK5mGs0xZjw) *(08/10/2024)* | [Listen here 2]() *(04/11/2024)*
+2. *CRTVG*. Two live interview in the show **Galicia Por Diante** of the regional radio of Galicia featuring the award 'For Women in Science' of Fondation L'Óreal-UNESCO. [Listen here 1](https://youtu.be/DK5mGs0xZjw) *(08/10/2024)* - [Listen here 2]() *(04/11/2024)*
 
 3. *Sweet FM*. Short interview of the musical radio of Normandie featuring the award 'For Women in Science' of Fondation L'Óreal-UNESCO *(09/10/2024)*. [Listen here 1](https://octopus.saooti.com/main/pub/podcast/881473-Une-distinction-pour-une-jeune-chercheuse-installée-dans-le-Calvados?productor=e95bfbe0-15a3-4769-8387-d8e74ab384c4) 
 
@@ -42,7 +42,7 @@ author_profile: true
 
 5. *BBC Cambridgeshire* and *BBC5 live*. Interview for the show **Naked Scientists** to talk about marine contagious cancers *(12/04/2022 and 17/04/2022)*. [Listen here](https://www.youtube.com/watch?v=EYt-oRvnBE0&t=1419s) 
 
-6. *CRTVG*. Interview for the radio show and podcast **Efervesciencia** to talk about science, my PhD project and our recent publications in the framework of the Pan-cancer initiative *(20/02/2020)*. [Listen here](https://www.youtube.com/watch?v=kAaldyn0ul8) | [Picture](https://twitter.com/efervesciencia/status/1230249919614771204)
+6. *CRTVG*. Interview for the radio show and podcast **Efervesciencia** to talk about science, my PhD project and our recent publications in the framework of the Pan-cancer initiative *(20/02/2020)*. [Listen here](https://www.youtube.com/watch?v=kAaldyn0ul8) - [Picture](https://twitter.com/efervesciencia/status/1230249919614771204)
 
 ## <i class="fa fa-podcast" aria-hidden="true"></i> Podcasts (5/6)
 
