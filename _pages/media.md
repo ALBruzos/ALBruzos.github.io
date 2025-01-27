@@ -70,15 +70,14 @@ author_profile: true
 
 ## <i class="fa fa-spinner" aria-hidden="true"></i> Others
 1. <i class="fa fa-university" aria-hidden="true"></i>**Official invitation to the regional government**. Meeting with the President of Xunta de Galicia chaired by Alberto Núñez Feijóo and the Minister of Economy, Business and Innovation chaired by Francisco Conde López (19/02/2020). [Official picture](https://x.com/NunezFeijoo/status/1230144864978898944)  
-2. **BLOG: Women in Research**. Female scientists featured by Ulrike Boehm (09/07/2023). [Read here](https://womeninresearchblog.wordpress.com/2023/07/09/alicia-spain/) or [here](https://www.lindau-nobel.org/blog-women-in-research-lino23-alicia-l-bruzos/)    
+2. **BLOG: Women in Research**. Female scientists featured by Ulrike Boehm (09/07/2023). [Read here](https://womeninresearchblog.wordpress.com/2023/07/09/alicia-spain/) or [here](https://www.lindau-nobel.org/blog-women-in-research-lino23-alicia-l-bruzos/)  
 3. **TWITCH**. Interview for the show **Ciencia e tal**, a programme that gives insights into the latest scientific research that is being done (31/08/2021). [Watch it here](https://www.youtube.com/watch?v=ySERdYkGR1A)  
 4. **INSTAGRAM**. Interview for #Pintíficas initiative organized by the **Pint of Science** on the International Day of Girls and Women in Science (11/02/2020). [Watch it here](https://www.youtube.com/watch?v=VK5JApXx8UE)  
 
 <img src='/images/TiraFotos_1_media_AliciaLBruzos.png'>  
 
 # Archive of Media Appearances
-
-> Research publications that I co-authored were mentioned in more than 150 news in more than 40 different newspapers and more than 10 countries. For instance, see here the [Wellcome Sanger Institute to media coverage report](https://twitter.com/BruzosAliciaL/status/1711356686546375093/photo/1) of my main PhD publication. In the following table you can check some of them:
+Throughout my career, both my research publications and various scientific activities —such as outreach, awards, or career— have been featured in media outlets. To date, I have gathered over 250 news items published in more than 40 media platforms across 10 countries. The following table compiles links to all these features:
 
 | News date | Newspaper or media | Headline and link | 
 |  ---------------- | ---------------- | ---------------- |
@@ -330,7 +329,7 @@ author_profile: true
 
 
 
-
+See here an example of media coverage from the [Wellcome Sanger Institute to media coverage report](https://x.com/BruzosAliciaL/status/1711356686546375093) of my main PhD publication. 
 
 <img src='/images/TiraFotos_3_media_AliciaLBruzos.png'>  
 
