@@ -82,7 +82,7 @@ Throughout my career, both my research publications and various scientific activ
 | News date | Newspaper or media | Headline and link | 
 |  ---------------- | ---------------- | ---------------- |
 | 26/01/2025 | Cuac FM | [Ciencia Es Femenino 9x02](https://youtu.be/2Tc9i1VI7xI) |
-| 02/01/<FONT COLOR="#45B39D">2025</FONT> | Mujer y Cía | [Alicia L. Bruzos, científica española: «No hay que ser brillante para dedicarse a la investigación»](https://mujeresycia.com/alicia-l-bruzos-cientifica-espanola-premio/) |
+| 02/01/<FONT COLOR="#45B39D">**2025**</FONT> | Mujer y Cía | [Alicia L. Bruzos, científica española: «No hay que ser brillante para dedicarse a la investigación»](https://mujeresycia.com/alicia-l-bruzos-cientifica-espanola-premio/) |
 | 29/12/2024 | Liberté | [Ces vingt personnalités qui ont marqué l'actualité à Caen en 2024](https://actu.fr/normandie/caen_14118/ces-vingt-personnalites-qui-ont-marque-lactualite-a-caen-en-2024_62045915.html) |
 | 18/12/2024 | El Progreso | [La bióloga Alicia López Bruzos acerca la ciencia a los niños del colegio de Galdo](https://www.elprogreso.es/articulo/a-marina/biologa-alicia-lopez-bruzos-acerca-ciencia-ninos-colegio-galdo/202412182142511814893.amp.html) |
 | 18/12/2024 | El Mundo | [Alicia L. Bruzos, experta en genoma del cáncer: "En los berberechos es contagioso, pero cero miedo al comerlos esta Navidad"](https://www.elmundo.es/yodona/actualidad/2024/12/18/675fea8821efa0027c8b458a.html) |
@@ -120,6 +120,7 @@ Throughout my career, both my research publications and various scientific activ
 | 28/12/2023 | La Voz de Galicia | [Investigadores en el extranjero: «É unha pena que a xente ben formada en Galicia contribúa a ciencia e a riqueza doutros países»](https://www.lavozdegalicia.es/noticia/sociedad/2023/12/28/span-langglagora-atraio-cartos-teno-investilos-noutro-paisspan/0003_202312G28P24993.htm) |
 | 28/12/2023 | La Voz de Galicia | [“En España hay talento, lo que falta es inversión”](https://www.farodevigo.es/estela/2023/11/05/espana-hay-talento-falta-inversion-94209972.html) |
 | 20/12/2023 | Gciencia | [Os dez avances da ciencia galega en 2023](https://www.gciencia.com/perspectivas/dez-investigacions-cientificas-galegas-salientables-2023/) |
+| 03/12/2023 | Euskal Irrati Telebista (EITB) | [La Galería](https://www.ivoox.com/en/contagiosa-leucemia-almejas-audios-mp3_rf_121223589_1.html) |
 | 09/12/2023 | Canal Extremadura | [Principio de Incertidumbre: Interview about marine contagious cancers for the show](https://www.canalextremadura.es/a-la-carta/principio-de-incertidumbre/audios/principio-de-incertidumbre-091223) |
 | 06/11/2023 | Radio Nacional Española (RNE) | [Españoles en la mar](https://youtu.be/MlO6IKyaSoU) |
 | 13/10/2023 | Arab Times | [Discovery of cancers in sea shells helps to find new ways to treat it in humans](https://www.arabtimesonline.com/news/discovery-of-cancers-in-sea-shells-helps-to-find-new-ways-to-treat-it-in-humans/) |
