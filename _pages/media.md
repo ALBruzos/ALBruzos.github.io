@@ -84,14 +84,14 @@ Throughout my career, both my research publications and various scientific activ
 | 26/01/2025 | Cuac FM | [Ciencia Es Femenino 9x02](https://youtu.be/2Tc9i1VI7xI) |
 | 02/01/**<span style="color: #FF5733;">2025</span>** | Mujer y Cía | [Alicia L. Bruzos, científica española: «No hay que ser brillante para dedicarse a la investigación»](https://mujeresycia.com/alicia-l-bruzos-cientifica-espanola-premio/) |
 | 29/12/2024 | Liberté | [Ces vingt personnalités qui ont marqué l'actualité à Caen en 2024](https://actu.fr/normandie/caen_14118/ces-vingt-personnalites-qui-ont-marque-lactualite-a-caen-en-2024_62045915.html) |
-| 18/12/2024 | El Progreso | [La bióloga Alicia López Bruzos acerca la ciencia a los niños del colegio de Galdo](https://www.elprogreso.es/articulo/a-marina/biologa-alicia-lopez-bruzos-acerca-ciencia-ninos-colegio-galdo/202412182142511814893.amp.html) |
-| 18/12/2024 | El Mundo | [Alicia L. Bruzos, experta en genoma del cáncer: "En los berberechos es contagioso, pero cero miedo al comerlos esta Navidad"](https://www.elmundo.es/yodona/actualidad/2024/12/18/675fea8821efa0027c8b458a.html) |
+| 18/12/2024 | **El Progreso** | **[La bióloga Alicia López Bruzos acerca la ciencia a los niños del colegio de Galdo](https://www.elprogreso.es/articulo/a-marina/biologa-alicia-lopez-bruzos-acerca-ciencia-ninos-colegio-galdo/202412182142511814893.amp.html)** |
+| 18/12/2024 | **El Mundo** | **[Alicia L. Bruzos, experta en genoma del cáncer: "En los berberechos es contagioso, pero cero miedo al comerlos esta Navidad"](https://www.elmundo.es/yodona/actualidad/2024/12/18/675fea8821efa0027c8b458a.html)** |
 | 17/12/2024 | Le Major | [Réflexions sur le succès: Déplacer des montagnes](https://ALBruzos.github.io/files/media/LeMajorMagazine_Dic2024_Mindset-entretienAliciaLBruzos.pdf) |
 | 30/11/2024 | Yo Dona | [Alicia L. Bruzos, experta en genoma del cáncer: "No hay que ser un genio para triunfar en ciencia"](https://ALBruzos.github.io/files/media/YoDona_Nov2024_entrevistaALBruzos.pdf) |
 | 09/11/2024 | La Croix | [Cancer : Alicia L. Bruzos, une chercheuse à l’écoute des coquillages](https://www.la-croix.com/sante/cancer-alicia-l-bruzos-une-chercheuse-a-l-ecoute-des-coquillages-20241109) |
-| 05/11/2024 | Radio Phénix  | [C'est Pas Faux: Les cancers contagieux](https://phenix.fm/podcast/les-cancers-contagieux/) |
+| 05/11/2024 | **Radio Phénix**  | **[C'est Pas Faux: Les cancers contagieux](https://phenix.fm/podcast/les-cancers-contagieux/)** |
 | 30/10/2024 | InnovaSpain | [Alicia L. Bruzos: por qué el cáncer contagioso de los berberechos puede despejar incógnitas alrededor de la metástasis en humanos](https://www.innovaspain.com/alicia-l-bruzos-loreal-unesco-cancer-contagioso-berberechos-metastasis-universidad-caen/) |
-| 17/10/2024 | La Renaissance | [Une chercheuse scrute les cancers contagieux des coquillages, pour éviter les métastases chez l'humain](https://ALBruzos.github.io/files/media/20241017_LaRenaissance_AliciaLBruzos.pdf) |
+| 17/10/2024 | **La Renaissance** | **[Une chercheuse scrute les cancers contagieux des coquillages, pour éviter les métastases chez l'humain](https://ALBruzos.github.io/files/media/20241017_LaRenaissance_AliciaLBruzos.pdf)** |
 | 15/10/2024 | Telecinco | [La bióloga Alicia L. Bruzos, reconocida por la Unesco: “Estudiar el cáncer en berberechos nos ayuda a entenderlo en humanos”](https://www.telecinco.es/noticias/galicia/20241015/alicia-bruzos-premio-l-oreal-unesco-estudio-cancer-berberechos_18_013710154.html) |
 | 15/10/2024 | TVG Galicia | [Quen Anda Aí](https://youtu.be/VZ4v2DaXv-4) |
 | 14/10/2024 | RadioVoz | [DespiertaGalicia](https://youtu.be/uX-Qts_z_QA ) |
