@@ -10,18 +10,57 @@ author_profile: true
 
 {% include toc %}
 
-<center> <h2>Dr. BRUZOS IN THE NEWS</h2> </center>
 <img src='/images/TiraFotos_1_media_AliciaLBruzos.png'>  
+
+# Selected Media Appearances
+
+## <i class="fa fa-camera" aria-hidden="true"></i> TV
+
+1. **Televisión de Galicia (TVG)**  
+   *Short interview by Roberto Vilar, Marcial Mouro, and Raquel Atanes for the* **Quen Anda Aí** *show about my research and the L'Oreal-UNESCO 'For Women in Science' Prize* (15/10/2024).  
+   *Quen Anda Aí* is a political and social current affairs program showcased every working afternoon on TVG.  
+   [Watch complete video](https://www.youtube.com/watch?v=VZ4v2DaXv-4&t=167s)
+
+2. **France 3 Normandie**  
+   *Reportage for the* **Midday and Evening Newscast** *about my scientific career and the L'Oreal-UNESCO 'For Women in Science' Prize* (09/10/2024).  
+   [Watch complete video](https://www.youtube.com/watch?v=cv9hi7oB1vs&t=2s)
+
+3. **Canal Sur TV**  
+   *Interview by Teodoro León Gross for the* **Morning Show 'Analysis Table'** *about the publication in* *Nature Cancer* *of the Scuba Cancers project* (09/10/2023).  
+   *Analysis Table* is a political and social current affairs program showcased every working morning on Canal Sur TV.  
+   [Watch complete video](https://www.youtube.com/watch?v=83Wx3LRxdhU)
+
+4. **Televisión del Principado de Asturias (TPA)**  
+   *Short information for the* **Evening Newscast** *about my visit to a high school class to awaken scientific vocations with an emphasis on women* (10/02/2023).  
+   [Watch complete video](https://youtu.be/feiMZIoUHkk)
+
+5. **Televisión de Galicia (TVG)**  
+   *Short interview for the* **Midday Newscast** *about the Pan-cancer initiative* (06/02/2020).  
+   [Watch complete video](https://www.youtube.com/watch?v=FpttVkiBLok)
+
+Below are some short extracts. Full videos are available through the links above:
+![Preview 1](https://user-images.githubusercontent.com/15688556/258240103-60f7e927-ad60-40fd-9ffb-e992c07ed45b.mp4)  
+![Preview 2](https://user-images.githubusercontent.com/15688556/190830129-3268cccb-7408-4d3a-9895-ce164308b9d5.mp4)
+
+
+SELECTED
+====
 
 TV
 =====
-<i class="fa fa-camera" aria-hidden="true"></i>*Canal Sur TV*. Interview by Teodoro León Gross for the **Morning Show 'Analysis Table'** of the public regional television of Andalucía about the publication in *Nature Cancer* of Scuba Cancers project *(09/10/2023)*. 'Mesa de análisis' or 'Analysis Table' is a political and social current affairs program that is showcased every morning on Canal Sur TV. [Watch here complete video](https://www.youtube.com/watch?v=83Wx3LRxdhU)  
+<i class="fa fa-camera" aria-hidden="true"></i>*Televisión de Galicia (TVG)*. Short interview by Roberto Vilar, Marcial Mouro and Raquel Atanes for the **Quen Anda Aí** show of the public regional television of Galicia about my research and the L'Oreal-UNESCO 'For Women in Science' Prize *(15/10/2024)*. 'Quen Anda Aí' is a political and social current affairs program that is showcased every working afternoon on TVG. [Watch here complete video](https://www.youtube.com/watch?v=VZ4v2DaXv-4&t=167s)  
 
-<i class="fa fa-camera" aria-hidden="true"></i>*TPA*. Short information for the **Evening Newscast** of the public regional television of Asturias about my visit to a high school class to awaken scientific vocations with an emphasis on women. *(10/02/2023)*. [Watch here complete video](https://youtu.be/feiMZIoUHkk)  
-<p align="center"><video src="https://user-images.githubusercontent.com/15688556/258240103-60f7e927-ad60-40fd-9ffb-e992c07ed45b.mp4" controls="controls" style="max-width: 500px;"></video></p>
+<i class="fa fa-camera" aria-hidden="true"></i>*France 3 normandie*. Reportage for the **Midday and Evening Newscast** of the public regional television of France about my scientific career and the L'Oreal-UNESCO 'For Women in Science' Prize *(09/10/2024)*. [Watch here complete video](https://www.youtube.com/watch?v=cv9hi7oB1vs&t=2s)  
 
-<i class="fa fa-camera" aria-hidden="true"></i>*TVG*. Short interview for the **Midday Newscast** of the regional television of Galicia about the Pan-cancer initiative *(06/02/2020)*. [Watch here complete video](https://www.youtube.com/watch?v=FpttVkiBLok)  
-<p align="center"><video src="https://user-images.githubusercontent.com/15688556/190830129-3268cccb-7408-4d3a-9895-ce164308b9d5.mp4" controls="controls" style="max-width: 500px;"></video></p>
+<i class="fa fa-camera" aria-hidden="true"></i>*Canal Sur TV*. Interview by Teodoro León Gross for the **Morning Show 'Analysis Table'** of the public regional television of Andalucía about the publication in *Nature Cancer* of Scuba Cancers project *(09/10/2023)*. 'Mesa de análisis' or 'Analysis Table' is a political and social current affairs program showcased every working morning on Canal Sur TV. [Watch here complete video](https://www.youtube.com/watch?v=83Wx3LRxdhU)  
+
+<i class="fa fa-camera" aria-hidden="true"></i>*Televisión del Principado de Asturias (TPA)*. Short information for the **Evening Newscast** of the public regional television of Asturias about my visit to a high school class to awaken scientific vocations with an emphasis on women. *(10/02/2023)*. [Watch here complete video](https://youtu.be/feiMZIoUHkk)  
+
+<i class="fa fa-camera" aria-hidden="true"></i>*Televisión de Galicia (TVG)*. Short interview for the **Midday Newscast** of the regional television of Galicia about the Pan-cancer initiative *(06/02/2020)*. [Watch here complete video](https://www.youtube.com/watch?v=FpttVkiBLok)  
+
+Aquí puedes ver algunos extractos (vídeos completos el los enlaces de cada item):
+<p align="center"><video src="https://user-images.githubusercontent.com/15688556/258240103-60f7e927-ad60-40fd-9ffb-e992c07ed45b.mp4" controls="controls" style="max-width: 200px;"></video></p>
+<p align="center"><video src="https://user-images.githubusercontent.com/15688556/190830129-3268cccb-7408-4d3a-9895-ce164308b9d5.mp4" controls="controls" style="max-width: 200px;"></video></p>
 
 Radio
 =====
