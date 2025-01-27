@@ -333,8 +333,12 @@ See here an example of media coverage from the [Wellcome Sanger Institute to med
 
 <img src='/images/TiraFotos_3_media_AliciaLBruzos.png'>  
 
-<img src='/images/ContactMe_v1.png'>  
-[Get in touch with me](https://albruzos.github.io/contact) | [Photography portfolio](https://albruzos.github.io/portfolio/)
+<p align="center">
+  <a href="https://albruzos.github.io/contact" target="_blank">
+    <img src="/images/ContactMe_v1.png" alt="Contact Alicia L Bruzos">
+  </a>
+</p>
+
 <center> <i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i></center> 
 
 [Back to CV](https://albruzos.github.io/cv/)
