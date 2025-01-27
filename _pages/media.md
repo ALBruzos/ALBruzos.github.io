@@ -5,12 +5,11 @@ permalink: /media/
 author_profile: true
 ---
 
+Explore how my research, outreach, and achievements have captured the attention of media worldwide. Below, you'll find a curated selection of features, followed by a comprehensive archive of over 250 media appearances across 10 countries.
 {% include toc %}
 
 <img src='/images/TiraFotos_1_media_AliciaLBruzos.png'>  
 <!---to comment ---> 
-
-Explore how my research, outreach, and achievements have captured the attention of media worldwide. Below, you'll find a curated selection of features, followed by a comprehensive archive of over 250 media appearances across 10 countries.
 
 # Selected Media Appearances
 
