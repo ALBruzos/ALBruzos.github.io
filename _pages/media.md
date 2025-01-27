@@ -60,11 +60,11 @@ author_profile: true
 4. **La Voz de Galicia**. Interview and picture for the regional newspaper about the *Pan-cancer initiative* *(06/02/2020)*. [Link](https://www.lavozdegalicia.es/noticia/sociedad/2020/02/06/equipo-gallego-halla-causa-desconocida-origen-cancer/0003_202002G6P23991.htm)  
 
 ### Research activities or prizes
-1. **El Progreso**. Visita Galdo
-2. SPAIN FWIS La Voz FWIS
-3. **Faro de Vigo**. Interview about my career for the section of Galician people working at the forefront abroad. *(28/12/2023)*. [Link](https://www.farodevigo.es/estela/2023/11/05/espana-hay-talento-falta-inversion-94209972.html) - [Download Here](https://ALBruzos.github.io/files/media/20231105_FaroDeVigo_GallegosALaVanguardia.pdf)   
-4. **El Correo Gallego**. Short interview and picture for the local newspaper to the scientific committee organizing the *VIII Youth Researchers Meeting* in Santiago de Compostela which I was part of *(02/06/2021)*. [Link](https://www.linkedin.com/posts/alicialopezbruzos_conferences2021-conference-research-activity-6810986196924207105-O6Qw) - [Download Here](https://ALBruzos.github.io/files/media/20210602_PERIODICO_ElcorreoGallego_EMI.pdf)  
-5. **La Gaceta**. Interview and picture for Salamanca’s newspaper about my doctoral research with *cockles* to find the genetic causes of contagious metastasis *(10/12/2017)*. [Link](https://ALBruzos.github.io/files/media/20171210_PERIODICO_LaGaceta_EntevistaAliciaSalamanca.pdf)  
+1. **El Progreso**. School visit featured on the regional newspaper (18/12/2024). [Link](https://www.elprogreso.es/articulo/a-marina/biologa-alicia-lopez-bruzos-acerca-ciencia-ninos-colegio-galdo/202412182142511814893.amp.html)
+2. **La Voz de Galicia**. Interview realting to the L'Oreal-UNESCO 'For Women in Science' Prize (09/10/2024). [Link](https://www.lavozdegalicia.es/noticia/ciencia/2024/10/08/alicia-l-bruzos-estudiamos-cancer-berberechos-entender-metastasis-humanos/00031728392345648970537.htm) - [Paper version](https://albruzos.github.io/files/media/20241009_LaVozdeGalicia_AliciaLBruzosPrixLorealUnesco.pdf)
+3. **Faro de Vigo**. Interview about my career for the section of Galician people working at the forefront abroad. *(28/12/2023)*. [Link](https://www.farodevigo.es/estela/2023/11/05/espana-hay-talento-falta-inversion-94209972.html) - [Paper version](https://ALBruzos.github.io/files/media/20231105_FaroDeVigo_GallegosALaVanguardia.pdf)   
+4. **El Correo Gallego**. Short interview and picture for the local newspaper to the scientific committee organizing the *VIII Youth Researchers Meeting* in Santiago de Compostela which I was part of *(02/06/2021)*. [Link](https://www.linkedin.com/posts/alicialopezbruzos_conferences2021-conference-research-activity-6810986196924207105-O6Qw) - [Paper version](https://ALBruzos.github.io/files/media/20210602_PERIODICO_ElcorreoGallego_EMI.pdf)  
+5. **La Gaceta**. Interview and picture for Salamanca’s newspaper about my doctoral research with *cockles* to find the genetic causes of contagious metastasis *(10/12/2017)*. [Paper version](https://ALBruzos.github.io/files/media/20171210_PERIODICO_LaGaceta_EntevistaAliciaSalamanca.pdf)  
 
 
 ## <i class="fa fa-spinner" aria-hidden="true"></i> Others
