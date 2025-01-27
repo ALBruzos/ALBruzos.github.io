@@ -44,16 +44,17 @@ author_profile: true
 
 6. *CRTVG*. Interview for the radio show and podcast **Efervesciencia** to talk about science, my PhD project and our recent publications in the framework of the Pan-cancer initiative *(20/02/2020)*. [Listen here](https://www.youtube.com/watch?v=kAaldyn0ul8) | [Picture](https://twitter.com/efervesciencia/status/1230249919614771204)
 
-   
-
 ## <i class="fa fa-podcast" aria-hidden="true"></i> Podcasts (5/6)
 
-*Canal Extremadura*. Interview about marine contagious cancers for the show **Principio de Incertidumbre**. *(09/12/2023)*. [Listen here](https://www.canalextremadura.es/a-la-carta/principio-de-incertidumbre/audios/principio-de-incertidumbre-091223) - [ivoox](https://www.ivoox.com/principio-incertidumbre-canceres-transmisibles-berberechos-09-12-23-audios-mp3_rf_120810956_1.html) - [Apple Podcasts](https://podcasts.apple.com/es/podcast/principio-de-incertidumbre-cánceres-transmisibles-en/id1070524537?i=1000638004812)  
+1. **Cultivando o mar**. Interview about marine contagious cancers *(TBA)*.
 
-**Muy al día PODCAST**. Half an hour interview talking about contagious cancers in cockles and science *(09/10/2023)*. [Listen here](https://www.youtube.com/watch?v=VSCPKnIMPbw&t=1s) [ivoox](https://www.ivoox.com/en/cientifica-alicia-lopez-bruzos-nos-explica-el-audios-mp3_rf_117405310_1.html) - [Apple Podcasts](https://podcasts.apple.com/es/podcast/la-cient%C3%ADfica-alicia-l%C3%B3pez-bruzos-nos-explica-el/id1592094491?i=1000630649637) - [Spotify](https://open.spotify.com/episode/1Yht65s14IJTSGTEWuhb1P)   
-<i class="fa fa-podcast" aria-hidden="true"></i>**VOCES11F PODCAST**. Interview to talk about the 3MT Video Award *(13/06/2022)*. [Listen here](https://www.youtube.com/watch?v=VSCPKnIMPbw&t=1s)  
-<i class="fa fa-podcast" aria-hidden="true"></i>**NAKED SCIENTIST PODCAST**. Interview to talk about marine contagious cancers *(12/04/2022)*. [Listen here](https://www.youtube.com/watch?v=EYt-oRvnBE0&t=1419s)
-<i class="fa fa-podcast" aria-hidden="true"></i>**ELIFE PODCAST**. Brief interview to highlight the findings of our recent publication of a novel contagious cancer among clams on the seas of southern Europe *(Episode 79, March 2022)*. [Listen here](https://www.youtube.com/watch?v=EpGii4c1Dtg)  
+2. **Principio de Incertidumbre** Interview about marine contagious cancers for the show **Principio de Incertidumbre** which is also broadcast on the radio *Canal Extremadura* *(09/12/2023)*. [Listen here](https://www.canalextremadura.es/a-la-carta/principio-de-incertidumbre/audios/principio-de-incertidumbre-091223) - [ivoox](https://www.ivoox.com/principio-incertidumbre-canceres-transmisibles-berberechos-09-12-23-audios-mp3_rf_120810956_1.html) - [Apple Podcasts](https://podcasts.apple.com/es/podcast/principio-de-incertidumbre-cánceres-transmisibles-en/id1070524537?i=1000638004812)  
+
+3. **Muy al día PODCAST**. Half an hour interview talking about contagious cancers in cockles and science *(09/10/2023)*. [Listen here](https://www.youtube.com/watch?v=VSCPKnIMPbw&t=1s) [ivoox](https://www.ivoox.com/en/cientifica-alicia-lopez-bruzos-nos-explica-el-audios-mp3_rf_117405310_1.html) - [Apple Podcasts](https://podcasts.apple.com/es/podcast/la-cient%C3%ADfica-alicia-l%C3%B3pez-bruzos-nos-explica-el/id1592094491?i=1000630649637) - [Spotify](https://open.spotify.com/episode/1Yht65s14IJTSGTEWuhb1P)  
+
+4. **VOCES11F PODCAST**. Interview to talk about the 3MT Video Award *(13/06/2022)*. [Listen here](https://www.youtube.com/watch?v=VSCPKnIMPbw&t=1s)  
+
+5. **ELIFE PODCAST**. Brief interview to highlight the findings of our recent publication of a novel contagious cancer among clams on the seas of southern Europe *(Episode 79, March 2022)*. [Listen here](https://www.youtube.com/watch?v=EpGii4c1Dtg)  
 
 
 
