@@ -73,7 +73,7 @@ Others
 <i class="fa fa-spinner" aria-hidden="true"></i>**TWITCH**. Interview for the show **Ciencia e tal**, a programme that gives insights into the latest scientific research that is being done *(31/08/2021)*. [Watch it here](https://www.youtube.com/watch?v=ySERdYkGR1A)  
 <i class="fa fa-spinner" aria-hidden="true"></i>**INSTAGRAM**. Interview for #Pintíficas initiative organized by the **Pint of Science** on the International Day of Girls and Women in Science *(11/02/2020)*. [Watch it here](https://www.youtube.com/watch?v=VK5JApXx8UE)  
 
-<center> <h2>MY SCIENCE IN THE NEWS</h2> </center>
+# Archive of Media Appearances
 <img src='/images/TiraFotos_3_media_AliciaLBruzos.png'>  
 
 > Research publications that I co-authored were mentioned in more than 150 news in more than 40 different newspapers and more than 10 countries. For instance, see here the [Wellcome Sanger Institute to media coverage report](https://twitter.com/BruzosAliciaL/status/1711356686546375093/photo/1) of my main PhD publication. In the following table you can check some of them:
