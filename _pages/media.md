@@ -53,11 +53,12 @@ author_profile: true
 
 
 ## <i class="fa fa-file" aria-hidden="true"></i> Newspapers (10/195) 
-### Publication of research articles featured
-1. FRANCIA
+### Research articles or projects featured
+1. **Ouest France**. Interview about my postdoctoral project (MSCA fellow) at Université de Caen Normandie (10/10/2024). [Link](https://www.ouest-france.fr/sante/cancer/cancer-contagieux-chez-les-coques-et-les-moules-une-scientifique-recompensee-pour-ses-recherches-6142b906-847c-11ef-91d9-7f562215fe95) - [Paper version]()
 2. **El País**. Interview about the *Nature Cancer* publication on cockle contagious cancers. *(02/10/2023)*. [Link](https://elpais.com/ciencia/2023-10-02/unos-berberechos-con-leucemia-transmisible-iluminan-el-insolito-cancer-contagioso.html)  
-3. **Clarín** Interview for the Argentinian newspaper Clarín about the *Nature Cancer* publication about cockle contagious cancers. *(04/10/2023)*.[Link](https://www.clarin.com/sociedad/increible-caso-berberechos-contagian-mismo-cancer-hace-8500-anos-propaga-mundo_0_hM8p1JscT1.html)
-4. **La Voz de Galicia**. Interview and picture for the regional newspaper about the *Pan-cancer initiative* *(06/02/2020)*. [Link](https://www.lavozdegalicia.es/noticia/sociedad/2020/02/06/equipo-gallego-halla-causa-desconocida-origen-cancer/0003_202002G6P23991.htm)  
+3. **NY Times**. Reportage and pictures to feature our research on marine contagious cancers (02/10/2023). [Link](https://www.nytimes.com/2023/10/02/science/contagious-cancer-shellfish-dna.html)
+4. **Clarín**. Interview for the Argentinian newspaper Clarín about the *Nature Cancer* publication about cockle contagious cancers. *(04/10/2023)*.[Link](https://www.clarin.com/sociedad/increible-caso-berberechos-contagian-mismo-cancer-hace-8500-anos-propaga-mundo_0_hM8p1JscT1.html)
+5. **La Voz de Galicia**. Interview and picture for the regional newspaper about the *Pan-cancer initiative* *(06/02/2020)*. [Link](https://www.lavozdegalicia.es/noticia/sociedad/2020/02/06/equipo-gallego-halla-causa-desconocida-origen-cancer/0003_202002G6P23991.htm)  
 
 ### Research activities or prizes
 1. **El Progreso**. School visit featured on the regional newspaper (18/12/2024). [Link](https://www.elprogreso.es/articulo/a-marina/biologa-alicia-lopez-bruzos-acerca-ciencia-ninos-colegio-galdo/202412182142511814893.amp.html)
