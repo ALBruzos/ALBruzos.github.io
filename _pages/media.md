@@ -83,7 +83,7 @@ author_profile: true
 | News date | Newspaper or media | Headline and link | 
 |  ---------------- | ---------------- | ---------------- |
 | 26/01/2025 | Cuac FM | [Ciencia Es Femenino 9x02](https://youtu.be/2Tc9i1VI7xI) |
-| 02/01/**2025** | Mujer y Cía | [Alicia L. Bruzos, científica española: «No hay que ser brillante para dedicarse a la investigación»](https://mujeresycia.com/alicia-l-bruzos-cientifica-espanola-premio/) |
+| 02/01/<FONT COLOR="#45B39D">2025</FONT> | Mujer y Cía | [Alicia L. Bruzos, científica española: «No hay que ser brillante para dedicarse a la investigación»](https://mujeresycia.com/alicia-l-bruzos-cientifica-espanola-premio/) |
 | 29/12/2024 | Liberté | [Ces vingt personnalités qui ont marqué l'actualité à Caen en 2024](https://actu.fr/normandie/caen_14118/ces-vingt-personnalites-qui-ont-marque-lactualite-a-caen-en-2024_62045915.html) |
 | 18/12/2024 | El Progreso | [La bióloga Alicia López Bruzos acerca la ciencia a los niños del colegio de Galdo](https://www.elprogreso.es/articulo/a-marina/biologa-alicia-lopez-bruzos-acerca-ciencia-ninos-colegio-galdo/202412182142511814893.amp.html) |
 | 18/12/2024 | El Mundo | [Alicia L. Bruzos, experta en genoma del cáncer: "En los berberechos es contagioso, pero cero miedo al comerlos esta Navidad"](https://www.elmundo.es/yodona/actualidad/2024/12/18/675fea8821efa0027c8b458a.html) |
@@ -170,9 +170,7 @@ author_profile: true
 | 3/10/2023 | AS | [Berberechos con leucemia transmisible: hallazgo sobre el cáncer contagioso](https://as.com/actualidad/ciencia/berberechos-con-leucemia-transmisible-hallazgo-sobre-el-cancer-contagioso-n/) |
 | 3/10/2023 | Atlántico | [Investigadores de la USC logran secuenciar el genoma del cáncer transmisible entre berberechos](https://www.atlantico.net/articulo/galicia/grupo-investigadores-usc/202310031913071002087.html) |
 | 3/10/2023 | Antena 3 | [Investigadores gallegos aclaran el misterio del contagioso cáncer que afecta a los berberechos](https://www.antena3.com/noticias/ciencia/investigadores-gallegos-aclaran-misterio-contagioso-cancer-que-afecta-berberechos_20231003651c42f990d39d0001e9216e.html) |
-
 | 3/10/2023 | El País | [Cockles that have transmissible leukemia shed light on unusual contagious cancer](https://english.elpais.com/science-tech/2023-10-02/cockles-that-have-transmissible-leukemia-shed-light-on-unusual-contagious-cancer.html) |
-
 | 2/10/2023 | Columna Digital | [Extraño cáncer contagioso en berberechos](https://columnadigital.com/extrano-cancer-contagioso-en-berberechos-ciencia/) |
 | 2/10/2023 | Con Salud | [La genómica desvela la evolución de un cáncer que se transmite a través del agua del mar](https://www.consalud.es/pacientes/genomica-desvela-evolucion-cancer-se-transmite-traves-agua-mar_135164_102.html) |
 | 2/10/2023 | Cordoba BN | [Desvelan la evolución de un cáncer que se transmite en el mar](https://www.cordobabn.com/articulo/salud/investigadores-espanoles-desvelan-evolucion-cancer-que-transmite-mar/20231002171816174018.html) |
