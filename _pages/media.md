@@ -22,32 +22,13 @@ author_profile: true
 
 3. **Canal Sur TV.** Interview by Teodoro León Gross for the show **Analysis Table**, covering the publication of the *Nature Cancer* article on the Scuba Cancers project (09/10/2023). *Analysis Table* is a political and social current affairs program showcased every weekday morning on Canal Sur TV. [Watch complete video](https://www.youtube.com/watch?v=83Wx3LRxdhU)
 
-4. **Televisión del Principado de Asturias (TPA).**  Short feature on the **Evening Newscast** about my visit to a high school to inspire scientific vocations, with a special focus on women (10/02/2023). [Watch complete video](https://youtu.be/feiMZIoUHkk) ![Preview 1](https://user-images.githubusercontent.com/15688556/258240103-60f7e927-ad60-40fd-9ffb-e992c07ed45b.mp4)  
+4. **Televisión del Principado de Asturias (TPA).**  Short feature on the **Evening Newscast** about my visit to a high school to inspire scientific vocations, with a special focus on women (10/02/2023). [Watch complete video](https://youtu.be/feiMZIoUHkk)
+![Preview 1](https://user-images.githubusercontent.com/15688556/258240103-60f7e927-ad60-40fd-9ffb-e992c07ed45b.mp4)  
 
-5. **Televisión de Galicia (TVG).** Short interview on the **Midday Newscast** about the Pan-cancer initiative (06/02/2020). [Watch complete video](https://www.youtube.com/watch?v=FpttVkiBLok) ![Preview 2](https://user-images.githubusercontent.com/15688556/190830129-3268cccb-7408-4d3a-9895-ce164308b9d5.mp4)
+5. **Televisión de Galicia (TVG).** Short interview on the **Midday Newscast** about the Pan-cancer initiative (06/02/2020). [Watch complete video](https://www.youtube.com/watch?v=FpttVkiBLok)
+![Preview 2](https://user-images.githubusercontent.com/15688556/190830129-3268cccb-7408-4d3a-9895-ce164308b9d5.mp4)
 
-
-SELECTED
-====
-
-TV
-=====
-<i class="fa fa-camera" aria-hidden="true"></i>*Televisión de Galicia (TVG)*. Short interview by Roberto Vilar, Marcial Mouro and Raquel Atanes for the **Quen Anda Aí** show of the public regional television of Galicia about my research and the L'Oreal-UNESCO 'For Women in Science' Prize *(15/10/2024)*. 'Quen Anda Aí' is a political and social current affairs program that is showcased every working afternoon on TVG. [Watch here complete video](https://www.youtube.com/watch?v=VZ4v2DaXv-4&t=167s)  
-
-<i class="fa fa-camera" aria-hidden="true"></i>*France 3 normandie*. Reportage for the **Midday and Evening Newscast** of the public regional television of France about my scientific career and the L'Oreal-UNESCO 'For Women in Science' Prize *(09/10/2024)*. [Watch here complete video](https://www.youtube.com/watch?v=cv9hi7oB1vs&t=2s)  
-
-<i class="fa fa-camera" aria-hidden="true"></i>*Canal Sur TV*. Interview by Teodoro León Gross for the **Morning Show 'Analysis Table'** of the public regional television of Andalucía about the publication in *Nature Cancer* of Scuba Cancers project *(09/10/2023)*. 'Mesa de análisis' or 'Analysis Table' is a political and social current affairs program showcased every working morning on Canal Sur TV. [Watch here complete video](https://www.youtube.com/watch?v=83Wx3LRxdhU)  
-
-<i class="fa fa-camera" aria-hidden="true"></i>*Televisión del Principado de Asturias (TPA)*. Short information for the **Evening Newscast** of the public regional television of Asturias about my visit to a high school class to awaken scientific vocations with an emphasis on women. *(10/02/2023)*. [Watch here complete video](https://youtu.be/feiMZIoUHkk)  
-
-<i class="fa fa-camera" aria-hidden="true"></i>*Televisión de Galicia (TVG)*. Short interview for the **Midday Newscast** of the regional television of Galicia about the Pan-cancer initiative *(06/02/2020)*. [Watch here complete video](https://www.youtube.com/watch?v=FpttVkiBLok)  
-
-Aquí puedes ver algunos extractos (vídeos completos el los enlaces de cada item):
-<p align="center"><video src="https://user-images.githubusercontent.com/15688556/258240103-60f7e927-ad60-40fd-9ffb-e992c07ed45b.mp4" controls="controls" style="max-width: 200px;"></video></p>
-<p align="center"><video src="https://user-images.githubusercontent.com/15688556/190830129-3268cccb-7408-4d3a-9895-ce164308b9d5.mp4" controls="controls" style="max-width: 200px;"></video></p>
-
-Radio
-=====
+## <i class="fa fa-volume-up" aria-hidden="true"></i> Radio
 <!--- <i class="fa fa-volume-up" aria-hidden="true"></i>*EITB*. Interview about science and research for the show **xx** ---> 
 <i class="fa fa-volume-up" aria-hidden="true"></i>*Canal Extremadura*. Interview about marine contagious cancers for the show **Principio de Incertidumbre**. *(09/12/2023)*. [Listen here](https://www.canalextremadura.es/a-la-carta/principio-de-incertidumbre/audios/principio-de-incertidumbre-091223) - [ivoox](https://www.ivoox.com/principio-incertidumbre-canceres-transmisibles-berberechos-09-12-23-audios-mp3_rf_120810956_1.html) - [Apple Podcasts](https://podcasts.apple.com/es/podcast/principio-de-incertidumbre-cánceres-transmisibles-en/id1070524537?i=1000638004812)  
 <i class="fa fa-volume-up" aria-hidden="true"></i>*RNE*. Interview about the *Nature Cancer* publication on cockle contagious cancers for the show **Españoles en la mar**. *(06/11/2023)*. [Listen here](https://youtu.be/MlO6IKyaSoU)  
@@ -58,8 +39,8 @@ Radio
 <i class="fa fa-volume-up" aria-hidden="true"></i>*CRTVG*. Live interview in the show **Galicia Por Diante** of the regional radio of Galicia about the Pan-cancer initiative *(06/02/2020)*. [Listen here](https://www.youtube.com/watch?v=ZOKAGpGxypw) | [Picture](https://twitter.com/GxDRadioGalega/status/1225431511324938243)  
 <i class="fa fa-volume-up" aria-hidden="true"></i>*CRTVG*. Interview for the radio show and podcast **Efervesciencia** to talk about science, my PhD project and our recent publications in the framework of the Pan-cancer initiative *(20/02/2020)*. [Listen here](https://www.youtube.com/watch?v=kAaldyn0ul8) | [Picture](https://twitter.com/efervesciencia/status/1230249919614771204)  
 
-Newspaper
-=====
+## <i class="fa fa-book" aria-hidden="true"></i> Newspaper
+
 Here I highlight the main interviews, however, other interviews are listed in the Section *My science in the news* below.  
 <i class="fa fa-book" aria-hidden="true"></i>**La Voz de Galicia**. Interview for the award in the XIV encuentro de jóvenes investigador@s en el extranjero. *(28/12/2023)*. [Link](https://www.lavozdegalicia.es/noticia/sociedad/2023/12/28/span-langglagora-atraio-cartos-teno-investilos-noutro-paisspan/0003_202312G28P24993.htm) - [Download Here](https://ALBruzos.github.io/files/media/20231228_LaVozdeGalicia.pdf)   
 <i class="fa fa-book" aria-hidden="true"></i>**Faro de Vigo**. Interview about my career for the section of Galician people working at the forefront abroad. *(28/12/2023)*. [Link](https://www.farodevigo.es/estela/2023/11/05/espana-hay-talento-falta-inversion-94209972.html) - [Download Here](https://ALBruzos.github.io/files/media/20231105_FaroDeVigo_GallegosALaVanguardia.pdf)   
