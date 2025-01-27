@@ -71,7 +71,7 @@ Explore how my research, outreach, and achievements have captured the attention 
 3. **TWITCH**. Interview for the show **Ciencia e tal**, a programme that gives insights into the latest scientific research that is being done (31/08/2021). [Watch it here](https://www.youtube.com/watch?v=ySERdYkGR1A)  
 4. **INSTAGRAM**. Interview for #Pintíficas initiative organized by the **Pint of Science** on the International Day of Girls and Women in Science (11/02/2020). [Watch it here](https://www.youtube.com/watch?v=VK5JApXx8UE)  
 
-**Watch out!** I am <u>always available to talk to media about my research</u>. Do not hesitate on contacting me at **albruzos@gmail.com**!
+**Stay tuned!** I’m always open to sharing insights about my research with the media. Feel free to reach out to me at **albruzos@gmail.com** —I’d love to connect!
 {: .notice}
 
 <img src='/images/TiraFotos_1_media_AliciaLBruzos.png'>  
