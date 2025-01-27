@@ -16,7 +16,7 @@ I’ve been fortunate to have worked on several international and interesting re
   {% endfor %}</ul>
 
 #### Under review publications (available as preprints or request)  
-* Riachi, M et al. (includes Bruzos, AL). (2023) *Keratinocyte cholesterol deficiency is a druggable final common pathway in hyperproliferative inflammatory skin disease.* Under review in the *Journal of Investigative Dermatology*.
+* Riachi, M et al. (includes Bruzos, AL). (2025) *Keratinocyte cholesterol deficiency is a druggable final common pathway in hyperproliferative inflammatory skin disease.* Accepted for publication in the *Journal of Investigative Dermatology*. 
  
 ## Peer-reviewing activity
 My scientific expertise has led me to several invitations to take part in the peer-review system that ensures the rigorous standards of the scientific process. In particular, I have reviewed articles for the following journals:  
