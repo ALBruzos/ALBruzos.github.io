@@ -68,8 +68,7 @@ Explore how my research, outreach, and achievements have captured the attention 
 ## <i class="fa fa-spinner" aria-hidden="true"></i> Others
 1. <i class="fa fa-university" aria-hidden="true"></i>**Official invitation to the regional government**. Meeting with the President of Xunta de Galicia chaired by Alberto Núñez Feijóo and the Minister of Economy, Business and Innovation chaired by Francisco Conde López (19/02/2020). [Official picture](https://x.com/NunezFeijoo/status/1230144864978898944)  
 2. **BLOG: Women in Research**. Female scientists featured by Ulrike Boehm (09/07/2023). [Read here](https://womeninresearchblog.wordpress.com/2023/07/09/alicia-spain/) or [here](https://www.lindau-nobel.org/blog-women-in-research-lino23-alicia-l-bruzos/)  
-3. **TWITCH**. Interview for the show **Ciencia e tal**, a programme that gives insights into the latest scientific research that is being done (31/08/2021). [Watch it here](https://www.youtube.com/watch?v=ySERdYkGR1A)  
-4. **INSTAGRAM**. Interview for #Pintíficas initiative organized by the **Pint of Science** on the International Day of Girls and Women in Science (11/02/2020). [Watch it here](https://www.youtube.com/watch?v=VK5JApXx8UE)  
+
 
 **Stay tuned!** I’m always open to sharing insights about my research with the media. Feel free to reach out to me at **albruzos@gmail.com** —I’d love to connect!
 {: .notice}
@@ -271,9 +270,11 @@ Throughout my career, both my research publications and various scientific activ
 | 26/11/2021 | Milenio | [Científicos descubren cómo diagnosticar el cáncer de hígado con 20 años de anticipación](https://www.milenio.com/ciencia-y-salud/cientificos-descubren-diagnosticar-cancer-higado-20-anos) |
 | 25/11/2021 | RTVE | [El cáncer de hígado podría detectarse hasta dos décadas antes gracias a una nueva vía genómica](https://www.rtve.es/noticias/20211125/cancer-higado-podria-detectarse-hasta-dos-decadas-antes/2233963.shtml) |
 | 25/11/2021 | La Voz de Asturias | [El hallazgo de un equipo gallego permitirá diagnosticar el cáncer de hígado 20 años antes de que se manifieste la enfermedad](https://www.lavozdeasturias.es/noticia/actualidad/2021/11/25/hallazgo-equipo-gallego-permitira-diagnosticar-cancer-higado-20-anos-manifieste-enfermedad/00031637830416652927118.htm) |
+| 31/08/2021 | TWITCH | [Ciencia e tal](https://www.youtube.com/watch?v=ySERdYkGR1A) |
 | 20/06/2021 | CUAC FM | [Ciencia es Femenino 3x10](https://www.youtube.com/watch?v=bAO6dC8e2k4) |
 | 02/06/**<span style="color: #FF5733;">2021</span>** | El Correo Gallego | [Investigadores jóvenes y con mucho que ofrecer](https://ALBruzos.github.io/files/media/20210602_PERIODICO_ElcorreoGallego_EMI.pdf) |
 | 20/02/2020 | CRTVG | [Efervesciencia](https://www.youtube.com/watch?v=kAaldyn0ul8) |
+| 11/02/2020 | Instagram | [#Pintíficas initiative organized by the Pint of Science.](https://www.youtube.com/watch?v=VK5JApXx8UE) |
 | 10/02/2020 | Redacción Médica | [Saber cuándo ocurre una mutación no implica predecir el cáncer](https://www.redaccionmedica.com/secciones/oncologia-medica/-saber-cuando-ocurre-la-mutacion-no-implica-predecir-el-cancer--6347) |
 | 6/02/2020 | Huffpost | [Descifran el genoma más completo del cáncer: diagnóstico más precoz y nuevos tratamientos](https://www.huffingtonpost.es/entry/descifran-el-genoma-mas-completo-del-cancer-diagnostico-mas-precoz-y-nuevos-tratamientos_es_5e3bd028c5b6b70886fa4430) |
 | 6/02/2020 | GCiencia | [Impacto mundial do estudo sobre cancro liderado desde Galicia](https://www.gciencia.com/saude/impacto-mundial-estudo-cancro/) |
