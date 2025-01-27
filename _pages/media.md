@@ -5,14 +5,12 @@ permalink: /media/
 author_profile: true
 ---
 
-**Watch out!** I am <u>always available to talk to media about my research</u>. Do not hesitate on contacting me at **albruzos@gmail.com**!
-{: .notice}
-
 {% include toc %}
 
 <img src='/images/TiraFotos_1_media_AliciaLBruzos.png'>  
-
 <!---to comment ---> 
+
+Explore how my research, outreach, and achievements have captured the attention of media worldwide. Below, you'll find a curated selection of features, followed by a comprehensive archive of over 250 media appearances across 10 countries.
 
 # Selected Media Appearances
 
@@ -73,6 +71,9 @@ author_profile: true
 2. **BLOG: Women in Research**. Female scientists featured by Ulrike Boehm (09/07/2023). [Read here](https://womeninresearchblog.wordpress.com/2023/07/09/alicia-spain/) or [here](https://www.lindau-nobel.org/blog-women-in-research-lino23-alicia-l-bruzos/)  
 3. **TWITCH**. Interview for the show **Ciencia e tal**, a programme that gives insights into the latest scientific research that is being done (31/08/2021). [Watch it here](https://www.youtube.com/watch?v=ySERdYkGR1A)  
 4. **INSTAGRAM**. Interview for #Pintíficas initiative organized by the **Pint of Science** on the International Day of Girls and Women in Science (11/02/2020). [Watch it here](https://www.youtube.com/watch?v=VK5JApXx8UE)  
+
+**Watch out!** I am <u>always available to talk to media about my research</u>. Do not hesitate on contacting me at **albruzos@gmail.com**!
+{: .notice}
 
 <img src='/images/TiraFotos_1_media_AliciaLBruzos.png'>  
 
