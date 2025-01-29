@@ -6,7 +6,7 @@ author_profile: true
 
 {% include toc %}  
 
-<img src='/images/Tira_FotosOutreach_AliciaLBruzos.png'> 
+<img src='/images/Tira_FotosOutreach2_AliciaLBruzos.png'> 
 
 > Commitment to public outreach is central in my career and therefore, I am always willing to participate on activities that engage society with the excitement of science. I have even participated in making a children’s coloring book <i class="fa fa-paint-brush" aria-hidden="true"></i> .
 
@@ -76,6 +76,7 @@ el-cancer-se-puede-contagiar-al-menos-en-animales-163529)
 
 <i class="fa fa-university" aria-hidden="true"></i> School visits (13: 9 Spanish + 3 British + 1 Canadian/US)  
 =======
+<img src='/images/Tira_FotosOutreach3_AliciaLBruzos.png'> 
 
 *	**Maristas-Santa María**, Ourense, SPAIN. 07-Mar-2023, in person.
 
