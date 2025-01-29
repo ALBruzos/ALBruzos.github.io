@@ -8,7 +8,7 @@ author_profile: true
 Explore how my research, outreach, and achievements have captured the attention of media worldwide. Below, you'll find a curated selection of features, followed by a comprehensive archive of over 250 media appearances across 10 countries.
 {% include toc %}
 
-<img src='/images/TiraFotos_1_media_AliciaLBruzos.png'>  
+<img src='/images/TiraFotos_2_media_AliciaLBruzos.png'>  
 <!---to comment ---> 
 
 # Selected Media Appearances
@@ -43,6 +43,8 @@ Explore how my research, outreach, and achievements have captured the attention 
 3. **Muy al día**. Half-hour interview on contagious cancers and science (09/10/2023). [Listen here](https://www.youtube.com/watch?v=VSCPKnIMPbw&t=1s)  
 4. **VOCES11F**. Interview highlighting the 3MT Video Award (13/06/2022). [Listen here](https://www.youtube.com/watch?v=VSCPKnIMPbw&t=1s)  
 5. **eLife Podcast (Episode 79)**. Brief segment on our discovery of a novel contagious cancer in clams (01/03/2022). [Listen here](https://www.youtube.com/watch?v=EpGii4c1Dtg)  
+
+<img src='/images/TiraFotos_4_media_AliciaLBruzos.png'>  
 
 ## <i class="fa fa-book" aria-hidden="true"></i> Magazines (2/2)
 1. **Yo Dona**. [Alicia L. Bruzos, experta en genoma del cáncer: "No hay que ser un genio para triunfar en ciencia"](https://ALBruzos.github.io/files/media/YoDona_Nov2024_entrevistaALBruzos.pdf) (30/11/2024)  
