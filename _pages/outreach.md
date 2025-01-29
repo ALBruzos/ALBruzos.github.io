@@ -151,4 +151,13 @@ School’s networking event for Year 9 female students. Topic: women in STEM.
   
 <img src='/images/Tira_FotosOutreach_AliciaLBruzos.png'> 
 
+<p align="center">
+  <a href="https://albruzos.github.io/contact" target="_blank">
+    <img src="/images/ContactMe_v1.png" alt="Contact Alicia L Bruzos">
+  </a>
+</p>
+
+<center> <i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i></center> 
+
+[Back to CV](https://albruzos.github.io/cv/)
 [Back to CV](https://albruzos.github.io/cv/)
