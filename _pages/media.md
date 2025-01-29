@@ -71,17 +71,16 @@ Explore how my research, outreach, and achievements have captured the attention 
 1. <i class="fa fa-university" aria-hidden="true"></i>**Official invitation to the regional government**. Meeting with the President of Xunta de Galicia chaired by Alberto Núñez Feijóo and the Minister of Economy, Business and Innovation chaired by Francisco Conde López (19/02/2020). [Official picture](https://x.com/NunezFeijoo/status/1230144864978898944)  
 2. **BLOG: Women in Research**. Female scientists featured by Ulrike Boehm (09/07/2023). [Read here](https://womeninresearchblog.wordpress.com/2023/07/09/alicia-spain/) or [here](https://www.lindau-nobel.org/blog-women-in-research-lino23-alicia-l-bruzos/)  
 
+<img src='/images/TiraFotos_1_media_AliciaLBruzos.png'>  
 
 **Stay tuned!** I’m always open to sharing insights about my research with the media. Feel free to reach out to me at **albruzos@gmail.com** —I’d love to connect!
 {: .notice}
-
-<img src='/images/TiraFotos_1_media_AliciaLBruzos.png'>  
 
 # Statistics of Media Appearances
 <img src="/files/media/media-stats.png" alt="Media Statistics">
 
 # Archive of Media Appearances
-Throughout my career, both my research publications and various scientific activities —such as outreach, awards, or career— have been featured in media outlets. To date, I have gathered over 250 news items published in more than 40 media platforms across 10 countries. The following table compiles links to all these features:
+Media outlets have featured my research publications and various scientific activities —such as outreach, awards, or career steps. To date, I have gathered over 250 news items published in more than 40 media platforms across 10 countries. The following table compiles links to all these features:
 
 | News date | Newspaper or media | Headline and link | 
 |  ---------------- | ---------------- | ---------------- |
