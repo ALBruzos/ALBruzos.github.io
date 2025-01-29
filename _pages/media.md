@@ -76,10 +76,8 @@ Explore how my research, outreach, and achievements have captured the attention 
 <img src='/images/TiraFotos_1_media_AliciaLBruzos.png'>  
 
 # Statistics of Media Appearances
-<img src="https://ALBruzos.github.io/files/media/media-stats.png" alt="Media Statistics" width="600">
-<img src="/files/media/media-stats.png" alt="Media Statistics" width="400">
-<img src="https://ALBruzos.github.io/files/media/media-stats.png" alt="Media Statistics" width="400">
-<img src="https://ALBruzos.github.io/files/media/media-stats.png" alt="Media Statistics" width="800">
+<img src="https://ALBruzos.github.io/files/media/media-stats.png" alt="Media Statistics">
+<img src="https://ALBruzos.github.io/files/media/media-stats.png" alt="Media Statistics" width="1000">
 
 # Archive of Media Appearances
 Throughout my career, both my research publications and various scientific activities —such as outreach, awards, or career— have been featured in media outlets. To date, I have gathered over 250 news items published in more than 40 media platforms across 10 countries. The following table compiles links to all these features:
