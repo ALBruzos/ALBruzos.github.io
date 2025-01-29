@@ -7,6 +7,7 @@ redirect_from:
   - /resume
 ---
 
+<!---to comment---> 
 {% include toc %}
 
 <img src='/images/1_TiraFotosPhD-AliciaLBruzos.png'>  
@@ -80,6 +81,7 @@ Over the ten years since the start of my scientific career (2016–present), I h
 <img src="/images/pub-stats.png" alt="Overview of my annual scientific production">
 
 My work has garnered over 1,800 citations according to different sources:
+
 | Source | H-index | Date of access | Citations no. |
 | ------------- | ------------- | ------------- | ------------- | 
 | [Gscholar](https://scholar.google.es/citations?user=YyKE8DIAAAAJ&hl=en)| 9 | 22/12/2024 | 2,583 |
@@ -107,7 +109,7 @@ My work has garnered over 1,800 citations according to different sources:
 <sup>*</sup> IF taken from [Journal Citation Report (JCR)](https://mjl.clarivate.com/) for the year of the publication unless otherwise stated. Quartile (Q1 ≤ 0.25) and decile (D1 ≤ 0.1) rankings are indicated.  
 Find more details [here](https://albruzos.github.io/publications/).  
   
-<b>SCIENTIFIC CONFERENCES</b> <i class="fa fa-bullhorn" aria-hidden="true"></i>
+<b>SCIENTIFIC CONFERENCES</b> <i class="fa fa-bullhorn" aria-hidden="true"></i>  
 I have presented my research at **52 national and international conferences** across 9 countries. This includes the following:
 <ul class="fa-ul">
   <li><i class="fa fa-check-circle" aria-hidden="true"></i>5 invited speaker talks</li>
@@ -119,9 +121,11 @@ I have presented my research at **52 national and international conferences** ac
 </ul>
 A full detailed list can be checked [here](https://albruzos.github.io/talks/)  
 
-<b>OUTREACH</b> <i class="fa fa-users" aria-hidden="true"></i>  
-Every year I commit some time to bring science to society by organizing or joining different activities. [Check here the full list](https://albruzos.github.io/outreach/) and below an infographic and chronological compilation:
+<b>Dissemination to society: OUTREACH</b> <i class="fa fa-users" aria-hidden="true"></i> and <b>MEDIA</b> <i class="fa fa-users" aria-hidden="true"></i>   
+Every year I commit some time to bring science to society by organizing or joining different activities. To date, I have actively participated in **over 40 public science outreach events**, including 13 school visits, 12 popular science articles, 8 talks for the general public *(e.g. Pint of Science in London, A Coruña, and Caen)*, 6 promotional videos *(e.g., [AquaExcel project](https://www.youtube.com/watch?v=ZDUU6VT1qzE))*, 4 workshops on scientific fairs, 3 opinion editorials, and 5 miscellaneous activities such as contributing to children’s science coulouring book or the school radio program of IES Mata Jove. [Check here the full list](https://albruzos.github.io/outreach/) **I am strongly committed to making science accessible, particularly in small/mid-sized towns where opportunities to engage with scientists are limited.**
 
+
+<!---Comment
 *2023:* 
 <i class="fa fa-book" aria-hidden="true"></i> 
 <i class="fa fa-university" aria-hidden="true"></i>
@@ -175,10 +179,10 @@ Every year I commit some time to bring science to society by organizing or joini
 <i class="fa fa-book" aria-hidden="true"></i> Popular science articles 
 <i class="fa fa-podcast" aria-hidden="true"></i>Podcast 
 {: .notice}
+ ---> 
 
-<b>MEDIA</b> <i class="fa fa-users" aria-hidden="true"></i>  
-Check my [PR clipping](https://albruzos.github.io/media/)  
- 
+I collaborate closely with press offices to disseminate my research, **in coverage by outlets like the New York Times, BBC Radio, and El País**. Beyond promoting my research, I am often invited to share my opinion on scientific careers, current topics, or to advocate for women in science. **These initiatives highlight my dedication to science communication and my leadership in public engagement.** Check my [PR clipping](https://albruzos.github.io/media/) for a curated selection of media features and an archive of over 250 media appearances across 10 countries.
+
 
 ---
 
