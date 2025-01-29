@@ -76,8 +76,10 @@ _2016 – 2021:_ **Predoctoral researcher (national predoctoral fellow)** at [Un
 | ------------- | ------------- | ------------- | 
 | [0000-0003-4362-545X](https://orcid.org/0000-0003-4362-545X) | [D-7235-2018](https://publons.com/researcher/1404866/alicia-l-bruzos/) | [57214752778](https://www.scopus.com/authid/detail.uri?authorId=57214752778) |
 
-My scientific impact positions me with a minimum H-index of 5, more than 1,800 citations, and several Q1 JCR publications that can be seen in the following tables:  
+Over the ten years since the start of my scientific career (2016–present), I have authored **10 peer-reviewed JCR Q1 publications** (8 of which are D1, international SCI journals), with an additional manuscript currently under review (Q1), and **10 book chapters with ISBN** (6 of which as first author). Notably, I am **first author on 4 publications**, the **corresponding author on one**, and **5 are not co-authored by my thesis director**, reflecting my capacity for autonomous research. 
+<img src="/images/pub-stats.png" alt="Overview of my annual scientific production">
 
+My work has garnered over 1,800 citations according to different sources:
 | Source | H-index | Date of access | Citations no. |
 | ------------- | ------------- | ------------- | ------------- | 
 | [Gscholar](https://scholar.google.es/citations?user=YyKE8DIAAAAJ&hl=en)| 9 | 22/12/2024 | 2,583 |
@@ -85,11 +87,12 @@ My scientific impact positions me with a minimum H-index of 5, more than 1,800 c
 | [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57214752778)| 22 | 22/12/2024 | 4,697 |
 | [ResearchGate](https://www.researchgate.net/profile/Alicia-Bruzos)| 11 | 22/12/2024 | 2,695 |
 
-<b>PUBLICATIONS</b> <i class="fa fa-fw fa-paste"></i>
+<b>PEER-REVIEWED ARTICLES</b> <i class="fa fa-fw fa-paste"></i>
 
 | No. | Paper link & authors  | Year | Journal & preprint repository | Impact Factor & rank<sup>*</sup> | First authorship or corresponding | Framework |
 | ------------- | ------------- | ------------- | ------------- | ------------- |------------- |------------- |
-| - | Riachi M et al. (includes Bruzos AL)<sup><mark>#</mark></sup> | NA  | Under review in JID | NA | - | Postdoc, UK |
+| #11 | Bruzos AL et al.<sup><mark>#</mark></sup> | NA | Under review | NA | yes | Postdoc, France |
+| #10 | Riachi M et al. (includes Bruzos AL) | 2025 | JID | 7.590 (2021); D1 | no | Postdoc, UK |
 | #9 | [Santamarina M, Bruzos AL et al.](https://albruzos.github.io/publication/2024-11-08_PAPER_JInvertebrPathology_DiagnosticPCR-CedBTN) | 2024 | J Invert. Pathol. & [SSRN](https://ssrn.com/abstract=4595284) | 3.6 (2023); Q1 | yes | PhD, Spain |
 | #8 | [Bruzos AL et al.](https://albruzos.github.io/publication/2023-10-02-PAPER-NatureCancer-EvolutionCockleTransmissibleCancers) | 2023 | Nature Cancer & [BioRxiv](https://www.biorxiv.org/content/10.1101/2022.08.06.503021v1)| 23.177 (2021); D1 | yes | PhD, Spain |
 | #7 | [Martin SB, Polubothu S, Bruzos AL et al.](https://albruzos.github.io/publication/2023-09-18-PAPER-JID-GeneFusions) | 2023  | JID | 7.590 (2021); D1 | yes | Postdoc, UK |
@@ -104,16 +107,16 @@ My scientific impact positions me with a minimum H-index of 5, more than 1,800 c
 <sup>*</sup> IF taken from [Journal Citation Report (JCR)](https://mjl.clarivate.com/) for the year of the publication unless otherwise stated. Quartile (Q1 ≤ 0.25) and decile (D1 ≤ 0.1) rankings are indicated.  
 Find more details [here](https://albruzos.github.io/publications/).  
   
-<b>CONFERENCES</b> <i class="fa fa-bullhorn" aria-hidden="true"></i>
+<b>SCIENTIFIC CONFERENCES</b> <i class="fa fa-bullhorn" aria-hidden="true"></i>
+I have presented my research at **52 national and international conferences** across 9 countries. This includes the following:
 <ul class="fa-ul">
-  <li><i class="fa fa-check-circle" aria-hidden="true"></i>4 invited speaker talks</li>
-  <li><i class="fa fa-check-circle" aria-hidden="true"></i>20 oral communications</li>
-  <li><i class="fa fa-check-circle" aria-hidden="true"></i>26 posters</li>
-  <li><i class="fa fa-check-circle" aria-hidden="true"></i>8 invited seminars</li>
-  <li><i class="fa fa-check-circle" aria-hidden="true"></i>3 events organized</li>
-  <li><i class="fa fa-check-circle" aria-hidden="true"></i>5 awards (best poster / talk)</li>
+  <li><i class="fa fa-check-circle" aria-hidden="true"></i>5 invited speaker talks</li>
+  <li><i class="fa fa-check-circle" aria-hidden="true"></i>20 oral communications delivered by myself</li>
+  <li><i class="fa fa-check-circle" aria-hidden="true"></i>23 posters presentations (13 of which I personally presented)</li>
+  <li><i class="fa fa-check-circle" aria-hidden="true"></i>8 invited seminars at scientific institutions in 4 different countries</li>
+  <li><i class="fa fa-check-circle" aria-hidden="true"></i>6 award-winning contributions (3 for best talk and 3 for best poster)</li>
+  <li><i class="fa fa-check-circle" aria-hidden="true"></i>3 events organized (in Spain, the UK, and France)</li>
 </ul>
-
 A full detailed list can be checked [here](https://albruzos.github.io/talks/)  
 
 <b>OUTREACH</b> <i class="fa fa-users" aria-hidden="true"></i>  
