@@ -52,6 +52,7 @@ Download [here a PDF version of my CV](https://ALBruzos.github.io/files/CVs/CV_A
 <i class="fa fa-fw fa-briefcase "></i> Work experience
 =======
 Since 2016, I did 6 research stays abroad (one ongoing) totaling 47 months in 6 different countries. More than 85% of this time, as a postdoctoral researcher.  
+  
 _2023 – ongoing:_	**Postdoctoral researcher (MSCA fellow)** at [Université de Caen Normandie](https://www.unicaen.fr/), FRANCE.  
 _2021 – 2023:_ **Postdoctoral researcher (research assistant)** at [The Francis Crick Institute](https://www.crick.ac.uk/) and [University College of London](https://www.ucl.ac.uk/), UNITED KINGDOM.  
 _2016 – 2021:_ **Predoctoral researcher (national predoctoral fellow)** at [Universidade de Santiago de Compostela](https://www.usc.es/gl) and [Universidade de Vigo](https://www.uvigo.gal/en), SPAIN.  
