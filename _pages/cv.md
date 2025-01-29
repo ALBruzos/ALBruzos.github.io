@@ -186,20 +186,19 @@ I collaborate closely with press offices to disseminate my research, **in covera
 <i class="fa fa-university" aria-hidden="true"></i> Academia  
 ======
 
-<b>MENTORING</b> <i class="fa fa-life-ring" aria-hidden="true"></i>  
+<b>SUPERVISION AND MENTORING</b> <i class="fa fa-life-ring" aria-hidden="true"></i>  
 <ul class="fa-ul">
-  <li><i class="fa fa-check-circle" aria-hidden="true"></i>2 Bachelor theses (University of Santiago de Compostela, Spain)<sup>**</sup> </li>
-  <li><i class="fa fa-check-circle" aria-hidden="true"></i>1 Master thesis (University of Coruña, Spain)</li>
-  <li><i class="fa fa-check-circle" aria-hidden="true"></i>1 Erasmus intern (University of Patras, Greece)</li>
+  <li><i class="fa fa-check-circle" aria-hidden="true"></i>2 Bachelor theses<sup>**</sup> </li>
+  <li><i class="fa fa-check-circle" aria-hidden="true"></i>3 Master thesis</li>
+  <li><i class="fa fa-check-circle" aria-hidden="true"></i>1 Erasmus intern</li>
 </ul>
- 
-[More info](https://albruzos.github.io/teaching/supervision)  
+These experiences have allowed me to support early-career researchers while contributing to the academic programs of the institutions. [More details](https://albruzos.github.io/teaching/supervision)  
 <sup>**</sup>One thesis was awarded for its linguistic quality.  
 
-<b>TEACHING</b> <i class="fa fa-users" aria-hidden="true"></i>  
-A total of 125 teaching hours in **4 public universities** - two Spanish, one British, and one French - where I have taught genetics in different degrees (Biology, Biotechnology, and Medicine). [More details](https://albruzos.github.io/teaching/university-teaching)  
+<b>HIGH EDUCATION TEACHING</b> <i class="fa fa-users" aria-hidden="true"></i>  
+In addition to an official master degree on teaching *(see above)*, I have gained teaching experience (**132.5 certified teaching hours**) at five public universities across **four countries** (Spain, UK, France, and Chile), delivering theoretical and laboratory sessions in different languages (English, Spanish/Galician, and French) to undergraduate and master’s students across fields such as Biology, Medicine, and Bioinformatics. These experiences have refined **my ability to adapt to diverse academic settings and foster critical thinking among students**. [More details](https://albruzos.github.io/teaching/university-teaching)  
 
-<b>LEADERSHIP</b> <i class="fa fa-users" aria-hidden="true"></i>  
+<b>MEMBER OF JURIES AND EVALUATION COMMITTEES</b> <i class="fa fa-users" aria-hidden="true"></i>  
 - Jury of [Galicia Spin-Off Awards](https://www.gciencia.com/talento/o-xurado-dos-galicia-spin-off-reune-a-persoas-destacadas-da-ciencia-a-empresa-e-a-comunicacion/) in 2024, called and organized by GCiencia.
 - [External evaluator](https://albruzos.github.io/teaching/supervision) of 2 PhD thesis.  
 
@@ -217,7 +216,7 @@ Full detailed list can be checked [here](https://albruzos.github.io/skills-certi
 
 <b>SERVICE & INSTITUTIONAL CITIZENSHIP</b> <i class="fa fa-paperclip" aria-hidden="true"></i>  
 <ul class="fa-ul">
-  <li><i class="fa fa-check-circle" aria-hidden="true"></i>Member of the organizing and scientific committee of 2 conferences (one in Spain, one in UK)</li>
+  <li><i class="fa fa-check-circle" aria-hidden="true"></i>Member of the organizing and scientific committee of 3 conferences (in Spain, the UK, and France)</li>
   <li><i class="fa fa-check-circle" aria-hidden="true"></i>Elected twice as PhD alumni representative in Spain</li>
   <li><i class="fa fa-check-circle" aria-hidden="true"></i>Consortium secretariat of the International Common Cockle Genome Consortium </li>
 </ul>
