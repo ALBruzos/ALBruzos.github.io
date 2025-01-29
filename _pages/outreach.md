@@ -160,4 +160,3 @@ School’s networking event for Year 9 female students. Topic: women in STEM.
 <center> <i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i></center> 
 
 [Back to CV](https://albruzos.github.io/cv/)
-[Back to CV](https://albruzos.github.io/cv/)
