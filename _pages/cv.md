@@ -122,9 +122,8 @@ I have presented my research at **52 national and international conferences** ac
 A full detailed list can be checked [here](https://albruzos.github.io/talks/)  
 
 <b>Dissemination to society: OUTREACH</b> <i class="fa fa-users" aria-hidden="true"></i> and <b>MEDIA</b> <i class="fa fa-users" aria-hidden="true"></i>   
-Every year I commit some time to bring science to society by organizing or joining different activities. To date, I have actively participated in **over 40 public science outreach events**, including 13 school visits, 12 popular science articles, 8 talks for the general public *(e.g. Pint of Science in London, A Coruña, and Caen)*, 6 promotional videos *(e.g., [AquaExcel project](https://www.youtube.com/watch?v=ZDUU6VT1qzE))*, 4 workshops on scientific fairs, 3 opinion editorials, and 5 miscellaneous activities such as contributing to children’s science coulouring book or the school radio program of IES Mata Jove. [Check here the full list](https://albruzos.github.io/outreach/) **I am strongly committed to making science accessible, particularly in small/mid-sized towns where opportunities to engage with scientists are limited.**
-
-
+**Every year, I commit some time to make science accessible to society by organizing or joining different activities**. To date, I have actively participated in **over 40 public science outreach events**, including 13 school visits, 12 popular science articles, 8 talks for the general public *(e.g. Pint of Science in London, A Coruña, and Caen)*, 6 promotional videos *(e.g., [AquaExcel project](https://www.youtube.com/watch?v=ZDUU6VT1qzE))*, 4 workshops on scientific fairs, 3 opinion editorials, and 5 miscellaneous activities such as contributing to children’s science coulouring book or the school radio program of IES Mata Jove. [Check here the full list](https://albruzos.github.io/outreach/).  
+  
 <!---Comment
 *2023:* 
 <i class="fa fa-book" aria-hidden="true"></i> 
@@ -180,9 +179,7 @@ Every year I commit some time to bring science to society by organizing or joini
 <i class="fa fa-podcast" aria-hidden="true"></i>Podcast 
 {: .notice}
  ---> 
-
 I collaborate closely with press offices to disseminate my research, **in coverage by outlets like the New York Times, BBC Radio, and El País**. Beyond promoting my research, I am often invited to share my opinion on scientific careers, current topics, or to advocate for women in science. **These initiatives highlight my dedication to science communication and my leadership in public engagement.** Check my [PR clipping](https://albruzos.github.io/media/) for a curated selection of media features and an archive of over 250 media appearances across 10 countries.
-
 
 ---
 
