@@ -27,7 +27,7 @@ author_profile: true
 * **3MT video** (2022). The activity #Cuéntame3min is for scientists of all stages and from all STEM areas to record a 3-minute video explaining their research to a non-specialized audience. [Watch here my application](https://www.youtube.com/watch?v=2TYl6BZ-_SA), I was awarded the first place [See here](https://albruzos.github.io/awardsgrants/awards/).  
 * **Research promotional film** (2020). Our regional government financed short films of *outstanding research projects* that were developed in Galicia. [Scuba Cancers](http://www.scubacancers.org/) project in which my doctoral thesis is framed was recorded and I participated with its content preparation and gave a short statement. [Watch here](https://www.youtube.com/watch?v=Ig3-LggH9Rs)
 * **Research promotional short film** (2020). Our research institute (CiMUS) recorded a promotional video with the participation of the authors involved in the *Pan-cancer initiative* when the results were published in high-impact journals; my participation involved content edition, recorded statements and laboratory shots. [Watch here](https://www.youtube.com/watch?v=1fm9kL94xn0)
-* **Research video** (2019). ASEICA PhD video competition. Youth scientists talk about their *research in three minutes*, I reached more than 11,600 views in Twitter. [Watch here](www.twitter.com/BruzosAliciaL/status/1196606566365089792)  
+* **Research video** (2019). ASEICA PhD video competition. Youth scientists talk about their *research in three minutes*, I reached more than 11,600 views in Twitter. [Watch here](https://x.com/BruzosAliciaL/status/1196606566365089792)  
 
 
 <i class="fa fa-paint-brush" aria-hidden="true"></i> Miscellaneous initiatives (4)
