@@ -13,7 +13,7 @@ author_profile: true
 
 <i class="fa fa-puzzle-piece" aria-hidden="true"></i> Scientific fairs (5) 
 =======
-* **Salon Régional de L'Orientation et des Métiers** (2025). Preparation of a workshop for the exposition in Rouen (1 February 2025).
+* **Salon Régional de L'Orientation et des Métiers** (2025). Speed-dating with families at the expositions parc of Rouen (1 February 2025).
 * **Fête de la Science** (2024). Preparation of a workshop for the two-day open doors (12-13 October 2024) of the marine station of Université de Caen Normandie (Luc-sur-mer, France). [Pictures](https://x.com/BruzosAliciaL/status/1846212389047292322)
 * **For Girls in Science** (2024). Speed-dating with high-school students at the Cité des Sciences (Paris, France). [Pictures](https://x.com/4womeninscience/status/1844793032354242991)
 * **Cullerciencia** (2023). A 20-min talk for the attendees of the fair. [Watch here](https://www.youtube.com/watch?app=desktop&v=t11IrQas_WM)
