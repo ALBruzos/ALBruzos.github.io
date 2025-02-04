@@ -84,6 +84,7 @@ Media outlets have featured my research publications and various scientific acti
 
 | News date | Newspaper or media | Headline and link | 
 |  ---------------- | ---------------- | ---------------- |
+| 04/02/2025 | Enfoques.gal | [Alicia L. Bruzos: “El cáncer en bivalvos puede ayudar a entender el de los humanos”](https://enfoques.gal/galicia/alicia-l-bruzos-el-cancer-en-bivalvos-puede-ayudar-a-entender-el-de-los-humanos/) |
 | 26/01/2025 | Cuac FM | [Ciencia Es Femenino 9x02](https://youtu.be/2Tc9i1VI7xI) |
 | 02/01/**<span style="color: #FF5733;">2025</span>** | Mujer y Cía | [Alicia L. Bruzos, científica española: «No hay que ser brillante para dedicarse a la investigación»](https://mujeresycia.com/alicia-l-bruzos-cientifica-espanola-premio/) |
 | 29/12/2024 | Liberté | [Ces vingt personnalités qui ont marqué l'actualité à Caen en 2024](https://actu.fr/normandie/caen_14118/ces-vingt-personnalites-qui-ont-marque-lactualite-a-caen-en-2024_62045915.html) |
