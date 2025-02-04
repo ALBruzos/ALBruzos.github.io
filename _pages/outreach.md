@@ -10,6 +10,8 @@ author_profile: true
 
 > Commitment to public outreach is central in my career and therefore, I am always willing to participate on activities that engage society with the excitement of science. I have even participated in making a children’s coloring book <i class="fa fa-paint-brush" aria-hidden="true"></i> .
 
+<img src="/files/outreach-stats.png" alt="Outreach Statistics">
+
 
 <i class="fa fa-puzzle-piece" aria-hidden="true"></i> Scientific fairs (5) 
 =======
