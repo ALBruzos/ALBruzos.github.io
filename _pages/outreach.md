@@ -9,7 +9,7 @@ author_profile: true
 
 <img src='/images/Tira_FotosOutreach2_AliciaLBruzos.png'> 
 
-> Commitment to public outreach is central in my career and therefore, I am always willing to participate on activities that engage society with the excitement of science. I have even participated in making a children’s coloring book <i class="fa fa-paint-brush" aria-hidden="true"></i> .
+> Commitment to public outreach is central in my career and therefore, I am always willing to participate on activities that engage society with the excitement of science. I have even participated in making a children’s colouring book <i class="fa fa-paint-brush" aria-hidden="true"></i>.
 
 <img src="/files/outreach-stats.png" alt="Outreach Statistics">
 
