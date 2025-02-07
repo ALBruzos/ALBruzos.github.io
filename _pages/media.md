@@ -80,7 +80,7 @@ Explore how my research, outreach, and achievements have captured the attention 
 <img src="/files/media/media-stats.png" alt="Media Statistics">
 
 # Archive of Media Appearances
-Media outlets have featured my research publications and various scientific activities —such as outreach, awards, or career steps. To date, I have gathered over 250 news items published in more than 40 media platforms across 10 countries. The following table compiles links to all these features:
+Media outlets have featured my research publications and various scientific activities —such as outreach, awards, or career steps. To date, I have gathered over 250 news items published in more than 50 media platforms across 10 countries. The following table compiles links to all these features:
 
 | News date | Newspaper or media | Headline and link | 
 |  ---------------- | ---------------- | ---------------- |
