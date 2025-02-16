@@ -78,7 +78,7 @@ el-cancer-se-puede-contagiar-al-menos-en-animales-163529)
 * **Institutional blog "Océano Ecimat"** (2018). *“Cáncer transmisible de bivalvos para desentrañar la evolución del cáncer.”* Océano Ecimat. [Read Here](https://oceanoecimat.wordpress.com/2018/05/11/cancer-transmisible-de-bivalvos-para-desentranar-la-evolucion-del-cancer/)
 
 
-<i class="fa fa-university" aria-hidden="true"></i> School visits (15: 10 Spanish + 3 British + 1 Canadian/US + 1 French)  
+<i class="fa fa-university" aria-hidden="true"></i> School visits (16: 10 Spanish + 3 British + 1 French + 1 Canadian + 1 USA)  
 =======
 <img src='/images/Tira_FotosOutreach3_AliciaLBruzos.png'> 
 
