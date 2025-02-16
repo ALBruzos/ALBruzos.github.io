@@ -47,6 +47,8 @@ Consortia's work can lead us to important conclusions. Throughout my career, I h
 	
 * [Retrospective evaluation of whole exome and genome mutation calls in 746 cancer samples](https://albruzos.github.io/publication/consortia/2020-Baileyetal.pdf) Bailey et al. (2020) *Nature communications* Comments: **lists my name**
 * [Sex differences in oncogenic mutational processes](https://albruzos.github.io/publication/consortia/2020-Constanceetal.pdf) Constance et al. (2020) *Nature communications* Comments: **lists my name**
+
+<!-- OTHERS THAT DO NOT LIST MY NAME:
 * [Patterns of somatic structural variation in human cancer genomes](https://www.nature.com/articles/s41586-019-1913-9) Li et al. (2020) *Nature*
 * [The repertoire of mutational signatures in human cancer](https://www.nature.com/articles/s41586-020-1943-3) Alexandrov et al. (2020) *Nature*
 * [The evolutionary history of 2,658 cancers](https://www.nature.com/articles/s41586-019-1907-7) Gerstung et al. (2020) *Nature*
@@ -67,7 +69,7 @@ Consortia's work can lead us to important conclusions. Throughout my career, I h
 * [Inferring structural variant cancer cell fraction](https://www.nature.com/articles/s41467-020-14351-8) Cmero et al. (2020) *Nature communications*
 * [Divergent mutational processes distinguish hypoxic and normoxic tumours](https://www.nature.com/articles/s41467-019-14052-x) Bhandari et al. (2020) *Nature communications*
 * [Reconstructing evolutionary trajectories of mutation signature activities in cancer using TrackSig](https://www.nature.com/articles/s41467-020-14352-7) Rubanova et al. (2020) *Nature Communications*  
-  
+-->
   
 *Copyright Notice:* The information contained in these directories is made available as a mechanism to ensure timely dissemination of scholarly/technical information on a non-commercial basis. Copyright and all rights therein are maintained by the authors and/or publishers. It is understood that all individuals reading this information will adhere to the terms/constraints invoked by the copyright holders. Publications may not be copied for commercial redistribution, republication, or dissemination without the copyright holders' explicit permission.  
 {: .notice}
