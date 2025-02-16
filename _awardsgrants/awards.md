@@ -7,6 +7,8 @@ collection: awardsgrants
 <img src='/images/Tira_FotosPremios-2_AliciaLBruzos.png'>  
 
 Throughout my life, I have been awarded several prizes and awards:
+* 2024: **For Women In Science: Young Talents.** Fondation L’Oréal and UNESCO, France. 20.000€.
+<img src='/images/collage-FWISprize_AliciaLBruzos.png'>  
 * 2023:	**Hamilton Award.** Society for the Study of Evolution, US. _Finalist,_ 500 USD.
 * 2023: **Best Talk Prize**. XIV edition of young researchers abroad, Santiago de Compostela, Spain. _Second prize, people’s vote_   
 * 2023:	**Outreach Award in Medicine and Health.** Fundación Lilly and The Conversation, Spain. _Finalist._ Publication of the article _“El viaje de una célula submarina”_. [Read here]([)](https://theconversation.com/el-viaje-submarino-de-la-metastasis-209399)
