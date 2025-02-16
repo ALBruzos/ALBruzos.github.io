@@ -8,16 +8,27 @@ author_profile: true
 
 {% include toc %}
 
-## Publications 
-I’ve been fortunate to have worked on several international and interesting research projects in the field of *cancer genomics*. Keep an eye on the space below to see the list of publications my work has contributed to (hopefully!) grow the knowledge of the field...
+## Publications (10)
+* Riachi, M et al. (includes Bruzos, AL). (2025) *Keratinocyte cholesterol deficiency is a druggable final common pathway in hyperproliferative inflammatory skin disease.* Accepted for publication in the *Journal of Investigative Dermatology*.  
 
  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
 #### Under review publications (available as preprints or request)  
-* Riachi, M et al. (includes Bruzos, AL). (2025) *Keratinocyte cholesterol deficiency is a druggable final common pathway in hyperproliferative inflammatory skin disease.* Accepted for publication in the *Journal of Investigative Dermatology*. 
- 
+* Bruzos, AL et al. (2025) *Prevalence of hemic neoplasia in cockles and co-habiting bivalve species in the western coast of France and the southern coast of Portugal.*   
+
+## Book chapters (10)
+* _"Multiple cancer clones metastasize the Atlantic Coast of Europe."_ (2021) Bruzos, AL; Díaz, S; García, D; Rocha, S; Temes, J; Zamora, J; Rodríguez-Castro, J; Posada, D; Tubío, J. **In:** VIII Encontro da Mocidade Investigadora: libro de resumos. 264(1):154. Servizo de Publicacións Campus Vida, ISBN: 978-84-19155-34-4.
+* _"WGS y cromosomas de berberechos con cáncer transmissible: efectos en la integridad del ADN."_ (2019) Bruzos, AL; Díaz, S; García, D; Rodríguez-Castro, J; Tubío, J **In:** Rey-Méndez M., et al. Foro dos Recursos Mariños e da Acuicultura das Rías Galegas. 22: 265- 273. ISBN: 978-84-09-19360-8; legal deposit: C 2014-2016.
+* _"Braquiuros en berberechos: ¿parasitismo o amensalismo?"_ (2019) Bruzos, AL; Lafuente, S; Tubío, J; Díaz, S. **In:** Rey-Méndez M., Fernández Casal J, Lastres M.A., Padín X.A. (Eds.). Foro dos Recursos Mariños e da Acuicultura das Rías Galegas. 22: 257-264, ISBN: 978-84-09-19360-8; legal deposit: C 2014-2016.  
+* _"Germinoma en berberechos Cerastoderma edule de Dinamarca: caracterización histopatológica y genética."_ (2019) Díaz, S; Bruzos, A.L.; García-Souto, D; Tubío, J **In:** Martínez, F.J., et al. Libro de resúmenes CNA. 2019:200-201, ISBN: 978-84-09-11292-0.
+* _"Neoplasia diseminada en Venus verrucosa: ¿un nuevo caso de cáncer transmisible?"_ (2019)  Díaz, S; Bruzos, A.L.; García-Souto, D; Román Lewis, C; Rodríguez-Castro, J; Tubío, J **In:** Martínez, F.J., et al. Libro de resúmenes CNA. 2019:198-199, ISBN: 978-84-09-11292-0.
+* _"Epigenetic DNA methylation study of bivalve tumors."_ (2018) García, D; Bruzos, AL; Díaz, S; Santamarina, M; Zamora, J; Pasantes, J; Tubío, J **In:** VI International Symposium on Marine Sciences. 2018:404. Imprenta Universidade de Vigo, ISBN: 978-84-8158-788-3.
+* _"Molecular cytogenetic analysis of bivalve tumors."_ (2018) García, D; Bruzos, AL; Díaz, S; Santamarina, M; Zamora, J; Pasantes, J; Tubío, J **In:** VI International Symposium on Marine Sciences. 2018:124. Imprenta Universidade de Vigo, ISBN: 978-84-8158-788-3.
+* _"Cockle reference genome: size estimation."_ (2017) Bruzos, A.L.; Díaz, S; García-Souto, D; Zamora, J; Tubío, J **In:** Jóvenes investigadores, 47- 51, ISBN: 978-84-945079-9-1; legal deposit: S.469-2017.
+* _"Primeros pasos para decodificar el genoma del berberecho C edule."_ (2017) Bruzos, AL; Díaz, S; García-Souto, D; Zamora, J; Tubío, J **In:** Rey-Méndez M., et al. Foro dos Recursos Mariños e da Acuicultura das Rías Galegas. 20: 227-237, ISBN: 978-84-09- 01474-3.
+
 ## Peer-reviewing activity
 My scientific expertise has led me to several invitations to take part in the peer-review system that ensures the rigorous standards of the scientific process. In particular, I have reviewed articles for the following journals:  
 <ul class="fa-ul">
