@@ -338,6 +338,10 @@ Media outlets have featured my research publications and various scientific acti
 
 See here an example of media coverage from the [Wellcome Sanger Institute to media coverage report](https://x.com/BruzosAliciaL/status/1711356686546375093) of my main PhD publication. 
 
+Profile on some of the expert databases for media: 
+* [expertes.fr](https://expertes.fr/expertes/76516-alicia+l-bruzos/)
+* [cientificas.amit-es.org/](https://cientificas.amit-es.org/es/buscador)
+
 <img src='/images/TiraFotos_3_media_AliciaLBruzos.png'>  
 
 <p align="center">
