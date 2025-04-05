@@ -152,7 +152,7 @@ Whenever possible, all posters are openly available on my [ResearchGate profile]
 
 
 
-<i class="fa fa-university" aria-hidden="true"></i> Invited Seminars (8)
+<i class="fa fa-university" aria-hidden="true"></i> Invited Seminars (9)
 =======
 
 [9] <b>Seminaires BOREA</b>: <a href="https://borea.mnhn.fr/fr/actualit%C3%A9-borea/2-jeunes-chercheures-laboratoire-borea-no%C3%A9mie-coulon-alicia-l-bruzos-r%C3%A9compens%C3%A9es" target="_blank">(Laboratoire de biologie des organismes et des écosystèmes aquatiques)</a>. Caen, France (06/02/2025). Seminar title: <i>De la constitution du dossier à recevoir le Prix Jeunes Talents : résolvez vos doutes !</i> <br>
