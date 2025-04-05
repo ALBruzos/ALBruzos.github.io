@@ -82,12 +82,12 @@ el-cancer-se-puede-contagiar-al-menos-en-animales-163529)
 =======
 <img src='/images/Tira_FotosOutreach3_AliciaLBruzos.png'> 
 
-* **Collège Gaston Lefavrais**, Putanges-le-Lac, FRANCE.
+* **Collège Gaston Lefavrais**, Putanges-le-Lac, FRANCE. 05-Feb-2025, in person.
 
 Topic: **[Atelier des chercheurs et chercheuses](https://www.linkedin.com/feed/update/urn:li:activity:7296181113314537473/)** Six sessions of 87 students. 
 {: .notice}
 
-* **CEIP Sta Rita de Galdo**, Viveiro, SPAIN.
+* **CEIP Sta Rita de Galdo**, Viveiro, SPAIN. 18-Dec-2024, in person.
 
 Topic: **[La bióloga Alicia López Bruzos acerca la ciencia a los niños del colegio de Galdo](https://www.elprogreso.es/articulo/a-marina/biologa-alicia-lopez-bruzos-acerca-ciencia-ninos-colegio-galdo/202412182142511814893.amp.html)** Two classes, one with students aged 6-8 and another with students aged 11-12. 
 {: .notice}
