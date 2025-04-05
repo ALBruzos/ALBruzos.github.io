@@ -84,7 +84,7 @@ el-cancer-se-puede-contagiar-al-menos-en-animales-163529)
 
 * **Collège Gaston Lefavrais**, Putanges-le-Lac, FRANCE. 05-Feb-2025, in person.
 
-Topic: **[Atelier des chercheurs et chercheuses](https://www.linkedin.com/feed/update/urn:li:activity:7296181113314537473/)** Six sessions of 87 students. 
+Topic: **[Atelier des chercheurs et chercheuses](https://www.linkedin.com/feed/update/urn:li:activity:7296181113314537473/)** As part of the initiative "Atelier des chercheur·se·s", I gave 6 sessions of 30 min to 87 students divided into groups of ~15 students aged 13-15.
 {: .notice}
 
 * **CEIP Sta Rita de Galdo**, Viveiro, SPAIN. 18-Dec-2024, in person.
