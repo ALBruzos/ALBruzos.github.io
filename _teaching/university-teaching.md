@@ -39,11 +39,13 @@ MBBS: Medicine Bachelor and Bachelor of Surgery
 
 ### Teaching training courses and accreditations:
 
-* ongoing: **MSc in University Teaching**. Universidad Europea de Madrid (online), SPAIN. *Goal:* knowing all the didactic-pedagogical, research, innovation, and use of technology areas that a university teacher must master. *Hours:* 1500. Official title, 60 ECTS. Expected for February 2025.
+* 2025: **Qualification Section 64 - Maître de conférences**. Ministère chargé de l'enseignement Supérier et de la Recherche (Odyssée), FRANCE. *Goal:* similar to a non-tenured assistant professor in the French high education system, must hold a PhD, accreditation required; I've applied in section 64 which is Biochemistry and molecular biology.
+  
+* 2025: **MSc in University Teaching**. Universidad Europea de Madrid (online), SPAIN. *Goal:* knowing all the didactic-pedagogical, research, innovation, and use of technology areas that a university teacher must master. *Hours:* 1500. Official title, 60 ECTS. Expected for February 2025.
 
 * 2023: **Profesor Ayudante Doctor (PAD)**. Agencia Nacional de Evaluación de la Calidad de la Acreditación (ANECA), SPAIN. *Goal:* similar to a non-tenured assistant professor, must hold a PhD, accreditation required.
 
-* 2021: **Research Supervision**. University College London, UK. *Goal:*The course provides information and guidance on UCL regulations and frameworks for research supervision; establishing and maintaining effective working relationships with your supervisees; doctoral skills development requirements and the Research Student Log signposting to further support provided centrally by UCL and locally in faculties and departments. *Hours:* 4.
+* 2021: **Research Supervision**. University College London, UK. *Goal:* The course provides information and guidance on UCL regulations and frameworks for research supervision; establishing and maintaining effective working relationships with your supervisees; doctoral skills development requirements and the Research Student Log signposting to further support provided centrally by UCL and locally in faculties and departments. *Hours:* 4.
 
 * 2017: **Higher Education Lecturing Accreditation (HELA)**. Universidade de Vigo, SPAIN. *Hours:* 16 hours + test (19/04/2017-20/04/2017). *Goal:* qualification to teach in English.
   
