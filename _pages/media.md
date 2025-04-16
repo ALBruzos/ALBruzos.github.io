@@ -84,6 +84,7 @@ Media outlets have featured my research publications and various scientific acti
 
 | News date | Newspaper or media | Headline and link | 
 |  ---------------- | ---------------- | ---------------- |
+| 16/04/2025 | Unicaen | [Alicia Bruzos étudie les coquillages pour mieux comprendre les cancers chez l’Homme](https://www.unicaen.fr/alicia-bruzos-etudie-les-coquillages-pour-mieux-comprendre-les-cancers-chez-lhomme/) |
 | 04/02/2025 | Enfoques.gal | [Alicia L. Bruzos: “El cáncer en bivalvos puede ayudar a entender el de los humanos”](https://enfoques.gal/galicia/alicia-l-bruzos-el-cancer-en-bivalvos-puede-ayudar-a-entender-el-de-los-humanos/) |
 | 26/01/2025 | Cuac FM | [Ciencia Es Femenino 9x02](https://youtu.be/2Tc9i1VI7xI) |
 | 02/01/**<span style="color: #FF5733;">2025</span>** | Mujer y Cía | [Alicia L. Bruzos, científica española: «No hay que ser brillante para dedicarse a la investigación»](https://mujeresycia.com/alicia-l-bruzos-cientifica-espanola-premio/) |
