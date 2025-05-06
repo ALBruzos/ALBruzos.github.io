@@ -11,7 +11,7 @@ permalink: /teaching/supervision
 
 | Academic Year (defense date)  | Title | Student | Supervisors | Degree (Type) | University, Country (Language) | Grade |
 | ------------- | ------------- | ------------- |------------- |------------- | ------------- | ------------- |
-| 2023/2024  (--/06/2024) | *“Preliminary study of the dispersal of contagious cancer cells in the ocean”* | Geo Bujard | Dr Alicia L. Bruzos | MSc. Sciences de la Mer (Master Thesis) | Sorbonne Université, France (French) | - |
+| 2023/2024  (--/06/2024) | *“Preliminary study of the dispersal of contagious cancer cells in the ocean”* | Geo Bujard | Dr Alicia L. Bruzos | MSc. Sciences de la Mer (Master Thesis) | Sorbonne Université, France (French) | Good (60.63/100) |
 | 2023/2024  (14/06/2024) | *“Transmission horizontale du cancer chez les espèces bivalves de la côte atlantique française”* | Angele Moulin | Dr Alicia L. Bruzos | MSc. Sciences de la Mer (Master Thesis) | Université de Caen Normandie, France (French) | Good (14/20) |
 | 2020/2021  (--/07/2021) | *“Molecular diagnostic of different clonal lineages of transmissible cancer”*<sup>*</sup> | Andrea E. Arias Díaz | Alicia L Bruzos, Dr Jose MC Tubío | BSc. in Biology (Degree Thesis) | Universidade de Santiago de Compostela, Spain (Galician) | Outstanding (9/10) | 
 | 2019/2020  (--/--/2020) | *“Identification of driver mutations in marine transmissible cancers through exome sequencing analysis”* | Iago Otero Coto | Alicia L Bruzos, Dr Jose MC Tubío | MSc. in Bioinformatics (Master Thesis) | Universidade da Coruña, Spain (English) | First Class (9.5/10) |
