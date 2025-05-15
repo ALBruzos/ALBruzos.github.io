@@ -9,7 +9,6 @@ author_profile: true
 {% include toc %}
 
 ## Publications (10)
-* Riachi, M et al. (includes Bruzos, AL). (2025) *Keratinocyte cholesterol deficiency is a druggable final common pathway in hyperproliferative inflammatory skin disease.* Accepted for publication in the *Journal of Investigative Dermatology*.  
 
  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
