@@ -20,7 +20,7 @@ author_profile: true
 
 <i class="fa fa-bell" aria-hidden="true"></i> Invited speaker (6)
 =======
-[6] <b>The European Meeting for PhD students in Evolutionary Biology (EMPSEB30)</b>: <a href="https://sites.google.com/view/empseb30/" target="_blank"></a>. Milovy, Czech Republic (02/06/2025 - 06/06/2025). Title: <i>Unraveling the evolutionary history of transmissible cancers in bivalves</i>.<br>
+[6] <b>The European Meeting for PhD students in Evolutionary Biology</b>: <a href="https://sites.google.com/view/empseb30/home?authuser=0" target="_blank">(EMPSEB30)</a>. Milovy, Czech Republic (02/06/2025 - 06/06/2025). Title: <i>Unraveling the evolutionary history of transmissible cancers in bivalves</i>.<br>
 
 [5] <b>International Symposium on Coastal Ecological Health</b>: <a href="https://www.uoh.cl/simposio-internacional-dio-termino-a-proyecto-fovi-de-investigadora-uoh/" target="_blank">(Instituto de Ciencias Agroalimentarias, Animales y Ambientales (ICA3))</a>. San Fernando, Chile (25/11/2024). Title: <i>La historia evolutiva de los cánceres contagiosos de berberechos y almejas</i>.<br>
 
