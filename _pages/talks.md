@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-<p>I have had the privilege of presenting my research at <u>52 international and national conferences</u> across 9 countries. Below, you’ll find a comprehensive list of these events. If you’re interested in marine contagious cancers, feel free to <a href="https://albruzos.github.io/contact/" target="_blank">reach out</a>. I always do my best to accommodate invitations and events to share and discuss and share insights about this topic!</p>
+<p>I have had the privilege of presenting my research at <u>53 international and national conferences</u> across 12 countries. Below, you’ll find a comprehensive list of these events. If you’re interested in marine contagious cancers, feel free to <a href="https://albruzos.github.io/contact/" target="_blank">reach out</a>. I always do my best to accommodate invitations and events to share and discuss and share insights about this topic!</p>
 {% include toc %}
 
 <img src='/images/Tira_FotosCongresos_AliciaLBruzos.png'>  
@@ -18,8 +18,10 @@ author_profile: true
 
 
 
-<i class="fa fa-bell" aria-hidden="true"></i> Invited speaker (5)
+<i class="fa fa-bell" aria-hidden="true"></i> Invited speaker (6)
 =======
+[6] <b>The European Meeting for PhD students in Evolutionary Biology (EMPSEB30)</b>: <a href="https://sites.google.com/view/empseb30/" target="_blank"></a>. Milovy, Czech Republic (02/06/2025 - 06/06/2025). Title: <i>Unraveling the evolutionary history of transmissible cancers in bivalves</i>.<br>
+
 [5] <b>International Symposium on Coastal Ecological Health</b>: <a href="https://www.uoh.cl/simposio-internacional-dio-termino-a-proyecto-fovi-de-investigadora-uoh/" target="_blank">(Instituto de Ciencias Agroalimentarias, Animales y Ambientales (ICA3))</a>. San Fernando, Chile (25/11/2024). Title: <i>La historia evolutiva de los cánceres contagiosos de berberechos y almejas</i>.<br>
 
 [4] <b>Bivalve Transmissible Neoplasia Workshop</b>: <a href="https://lienss.univ-larochelle.fr/Bivalve-Transmissible-Neoplasia-Workshop" target="_blank">(LIttoral ENvironnement et Sociétés)</a>. La Rochelle, France (14/11/2024 - 15/11/2024). Title: <i>Evolution of bivalve transmissible cancers</i>.<br>
@@ -33,11 +35,13 @@ author_profile: true
 
 
 
-<i class="fa fa-bullhorn" aria-hidden="true"></i> Oral communications (21/25)
+<i class="fa fa-bullhorn" aria-hidden="true"></i> Oral communications (22/26)
 =======
 <FONT COLOR="#45B39D">Highlighting legend: <u>Underlined</u> author presenting the communication (20 out of 24 were given my Bruzos); <i class="fa fa-star" aria-hidden="true"></i> Award; <i class="fa fa-book" aria-hidden="true"></i> DOI or book chapter with ISBN.</FONT>
 
 <!-- Not presented by me: 3, 9, 13, 18-->
+
+[26] <b>EACR 2025 Congress: Innovative Cancer Science (Symposium: Molecular Mechanismsof Metastasis)</b>: <a href="https://2025.eacr.org/programme" target="_blank">(European Association for Cancer Research)</a>. Lisbon, Portugal (16/06/2025 - 19/06/2025). Oral communication/Proffered Papers: <i>Cockle transmissible cancerscharacterized by horizontal transfers andinstability of mitogenomes</i>. <b><u>Bruzos, A.L.</u></b>; Díaz, S.; Détrée, C.; Tubio, J. <i class="fa fa-book" aria-hidden="true"></i> Molecular Oncology 19 (Suppl. 1) (2025) 1–895. Page 9 (EACR25-0182), DOI: <a href="https://doi.org/10.1002/1878-0261.70070" target="_blank">https://doi.org/10.1002/1878-0261.70070</a> <br>
 
 [25] <b>Annual Conference of the MCAA</b>: <a href="https://www.mariecuriealumni.eu/conference-2025" target="_blank">(Marie Curie Alumni Association)</a>. Krakow, Poland (21/03/2025 - 22/03/2025). Oral communication: <i>Horizontal transfers and recurrent amplifications shaping mitogenomes in cockle transmissible cancers</i>. <b><u>Bruzos, A.L.</u></b>; Díaz, S.; Détrée, C.; Tubio, J.  <br>
 
