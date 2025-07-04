@@ -7,12 +7,13 @@ collection: awardsgrants
 <img src='/images/Tira_FotosPremios-2_AliciaLBruzos.png'>  
 
 Throughout my life, I have been awarded several prizes and awards:
+* 2025: **Young Scientific Talent Prize.** Campus France and the Cité internationale universitaire de Paris, France. _Finalist._ [Read here](https://www.campusfrance.org/system/files/medias/documents/2025-07/CP_FranceAlumni_Day2025_EN.pdf)  
 * 2024: **For Women In Science: Young Talents.** Fondation L’Oréal and UNESCO, France. 20.000€.
 <img src='/images/collage-FWISprize_AliciaLBruzos.png'>  
 
 * 2023:	**Hamilton Award.** Society for the Study of Evolution, US. _Finalist,_ 500 USD.
 * 2023: **Best Talk Prize**. XIV edition of young researchers abroad, Santiago de Compostela, Spain. _Second prize, people’s vote_   
-* 2023:	**Outreach Award in Medicine and Health.** Fundación Lilly and The Conversation, Spain. _Finalist._ Publication of the article _“El viaje de una célula submarina”_. [Read here]([)](https://theconversation.com/el-viaje-submarino-de-la-metastasis-209399)
+* 2023:	**Outreach Award in Medicine and Health.** Fundación Lilly and The Conversation, Spain. _Finalist._ Publication of the article _“El viaje de una célula submarina”_. [Read here](https://theconversation.com/el-viaje-submarino-de-la-metastasis-209399)
 * 2022: **Best Talk Prize**. XIII reunión de jóvenes investigador@s en el extranjero, Vigo, Spain. _Second prize, people’s vote_  
 * 2022: **3MT Video Award: Cuentame11F**. Citizen initiative 11 febrero, Spain. More than 3k views/likes. _First place._ [3MT video](https://www.youtube.com/watch?v=2TYl6BZ-_SA), [Interview for the show Voces11F](https://www.youtube.com/watch?v=VSCPKnIMPbw&t=1s)
 * 2022: **Women’s Name Award: promotion of scientific vocations**. Fundación Merck Salud, Spain. [Activity video](https://www.youtube.com/watch?v=T8S1t034ZgM)
