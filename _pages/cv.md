@@ -125,7 +125,8 @@ I have presented my research at **52 national and international conferences** ac
 </ul>
 A full detailed list can be checked [here](https://albruzos.github.io/talks/)  
 
-<b>OUTREACH</b> <i class="fa fa-users" aria-hidden="true"></i> and <b>MEDIA</b> <i class="fa fa-users" aria-hidden="true"></i> <b>: Dissemination to society OUTREACH</b>  
+<b>OUTREACH</b> <i class="fa fa-users" aria-hidden="true"></i> and <b>MEDIA</b> <i class="fa fa-users" aria-hidden="true"></i> <b>: Dissemination to society</b>  
+
 **Every year, I commit some time to make science accessible to society by organizing or joining different activities**. To date, I have actively participated in **over 40 public science outreach events**, including 13 school visits, 12 popular science articles, 8 talks for the general public *(e.g. Pint of Science in London, A Coruña, and Caen)*, 6 promotional videos *(e.g., [AquaExcel project](https://www.youtube.com/watch?v=ZDUU6VT1qzE))*, 4 workshops on scientific fairs, 3 opinion editorials, and 5 miscellaneous activities such as contributing to children’s science coulouring book or the school radio program of IES Mata Jove. [Check here the full list](https://albruzos.github.io/outreach/).  
   
 <!---Comment
