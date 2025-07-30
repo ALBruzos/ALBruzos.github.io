@@ -95,8 +95,9 @@ My work has garnered over 1,800 citations according to different sources:
 
 | No. | Paper link & authors  | Year | Journal & preprint repository | Impact Factor & rank<sup>*</sup> | First authorship or corresponding | Framework |
 | ------------- | ------------- | ------------- | ------------- | ------------- |------------- |------------- |
-| #12 | Bruzos AL et al.<sup><mark>#</mark></sup> | NA | Under review | NA | yes | Postdoc, France |
-| #11 | Bruzos AL et al.<sup><mark>#</mark></sup> | NA | Under review | NA | yes | Postdoc, France |
+| #13 | Bruzos AL et al.<sup><mark>#</mark></sup> | NA | Under review | NA | yes | Postdoc, France |
+| #12 | Polubothu S et al. (includes Bruzos AL) | NA | Under review | NA | no | Postdoc, UK |
+| #11 | Bruzos AL et al.<sup><mark>#</mark></sup> | 2025 | Accepted for publication | NA | yes | Postdoc, France |
 | #10 | [Riachi M et al. (includes Bruzos AL)](https://albruzos.github.io/publication/2025-04-22-PAPER-JID-MosaicSkinDisease) | 2025 | JID | 7.590 (2021); D1 | no | Postdoc, UK |
 | #9 | [Santamarina M, Bruzos AL et al.](https://albruzos.github.io/publication/2024-11-08_PAPER_JInvertebrPathology_DiagnosticPCR-CedBTN) | 2024 | J Invert. Pathol. & [SSRN](https://ssrn.com/abstract=4595284) | 3.6 (2023); Q1 | yes | PhD, Spain |
 | #8 | [Bruzos AL et al.](https://albruzos.github.io/publication/2023-10-02-PAPER-NatureCancer-EvolutionCockleTransmissibleCancers) | 2023 | Nature Cancer & [BioRxiv](https://www.biorxiv.org/content/10.1101/2022.08.06.503021v1)| 23.177 (2021); D1 | yes | PhD, Spain |
