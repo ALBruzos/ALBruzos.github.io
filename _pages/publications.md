@@ -15,7 +15,8 @@ author_profile: true
   {% endfor %}</ul>
 
 #### Under review publications (available as preprints or request)  
-* Bruzos, AL et al. (2025) *Prevalence of hemic neoplasia in cockles and co-habiting bivalve species in the western coast of France and the southern coast of Portugal.*   
+* Bruzos AL et al. *Prevalence of hemic neoplasia in cockles and co-habiting bivalve species in the western coast of France and the southern coast of Portugal.* doi: 10.1101/2025.07.30.667629 [BiorXiv](https://www.biorxiv.org/content/10.1101/2025.07.30.667629v1)
+* Polubothu S et al. (includes Bruzos AL) *Mosaic PRKCA fusions cause a novel congenital melanocytoma syndrome associated with uveal melanoma*
 
 ## Book chapters (10)
 * _"Multiple cancer clones metastasize the Atlantic Coast of Europe."_ (2021) Bruzos, AL; Díaz, S; García, D; Rocha, S; Temes, J; Zamora, J; Rodríguez-Castro, J; Posada, D; Tubío, J. **In:** VIII Encontro da Mocidade Investigadora: libro de resumos. 264(1):154. Servizo de Publicacións Campus Vida, ISBN: 978-84-19155-34-4.
