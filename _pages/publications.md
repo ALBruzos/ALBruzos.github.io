@@ -8,11 +8,16 @@ author_profile: true
 
 {% include toc %}
 
-## Publications (10)
+## Publications (12)
 
  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+**Consortia publications**
+I am an author as part of the [PCAWG consortium](https://docs.icgc.org/pcawg/) on the following articles with my name listed:  
+* [Retrospective evaluation of whole exome and genome mutation calls in 746 cancer samples](https://albruzos.github.io/files/papers/2020-02-05-PAPER_NatureCommunications_PCAWG-Baileyetal.pdf) Bailey et al. (2020) *Nature communications* 
+* [Sex differences in oncogenic mutational processes](https://albruzos.github.io/files/papers/2020-02-05-PAPER_NatureCommunications_PCAWG-Constanceetal.pdf) Constance et al. (2020) *Nature communications* 
 
 #### Under review publications (available as preprints or request)  
 * Bruzos AL et al. *Prevalence of hemic neoplasia in cockles and co-habiting bivalve species in the western coast of France and the southern coast of Portugal.* doi: 10.1101/2025.07.30.667629 [BiorXiv](https://www.biorxiv.org/content/10.1101/2025.07.30.667629v1)
@@ -42,13 +47,8 @@ My scientific expertise has led me to several invitations to take part in the pe
 
 All stated reviews have been certified by Publons / Web of Science: [D-7235-2018](https://publons.com/researcher/1404866/alicia-l-bruzos/).
 
-## Consortia publications
-Consortia's work can lead us to important conclusions. Throughout my career, I have been part of the [PCAWG consortium](https://docs.icgc.org/pcawg/) that has published the following articles in which the consortium is an author:  
-	
-* [Retrospective evaluation of whole exome and genome mutation calls in 746 cancer samples](https://albruzos.github.io/files/papers/2020-02-05-PAPER_NatureCommunications_PCAWG-Baileyetal.pdf) Bailey et al. (2020) *Nature communications* Comments: **lists my name**
-* [Sex differences in oncogenic mutational processes](https://albruzos.github.io/files/papers/2020-02-05-PAPER_NatureCommunications_PCAWG-Constanceetal.pdf) Constance et al. (2020) *Nature communications* Comments: **lists my name**
 
-<!-- OTHERS THAT DO NOT LIST MY NAME:
+<!-- OTHER CONSORTIA PUBLICATIONS THAT DO NOT LIST MY NAME:
 * [Patterns of somatic structural variation in human cancer genomes](https://www.nature.com/articles/s41586-019-1913-9) Li et al. (2020) *Nature*
 * [The repertoire of mutational signatures in human cancer](https://www.nature.com/articles/s41586-020-1943-3) Alexandrov et al. (2020) *Nature*
 * [The evolutionary history of 2,658 cancers](https://www.nature.com/articles/s41586-019-1907-7) Gerstung et al. (2020) *Nature*
