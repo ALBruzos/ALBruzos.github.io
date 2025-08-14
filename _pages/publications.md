@@ -14,10 +14,11 @@ author_profile: true
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-**Consortia publications**
-I am an author as part of the [PCAWG consortium](https://docs.icgc.org/pcawg/) on the following articles with my name listed:  
-* [Retrospective evaluation of whole exome and genome mutation calls in 746 cancer samples](https://albruzos.github.io/files/papers/2020-02-05-PAPER_NatureCommunications_PCAWG-Baileyetal.pdf) Bailey et al. (2020) *Nature communications* 
-* [Sex differences in oncogenic mutational processes](https://albruzos.github.io/files/papers/2020-02-05-PAPER_NatureCommunications_PCAWG-Constanceetal.pdf) Constance et al. (2020) *Nature communications* 
+**Consortia publications:** as part of the [PCAWG consortium](https://docs.icgc.org/pcawg/), I am an author on the following articles with my name listed:  
+* **[Retrospective evaluation of whole exome and genome mutation calls in 746 cancer samples](https://albruzos.github.io/files/papers/2020-02-05-PAPER_NatureCommunications_PCAWG-Baileyetal.pdf)**.
+Bailey, MH et al. (includes Bruzos AL in the PCAWG). (2020). "Retrospective evaluation of whole exome and genome mutation calls in 746 cancer samples." Nature Communications 11, 4748. https://doi.org/10.1038/s41467-020-18151-y 
+* **[Sex differences in oncogenic mutational processes](https://albruzos.github.io/files/papers/2020-02-05-PAPER_NatureCommunications_PCAWG-Constanceetal.pdf)**.
+Li, CH et al. (includes Bruzos AL in the PCAWG). (2020). "Sex differences in oncogenic mutational processes." Nature Communications 11, 4330. https://doi.org/10.1038/s41467-020-17359-2
 
 #### Under review publications (available as preprints or request)  
 * Bruzos AL et al. *Prevalence of hemic neoplasia in cockles and co-habiting bivalve species in the western coast of France and the southern coast of Portugal.* doi: 10.1101/2025.07.30.667629 [BiorXiv](https://www.biorxiv.org/content/10.1101/2025.07.30.667629v1)
