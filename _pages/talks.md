@@ -98,13 +98,16 @@ author_profile: true
 <img src='/images/Tira_FotosCongresos4_AliciaLBruzos.png'>  
 
 
-<i class="fa fa-map" aria-hidden="true"></i> Poster communications (14/24)
+<i class="fa fa-map" aria-hidden="true"></i> Poster communications (15/25)
 =======
 <FONT COLOR="#45B39D">Highlighting legend: <u>Underlined</u> author presenting the communication (20 out of 24 were given my Bruzos); <i class="fa fa-map" aria-hidden="true"></i> Link to download the poster; <i class="fa fa-star" aria-hidden="true"></i> Award; <i class="fa fa-book" aria-hidden="true"></i> DOI or book chapter with ISBN.</FONT>
 
 Whenever possible, all posters are openly available on my [ResearchGate profile](https://www.researchgate.net/profile/Alicia-Bruzos/publications).
 {: .notice}
 <!-- Not presented by me: 1, 4, 6, 7, 8, 13, 16, 17, 20, 21 -->
+
+
+[25] <b>Annual Meeting of the Society for Molecular Biology & Evolution</b>: <a href="https://smbe2025.scimeeting.cn/en/web/index/25070" target="_blank">(SMBE)</a>. Beijing, China (20/07/2025 - 24/07/2025). Poster title: <i>Evolution of marine contagious cancers in cockles characterized by genomic instability</i>. <b><u>Bruzos, A.L.</u></b>; et al. <i class="fa fa-star" aria-hidden="true"></i> <a href="https://www.linkedin.com/feed/update/urn:li:activity:7362123992603803648/" target="_blank">SMBE Young Investigator Travel Award</a> <br> <br>
 
 [24] <b>Annual Conference of the MCAA</b>: <a href="https://www.mariecuriealumni.eu/conference-2025" target="_blank">(Marie Curie Alumni Association)</a>. Krakow, Poland (21/03/2025 - 22/03/2025). Poster title: <i>Horizontal transfers and recurrent amplifications shaping mitogenomes in cockle transmissible cancers</i>. <b><u>Bruzos, A.L.</u></b>; Díaz, S.; Détrée, C.; Tubio, J.  <br>
 
