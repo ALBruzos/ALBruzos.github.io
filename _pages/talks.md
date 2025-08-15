@@ -8,7 +8,7 @@ author_profile: true
 <p>I have had the privilege of presenting my research at <u>53 international and national conferences</u> across 12 countries. Below, you’ll find a comprehensive list of these events. If you’re interested in marine contagious cancers, feel free to <a href="https://albruzos.github.io/contact/" target="_blank">reach out</a>. I always do my best to accommodate invitations and events to share and discuss and share insights about this topic!</p>
 {% include toc %}
 
-<img src='/images/Tira_FotosCongresos_AliciaLBruzos.png'>  
+<img src='/images/Tira_FotosCongresos2_AliciaLBruzos.png'>  
 
 <!-- 
 #MAP of conferences
@@ -33,6 +33,7 @@ author_profile: true
 [1] <b>Assemblée Générale EMBRC-France</b>: <a href="-" target="_blank">(European Marine Biological Resource Centre (EMBRC-France))</a>. Banyuls-sur-mer, France (16/05/2017 - 18/05/2017). Title: <i>Finding the genetic causes of contagious metastases under the sea</i>.<br>
 
 
+<img src='/images/Tira_FotosCongresos_AliciaLBruzos.png'>  
 
 
 <i class="fa fa-bullhorn" aria-hidden="true"></i> Oral communications (22/26)
@@ -94,7 +95,7 @@ author_profile: true
 [1] <b>33º Encuentro de Jóvenes Investigadores</b>: <a href="https://www.inice.es/actividades/encuentro/" target="_blank">(Instituto de investigaciones científicas y ecológicas (INICE))</a>. Salamanca, Spain (7/12/2017 - 10/12/2017). Oral communication: <i>Cockle reference genome: size estimation</i>. <b><u>Bruzos, A.L.</u></b>; Díaz, S; García-Souto, D; Zamora, J; Tubío, J <i class="fa fa-book" aria-hidden="true"></i> Book chapter in: Jóvenes investigadores, 47- 51, ISBN: 978-84-945079-9-1; legal deposit: S.469-2017.<br>
 
 
-
+<img src='/images/Tira_FotosCongresos2_AliciaLBruzos.png'>  
 
 
 <i class="fa fa-map" aria-hidden="true"></i> Poster communications (14/24)
@@ -154,6 +155,7 @@ Whenever possible, all posters are openly available on my [ResearchGate profile]
 [1] <b>III Edición de Investigación Biomédica del Cáncer en Galicia</b>: <a href="-" target="_blank">(Instituto de Investigación Biomédica (INIBIC) & Investigación Biomédica del Cancer en Galicia (IBCG))</a>. A Coruña, Spain (14/06/2016 - 14/06/2016). Poster title: <i>Pan-cancer patterns of somatic retrotransposition</i>. <u>Rodríguez-Martín, B</u>; <b>Bruzos, A.L.</b>; Campbell, P; Tubío, J. <br>
  
 
+<img src='/images/Tira_FotosCongresos_AliciaLBruzos.png'>  
 
 
 <i class="fa fa-university" aria-hidden="true"></i> Invited Seminars (9)
