@@ -33,7 +33,7 @@ author_profile: true
 [1] <b>Assemblée Générale EMBRC-France</b>: <a href="-" target="_blank">(European Marine Biological Resource Centre (EMBRC-France))</a>. Banyuls-sur-mer, France (16/05/2017 - 18/05/2017). Title: <i>Finding the genetic causes of contagious metastases under the sea</i>.<br>
 
 
-<img src='/images/Tira_FotosCongresos_AliciaLBruzos.png'>  
+<img src='/images/Tira_FotosCongresos3_AliciaLBruzos.png'>  
 
 
 <i class="fa fa-bullhorn" aria-hidden="true"></i> Oral communications (22/26)
@@ -95,7 +95,7 @@ author_profile: true
 [1] <b>33º Encuentro de Jóvenes Investigadores</b>: <a href="https://www.inice.es/actividades/encuentro/" target="_blank">(Instituto de investigaciones científicas y ecológicas (INICE))</a>. Salamanca, Spain (7/12/2017 - 10/12/2017). Oral communication: <i>Cockle reference genome: size estimation</i>. <b><u>Bruzos, A.L.</u></b>; Díaz, S; García-Souto, D; Zamora, J; Tubío, J <i class="fa fa-book" aria-hidden="true"></i> Book chapter in: Jóvenes investigadores, 47- 51, ISBN: 978-84-945079-9-1; legal deposit: S.469-2017.<br>
 
 
-<img src='/images/Tira_FotosCongresos2_AliciaLBruzos.png'>  
+<img src='/images/Tira_FotosCongresos4_AliciaLBruzos.png'>  
 
 
 <i class="fa fa-map" aria-hidden="true"></i> Poster communications (14/24)
