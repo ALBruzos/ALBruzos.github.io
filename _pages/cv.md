@@ -27,7 +27,9 @@ Download [here a PDF version of my CV](https://ALBruzos.github.io/files/CVs/CV_A
 :   *2021 – 2023* (1 year + 8 months)
 
 **Predoctoral researcher (national predoctoral fellow)** at [Universidade de Santiago de Compostela](https://www.usc.es/gl) and [Universidade de Vigo](https://www.uvigo.gal/en), SPAIN.  
-:   *2016 – 2021* (5 years, covid pandemic included)
+:   *2016 – 2021* (5 years, covid pandemic included)  
+  
+  
 
 <i class="fa fa-globe" aria-hidden="true"></i> Research stays as a **VISITING SCIENTIST** totaling 11 full-months:  
 :    <b>Centro de Ciências do Mar (CCMAR)</b>, Algarve, PORTUGAL. Jul-Aug 2024
