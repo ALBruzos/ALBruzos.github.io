@@ -23,7 +23,7 @@ Download [here a PDF version of my CV](https://ALBruzos.github.io/files/CVs/CV_A
 **Postdoctoral researcher (MSCA fellow)** at [Université de Caen Normandie](https://www.unicaen.fr/), FRANCE.  
 :   *2023 – 2025* (2 years + 2 months)
 
-**Postdoctoral researcher (research assistant)** at [The Francis Crick Institute](https://www.crick.ac.uk/) and [University College of London](https://www.ucl.ac.uk/), UNITED KINGDOM.  
+**Postdoctoral researcher** at [The Francis Crick Institute](https://www.crick.ac.uk/) and [University College of London](https://www.ucl.ac.uk/), UNITED KINGDOM.  
 :   *2021 – 2023* (1 year + 8 months)
 
 **Predoctoral researcher (national predoctoral fellow)** at [Universidade de Santiago de Compostela](https://www.usc.es/gl) and [Universidade de Vigo](https://www.uvigo.gal/en), SPAIN.  
