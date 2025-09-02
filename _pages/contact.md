@@ -30,27 +30,27 @@ France  <br>
 <h2 align="center">Social networks</h2>
 
 <p align="center">
-On the left you have all my social profiles, you can choose the one you like the most and even follow me to be aware of my recent news. <br>
+You can choose the one you like the most and follow me to be aware of my recent news: <br>
+LinkedIn: https://www.linkedin.com/in/bruzosalicial/ <br>
+BlueSky: https://bsky.app/profile/bruzos.bsky.social <br>
+Twitter/X: https://x.com/BruzosAliciaL <br>
+ResarchGate: https://www.researchgate.net/profile/Alicia-Bruzos <br>
+Instagram: https://www.instagram.com/bruzosalicial <br>
+Youtube: www.youtube.com/@BruzosAliciaL <br> <br>
+<!---
+  Facebook: https://www.facebook.com/alicialbruzos
+  TikTok: https://www.tiktok.com/@bruzosalicial?is_from_webapp=1&sender_device=pc
+--->
+  
 See you on the networks! <br>
 <br>
 </p>
 
 <!---
-
 ### Face-to-face and postal mail:
 The Francis Crick Institute  
 1 Midland Road  
 London NW1 1AT  
 United Kingdom  
-
-### E-mail:
-albruzos@gmail.com  
-alicia.bruzos@crick.ac.uk  
-
-### Social networks:
-On the left you have all my social profiles, you can choose the one you like the most and even follow me to be aware of my recent news. See you on the networks! [@BruzosAliciaL](https://twitter.com/BruzosAliciaL)  
-
-
-[LinkedIn](https://www.linkedin.com/in/alicialopezbruzos)  
-[ResearchGate](https://www.researchgate.net/profile/Alicia-Bruzos)
 --->
+
