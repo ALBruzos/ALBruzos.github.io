@@ -7,26 +7,31 @@ author_profile: true
 {% include toc %}
 
 ### CURRENT POSITION
-_07/2023_ – 	    :	**Postdoctoral fellow.**  
+_09/2025_ – 	    :	**Junior group leader (Minerva Fast Track fellow).**  
+:   *Institution:* [Max Planck Institute for Marine Microbiology](https://mpi-bremen.de/en/Home.html), Germany.  
+:   *Research topic:* genomics of marine contagious cancers  
+:   *Budget:* 2 people hired + research funds + my salary
+
+### PREVIOUS POSITIONS
+_07/2023_ – 08/2025:	**Postdoctoral researcher (EU-funded MSCA fellow).**  
 :   *Institution:* [Université de Caen Normandie](https://www.unicaen.fr/), France.  
 :   *Training:* microbiology  
 :   *Research topic:* immunology of marine contagious cancers  
 :   *Supervisor/s:* Dr. Camille Detrée  
 
-### PREVIOUS POSITIONS
 _09/2021 – 04/2023:_ **Postdoctoral researcher.**  
 :   *Institution:* [The Francis Crick Institute](https://www.crick.ac.uk/) and [University College of London](https://www.ucl.ac.uk/), United Kingdom.  
 :   *Training:* bioinformatics  
 :   *Research topic:* genomics of mosaic disorders and melanoma  
 :   *Supervisor/s:* Dr. Veronica Kinsler  
 
-_03/2018 – 09/2021:_ **Predoctoral fellow.**  
+_03/2018 – 09/2021:_ **Predoctoral researcher (national PhD fellow - continuation).**  
 :   *Institution:* [University of Santiago de Compostela](https://www.usc.es/gl), Spain.  
 :   *Training:* continuation of doctoral studies  
 :   *Research topic:* genetic causes of marine contagious cancers  
 :   *Supervisor/s:* Dr. Jose M. C. Tubío and Dr. Seila Díaz Costas  
 
-_09/2016 – 03/2018:_ **Predoctoral fellow.**  
+_09/2016 – 03/2018:_ **Predoctoral researcher (national PhD fellow).**  
 :   *Institution:* [University of Vigo](https://www.uvigo.gal/en), Spain.  
 :   *Training:* doctoral studies  
 :   *Research topic:* genetic causes of marine contagious cancers  
