@@ -13,6 +13,30 @@ redirect_from:
 <img src='/images/1_TiraFotosPhD-AliciaLBruzos.png'>  
 Download [here a PDF version of my CV](https://ALBruzos.github.io/files/CVs/CV_AliciaLBruzos.pdf)
 
+---
+
+<i class="fa fa-fw fa-briefcase "></i> Work experience
+=======
+Since 2016, I did 6 research stays abroad (one ongoing) totaling 47 months in 6 different countries. More than 85% of this time, as a postdoctoral researcher.  
+
+_2025 – ongoing:_	**Junior group leader (Minerva Fast Track fellow)** at [Max Planck Institute for Marine Microbiology](https://mpi-bremen.de/en/Home.html), GERMANY.  
+_2023 – 2025:_	**Postdoctoral researcher (MSCA fellow)** at [Université de Caen Normandie](https://www.unicaen.fr/), FRANCE.  
+_2021 – 2023:_ **Postdoctoral researcher (research assistant)** at [The Francis Crick Institute](https://www.crick.ac.uk/) and [University College of London](https://www.ucl.ac.uk/), UNITED KINGDOM.  
+_2016 – 2021:_ **Predoctoral researcher (national predoctoral fellow)** at [Universidade de Santiago de Compostela](https://www.usc.es/gl) and [Universidade de Vigo](https://www.uvigo.gal/en), SPAIN.  
+
+<b>RESEARCH STAYS AS A VISITING SCIENTIST</b> <i class="fa fa-globe" aria-hidden="true"></i>
+<ul class="fa-ul">
+  <li><i class="fa-li fa fa-check-square"></i> <b>Centro de Ciências do Mar (CCMAR)</b>, Algarve, PORTUGAL. Jul-Aug 2024</li>
+  <li><i class="fa-li fa fa-check-square"></i> <b>Korea Advance Institute of Science and Technology</b> (KAIST), Daejeon, SOUTH KOREA. Jan-Apr 2021</li>
+  <li><i class="fa-li fa fa-check-square"></i> <b>University of Vigo</b>, Vigo, SPAIN. Oct-Dec 2020</li>
+  <li><i class="fa-li fa fa-check-square"></i> <b>National University of Ireland Galway</b>, Galway, IRELAND. Mar-Apr 2019</li>
+  <li><i class="fa-li fa fa-check-square"></i> <b>Pacific Northwest Research Institute</b> (PNRI), Seattle, USA. Sep-Dec 2018</li>
+</ul>
+
+[More details about my work experience](https://albruzos.github.io/jobs/)  
+
+---
+
 <i class="fa fa-graduation-cap" aria-hidden="true"></i> Education
 =======
 **PhD. in Molecular Medicine**, Universidade de Santiago de Compostela (CiMUS institute), Spain.  
@@ -20,18 +44,16 @@ Download [here a PDF version of my CV](https://ALBruzos.github.io/files/CVs/CV_A
 :   Specialization in Cancer.  
 :   Title of Doctoral Thesis: _"Evolution of bivalve transmissible cancers"_  
 
-**MSc. in Higher Education Teaching**, Universidad Europea, Spain.  
-:   *2023 – ongoing*	  
+**MSc. in Higher Education Teaching**, Universidad Europea de Madrid, Spain.  
+:   *2023 – 2025* 60 ECTS	  
 
 **MSc. in Bioinformatics**, Universitat Autònoma de Barcelona, Spain.  
-:   *2015 – 2016*	  
+:   *2015 – 2016* 60 ECTS	  
 :   Specialization in Genomics.  
-:   Title of Master Thesis: _"The Full Catalogue of L1 Active Loci in the Cancer Genome"_  
 
 **BSc. in Biology**, Universidade de Santiago de Compostela, Spain.  
-:   *2011 – 2015* 	
+:   *2011 – 2015* 243.5 ECTS 	
 :   Erasmus year abroad at Université Libre de Bruxelles (Belgium).  
-:   Title of Degree thesis: _“Interpopulation variability in the level of photosynthesis inactivation by heat stress in Arbutus unedo”_ (With Honours)  
 
 [More details of my academic education](https://albruzos.github.io/education/) 
 
@@ -46,29 +68,6 @@ Download [here a PDF version of my CV](https://ALBruzos.github.io/files/CVs/CV_A
 | **Spanish** | _native_ | _NA_ |
 
 <sup>According to The Common European Framework of Reference for Languages *(A1/2 = Basic user; B1/2 = Independent user; C1/2 = Proficient user)* </sup> 
-
----
-
-<i class="fa fa-fw fa-briefcase "></i> Work experience
-=======
-Since 2016, I did 6 research stays abroad (one ongoing) totaling 47 months in 6 different countries. More than 85% of this time, as a postdoctoral researcher.  
-  
-_2023 – ongoing:_	**Postdoctoral researcher (MSCA fellow)** at [Université de Caen Normandie](https://www.unicaen.fr/), FRANCE.  
-_2021 – 2023:_ **Postdoctoral researcher (research assistant)** at [The Francis Crick Institute](https://www.crick.ac.uk/) and [University College of London](https://www.ucl.ac.uk/), UNITED KINGDOM.  
-_2016 – 2021:_ **Predoctoral researcher (national predoctoral fellow)** at [Universidade de Santiago de Compostela](https://www.usc.es/gl) and [Universidade de Vigo](https://www.uvigo.gal/en), SPAIN.  
-
-<b>RESEARCH STAYS AS A VISITING SCIENTIST</b> <i class="fa fa-globe" aria-hidden="true"></i>
-<ul class="fa-ul">
-  <li><i class="fa-li fa fa-check-square"></i> <b>Centro de Ciências do Mar (CCMAR)</b>, Algarve, PORTUGAL. Jul-Aug 2024</li>
-  <li><i class="fa-li fa fa-check-square"></i> <b>Korea Advance Institute of Science and Technology</b> (KAIST), Daejeon, SOUTH KOREA. Jan-Apr 2021</li>
-  <li><i class="fa-li fa fa-check-square"></i> <b>University of Vigo</b>, Vigo, SPAIN. Oct-Dec 2020</li>
-  <li><i class="fa-li fa fa-check-square"></i> <b>National University of Ireland Galway</b>, Galway, IRELAND. Mar-Apr 2019</li>
-  <li><i class="fa-li fa fa-check-square"></i> <b>Pacific Northwest Research Institute</b> (PNRI), Seattle, USA. Sep-Dec 2018</li>
-</ul>
-
-
-[More details about my work experience](https://albruzos.github.io/jobs/)  
-
 
 ---
 
