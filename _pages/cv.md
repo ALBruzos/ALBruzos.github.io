@@ -95,7 +95,7 @@ My work has garnered over 1,800 citations according to different sources:
 | [ResearchGate](https://www.researchgate.net/profile/Alicia-Bruzos)| 11 | 22/12/2024 | 2,695 |
 
 <b>PEER-REVIEWED ARTICLES</b> <i class="fa fa-fw fa-paste"></i>
-
+Here you can find a summary table, find more details [here](https://albruzos.github.io/publications/).
 | No. | Paper link & authors  | Year | Journal & preprint repository | Impact Factor & rank<sup>*</sup> | Role<sup>**</sup> | Framework |
 | ------------- | ------------- | ------------- | ------------- | ------------- |------------- |------------- |
 | #13 | Bruzos AL et al.<sup><mark>#</mark></sup> | NA | Under review | NA | yes<sup>a,b</sup> | Postdoc, France |
@@ -115,8 +115,6 @@ My work has garnered over 1,800 citations according to different sources:
 <mark><sup>#</sup></mark> PENDING PUBLICATION  
 <sup>*</sup> IF taken from [Journal Citation Report (JCR)](https://mjl.clarivate.com/) for the year of the publication unless otherwise stated. Quartile (Q1 ≤ 0.25) and decile (D1 ≤ 0.1) rankings are indicated.  
 <sup>**</sup> First authorship (a) or corresponding (b)
-
-Find more details [here](https://albruzos.github.io/publications/).  
   
 <b>SCIENTIFIC CONFERENCES</b> <i class="fa fa-bullhorn" aria-hidden="true"></i>  
 I have presented my research at **52 national and international conferences** across 9 countries. This includes the following:
