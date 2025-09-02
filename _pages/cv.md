@@ -114,7 +114,7 @@ Here you can find a summary table, find more details [here](https://albruzos.git
 
 <mark><sup>#</sup></mark> PENDING PUBLICATION  
 <sup>*</sup> IF taken from [Journal Citation Report (JCR)](https://mjl.clarivate.com/) for the year of the publication unless otherwise stated. Quartile (Q1 ≤ 0.25) and decile (D1 ≤ 0.1) rankings are indicated.  
-<sup>**</sup> First authorship (a) or corresponding (b)
+<sup>**</sup> First authorship (a) or corresponding author (b).
   
 <b>SCIENTIFIC CONFERENCES</b> <i class="fa fa-bullhorn" aria-hidden="true"></i>  
 I have presented my research at **52 national and international conferences** across 9 countries. This includes the following:
