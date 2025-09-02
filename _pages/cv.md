@@ -96,6 +96,7 @@ My work has garnered over 1,800 citations according to different sources:
 
 <b>PEER-REVIEWED ARTICLES</b> <i class="fa fa-fw fa-paste"></i>
 Here you can find a summary table, find more details [here](https://albruzos.github.io/publications/).
+
 | No. | Paper link & authors  | Year | Journal & preprint repository | Impact Factor & rank<sup>*</sup> | Role<sup>**</sup> | Framework |
 | ------------- | ------------- | ------------- | ------------- | ------------- |------------- |------------- |
 | #13 | Bruzos AL et al.<sup><mark>#</mark></sup> | NA | Under review | NA | yes<sup>a,b</sup> | Postdoc, France |
