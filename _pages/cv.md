@@ -44,7 +44,7 @@ Download [here a PDF version of my CV](https://ALBruzos.github.io/files/CVs/CV_A
 <i class="fa fa-graduation-cap" aria-hidden="true"></i> Education
 =======
 **PhD. in Molecular Medicine**, Universidade de Santiago de Compostela (CiMUS institute), Spain.  
-:   *2017 – 2022*
+:   *2016 – 2022*
 :   Specialization in Cancer.  
 :   Title of Doctoral Thesis: _"Evolution of bivalve transmissible cancers"_  
 
