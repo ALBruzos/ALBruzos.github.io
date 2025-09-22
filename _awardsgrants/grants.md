@@ -20,7 +20,7 @@ I also applied for the MSCA-PF in 2022 (proposal no. 101106357) and received a 9
 
 # <i class="fa fa-flask" aria-hidden="true"></i> Research projects 
 
-## <i class="fa fa-user" aria-hidden="true"></i> Research projects as a principal investigator  
+## <i class="fa fa-user" aria-hidden="true"></i> As a principal investigator  
 
 * **ONTÓGENIE: Cell-of-origin of cockle transmissible cancers** (2024). Unité Mixte de Recherche BOREA (UMR 8067, financement intra-unité) . _Budget:_ 2.500,00 €. _PI:_ myself. _My role:_ Lead applicant. _Status: CONCLUDED_
 *	**Exploration Fund Grant** (2024). Funded by The Explorers Club to conduct field missions to collect bivalves. _Budget:_ 5.000,00 USD. _PI:_ myself. _My role:_ Single applicant. _Status: CONCLUDED_
@@ -28,7 +28,7 @@ I also applied for the MSCA-PF in 2022 (proposal no. 101106357) and received a 9
 * **Boheringer Ingelheim Fonds grant** (2021). _Funder:_ [Boheringer Ingelheim Fonds](https://www.bifonds.de/fellowships-grants/travel-grants/), Germany. _Institution:_ Korea Advanced Institute of Science and Technology (KAIST), Daejeon, SOUTH KOREA. _Budget:_ 2.370,00 €. _PI:_ myself. _My role:_ Lead applicant (with support of YS Ju). _Status: CONCLUDED_
 * **Assemble Plus Transnational Access grant** (2019). _Funder:_ [Association of European Marine Biological Laboratories Expanded](http://www.assembleplus.eu/) (grant agreement no. 730984). _Institution:_ University of Galway, IRELAND. _Budget:_ 5.992,84 €. _My role:_ Co-applicant with support of S Díaz. _Status: CONCLUDED_
 
-## <i class="fa fa-users" aria-hidden="true"></i> Research projects as a team member 
+## <i class="fa fa-users" aria-hidden="true"></i> As a team member 
 
 *	**Proyecto de Vinculación de Instituciones Internacionales** (2023-2024). Gobierno de Chile (ref. FOVI230047). _Budget:_ 30.000.000,00 CLP (~30.000,00 €). _Institution:_ Universidad de O’Higgins, CHILE. _PI:_ M Derrien. _My role:_ Collaborator. _Status: CONCLUDED_
 * **Consolidación GRC GI-1736 Medicina Xenómica GMX 2021-PG048** (2021-2024). _Funder:_ Consellería de Cultura, Educación e Universidade, Xunta de Galicia, SPAIN (ref. ED431C 2021/28). _Budget:_ 400.000,00 €. _PI:_ AM Carracedo, Universidade de Santiago de Compostela, Spain. _My role:_ Research assistant (led by JMC Tubio). _Status: CONCLUDED_
