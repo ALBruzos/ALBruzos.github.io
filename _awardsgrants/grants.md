@@ -4,10 +4,8 @@ excerpt: "Competitive fellowships, research projects, and travel grants. <br/><i
 collection: awardsgrants
 ---
 
-{% include toc %}  
-
-I have consistently secured competitive fellowships and project funding throughout my career, including at the doctoral, postdoctoral, and independent group-leader stages. Beyond these, I obtained travel grants and contributed to international projects, reflecting my ability to build collaborations and pursue ambitious research. This sustained record of acquiring my own funding demonstrates my progression towards scientific independence and leadership.
-
+I have consistently secured competitive fellowships and project funding throughout my career, including at the doctoral, postdoctoral, and independent group-leader stages. Beyond these, I obtained travel grants and contributed to international projects, reflecting my ability to build collaborations and pursue ambitious research. This sustained record of acquiring my own funding demonstrates my progression towards scientific independence and leadership.  
+{% include toc %}
 <img src='/images/TiraFotos_1_grants_AliciaLBruzos.png'>  
 <!---to comment ---> 
 
