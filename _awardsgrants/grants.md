@@ -8,6 +8,9 @@ collection: awardsgrants
 
 I have consistently secured competitive fellowships and project funding throughout my career, including at the doctoral, postdoctoral, and independent group-leader stages. Beyond these, I obtained travel grants and contributed to international projects, reflecting my ability to build collaborations and pursue ambitious research. This sustained record of acquiring my own funding demonstrates my progression towards scientific independence and leadership.
 
+<img src='/images/TiraFotos_1_grants_AliciaLBruzos.png'>  
+<!---to comment ---> 
+
 # <i class="fa fa-university" aria-hidden="true"></i> Competitive fellowships and scholarships (6) 
 
 * 2024:	**Minerva Fast Track Fellowship** (2025-2028, call of 2023 on the Biology-Medicine Section). _Funder:_ Max Planck Society, GERMANY. _Institution:_ Max Planck Institute for Marine Microbiology, Bremen, Germany. _Budget:_ my salary, a PhD student, a postdoc, and 50,000 € yearly for research costs. _Application:_ Lead applicant (supported by N Dubilier). _Status: ONGOING_
