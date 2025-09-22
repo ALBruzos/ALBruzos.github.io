@@ -4,9 +4,9 @@ excerpt: "2 grants, 5 fellowships, 2 scholarships <br/><img src='/images/Logos-g
 collection: awardsgrants
 ---
 
-I have consistently secured competitive fellowships and project funding throughout my career, including at the doctoral, postdoctoral, and independent group-leader stages. Beyond these, I obtained travel grants and contributed to international projects, reflecting my ability to build collaborations and pursue ambitious research. This sustained record of acquiring my own funding demonstrates my progression towards scientific independence and leadership.
-
 {% include toc %}  
+
+I have consistently secured competitive fellowships and project funding throughout my career, including at the doctoral, postdoctoral, and independent group-leader stages. Beyond these, I obtained travel grants and contributed to international projects, reflecting my ability to build collaborations and pursue ambitious research. This sustained record of acquiring my own funding demonstrates my progression towards scientific independence and leadership.
 
 # <i class="fa fa-university" aria-hidden="true"></i> Competitive fellowships and scholarships (6) 
 
