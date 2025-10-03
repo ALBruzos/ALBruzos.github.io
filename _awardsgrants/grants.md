@@ -5,17 +5,21 @@ collection: awardsgrants
 ---
 
 I have consistently secured competitive fellowships and project funding throughout my career, including at the doctoral, postdoctoral, and independent group-leader stages. Beyond these, I obtained travel grants and contributed to international projects, reflecting my ability to build collaborations and pursue ambitious research. This sustained record of acquiring my own funding demonstrates my progression towards scientific independence and leadership.  
+
+
 {% include toc %}
+
+
 <img src='/images/TiraFotos_1_grants_AliciaLBruzos.png'>  
 <!---to comment ---> 
 
 # <i class="fa fa-university" aria-hidden="true"></i> Competitive fellowships and scholarships (6) 
 
-* 2024:	**Minerva Fast Track Fellowship** (2025-2028, call of 2023 on the Biology-Medicine Section). _Funder:_ Max Planck Society, GERMANY. _Institution:_ Max Planck Institute for Marine Microbiology, Bremen, Germany. _Budget:_ my salary, a PhD student, a postdoc, and 50,000 € yearly for research costs. _Application:_ Lead applicant (supported by N Dubilier). _Status: ONGOING_
+* 2024:	**Minerva Fast Track Fellowship** (2025-2028, [call 2024 on the Biology-Medicine Section](https://www.mpg.de/22001985/minerva-fast-track)). _Funder:_ Max Planck Society, GERMANY. _Institution:_ Max Planck Institute for Marine Microbiology, Bremen, Germany. _Budget:_ my salary, a PhD student, a postdoc, and 50,000 € yearly for research costs. _Application:_ Lead applicant (supported by N Dubilier). _Status: ONGOING_
 * 2023:	**European postdoctoral fellowship (2023-2025)**. Marie Skłodowska-Curie Actions (MSCA) and Région Normandie (grant agreement no. 101034329). Programme [Winning Normandy](https://www.normandie.fr/winningnormandy-fellowship-program) Budget: 174.000,00 € that covered my salary and research costs. Université de Caen Normandie, France. Lead applicant (supervised by C Détrée). _Status: CONCLUDED_
 I also applied for the MSCA-PF in 2022 (proposal no. 101106357) and received a 92.60% score (LIF panel), unfortunately it did not reach the funding threshold, I was placed on the reserve list.
 * 2023: **National postdoctoral “Juan de la Cierva” fellowship (2024-2026)**. _Funder:_ Spanish Ministry of Science ([Ref. JDC2022-048396-I - page 15](https://www.aei.gob.es/sites/default/files/convocatory_info/file/2023-09/PRP_SELECCIONADOS_RESERVAS_JDC%202022_firmada.pdf)) _Institution:_ CSIC - Instituto de Investigaciones Marinas, Spain. _Budget:_ 50.700,00 € to cover my salary for 2 years. _Application:_ Lead applicant (supervised by A Figueras). _Status: DECLINED to take the MSCA_
-* 2017: **National Doctoral Fellowship (2017-2021)**.  _Funder:_ Spanish Ministry of Economy, Industry and Competitivity (Ref. BES-2016-078166). _Institution:_ Universidade de Vigo and transferred in 2018 to Universidade de Santiago de Compostela, SPAIN. _Budget:_ 98.500,00 € to cover my salary for 4 years (6-month extension due to Covid pandemic) and an international research stay of 3-months. _Application:_ Lead applicant (supported by J Tubio). _Status: CONCLUDED_
+* 2017: **National Doctoral Fellowship (2017-2021)**. _Funder:_ Spanish Ministry of Economy, Industry and Competitivity ([Ref. BES-2016-078166](https://www.aei.gob.es/sites/default/files/stfls/eSede/Ficheros/2017/Resolucion_Concesion_Predoctoral_2016.pdf)). _Institution:_ Universidade de Vigo and transferred in 2018 to Universidade de Santiago de Compostela, SPAIN. _Budget:_ 98.500,00 € to cover my salary for 4 years (6-month extension due to Covid pandemic) and an international research stay of 3-months. _Application:_ Lead applicant (supported by J Tubio). _Status: CONCLUDED_
 * 2013: **Erasmus scholarship**. _Institution:_ [Université Libre de Bruxelles](https://www.ulb.be/en), BELGIUM. One year to study abroad. _Budget:_ stipend from EU, national and regional councils. _Application:_ Single applicant. _Status: CONCLUDED_
 * 2009: **Summer Exchange scholarship**. _Funder:_ Alliance Française and Xunta de Galicia, FRANCE and SPAIN. _Institution:_ Internat Lycée Flora Tristan, Camblanes, FRANCE. _Budget:_ travel, accommodation and French lessons during a month. _Application:_ Single applicant. _Status: CONCLUDED_
 
