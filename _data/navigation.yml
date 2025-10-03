@@ -6,8 +6,11 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Awards & Grants"
-    url: /awards-grants/
+  - title: "Funding"
+    url: /funding/
+
+  - title: "Awards"
+    url: /awards/
     
   - title: "Teaching"
     url: /teaching/  
