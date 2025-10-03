@@ -89,9 +89,4 @@ I have participated in international research projects such as:
 <a href="https://www.genomicsengland.co.uk/" target="_blank"> 
 <img src="/images/logos/GenomicsEngland_logo.png" alt="Genomics England logo" width="100" height="51" /> 
 </a>
-
-
-
-
-
 ---> 
