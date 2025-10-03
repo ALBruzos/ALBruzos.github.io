@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Funding: fellowships & grants"
-permalink: /publications/
+permalink: /funding/
 author_profile: true
 ---
 
