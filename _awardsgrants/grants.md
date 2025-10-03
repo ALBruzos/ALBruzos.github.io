@@ -22,7 +22,7 @@ I have consistently secured competitive fellowships and project funding througho
 * 2013: **Erasmus scholarship**. _Institution:_ [Université Libre de Bruxelles](https://www.ulb.be/en), BELGIUM. One year to study abroad. _Budget:_ stipend from EU, national and regional councils. _Application:_ Single applicant. _Status: CONCLUDED_
 * 2009: **Summer Exchange scholarship**. _Funder:_ Alliance Française and Xunta de Galicia, FRANCE and SPAIN. _Institution:_ Internat Lycée Flora Tristan, Camblanes, FRANCE. _Budget:_ travel, accommodation and French lessons during a month. _Application:_ Single applicant. _Status: CONCLUDED_
 
-# <i class="fa fa-flask" aria-hidden="true"></i> Research projects 
+# <i class="fa fa-flask" aria-hidden="true"></i> Research grants 
 
 ## <i class="fa fa-user" aria-hidden="true"></i> As a principal investigator  
 
