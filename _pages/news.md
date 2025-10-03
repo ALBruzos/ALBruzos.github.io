@@ -1,4 +1,27 @@
 ---
+title: "News (former Awards and Grants)"
+permalink: /news/
+author_profile: true
+redirect_from: 
+  - "/ag/"
+---
+
+One:
+{% for post in site.awardsgrants %}
+  {% include archive-single.html %}
+{% endfor %}
+
+Two: 
+{% for post in site.news %}
+  {% include archive-single.html %}
+{% endfor %}
+
+
+
+<!---to comment ---> 
+
+<!--- 
+---
 layout: archive
 title: "Latest news"
 permalink: /news/
@@ -14,3 +37,4 @@ author_profile: true
 * **[Meet the new students](https://twitter.com/UMR_BOREA/status/1785248413887443020)** who will do their master's thesis over the next few months in the framework of cockle contagious cancers.
   
 * We are organizing the **Chilean Coastal Ecological Health Symposium** on June 4th, 2024 at University of Caen Normandy (France). Come and join us! [Brochure](https://borea.mnhn.fr/sites/default/files/fichiers-actus/SYMPOSIUM-brochure_4June2024.pdf) - [More info](https://borea.mnhn.fr/fr/actualit%C3%A9-borea/chilean-coastal-ecological-health-symposium-4-juin-2024-universit%C3%A9-caen-normandie)
+---> 
