@@ -7,7 +7,7 @@ redirect_from:
 ---
 <img src='/images/WebsiteSections_v1-08.png'>  
 
-{% for post in site.awardsgrants %}
+{% for post in site.awardsgrants reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
