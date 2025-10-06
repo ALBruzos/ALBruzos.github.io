@@ -5,7 +5,7 @@ permalink: /research-topic/
 author_profile: true
 ---
 
-**Watch out!** If are a researcher that would like to study marine contagious cancers, do not hesitate to contact me at **albruzos@gmail.com**!
+**Watch out!** If you are a researcher that would like to study marine contagious cancers, do not hesitate to contact me at **albruzos@gmail.com**!
 {: .notice}
 
 ## What is it a contagious cancer?
