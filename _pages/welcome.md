@@ -10,8 +10,12 @@ author_profile: true
 <img align="center" src="/images/WebsiteSections_v1-08.png"/> 
 </a>
 
-<a href="https://albruzos.github.io/publications/" target="_parent"> 
+<a href="https://albruzos.github.io/research-topic/" target="_parent"> 
 <img align="center" src="/images/WebsiteSections_v1-02.png"/> 
+</a>
+
+<a href="https://albruzos.github.io/publications/" target="_parent"> 
+<img align="center" src="/images/WebsiteSections_v1-11.png"/> 
 </a>
 
 <a href="https://albruzos.github.io/contact/" target="_blank"> 
