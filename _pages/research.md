@@ -11,28 +11,33 @@ author_profile: true
 
 Research
 =======
-We study the evolution and ecology of bivalve transmissible cancers across different species, how malignat cells evolve to invade or 'travel to' distant organisms and, in some cases even cross species boundaries. Working in bivalves is not without challenges because they are not typically used nin cancer genomics. [More about contagious cancers](https://albruzos.github.io/research-topic/) 
+We study the evolution and ecology of bivalve transmissible cancers across different species, exploring how malignant cells evolve to invade or 'travel to' distant organisms and, in some cases, even cross species boundaries. Our research combines fieldwork, molecular biology, and multiple omics to understand the ecological and evolutionary dynamics of these unusual cancers, which challenge our definitions of individuality and disease transmission.  
+
+Working in bivalves comes with unique challenges as they are not traditional model organisms in cancer research. But also provides extraordinary opportunities to discover new mechanisms of evolution of cancer cell transmission. [More about contagious cancers](https://albruzos.github.io/research-topic/)  
+
+Ongoing lines
+-------
+- **Origins and diversity** of transmissible cancers in marine ecosystems.  
+- **Evolutionary consequences** of somatic cell transmission across individuals and species.  
+- **Host–pathogen coevolution** and immune escape mechanisms.  
+- **Development of diagnostic tools** for detection and monitoring of bivalve neoplasia in natural populations.  
 
 Resources
 =======
 **Animal collection**, to build a biobank of bivalve transmissible neoplasia.  
 :   We collect and maintain bivalves to study their cancers through cytohistological and genomic approaches.
 
-**Wet-laboratory**, to ...  
-:   We use in-house full-equiped laboratories to process hundreds or thousands of samples.
+**Wet-laboratory**, to explore marine cancer biology.  
+:   Our lab is equipped for molecular and histological analyses, allowing us to process and diagnosse hundreds or thousands of samples, extract nucleic acids, and prepare libraries for sequencing.
 
-**Bioinformatic platform**, to generate cool results.  
-:   We make use of HPCs from the Max Planck Society to run bioinformatic tools and custom scripts.
+**Bioinformatic platform**, to generate high-quality insights.  
+:   We use HPCs from the Max Planck Society to run pipelines and custom scripts to generate results.
 
 <img src='/images/TiraFotos_research-2_AliciaLBruzos.png'>  
 
-<p align="center">
-  <a href="https://albruzos.github.io/contact" target="_blank">
-    <img src="/images/ContactMe_v1.png" alt="Contact Alicia L Bruzos">
-  </a>
-</p>
-
-<center> <i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i></center> 
+Join us
+=======
+We welcome motivated students and collaborators interested in cancer evolution, marine genomics, microbiology and ecology. If you would like to get involved in our research or learn more about our ongoing projects, please [get in touch](https://albruzos.github.io/contact).  
 
 _Last update: Oct 2025_
 {: .notice}
