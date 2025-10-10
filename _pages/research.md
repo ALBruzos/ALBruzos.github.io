@@ -13,7 +13,7 @@ We study the evolution and ecology of bivalve transmissible cancers across diffe
 
 Working in bivalves comes with unique challenges as they are not traditional model organisms in cancer research. But also provides extraordinary opportunities to discover new mechanisms of evolution of cancer cell transmission. [More about contagious cancers](https://albruzos.github.io/research-topic/)  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/faL_ALYuP4I?si=0vMFDQbHWtwbfhm_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="5280" height="158" src="https://www.youtube.com/embed/faL_ALYuP4I?si=0vMFDQbHWtwbfhm_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Ongoing research lines
 -------
