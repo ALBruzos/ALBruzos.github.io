@@ -7,11 +7,12 @@ redirect_from:
   - /resume
 ---
 
+Download [here a PDF version of my CV](https://ALBruzos.github.io/files/CVs/CV_AliciaLBruzos.pdf)
+
 <!---to comment---> 
 {% include toc %}
 
 <img src='/images/1_TiraFotosPhD-AliciaLBruzos.png'>  
-Download [here a PDF version of my CV](https://ALBruzos.github.io/files/CVs/CV_AliciaLBruzos.pdf)
 
 ---
 
