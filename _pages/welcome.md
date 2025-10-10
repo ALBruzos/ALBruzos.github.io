@@ -18,7 +18,7 @@ author_profile: true
 <img align="center" src="/images/WebsiteSections_v1-11.png"/> 
 </a>
 
-<a href="https://albruzos.github.io/contact/" target="_blank"> 
+<a href="https://albruzos.github.io/join-us/" target="_blank"> 
 <img align="center" src="/images/WebsiteSections_v1-10.png"/> 
 </a>
 
