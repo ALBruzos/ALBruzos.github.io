@@ -19,7 +19,7 @@ Feel free to contact me if you have any questions regarding my work, or relevant
 
 <p align="center">
   albruzos@gmail.com  <br>
-  +49 421 2028 7600 <br>
+  +49 421 2028 2251 <br>
 </p>
 
 <h2 align="center">Face-to-face meetings & postal mail</h2>
