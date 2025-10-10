@@ -25,13 +25,13 @@ Ongoing research lines
 Resources
 -------
 **Animal collection**, to build a biobank of bivalve transmissible neoplasia.  
-:   We collect and maintain bivalves to study their cancers through cytohistological and genomic approaches.
-
+:   _We collect and maintain bivalves to study their cancers through cytohistological and genomic approaches._  
+  
 **Wet-laboratory**, to explore marine cancer biology.  
-:   Our lab is equipped for molecular and histological analyses, allowing us to process and diagnosse hundreds or thousands of samples, extract nucleic acids, and prepare libraries for sequencing.
-
+:   _Our lab is equipped for molecular and histological analyses, allowing us to process and diagnosse hundreds or thousands of samples, extract nucleic acids, and prepare libraries for sequencing._  
+  
 **Bioinformatic platform**, to generate high-quality insights.  
-:   We use HPCs from the Max Planck Society to run pipelines and custom scripts to generate results.
+:   _We use HPCs from the Max Planck Society to run pipelines and custom scripts to generate results._  
 
 <img src='/images/TiraFotos_research-2_AliciaLBruzos.png'>  
 
