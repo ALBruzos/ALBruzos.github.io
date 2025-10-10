@@ -6,8 +6,13 @@ author_profile: true
 redirect_from: 
   - "/email/"
 ---
-
+<!---
 <img src='/images/ContactMe_v1.png'>  
+--->
+
+<a href="https://albruzos.github.io/contact/" target="_blank"> 
+<img align="center" src="/images/WebsiteSections_v1-05.png"/> 
+</a>
 Feel free to contact me if you have any questions regarding my work, or relevant collaboration opportunities. I’d love to hear from you!  
 
 <h2 align="center">Email and phone</h2>
