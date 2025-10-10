@@ -9,23 +9,35 @@ author_profile: true
 <img align="center" src="/images/WebsiteSections_v1-10.png"/>
 
 Join us
-We welcome enthusiastic and collaborative researchers!
-Our research group consists of MSc and PhD students and postdocs, and we always welcome international researchers. For the moment we are starting so we are a small team with more opportunties to get to know each other. We are part of the Symbiosis department and once a week we all meet to keep progress of the work.
+=======
+We welcome **enthusiastic and collaborative researchers** to join our team!  
+Our group currently includes MSc and PhD students and postdoctoral researchers. We are still growing, which means a close, supportive, and interactive environment where everyone’s ideas matter. We are part of the **Symbiosis Department**, and we meet weekly to share updates, discuss progress, and exchange feedback on ongoing projects.  
 
-STUDENT INTERNSHIP (BSc, MSc, Erasmus)
-We welcome students who would like to stay with us to learn new techniques and procedures while giving us a hand in developing our research.
+---
 
-PHD STUDENT
-We offer PhD contracts when funding is available, usually linked to already funded projects. We will broadly advertise any time a position is available.
+### STUDENT INTERNSHIPS (BSc, MSc, Erasmus)
+We offer research internships for students interested in gaining hands-on experience in molecular biology, histology, bioinformatics, or field sampling.  
+Interns contribute to ongoing projects while learning techniques and analytical approaches relevant to their studies.
 
-PHD VISITING FELLOW
-We welcome PhD students from other universities and countries, who want to join us for a few months and collaborate in ongoing research activities. 
+---
 
-POSTDOC
-We have experience with MSCA and other European funding programs and are open to help researchers to get grants that will enable them to join our group. We will broadly advertise any time a position is available.
+### PHD STUDENTS
+PhD positions are offered when funding is available, typically linked to specific funded research projects.  
+Open positions will be announced broadly through our website and institutional channels. [Follow us in social media](https://albruzos.github.io/contact/)  
 
+---
 
-<img src='/images/TiraFotos_3_media_AliciaLBruzos.png'>  
+### VISITING PHD FELLOWS
+We host PhD students from other universities who wish to join us for short research stays or collaborative projects.  
+If you are interested in spending a few months in our lab, feel free to reach out to discuss potential collaborations.
+
+---
+
+### POSTDOCTORAL RESEARCHERS
+We have experience with MSCA and other European national funding programs and are happy to support researchers interested in applying for fellowships to join our group.  
+Whenever postdoctoral fully-funded positions become available, they will be widely advertised through this page and our institutional networks.
+
+---
 
 <p align="center">
   <a href="https://albruzos.github.io/contact" target="_blank">
