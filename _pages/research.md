@@ -23,7 +23,7 @@ Ongoing research lines
 - **Development of diagnostic tools** for detection and monitoring of bivalve neoplasia in natural populations.  
 
 Resources
-=======
+-------
 **Animal collection**, to build a biobank of bivalve transmissible neoplasia.  
 :   We collect and maintain bivalves to study their cancers through cytohistological and genomic approaches.
 
@@ -36,7 +36,7 @@ Resources
 <img src='/images/TiraFotos_research-2_AliciaLBruzos.png'>  
 
 Join us
-=======
+-------
 We welcome motivated students and collaborators interested in cancer evolution, marine genomics, microbiology and ecology. If you would like to get involved in our research or learn more about our ongoing projects, please [get in touch](https://albruzos.github.io/contact).  
 
 _Last update: Oct 2025_
