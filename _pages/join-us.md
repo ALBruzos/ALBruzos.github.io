@@ -8,9 +8,8 @@ author_profile: true
 
 <img align="center" src="/images/WebsiteSections_v1-10.png"/>
 
-Join us
-=======
 We welcome **enthusiastic and collaborative researchers** to join our team!  
+  
 Our group currently includes MSc and PhD students and postdoctoral researchers. We are still growing, which means a close, supportive, and interactive environment where everyone’s ideas matter. We are part of the **Symbiosis Department**, and we meet weekly to share updates, discuss progress, and exchange feedback on ongoing projects.  
 
 ---
