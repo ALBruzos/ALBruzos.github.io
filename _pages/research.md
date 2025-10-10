@@ -9,15 +9,13 @@ author_profile: true
 
 <img src='/images/TiraFotos_research-1_AliciaLBruzos.png'>  
 
-Research
-=======
 We study the evolution and ecology of bivalve transmissible cancers across different species, exploring how malignant cells evolve to invade or 'travel to' distant organisms and, in some cases, even cross species boundaries. Our research combines fieldwork, molecular biology, and multiple omics to understand the ecological and evolutionary dynamics of these unusual cancers, which challenge our definitions of individuality and disease transmission.  
 
 Working in bivalves comes with unique challenges as they are not traditional model organisms in cancer research. But also provides extraordinary opportunities to discover new mechanisms of evolution of cancer cell transmission. [More about contagious cancers](https://albruzos.github.io/research-topic/)  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/faL_ALYuP4I?si=0vMFDQbHWtwbfhm_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Ongoing lines
+Ongoing research lines
 -------
 - **Origins and diversity** of transmissible cancers in marine ecosystems.  
 - **Evolutionary consequences** of somatic cell transmission across individuals and species.  
