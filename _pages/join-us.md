@@ -16,12 +16,10 @@ Our group studies marine contagious cancers. We are still growing, which means a
 
 🔹 <i class="fa fa-code" aria-hidden="true"></i> **<FONT COLOR="#b3455b">Postdoctoral Researcher in Bioinformatics</FONT>**  
 2-year position (with possible extension) for a researcher with bioinformatic skills.  
-📄 [Postdoc call 25/1 (PDF)](https://ALBruzos.github.io/files/recruitment/2025_Postdoc_JobPositionOffer_BruzosLab-MPIMM_v2.pdf)  
-🕓 [Apply here before 16 November 2025](https://career.mpi-bremen.de/jobposting/a5697cec59a833bded496aa2af72837c6877acc60)
+📄 [Postdoc call 25/1 (PDF)](https://ALBruzos.github.io/files/recruitment/2025_Postdoc_JobPositionOffer_BruzosLab-MPIMM_v2.pdf) - 🕓 [Apply here before 16 November 2025](https://career.mpi-bremen.de/jobposting/a5697cec59a833bded496aa2af72837c6877acc60)
 
 🔹 <i class="fa fa-graduation-cap" aria-hidden="true"></i> **<FONT COLOR="#b3455b">PhD Student</FONT>**   
-📄 [PhD student call 25/2 (PDF)](https://ALBruzos.github.io/files/recruitment/2025_PhDstudent_JobPositionOffer_BruzosLab-MPIMM_v2.pdf)  
-🕓 [Apply here before 16 November 2025](https://career.mpi-bremen.de/jobposting/fd71854ae887707f586dfa0d24e9a18a6d2225e60)
+📄 [PhD student call 25/2 (PDF)](https://ALBruzos.github.io/files/recruitment/2025_PhDstudent_JobPositionOffer_BruzosLab-MPIMM_v2.pdf) - 🕓 [Apply here before 16 November 2025](https://career.mpi-bremen.de/jobposting/fd71854ae887707f586dfa0d24e9a18a6d2225e60)
 
 *Applications must be submitted through the official Max Planck recruiting platform using the links above.*
 
