@@ -3,6 +3,17 @@ layout: archive
 title: "Join us"
 permalink: /join-us/
 author_profile: true
+description: "Join the Bruzos Lab to study marine contagious cancers. We welcome students, PhD fellows, and postdoctoral researchers — see open positions and opportunities to collaborate."
+image: /images/WebsiteSections_v1-10.png
+keywords: ["marine biology", "cancer evolution", "postdoc", "PhD", "bioinformatics", "recruitment"]
+canonical_url: "https://albruzos.github.io/join-us/"
+og_title: "Join the Bruzos Lab"
+og_description: "Join the Bruzos Lab to study marine contagious cancers. We welcome students, PhD fellows, and postdoctoral researchers — see open positions and opportunities to collaborate."
+og_image: /images/WebsiteSections_v1-10.png
+twitter_card: summary_large_image
+twitter_title: "Join the Bruzos Lab"
+twitter_description: "We welcome motivated researchers — see our open calls and join our work on marine contagious cancers."
+twitter_image: /images/WebsiteSections_v1-10.png
 ---
 <!---to comment---> 
 
