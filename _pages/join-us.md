@@ -16,7 +16,7 @@ Our group studies marine contagious cancers. We are still growing, which means a
 
 ## <i class="fa fa-bullhorn" aria-hidden="true"></i> <FONT COLOR="#b3455b">OPEN CALLS — Apply now!</FONT>
 
-🔹 <i class="fa fa-code" aria-hidden="true"></i> **<FONT COLOR="#4592b3">Postdoctoral Researcher in Bioinformatics</FONT>**  
+🔹 <i class="fa fa-code" aria-hidden="true"></i> **<FONT COLOR="#b3455b">Postdoctoral Researcher in Bioinformatics</FONT>**  
 2-year position (with possible extension) for a researcher with bioinformatic skills.  
 📄 [Postdoc call 25/1 (PDF)](https://ALBruzos.github.io/files/recruitment/2025_Postdoc_JobPositionOffer_BruzosLab-MPIMM_v2.pdf)  
 🕓 [Apply here before 16 November 2025](https://career.mpi-bremen.de/jobposting/a5697cec59a833bded496aa2af72837c6877acc60)
@@ -29,7 +29,7 @@ Our group studies marine contagious cancers. We are still growing, which means a
 
 ---
 
-### <i class="fa fa-book" aria-hidden="true"></i> <FONT COLOR="#b3455b">STUDENT INTERNSHIPS (BSc, MSc, Erasmus)</FONT>
+### <i class="fa fa-book" aria-hidden="true"></i> <FONT COLOR="#4592b3">STUDENT INTERNSHIPS (BSc, MSc, Erasmus)</FONT>
 We offer research internships for students interested in gaining hands-on experience in molecular biology, histology, bioinformatics, or field sampling. Interns contribute to ongoing projects while learning techniques and analytical approaches relevant to their studies. If you are interested, [reach out](https://albruzos.github.io/contact/) including a copy of your CV and the dates and internship requirements of your programme.
 
 ---
@@ -39,7 +39,7 @@ PhD positions are offered when funding is available, typically linked to specifi
 
 ---
 
-### <i class="fa fa-globe" aria-hidden="true"></i> <FONT COLOR="#b3455b">VISITING FELLOWS</FONT>
+### <i class="fa fa-globe" aria-hidden="true"></i> <FONT COLOR="#4592b3">VISITING FELLOWS</FONT>
 We host PhD students and postdoc from other universities who wish to join us for short research stays or collaborative projects. If you are interested in spending a few months in our lab, feel free to [reach out](https://albruzos.github.io/contact/) to discuss potential collaborations.
 
 ---
