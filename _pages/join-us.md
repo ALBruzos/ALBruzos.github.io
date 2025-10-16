@@ -8,8 +8,6 @@ author_profile: true
 
 <img align="center" src="/images/WebsiteSections_v1-10.png"/>
 
-## <i class="fa fa-flask" aria-hidden="true"></i> We welcome enthusiastic and collaborative researchers to join our team!
-
 Our group studies marine contagious cancers. We are still growing, which means a close, supportive, and interactive environment where everyone’s ideas matter. We are part of the **Symbiosis Department**, and we meet weekly to share updates, discuss progress, and exchange feedback on ongoing projects. If you are curious, motivated, and interested in joining us, please feel free to [reach out](https://albruzos.github.io/contact/), we’d love to hear from you!  
 
 ---
@@ -29,26 +27,19 @@ Our group studies marine contagious cancers. We are still growing, which means a
 
 ---
 
+## <i class="fa fa-flask" aria-hidden="true"></i> We welcome enthusiastic and collaborative researchers to join our team!
+
 ### <i class="fa fa-book" aria-hidden="true"></i> <FONT COLOR="#4592b3">STUDENT INTERNSHIPS (BSc, MSc, Erasmus)</FONT>
 We offer research internships for students interested in gaining hands-on experience in molecular biology, histology, bioinformatics, or field sampling. Interns contribute to ongoing projects while learning techniques and analytical approaches relevant to their studies. If you are interested, [reach out](https://albruzos.github.io/contact/) including a copy of your CV and the dates and internship requirements of your programme.
-
----
 
 ### <i class="fa fa-graduation-cap" aria-hidden="true"></i> <FONT COLOR="#4592b3">PHD STUDENTS</FONT>
 PhD positions are offered when funding is available, typically linked to specific funded research projects. Open positions will be announced broadly through our website and institutional channels. [Follow us on social media](https://albruzos.github.io/contact/)  
 
----
-
 ### <i class="fa fa-globe" aria-hidden="true"></i> <FONT COLOR="#4592b3">VISITING FELLOWS</FONT>
 We host PhD students and postdoc from other universities who wish to join us for short research stays or collaborative projects. If you are interested in spending a few months in our lab, feel free to [reach out](https://albruzos.github.io/contact/) to discuss potential collaborations.
 
----
-
 ### <i class="fa fa-users" aria-hidden="true"></i> <FONT COLOR="#4592b3">POSTDOCTORAL RESEARCHERS</FONT>
 We have experience with MSCA and other European and national funding programs and are happy to support researchers interested in applying for fellowships to join our group. Whenever postdoctoral fully funded positions become available, they will be widely advertised through this page and our institutional networks.
-
----
-
 
 <p align="center">
   <a href="https://albruzos.github.io/contact" target="_blank">
