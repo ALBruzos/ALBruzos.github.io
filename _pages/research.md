@@ -37,7 +37,13 @@ Resources
 
 Join us
 -------
-We welcome motivated students and collaborators interested in cancer evolution, marine genomics, microbiology and ecology. If you would like to get involved in our research or learn more about our ongoing projects, please [get in touch](https://albruzos.github.io/contact).  
+We welcome motivated students and collaborators interested in cancer evolution, marine genomics, microbiology and ecology. If you would like to get involved in our research or learn more about our ongoing projects, please [get in touch](https://albruzos.github.io/contact). Check if we have any [open call](https://albruzos.github.io/join-us/) right now!  
+
+<p align="center">
+  <a href="https://albruzos.github.io/join-us/" target="_blank">
+    <img src="/images/WebsiteSections_v1-10.png" alt="Join us">
+  </a>
+</p>
 
 _Last update: Oct 2025_
 {: .notice}
