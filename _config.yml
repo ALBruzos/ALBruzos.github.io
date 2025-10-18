@@ -3,23 +3,97 @@
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve`. If you change this file, please restart the server process.
+# `jekyll serve -l -H localhost`. If you change this file, please restart the 
+# server process.
 
-# Site Settings
+# Basic Site Settings
 locale                   : "en-US"
-title                    : "Alicia L. Bruzos"
+site_theme               : "default" # Currently available options are "default", "air"
+title                    : "Bruzos Lab"
 title_separator          : "-"
 name                     : &name "albruzos"
-description              : &description "personal description"
+description              : &description "Academic portfolio of Dr. Alicia L. Bruzos" 
 url                      : https://albruzos.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ALBruzos/ALBruzos.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+
+# Site Author - The following control what appear as part of the author content on the side bar.
+#               If a field is blank the icon and link will not appear, otherwise it will be shown.
+#               Additional customization can be done by editing /_includes/author-profile.html
+author:
+  # Biographic information
+  avatar           : "profile-AliciaLBruzos.jpg"
+  name             : "Dr. Alicia L. Bruzos"
+  pronouns         : "she/her"  
+  bio              : "Doctor in Molecular Medicine, biologist and bioinformatician | Born in 1993 | Woman in STEM | Citizen of the world born in Spain"
+  location         : "Bremen, GERMANY"
+  employer         : "Max Planck Institute"
+  uri              : # URL
+  email            : "albruzos@gmail.com" 
+
+  # Academic websites
+  academia         : 
+  arxiv            : 
+  googlescholar    : "https://scholar.google.es/citations?user=YyKE8DIAAAAJ&hl=en&oi=ao"
+  inspire-hep      : 
+  impactstory      : 
+  orcid            : "https://orcid.org/0000-0003-4362-545X"
+  semantic         : 
+  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=alicia+l+bruzos"
+  researchgate     : "https://www.researchgate.net/profile/Alicia-Bruzos"
+  scopus           : 
+
+  # Repositories and software development
+  bitbucket        : # Username - Update with your username on the site
+  codepen          : # Username
+  dribbble         : # Username
+  github           : "academicpages"
+  kaggle           : # Username  
+  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+
+  # Social media
+  artstation       : # Username
+  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  facebook         : # Username
+  flickr           : # Username
+  foursquare       : # Username
+  goodreads        : # Username
+  google_plus      : # Username
+  keybase          : # Username
+  instagram        : "bruzoslab"
+  lastfm           : # Username
+  linkedin         : "bruzosalicial"
+  mastodon         : # URL
+  medium           : # URL
+  pinterest        : "albruzos"
+  soundcloud       : # Username
+  steam            : # Username
+  telegram         : # URL
+  tumblr           : # Username
+  twitter          : "BruzosAliciaL"
+  vine             : # Username
+  weibo            : # Username
+  wikipedia        : # Username
+  xing             : # Username
+  youtube          : "https://www.youtube.com/channel/UC0RtfiU2t0tQeAIZFI07N2Q"
+  zhihu            : # Username
+
+# Publication Category - The following the list of publication categories and their headings
+publication_category:
+  books:
+    title: 'Books'
+  manuscripts:
+    title: 'Journal Articles'    
+  conferences:
+    title: 'Conference Papers'
+
+# Site Settings
+teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
-talkmap_link             : false #change to true to add link to talkmap on talks page
+talkmap_link             : false      #change to true to add link to talkmap on talks page
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
@@ -47,7 +121,9 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
+  hide                   : false     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
+
 
 # SEO Related
 google_site_verification :
@@ -55,14 +131,16 @@ bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
 
+
 # Social Sharing
 twitter:
-  username               : BruzosAliciaL
+  username               : &twitter
 facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+og_image                 :  # Social media default site image
+og_description           :  # Social media default site image description
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -73,48 +151,9 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
   google:
     tracking_id          :
-
-
-# Site Author
-author:
-  name             : "Alicia L. Bruzos"
-  avatar           : "profile-AliciaLBruzos.jpg"
-  bio              : "Dr. in Molecular Medicine, biologist and bioinformatician | Born in 1993 | Woman in STEM | Citizen of the world born in Spain"
-  location         : "Caen, France"
-  employer         : "Université de Caen Normandie"
-  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=alicia+l+bruzos"
-  googlescholar    : "https://scholar.google.es/citations?user=YyKE8DIAAAAJ&hl=en&oi=ao"
-  email            : "albruzos@gmail.com"
-  researchgate     :  "https://www.researchgate.net/profile/Alicia-Bruzos"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : #"ALBruzos"
-  google_plus      :
-  keybase          :
-  instagram        : "bruzosalicial"
-  impactstory      : #"https://profiles.impactstory.org/u/0000-0003-4362-545X"
-  lastfm           :
-  linkedin         : "bruzosalicial"
-  orcid            : "https://orcid.org/0000-0003-4362-545X"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : 
-  steam            :
-  tumblr           :
-  twitter          : "BruzosAliciaL"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          : "https://www.youtube.com/channel/UC0RtfiU2t0tQeAIZFI07N2Q"
-  wikipedia        :
 
 
 # Reading Files
@@ -127,23 +166,26 @@ exclude:
   - "*.sublime-workspace"
   - .asset-cache
   - .bundle
+  - .github
   - .jekyll-assets-cache
   - .sass-cache
-  - CHANGELOG
-  - Capfile
-  - Gemfile
-  - Gruntfile.js
-  - LICENSE
-  - README
-  - Rakefile
   - assets/js/_main.js
   - assets/js/plugins
   - assets/js/vendor
+  - CHANGELOG
+  - Capfile
   - config
+  - Dockerfile
+  - Gemfile
+  - Gruntfile.js
   - gulpfile.js
+  - LICENSE
+  - local
   - log
   - node_modules
-  - package.json
+  - package.json*
+  - Rakefile
+  - README
   - tmp
   - vendor
 keep_files:
@@ -173,7 +215,7 @@ kramdown:
   enable_coderay: false
 
 
-# Collections
+# These settings control the types of collections used by the template
 collections:
   teaching:
     output: true
@@ -187,14 +229,11 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
 
 
-# Defaults
+# These settings control how pages and collections are included in the site
 defaults:
-  # _awardsgrants
+  # _news
   - scope:
       path: ""
       type: awardsgrants
@@ -202,7 +241,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: false
+      comments: true
       share: true
       related: true
   # _pages
@@ -219,8 +258,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: false
-      comments: false
+      share: true
+      comments: true
   # _publications
   - scope:
       path: ""
@@ -230,16 +269,25 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _media
+  # _portfolio
   - scope:
       path: ""
-      type: media
+      type: portfolio
     values:
       layout: single
       author_profile: true
       share: true
-      comment: false
-  # _talks
+      comment: true
+  # _media
+   - scope:
+       path: ""
+       type: media
+     values:
+       layout: single
+       author_profile: true
+       share: true
+       comment: false
+# _talks
   - scope:
       path: ""
       type: talks
@@ -247,52 +295,47 @@ defaults:
       layout: talk
       author_profile: true
       share: true
- # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: portfolio
-      author_profile: true
-      share: true
-  # news
-  - scope:
-      path: ""
-      type: news
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
-      
+ # news
+   - scope:
+       path: ""
+       type: news
+     values:
+       layout: single
+       author_profile: true
+       read_time: true
+       comments: true
+       share: true
+       related: true
+
 # Sass/SCSS
 sass:
   sass_dir: _sass
-  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+  style: compressed # https://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
 
 # Outputting
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Etc/UTC # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
 plugins:
+  - jekyll-feed
+  - jekyll-gist
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
   - jekyll-redirect-from
-# mimic GitHub Pages with --safe
+  - jemoji
+
+# Mimic GitHub Pages with --safe
 whitelist:
+  - jekyll-feed
+  - jekyll-gist
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
+  - jekyll-redirect-from
   - jemoji
 
 
@@ -326,8 +369,357 @@ tag_archive:
 
 
 # HTML Compression
-# - http://jch.penibelst.de/
+# - https://jch.penibelst.de/
 compress_html:
   clippings: all
   ignore:
     envs: development
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+# # Welcome to Jekyll!
+# #
+# # This config file is meant for settings that affect your entire site, values
+# # which you are expected to set up once and rarely need to edit after that.
+# # For technical reasons, this file is *NOT* reloaded automatically when you use
+# # `jekyll serve`. If you change this file, please restart the server process.
+
+# # Site Settings
+# locale                   : "en-US"
+# title                    : "Alicia L. Bruzos"
+# title_separator          : "-"
+# name                     : &name "albruzos"
+# description              : &description "personal description"
+# url                      : https://albruzos.github.io
+# baseurl                  : "" # the subpath of your site, e.g. "/blog"
+# repository               : "ALBruzos/ALBruzos.github.io"
+# teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+# breadcrumbs              : false # true, false (default)
+# words_per_minute         : 160
+# future                   : true
+# read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
+# talkmap_link             : false #change to true to add link to talkmap on talks page
+# comments:
+#   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+#   disqus:
+#     shortname            :
+#   discourse:
+#     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
+#   facebook:
+#     appid                :
+#     num_posts            : # 5 (default)
+#     colorscheme          : # "light" (default), "dark"
+# staticman:
+#   allowedFields          : ['name', 'email', 'url', 'message']
+#   branch                 : "gh-pages" # "master", "gh-pages"
+#   commitMessage          : "New comment."
+#   filename               : comment-{@timestamp}
+#   format                 : "yml"
+#   moderation             : true
+#   path                   : "_data/comments/{options.slug}"
+#   requiredFields         : ['name', 'email', 'message']
+#   transforms:
+#     email                : "md5"
+#   generatedFields:
+#     date:
+#       type               : "date"
+#       options:
+#         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
+# atom_feed:
+#   path                   : # blank (default) uses feed.xml
+
+# # SEO Related
+# google_site_verification :
+# bing_site_verification   :
+# alexa_site_verification  :
+# yandex_site_verification :
+
+# # Social Sharing
+# twitter:
+#   username               : BruzosAliciaL
+# facebook:
+#   username               :
+#   app_id                 :
+#   publisher              :
+# og_image                 :  # Open Graph/Twitter default site image
+# # For specifying social profiles
+# # - https://developers.google.com/structured-data/customize/social-profiles
+# social:
+#   type                   : # Person or Organization (defaults to Person)
+#   name                   : # If the user or organization name differs from the site's name
+#   links: # An array of links to social media profiles
+
+
+# # Analytics
+# analytics:
+#   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+#   google:
+#     tracking_id          :
+
+
+# # Site Author
+# author:
+#   name             : "Alicia L. Bruzos"
+#   avatar           : "profile-AliciaLBruzos.jpg"
+#   bio              : "Doctor in Molecular Medicine, biologist and bioinformatician | Born in 1993 | Woman in STEM | Citizen of the world born in Spain"
+#   location         : "Bremen, GERMANY"
+#   employer         : "Max Planck Institute"
+#   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=alicia+l+bruzos"
+#   googlescholar    : "https://scholar.google.es/citations?user=YyKE8DIAAAAJ&hl=en&oi=ao"
+#   email            : "albruzos@gmail.com"
+#   researchgate     :  "https://www.researchgate.net/profile/Alicia-Bruzos"
+#   uri              :
+#   bitbucket        :
+#   codepen          :
+#   dribbble         :
+#   flickr           :
+#   facebook         :
+#   foursquare       :
+#   github           : #"ALBruzos"
+#   google_plus      :
+#   keybase          :
+#   instagram        : "bruzosalicial"
+#   impactstory      : #"https://profiles.impactstory.org/u/0000-0003-4362-545X"
+#   lastfm           :
+#   linkedin         : "bruzosalicial"
+#   orcid            : "https://orcid.org/0000-0003-4362-545X"
+#   pinterest        :
+#   soundcloud       :
+#   stackoverflow    : 
+#   steam            :
+#   tumblr           :
+#   twitter          : "BruzosAliciaL"
+#   vine             :
+#   weibo            :
+#   xing             :
+#   youtube          : "https://www.youtube.com/channel/UC0RtfiU2t0tQeAIZFI07N2Q"
+#   wikipedia        :
+
+
+# # Reading Files
+# include:
+#   - .htaccess
+#   - _pages
+#   - files
+# exclude:
+#   - "*.sublime-project"
+#   - "*.sublime-workspace"
+#   - .asset-cache
+#   - .bundle
+#   - .jekyll-assets-cache
+#   - .sass-cache
+#   - CHANGELOG
+#   - Capfile
+#   - Gemfile
+#   - Gruntfile.js
+#   - LICENSE
+#   - README
+#   - Rakefile
+#   - assets/js/_main.js
+#   - assets/js/plugins
+#   - assets/js/vendor
+#   - config
+#   - gulpfile.js
+#   - log
+#   - node_modules
+#   - package.json
+#   - tmp
+#   - vendor
+# keep_files:
+#   - .git
+#   - .svn
+# encoding: "utf-8"
+# markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
+
+# # Conversion
+# markdown: kramdown
+# highlighter: rouge
+# lsi: false
+# excerpt_separator: "\n\n"
+# incremental: false
+
+
+# # Markdown Processing
+# kramdown:
+#   input: GFM
+#   hard_wrap: false
+#   auto_ids: true
+#   footnote_nr: 1
+#   entity_output: as_char
+#   toc_levels: 1..6
+#   smart_quotes: lsquo,rsquo,ldquo,rdquo
+#   enable_coderay: false
+
+
+# # Collections
+# collections:
+#   teaching:
+#     output: true
+#     permalink: /:collection/:path/
+#   publications:
+#     output: true
+#     permalink: /:collection/:path/
+#   awardsgrants:
+#     output: true
+#     permalink: /:collection/:path/
+#   talks:
+#     output: true
+#     permalink: /:collection/:path/
+#   portfolio:
+#     output: true
+#     permalink: /:collection/:path/
+
+
+# # Defaults
+# defaults:
+#   # _awardsgrants
+#   - scope:
+#       path: ""
+#       type: awardsgrants
+#     values:
+#       layout: single
+#       author_profile: true
+#       read_time: true
+#       comments: false
+#       share: true
+#       related: true
+#   # _pages
+#   - scope:
+#       path: ""
+#       type: pages
+#     values:
+#       layout: single
+#       author_profile: true
+#   # _teaching
+#   - scope:
+#       path: ""
+#       type: teaching
+#     values:
+#       layout: single
+#       author_profile: true
+#       share: false
+#       comments: false
+#   # _publications
+#   - scope:
+#       path: ""
+#       type: publications
+#     values:
+#       layout: single
+#       author_profile: true
+#       share: true
+#       comments: true
+#   # _media
+#   - scope:
+#       path: ""
+#       type: media
+#     values:
+#       layout: single
+#       author_profile: true
+#       share: true
+#       comment: false
+#   # _talks
+#   - scope:
+#       path: ""
+#       type: talks
+#     values:
+#       layout: talk
+#       author_profile: true
+#       share: true
+#  # _portfolio
+#   - scope:
+#       path: ""
+#       type: portfolio
+#     values:
+#       layout: portfolio
+#       author_profile: true
+#       share: true
+#   # news
+#   - scope:
+#       path: ""
+#       type: news
+#     values:
+#       layout: single
+#       author_profile: true
+#       read_time: true
+#       comments: true
+#       share: true
+#       related: true
+      
+# # Sass/SCSS
+# sass:
+#   sass_dir: _sass
+#   style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+
+
+# # Outputting
+# permalink: /:categories/:title/
+# # paginate: 5 # amount of posts to show
+# # paginate_path: /page:num/
+# timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+
+# # Plugins
+# plugins:
+#   - jekyll-paginate
+#   - jekyll-sitemap
+#   - jekyll-gist
+#   - jekyll-feed
+#   - jekyll-redirect-from
+# # mimic GitHub Pages with --safe
+# whitelist:
+#   - jekyll-paginate
+#   - jekyll-sitemap
+#   - jekyll-gist
+#   - jekyll-feed
+#   - jemoji
+
+
+# # Archives
+# #  Type
+# #  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
+# #  - Jekyll Archives plugin archive pages ~> type: jekyll-archives
+# #  Path (examples)
+# #  - Archive page should exist at path when using Liquid method or you can
+# #    expect broken links (especially with breadcrumbs enabled)
+# #  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
+# #  - <base_path/categories/my-awesome-category/index.html ~> path: /categories/
+# #  - <base_path/my-awesome-category/index.html ~> path: /
+# category_archive:
+#   type: liquid
+#   path: /categories/
+# tag_archive:
+#   type: liquid
+#   path: /tags/
+# # https://github.com/jekyll/jekyll-archives
+# # jekyll-archives:
+# #   enabled:
+# #     - categories
+# #     - tags
+# #   layouts:
+# #     category: archive-taxonomy
+# #     tag: archive-taxonomy
+# #   permalinks:
+# #     category: /categories/:name/
+# #     tag: /tags/:name/
+
+
+# # HTML Compression
+# # - http://jch.penibelst.de/
+# compress_html:
+#   clippings: all
+#   ignore:
+#     envs: development
