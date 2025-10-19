@@ -87,6 +87,9 @@ Building on a foundation in **biology and bioinformatics**, my education culmina
 <i class="fa fa-binoculars" aria-hidden="true"></i> Research
 ======
 
+To date, I have authored **12 peer-reviewed international Q1 articles** (11 of which are D1), and **10 book chapters with ISBN** (6 of which as first author). Notably, I am first author (*) on 5 articles [1, 2, 3, 4, 5], the corresponding author (#) on two [1, 2], and 7 are not co-authored by my PhD thesis director Dr S. Díaz [1, 3, 8, 9, 10 and two more], reflecting my capacity for autonomous research and establish collaborations. My work has garnered over 2,100 accumulated citations. Below, I highlight my 10 most significant research contributions, n/n shows my position among the total number of authors.
+{: .notice}
+
 | ORCID | WOK ResearcherID | Scopus Author ID |
 | ------------- | ------------- | ------------- | 
 | [0000-0003-4362-545X](https://orcid.org/0000-0003-4362-545X) | [D-7235-2018](https://publons.com/researcher/1404866/alicia-l-bruzos/) | [57214752778](https://www.scopus.com/authid/detail.uri?authorId=57214752778) |
