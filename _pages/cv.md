@@ -225,13 +225,17 @@ I collaborate closely with press offices to disseminate my research, **in covera
 ======
 
 <b>SUPERVISION AND MENTORING</b> <i class="fa fa-life-ring" aria-hidden="true"></i>  
+To date, I have supervised and mentored five undergraduate and master’s students during their theses in France and Spain, three of which decided to pursue a PhD. These experiences have allowed me to support early-career researchers while contributing to the academic programs of the institutions.
+{: .notice}
+
 <ul class="fa-ul">
   <li><i class="fa fa-check-circle" aria-hidden="true"></i>2 Bachelor theses<sup>**</sup> </li>
-  <li><i class="fa fa-check-circle" aria-hidden="true"></i>3 Master thesis</li>
+  <li><i class="fa fa-check-circle" aria-hidden="true"></i>3 Master theses</li>
   <li><i class="fa fa-check-circle" aria-hidden="true"></i>1 Erasmus intern</li>
 </ul>
-These experiences have allowed me to support early-career researchers while contributing to the academic programs of the institutions. [More details](https://albruzos.github.io/teaching/supervision)  
 <sup>**</sup>One thesis was awarded for its linguistic quality.  
+
+<span style="color:#1E6FA8;"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i> <a href="https://albruzos.github.io/teaching/supervision" style="color:#1E6FA8;">More details about my supervision and mentoring experience</a></span>
 
 <b>HIGH EDUCATION TEACHING</b> <i class="fa fa-users" aria-hidden="true"></i>  
 
@@ -255,7 +259,7 @@ I have gained teaching experience (**132 certified teaching hours**) at five pub
   <li><i class="fa fa-check-circle" aria-hidden="true"></i><b>Open Water Diver License</b> (2014). Scuba Schools International (SSI), Spain.</li>
 </ul>
 
-Full detailed list can be checked [here](https://albruzos.github.io/skills-certifications/)
+<span style="color:#1E6FA8;"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i> <a href="https://albruzos.github.io/skills-certifications/" style="color:#1E6FA8;">More details about my certifications.</a></span>
 
 <b>SERVICE & INSTITUTIONAL CITIZENSHIP</b> <i class="fa fa-paperclip" aria-hidden="true"></i>  
 <ul class="fa-ul">
