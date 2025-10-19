@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-<span style="color:#1E6FA8;"><i class="fa fa-download" aria-hidden="true"></i> <a href="https://albruzos.github.io/files/CVs/CV_AliciaLBruzos.pdf" style="color:#1E6FA8;">Download my full CV (PDF)</a></span>
-
 <p style="text-align:center; color:#155D41;">
   <i class="fa fa-download" aria-hidden="true"></i>
   <a href="https://albruzos.github.io/files/CVs/CV_AliciaLBruzos.pdf" style="color:#155D41; text-decoration:none;"> Download my full CV (PDF)</a></p>
