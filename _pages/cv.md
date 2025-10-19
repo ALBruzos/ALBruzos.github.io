@@ -42,12 +42,7 @@ Over the last decade, I have built an **international reserach career** through 
 :    <b>National University of Ireland Galway</b>, Galway, IRELAND. Mar-Apr 2019
 :    <b>Pacific Northwest Research Institute</b> (PNRI), Seattle, USA. Sep-Dec 2018
 
-<i class="fa fa-info-circle" aria-hidden="true"></i>
-<i class="fa fa-external-link-alt" aria-hidden="true"></i>
-<i class="fa fa-arrow-circle-right" aria-hidden="true"></i> [More details about my work experience](https://albruzos.github.io/jobs/)  
-<span style="color:#1E6FA8;"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i></span> [More details about my work experience](https://albruzos.github.io/jobs/)
 <span style="color:#1E6FA8;"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i> <a href="https://albruzos.github.io/jobs/" style="color:#1E6FA8;">More details about my work experience</a></span>
-
 
 ---
 
@@ -73,7 +68,7 @@ Building on a foundation in **biology and bioinformatics**, my education culmina
 :   *2011 – 2015* · 243.5 ECTS 	
 :   Erasmus year abroad at Université Libre de Bruxelles (Belgium).  
 
-[More details of my academic education](https://albruzos.github.io/education/) 
+<span style="color:#1E6FA8;"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i> <a href="https://albruzos.github.io/education/" style="color:#1E6FA8;">More details about my academic education</a></span>
 
 
 <b>LANGUAGES</b> <i class="fa fa-comments" aria-hidden="true"></i>
@@ -112,7 +107,6 @@ To date, I have authored **11 peer-reviewed international Q1 articles** (8 of wh
 | [0000-0003-4362-545X](https://orcid.org/0000-0003-4362-545X) | [D-7235-2018](https://publons.com/researcher/1404866/alicia-l-bruzos/) | [57214752778](https://www.scopus.com/authid/detail.uri?authorId=57214752778) |
 
 **SUMMARY TABLE OF PEER-REVIEWED ARTICLES** <i class="fa fa-fw fa-paste"></i> 
-Find more details [here](https://albruzos.github.io/publications/).
 
 | No. | Paper link & authors  | Year | Journal & preprint repository | Impact Factor & rank<sup>*</sup> | Role<sup>**</sup> | Framework |
 | ------------- | ------------- | ------------- | ------------- | ------------- |------------- |------------- |
@@ -133,7 +127,9 @@ Find more details [here](https://albruzos.github.io/publications/).
 <sup>#</sup> PENDING PUBLICATION  
 <sup>*</sup> IF taken from [Journal Citation Report (JCR)](https://mjl.clarivate.com/) for the year of the publication unless otherwise stated. Quartile (Q1 ≤ 0.25) and decile (D1 ≤ 0.1) rankings are indicated.  
 <sup>**</sup> First authorship (a) or corresponding author (b).
-  
+
+<span style="color:#1E6FA8;"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i> <a href="https://albruzos.github.io/publications/" style="color:#1E6FA8;">More details about my publications</a></span>
+
 <b>SCIENTIFIC CONFERENCES</b> <i class="fa fa-bullhorn" aria-hidden="true"></i>  
 
 I have presented my research at **53 national and international conferences** across twelve countries. I have also served on the scientific and organizing committees of conferences. Beyond conferences, I have been invited to deliver seminars at scientific institutions in four different countries. 
@@ -147,12 +143,17 @@ I have presented my research at **53 national and international conferences** ac
   <li><i class="fa fa-check-circle" aria-hidden="true"></i>6 award-winning contributions (3 for best talk and 3 for best poster)</li>
   <li><i class="fa fa-check-circle" aria-hidden="true"></i>3 events organized (in Spain, the UK, and France)</li>
 </ul>
-A full detailed list can be found [here](https://albruzos.github.io/talks/)  
+ 
+<span style="color:#1E6FA8;"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i> <a href="https://albruzos.github.io/talks/" style="color:#1E6FA8;">More details about my conferences</a></span>
+
 
 <b>OUTREACH</b> <i class="fa fa-users" aria-hidden="true"></i> and <b>MEDIA</b> <i class="fa fa-users" aria-hidden="true"></i> <b>: Dissemination to society</b>  
 
-Every year, I commit some time to **make science accessible to society by organizing or joining different activities**. To date, I have actively participated in **over 40 public science outreach events**, including 13 school visits, 12 popular science articles, 8 talks for the general public *(e.g. Pint of Science in London, A Coruña, and Caen)*, 6 promotional videos *(e.g., [AquaExcel project](https://www.youtube.com/watch?v=ZDUU6VT1qzE))*, 4 workshops on scientific fairs, 3 opinion editorials, and 5 miscellaneous activities such as contributing to children’s science coulouring book or the school radio program of IES Mata Jove. [Check here the full list](https://albruzos.github.io/outreach/).  
+Every year, I commit some time to **make science accessible to society by organizing or joining different activities**. To date, I have actively participated in **over 40 public science outreach events**, including 13 school visits, 12 popular science articles, 8 talks for the general public *(e.g. Pint of Science in London, A Coruña, and Caen)*, 6 promotional videos *(e.g., [AquaExcel project](https://www.youtube.com/watch?v=ZDUU6VT1qzE))*, 4 workshops on scientific fairs, 3 opinion editorials, and 5 miscellaneous activities such as contributing to children’s science coulouring book or the school radio program of IES Mata Jove.  
 {: .notice}
+
+<span style="color:#1E6FA8;"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i> <a href="https://albruzos.github.io/outreach/" style="color:#1E6FA8;">More details about my outreach activity</a></span>
+
 
 <!---Comment
 *2023:* 
@@ -214,6 +215,10 @@ Every year, I commit some time to **make science accessible to society by organi
 I collaborate closely with press offices to disseminate my research, **in coverage by outlets like the New York Times, BBC Radio, and El País**. Beyond promoting my research, I am often invited to share my opinion on scientific careers, current topics, or to advocate for women in science. **These initiatives highlight my dedication to science communication and my leadership in public engagement.** Check my [PR clipping](https://albruzos.github.io/media/) for a curated selection of media features and an archive of over 250 media appearances across 10 countries.
 {: .notice}
 
+
+<span style="color:#1E6FA8;"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i> <a href="https://albruzos.github.io/media/" style="color:#1E6FA8;">More details on my PR clipping</a></span>
+
+
 ---
 
 <i class="fa fa-university" aria-hidden="true"></i> Academia  
@@ -233,7 +238,7 @@ These experiences have allowed me to support early-career researchers while cont
 I have gained teaching experience (**132 certified teaching hours**) at five public universities across four countries (Spain, UK, France, and Chile), delivering theoretical and laboratory sessions in different languages (English, Spanish/Galician, and French) to undergraduate and master’s students. I hold national accreditations as an assistant professor in Spain (PAD ANECA) and France (Section 64) and an official master degree on teaching. All these experiences and formation have improved my ability to **adapt to diverse academic settings and foster critical thinking among students**. 
 {: .notice}
 
-[Click here for more details about my experience on high education teaching](https://albruzos.github.io/teaching/university-teaching)  
+<span style="color:#1E6FA8;"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i> <a href="https://albruzos.github.io/teaching/university-teaching" style="color:#1E6FA8;">More details about my teaching experience</a></span>
 
 <b>MEMBER OF JURIES AND EVALUATION COMMITTEES</b> <i class="fa fa-users" aria-hidden="true"></i>  
 - Jury of [Galicia Spin-Off Awards](https://www.gciencia.com/talento/o-xurado-dos-galicia-spin-off-reune-a-persoas-destacadas-da-ciencia-a-empresa-e-a-comunicacion/) in 2024, called and organized by GCiencia.
@@ -278,7 +283,7 @@ I believe in the importance of unions and associations to network and discuss wi
   <li><i class="fa-li fa fa-check-square"></i>1 drawing prize</li>
 </ul>
 
-Full detailed list can be checked [here](https://albruzos.github.io/awardsgrants/awards/)
+<span style="color:#1E6FA8;"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i> <a href="https://albruzos.github.io/awards/" style="color:#1E6FA8;">More details about my awards.</a></span>
 
 <b>GRANTS & FELLOWSHIPS</b> <i class="fa fa-star" aria-hidden="true"></i>  
 
@@ -292,7 +297,8 @@ I have consistently secured **competitive fellowships and project funding** thro
   <li><i class="fa-li fa fa-check-square"></i>7 travel grants</li>
 </ul>
 
-Full detailed list can be checked [here](https://albruzos.github.io/awardsgrants/grants/)
+<span style="color:#1E6FA8;"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i> <a href="https://albruzos.github.io/funding/" style="color:#1E6FA8;">More details about my funding record.</a></span>
+
 
 ---
 
