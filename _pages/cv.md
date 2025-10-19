@@ -282,10 +282,14 @@ Full detailed list can be checked [here](https://albruzos.github.io/awardsgrants
 
 <b>GRANTS & FELLOWSHIPS</b> <i class="fa fa-star" aria-hidden="true"></i>  
 
+I have consistently secured **competitive fellowships and project funding** throughout my career, including at the doctoral, postdoctoral, and independent group-leader stages. Beyond these, I obtained **travel grants and contributed to international projects**, reflecting my ability to build collaborations and pursue ambitious research. This sustained record of acquiring my own funding demonstrates my progression towards scientific independence and leadership.
+{: .notice}
+
 <ul class="fa-ul">
-  <li><i class="fa-li fa fa-check-square"></i>2 grants</li>
-  <li><i class="fa-li fa fa-check-square"></i>5 fellowships</li>
-  <li><i class="fa-li fa fa-check-square"></i>2 scholarships</li>
+  <li><i class="fa-li fa fa-check-square"></i>6 fellowships/scholarships</li>
+  <li><i class="fa-li fa fa-check-square"></i>5 grants as principal investigator of 20,000 € </li>
+  <li><i class="fa-li fa fa-check-square"></i>4 grants as a collaborator </li>
+  <li><i class="fa-li fa fa-check-square"></i>7 travel grants</li>
 </ul>
 
 Full detailed list can be checked [here](https://albruzos.github.io/awardsgrants/grants/)
