@@ -87,16 +87,15 @@ Building on a foundation in **biology and bioinformatics**, my education culmina
 <i class="fa fa-binoculars" aria-hidden="true"></i> Research
 ======
 
-To date, I have authored **11 peer-reviewed international Q1 articles** (8 of which are D1), and **10 book chapters with ISBN** (6 of which as first author). Notably, I am first author (a) on 5 articles [5, 7, 8, 9, 11], the corresponding author (b) on two [9, 11], and 8 are not co-authored by my PhD thesis director Dr S. Díaz [1, 2, 3, 7, 10 and three more under review], reflecting my capacity for autonomous research and establish collaborations. My work has garnered over 1,100 accumulated citations. Below, I highlight my 10 most significant research contributions, n/n shows my position among the total number of authors.
+To date, I have authored **11 peer-reviewed international Q1 articles** (8 of which are D1), and **10 book chapters with ISBN** (6 of which as first author). Notably, I am first author (a) on five articles, the corresponding author (b) on two, and eight are not co-authored by my PhD thesis director Dr S. Díaz, reflecting my capacity for autonomous research and establish collaborations. My work has garnered over 2,200 accumulated citations and I have an h-index of 7-23 depending on the source.
 {: .notice}
 
-| ORCID | WOK ResearcherID | Scopus Author ID |
-| ------------- | ------------- | ------------- | 
-| [0000-0003-4362-545X](https://orcid.org/0000-0003-4362-545X) | [D-7235-2018](https://publons.com/researcher/1404866/alicia-l-bruzos/) | [57214752778](https://www.scopus.com/authid/detail.uri?authorId=57214752778) |
-
-Over the ten years since the start of my scientific career (2016–present), I have authored **10 peer-reviewed JCR Q1 publications** (8 of which are D1, international SCI journals), with an additional manuscript currently under review (Q1), and **10 book chapters with ISBN** (6 of which as first author). Notably, I am **first author on 4 publications**, the **corresponding author on one**, and **5 are not co-authored by my thesis director**, reflecting my capacity for autonomous research. 
+Overview of my annual scientific production
+=============
 <img src="/images/pub-stats.png" alt="Overview of my annual scientific production">
 
+Citations, h-index and profiles
+=============
 My work has garnered over 1,800 citations according to different sources:
 
 | Source | H-index | Date of access | Citations no. |
@@ -106,8 +105,13 @@ My work has garnered over 1,800 citations according to different sources:
 | [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57214752778)| 23 | 16/10/2025 | 6,123 |
 | [ResearchGate](https://www.researchgate.net/profile/Alicia-Bruzos)| 15 | 16/10/2025 | 3,225 |
 
-<b>PEER-REVIEWED ARTICLES</b> <i class="fa fa-fw fa-paste"></i>
-Here you can find a summary table, find more details [here](https://albruzos.github.io/publications/).
+| ORCID | WOK ResearcherID | Scopus Author ID |
+| ------------- | ------------- | ------------- | 
+| [0000-0003-4362-545X](https://orcid.org/0000-0003-4362-545X) | [D-7235-2018](https://publons.com/researcher/1404866/alicia-l-bruzos/) | [57214752778](https://www.scopus.com/authid/detail.uri?authorId=57214752778) |
+
+<i class="fa fa-fw fa-paste"></i> Summary table of my peer-reviewed articles 
+=============
+Find more details [here](https://albruzos.github.io/publications/).
 
 | No. | Paper link & authors  | Year | Journal & preprint repository | Impact Factor & rank<sup>*</sup> | Role<sup>**</sup> | Framework |
 | ------------- | ------------- | ------------- | ------------- | ------------- |------------- |------------- |
