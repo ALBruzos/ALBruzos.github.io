@@ -90,10 +90,10 @@ Building on a foundation in **biology and bioinformatics**, my education culmina
 To date, I have authored **11 peer-reviewed international Q1 articles** (8 of which are D1), and **10 book chapters with ISBN** (6 of which as first author). Notably, I am first author (a) on five articles, the corresponding author (b) on two, and eight are not co-authored by my PhD thesis director Dr S. Díaz, reflecting my capacity for autonomous research and establish collaborations. My work has garnered over 2,200 accumulated citations and I have an h-index of 7-23 depending on the source.
 {: .notice}
 
-**Overview of my annual scientific production**
+**ANNUAL SCIENTIFIC PRODUCTION**
 <img src="/images/pub-stats.png" alt="Overview of my annual scientific production">
 
-**Citations, h-index and profiles**
+**CITATIONS, h-INDEX and PROFILES**
 
 | Source | H-index | Citations no. | Date of access |
 | ------------- | ------------- | ------------- | ------------- | 
@@ -106,8 +106,7 @@ To date, I have authored **11 peer-reviewed international Q1 articles** (8 of wh
 | ------------- | ------------- | ------------- | 
 | [0000-0003-4362-545X](https://orcid.org/0000-0003-4362-545X) | [D-7235-2018](https://publons.com/researcher/1404866/alicia-l-bruzos/) | [57214752778](https://www.scopus.com/authid/detail.uri?authorId=57214752778) |
 
-<i class="fa fa-fw fa-paste"></i> Summary table of my peer-reviewed articles 
-=============
+**SUMMARY TABLE OF PEER-REVIEWED ARTICLES** <i class="fa fa-fw fa-paste"></i> 
 Find more details [here](https://albruzos.github.io/publications/).
 
 | No. | Paper link & authors  | Year | Journal & preprint repository | Impact Factor & rank<sup>*</sup> | Role<sup>**</sup> | Framework |
@@ -135,7 +134,6 @@ Find more details [here](https://albruzos.github.io/publications/).
 I have presented my research at **53 national and international conferences** across twelve countries. I have also served on the scientific and organizing committees of conferences. Beyond conferences, I have been invited to deliver seminars at scientific institutions in four different countries. 
 {: .notice}
 
-This includes the following:
 <ul class="fa-ul">
   <li><i class="fa fa-check-circle" aria-hidden="true"></i>6 invited speaker talks</li>
   <li><i class="fa fa-check-circle" aria-hidden="true"></i>22 oral communications delivered by myself</li>
@@ -149,7 +147,8 @@ A full detailed list can be found [here](https://albruzos.github.io/talks/)
 <b>OUTREACH</b> <i class="fa fa-users" aria-hidden="true"></i> and <b>MEDIA</b> <i class="fa fa-users" aria-hidden="true"></i> <b>: Dissemination to society</b>  
 
 **Every year, I commit some time to make science accessible to society by organizing or joining different activities**. To date, I have actively participated in **over 40 public science outreach events**, including 13 school visits, 12 popular science articles, 8 talks for the general public *(e.g. Pint of Science in London, A Coruña, and Caen)*, 6 promotional videos *(e.g., [AquaExcel project](https://www.youtube.com/watch?v=ZDUU6VT1qzE))*, 4 workshops on scientific fairs, 3 opinion editorials, and 5 miscellaneous activities such as contributing to children’s science coulouring book or the school radio program of IES Mata Jove. [Check here the full list](https://albruzos.github.io/outreach/).  
-  
+{: .notice}
+
 <!---Comment
 *2023:* 
 <i class="fa fa-book" aria-hidden="true"></i> 
@@ -205,7 +204,10 @@ A full detailed list can be found [here](https://albruzos.github.io/talks/)
 <i class="fa fa-podcast" aria-hidden="true"></i>Podcast 
 {: .notice}
  ---> 
+
+ 
 I collaborate closely with press offices to disseminate my research, **in coverage by outlets like the New York Times, BBC Radio, and El País**. Beyond promoting my research, I am often invited to share my opinion on scientific careers, current topics, or to advocate for women in science. **These initiatives highlight my dedication to science communication and my leadership in public engagement.** Check my [PR clipping](https://albruzos.github.io/media/) for a curated selection of media features and an archive of over 250 media appearances across 10 countries.
+{: .notice}
 
 ---
 
@@ -222,11 +224,16 @@ These experiences have allowed me to support early-career researchers while cont
 <sup>**</sup>One thesis was awarded for its linguistic quality.  
 
 <b>HIGH EDUCATION TEACHING</b> <i class="fa fa-users" aria-hidden="true"></i>  
-In addition to an official master degree on teaching *(see above)*, I have gained teaching experience (**132.5 certified teaching hours**) at five public universities across **four countries** (Spain, UK, France, and Chile), delivering theoretical and laboratory sessions in different languages (English, Spanish/Galician, and French) to undergraduate and master’s students across fields such as Biology, Medicine, and Bioinformatics. These experiences have refined **my ability to adapt to diverse academic settings and foster critical thinking among students**. [More details](https://albruzos.github.io/teaching/university-teaching)  
+
+I have gained teaching experience (**132 certified teaching hours**) at five public universities across four countries (Spain, UK, France, and Chile), delivering theoretical and laboratory sessions in different languages (English, Spanish/Galician, and French) to undergraduate and master’s students. I hold national accreditations as an assistant professor in Spain (PAD ANECA) and France (Section 64) and an official master degree on teaching. All these experiences and formation have improved my ability to **adapt to diverse academic settings and foster critical thinking among students**. 
+{: .notice}
+
+[Click here for more details about my experience on high education teaching](https://albruzos.github.io/teaching/university-teaching)  
 
 <b>MEMBER OF JURIES AND EVALUATION COMMITTEES</b> <i class="fa fa-users" aria-hidden="true"></i>  
 - Jury of [Galicia Spin-Off Awards](https://www.gciencia.com/talento/o-xurado-dos-galicia-spin-off-reune-a-persoas-destacadas-da-ciencia-a-empresa-e-a-comunicacion/) in 2024, called and organized by GCiencia.
-- [External evaluator](https://albruzos.github.io/teaching/supervision) of 2 PhD thesis.  
+- [External evaluator](https://albruzos.github.io/teaching/supervision) of 2 PhD thesis.
+- Substitute member of the PhD tribunal of S. Blanco González (U. de Vigo, 2025).
 
 <b>SKILLS, COURSES, EXPEDITIONS & CERTIFICATIONS</b> <i class="fa fa-wrench" aria-hidden="true"></i>  
 <ul class="fa-ul">
