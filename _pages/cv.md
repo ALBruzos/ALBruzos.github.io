@@ -45,6 +45,9 @@ Over the last decade, I have built an **international reserach career** through 
 <i class="fa fa-info-circle" aria-hidden="true"></i>
 <i class="fa fa-external-link-alt" aria-hidden="true"></i>
 <i class="fa fa-arrow-circle-right" aria-hidden="true"></i> [More details about my work experience](https://albruzos.github.io/jobs/)  
+<span style="color:#1E6FA8;"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i></span> [More details about my work experience](https://albruzos.github.io/jobs/)
+<span style="color:#1E6FA8;"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i> <a href="https://albruzos.github.io/jobs/" style="color:#1E6FA8;">More details about my work experience</a></span>
+
 
 ---
 
