@@ -18,6 +18,10 @@ Download [here a PDF version of my CV](https://ALBruzos.github.io/files/CVs/CV_A
 
 <i class="fa fa-fw fa-briefcase "></i> Work experience
 =======
+
+Over the past nine years, I have built an **international reserach career** through positions in Spain, the United Kingdom, France, and Germany, and expanded my collaboration network through visiting stays in Portugal, South Korea, Ireland, and the United States.
+{: .notice}
+
 **Junior group leader (Minerva Fast Track fellow)** at [Max Planck Institute for Marine Microbiology](https://mpi-bremen.de/en/Home.html), GERMANY.  
 :   *2025 – ongoing* (up to 4 years)
 
@@ -44,6 +48,10 @@ Download [here a PDF version of my CV](https://ALBruzos.github.io/files/CVs/CV_A
 
 <i class="fa fa-graduation-cap" aria-hidden="true"></i> Education
 =======
+
+Building on a foundation in **biology and bioinformatics**, my education culminated in a **PhD in molecular medicine** focused on cancer genetics and evolution, later complemented by a master’s degree in **higher education teaching**.
+{: .notice}
+
 **PhD. in Molecular Medicine**, Universidade de Santiago de Compostela (CiMUS institute), Spain.  
 :   *2016 – 2022*
 :   Specialization in Cancer.  
