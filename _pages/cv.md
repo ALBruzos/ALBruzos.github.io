@@ -85,26 +85,22 @@ Building on a foundation in **biology and bioinformatics**, my education culmina
 ---
 
 <i class="fa fa-binoculars" aria-hidden="true"></i> Research Achievements
-
 ======
 
 To date, I have authored **11 peer-reviewed international Q1 articles** (8 of which are D1), and **10 book chapters with ISBN** (6 of which as first author). Notably, I am first author (a) on five articles, the corresponding author (b) on two, and eight are not co-authored by my PhD thesis director Dr S. Díaz, reflecting my capacity for autonomous research and establish collaborations. My work has garnered over 2,200 accumulated citations and I have an h-index of 7-23 depending on the source.
 {: .notice}
 
-Overview of my annual scientific production
-=============
+**Overview of my annual scientific production**
 <img src="/images/pub-stats.png" alt="Overview of my annual scientific production">
 
-Citations, h-index and profiles
-=============
-My work has garnered over 1,800 citations according to different sources:
+**Citations, h-index and profiles**
 
-| Source | H-index | Date of access | Citations no. |
+| Source | H-index | Citations no. | Date of access |
 | ------------- | ------------- | ------------- | ------------- | 
-| [Gscholar](https://scholar.google.es/citations?user=YyKE8DIAAAAJ&hl=en)| 10 | 16/10/2025 | 3,688 |
-| [WOS](https://www.webofscience.com/wos/author/record/D-7235-2018)| 7 | 16/10/2025 | 2,258 |
-| [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57214752778)| 23 | 16/10/2025 | 6,123 |
-| [ResearchGate](https://www.researchgate.net/profile/Alicia-Bruzos)| 15 | 16/10/2025 | 3,225 |
+| [Gscholar](https://scholar.google.es/citations?user=YyKE8DIAAAAJ&hl=en)| 10 | 3,688 | 16/10/2025 |
+| [WOS](https://www.webofscience.com/wos/author/record/D-7235-2018)| 7 | 2,258 | 16/10/2025 |
+| [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57214752778)| 23 | 6,123 | 16/10/2025 |
+| [ResearchGate](https://www.researchgate.net/profile/Alicia-Bruzos)| 15 | 3,225 | 16/10/2025 |
 
 | ORCID | WOK ResearcherID | Scopus Author ID |
 | ------------- | ------------- | ------------- | 
