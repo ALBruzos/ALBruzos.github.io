@@ -7,16 +7,7 @@ redirect_from:
   - /resume
 ---
 
-Download [here a PDF version of my CV](https://ALBruzos.github.io/files/CVs/CV_AliciaLBruzos.pdf)
-
-<span style="color:#1E6FA8;"><i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://albruzos.github.io/files/CVs/CV_AliciaLBruzos.pdf" style="color:#1E6FA8;">Download a PDF version of my CV</a></span>
-
 <span style="color:#1E6FA8;"><i class="fa fa-download" aria-hidden="true"></i> <a href="https://albruzos.github.io/files/CVs/CV_AliciaLBruzos.pdf" style="color:#1E6FA8;">Download my full CV (PDF)</a></span>
-
-<span style="color:#1E6FA8;"><i class="fa fa-file-text" aria-hidden="true"></i> <a href="https://albruzos.github.io/files/CVs/CV_AliciaLBruzos.pdf" style="color:#1E6FA8;">View or download my CV (PDF)</a></span>
-
-
-
 
 <!---to comment---> 
 {% include toc %}
