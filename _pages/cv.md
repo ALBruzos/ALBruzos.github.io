@@ -87,7 +87,7 @@ Building on a foundation in **biology and bioinformatics**, my education culmina
 <i class="fa fa-binoculars" aria-hidden="true"></i> Research
 ======
 
-To date, I have authored **12 peer-reviewed international Q1 articles** (11 of which are D1), and **10 book chapters with ISBN** (6 of which as first author). Notably, I am first author (*) on 5 articles [1, 2, 3, 4, 5], the corresponding author (#) on two [1, 2], and 7 are not co-authored by my PhD thesis director Dr S. Díaz [1, 3, 8, 9, 10 and two more], reflecting my capacity for autonomous research and establish collaborations. My work has garnered over 2,100 accumulated citations. Below, I highlight my 10 most significant research contributions, n/n shows my position among the total number of authors.
+To date, I have authored **11 peer-reviewed international Q1 articles** (8 of which are D1), and **10 book chapters with ISBN** (6 of which as first author). Notably, I am first author (a) on 5 articles [5, 7, 8, 9, 11], the corresponding author (b) on two [9, 11], and 8 are not co-authored by my PhD thesis director Dr S. Díaz [1, 2, 3, 7, 10 and three more under review], reflecting my capacity for autonomous research and establish collaborations. My work has garnered over 1,100 accumulated citations. Below, I highlight my 10 most significant research contributions, n/n shows my position among the total number of authors.
 {: .notice}
 
 | ORCID | WOK ResearcherID | Scopus Author ID |
@@ -101,10 +101,10 @@ My work has garnered over 1,800 citations according to different sources:
 
 | Source | H-index | Date of access | Citations no. |
 | ------------- | ------------- | ------------- | ------------- | 
-| [Gscholar](https://scholar.google.es/citations?user=YyKE8DIAAAAJ&hl=en)| 9 | 22/12/2024 | 2,583 |
-| [WOS](https://www.webofscience.com/wos/author/record/D-7235-2018)| 5 | 22/12/2024 | 1,842 |
-| [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57214752778)| 22 | 22/12/2024 | 4,697 |
-| [ResearchGate](https://www.researchgate.net/profile/Alicia-Bruzos)| 11 | 22/12/2024 | 2,695 |
+| [Gscholar](https://scholar.google.es/citations?user=YyKE8DIAAAAJ&hl=en)| 10 | 16/10/2025 | 3,688 |
+| [WOS](https://www.webofscience.com/wos/author/record/D-7235-2018)| 7 | 16/10/2025 | 2,258 |
+| [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57214752778)| 23 | 16/10/2025 | 6,123 |
+| [ResearchGate](https://www.researchgate.net/profile/Alicia-Bruzos)| 15 | 16/10/2025 | 3,225 |
 
 <b>PEER-REVIEWED ARTICLES</b> <i class="fa fa-fw fa-paste"></i>
 Here you can find a summary table, find more details [here](https://albruzos.github.io/publications/).
