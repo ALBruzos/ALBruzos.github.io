@@ -22,6 +22,9 @@ Download [here a PDF version of my CV](https://ALBruzos.github.io/files/CVs/CV_A
 Over the decade, I have built an **international reserach career** through positions in Spain, the United Kingdom, France, and Germany, and expanded my collaboration network through visiting stays in Portugal, South Korea, Ireland, and the United States.
 {: .notice}
 
+> Over the past nine years, I have built an **international research career** through positions in Spain, the United Kingdom, France, and Germany, and expanded my collaboration network through visiting stays in Portugal, South Korea, Ireland, and the United States.
+
+
 **Junior group leader (Minerva Fast Track fellow)** at [Max Planck Institute for Marine Microbiology](https://mpi-bremen.de/en/Home.html), GERMANY.  
 :   *2025 – ongoing* (up to 4 years)
 
