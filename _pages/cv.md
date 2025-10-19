@@ -154,67 +154,8 @@ Every year, I commit some time to **make science accessible to society by organi
 
 <span style="color:#1E6FA8;"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i> <a href="https://albruzos.github.io/outreach/" style="color:#1E6FA8;">More details about my outreach activity</a></span>
 
-
-<!---Comment
-*2023:* 
-<i class="fa fa-book" aria-hidden="true"></i> 
-<i class="fa fa-university" aria-hidden="true"></i>
-<i class="fa fa-university" aria-hidden="true"></i> 
-<i class="fa fa-paint-brush" aria-hidden="true"></i> 
-<i class="fa fa-university" aria-hidden="true"></i> 
-<i class="fa fa-university" aria-hidden="true"></i> 
-<i class="fa fa-book" aria-hidden="true"></i>  
-*2022:* 
-<i class="fa fa-university" aria-hidden="true"></i> 
-<i class="fa fa-comment" aria-hidden="true"></i> 
-<i class="fa fa-play-circle" aria-hidden="true"></i> 
-<i class="fa fa-university" aria-hidden="true"></i> 
-<i class="fa fa-users" aria-hidden="true"></i> 
-<i class="fa fa-university" aria-hidden="true"></i>
-<i class="fa fa-play-circle" aria-hidden="true"></i> 
-<i class="fa fa-users" aria-hidden="true"></i>
-<i class="fa fa-university" aria-hidden="true"></i>  
-*2021:* 
-<i class="fa fa-book" aria-hidden="true"></i> 
-<i class="fa fa-university" aria-hidden="true"></i> 
-<i class="fa fa-university" aria-hidden="true"></i> 
-<i class="fa fa-paint-brush" aria-hidden="true"></i> 
-<i class="fa fa-book" aria-hidden="true"></i> 
-<i class="fa fa-university" aria-hidden="true"></i> 
-<i class="fa fa-comment" aria-hidden="true"></i> 
-<i class="fa fa-university" aria-hidden="true"></i>  
-*2020:* 
-<i class="fa fa-book" aria-hidden="true"></i>
-<i class="fa fa-play-circle" aria-hidden="true"></i>
-<i class="fa fa-book" aria-hidden="true"></i> 
-<i class="fa fa-paint-brush" aria-hidden="true"></i> 
-<i class="fa fa-play-circle" aria-hidden="true"></i>  
-*2019:* 
-<i class="fa fa-university" aria-hidden="true"></i> 
-<i class="fa fa-users" aria-hidden="true"></i> 
-<i class="fa fa-podcast" aria-hidden="true"></i> 
-<i class="fa fa-play-circle" aria-hidden="true"></i> 
-<i class="fa fa-paint-brush" aria-hidden="true"></i> 
-<i class="fa fa-book" aria-hidden="true"></i>  
-*2018:* 
-<i class="fa fa-users" aria-hidden="true"></i> 
-<i class="fa fa-book" aria-hidden="true"></i>   
-
-*Legend:*
-<i class="fa fa-paint-brush" aria-hidden="true"></i> Initiatives 
-<i class="fa fa-play-circle" aria-hidden="true"></i> Videos and short films
-<i class="fa fa-users" aria-hidden="true"></i> General public talks<br> 
-<i class="fa fa-university" aria-hidden="true"></i> School visits 
-<i class="fa fa-comment" aria-hidden="true"></i> Opinion editorials 
-<i class="fa fa-book" aria-hidden="true"></i> Popular science articles 
-<i class="fa fa-podcast" aria-hidden="true"></i>Podcast 
-{: .notice}
- ---> 
-
- 
 I collaborate closely with press offices to disseminate my research, **in coverage by outlets like the New York Times, BBC Radio, and El País**. Beyond promoting my research, I am often invited to share my opinion on scientific careers, current topics, or to advocate for women in science. **These initiatives highlight my dedication to science communication and my leadership in public engagement.** Check my [PR clipping](https://albruzos.github.io/media/) for a curated selection of media features and an archive of over 250 media appearances across 10 countries.
 {: .notice}
-
 
 <span style="color:#1E6FA8;"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i> <a href="https://albruzos.github.io/media/" style="color:#1E6FA8;">More details on my PR clipping</a></span>
 
@@ -225,6 +166,7 @@ I collaborate closely with press offices to disseminate my research, **in covera
 ======
 
 <b>SUPERVISION AND MENTORING</b> <i class="fa fa-life-ring" aria-hidden="true"></i>  
+
 To date, I have supervised and mentored five undergraduate and master’s students during their theses in France and Spain, three of which decided to pursue a PhD. These experiences have allowed me to support early-career researchers while contributing to the academic programs of the institutions.
 {: .notice}
 
@@ -268,7 +210,8 @@ I have gained teaching experience (**132 certified teaching hours**) at five pub
   <li><i class="fa fa-check-circle" aria-hidden="true"></i>Consortium secretariat of the International Common Cockle Genome Consortium </li>
 </ul>
 
-[More details](https://albruzos.github.io/institutional-citizenship/)
+<span style="color:#1E6FA8;"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i> <a href="https://albruzos.github.io/institutional-citizenship/" style="color:#1E6FA8;">More details about my institutional citizenship.</a></span>
+
 
 <b>PROFESSIONAL MEMBERSHIPS</b> <i class="fa fa-puzzle-piece" aria-hidden="true"></i>  
 I believe in the importance of unions and associations to network and discuss with colleagues. Therefore, I have been and I am a member of different societies worldwide. Unfortunately, my time and money are limited and I cannot contribute as much as I would like. [Check here my past and ongoing memberships](https://albruzos.github.io/institutional-citizenship/)
