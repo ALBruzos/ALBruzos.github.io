@@ -84,7 +84,8 @@ Building on a foundation in **biology and bioinformatics**, my education culmina
 
 ---
 
-<i class="fa fa-binoculars" aria-hidden="true"></i> Research
+<i class="fa fa-binoculars" aria-hidden="true"></i> Research Achievements
+
 ======
 
 To date, I have authored **11 peer-reviewed international Q1 articles** (8 of which are D1), and **10 book chapters with ISBN** (6 of which as first author). Notably, I am first author (a) on five articles, the corresponding author (b) on two, and eight are not co-authored by my PhD thesis director Dr S. Díaz, reflecting my capacity for autonomous research and establish collaborations. My work has garnered over 2,200 accumulated citations and I have an h-index of 7-23 depending on the source.
@@ -115,9 +116,9 @@ Find more details [here](https://albruzos.github.io/publications/).
 
 | No. | Paper link & authors  | Year | Journal & preprint repository | Impact Factor & rank<sup>*</sup> | Role<sup>**</sup> | Framework |
 | ------------- | ------------- | ------------- | ------------- | ------------- |------------- |------------- |
-| #13 | Bruzos AL et al.<sup><mark>#</mark></sup> | NA | Under review | NA | yes<sup>a,b</sup> | Postdoc, France |
-| #12 | Polubothu S et al. (includes Bruzos AL)<sup><mark>#</mark></sup> | NA | Under review | NA | - | Postdoc, UK |
-| #11 | Bruzos AL et al.<sup><mark>#</mark></sup> | 2025 | Accepted at Phil. Trans. R. Soc. B & [BioRxiv](https://www.biorxiv.org/content/10.1101/2025.07.30.667629v1) | 4.7 (2024); Q1 | yes<sup>a,b</sup> | Postdoc, France |
+| #13 | Bruzos AL et al.<sup>#</sup> | NA | Under review | NA | yes<sup>a,b</sup> | Postdoc, France |
+| #12 | Polubothu S et al. (includes Bruzos AL)<sup>#</sup> | NA | Under review | NA | - | Postdoc, UK |
+| #11 | Bruzos AL et al.<sup>#</sup> | 2025 | Accepted at Phil. Trans. R. Soc. B & [BioRxiv](https://www.biorxiv.org/content/10.1101/2025.07.30.667629v1) | 4.7 (2024); Q1 | yes<sup>a,b</sup> | Postdoc, France |
 | #10 | [Riachi M et al. (includes Bruzos AL)](https://albruzos.github.io/publication/2025-04-22-PAPER-JID-MosaicSkinDisease) | 2025 | JID | 7.590 (2021); D1 | - | Postdoc, UK |
 | #9 | [Santamarina M, Bruzos AL et al.](https://albruzos.github.io/publication/2024-11-08_PAPER_JInvertebrPathology_DiagnosticPCR-CedBTN) | 2024 | J Invert. Pathol. & [SSRN](https://ssrn.com/abstract=4595284) | 3.6 (2023); Q1 | yes<sup>a,b</sup> | PhD, Spain |
 | #8 | [Bruzos AL et al.](https://albruzos.github.io/publication/2023-10-02-PAPER-NatureCancer-EvolutionCockleTransmissibleCancers) | 2023 | Nature Cancer & [BioRxiv](https://www.biorxiv.org/content/10.1101/2022.08.06.503021v1)| 23.177 (2021); D1 | yes<sup>a</sup> | PhD, Spain |
@@ -129,21 +130,25 @@ Find more details [here](https://albruzos.github.io/publications/).
 | #2 | [Rodríguez-Martín B et al. (includes Bruzos AL)](https://albruzos.github.io/publication/2020-02-05-PAPER2_NatureGenetics_PCAWG-retrotransposition) | 2020  | Nature Genetics & [BioRxiv](https://www.biorxiv.org/content/10.1101/179705v3) | 38.333; D1 | - | Master/PhD, Spain |
 | #1 | [PCAWG (includes Bruzos AL)](https://albruzos.github.io/publication/2020-02-05-PAPER1_Nature_PCAWG) | 2020 | Nature | 49.962; D1 | - | Master/PhD, Spain |
 
-<mark><sup>#</sup></mark> PENDING PUBLICATION  
+<sup>#</sup> PENDING PUBLICATION  
 <sup>*</sup> IF taken from [Journal Citation Report (JCR)](https://mjl.clarivate.com/) for the year of the publication unless otherwise stated. Quartile (Q1 ≤ 0.25) and decile (D1 ≤ 0.1) rankings are indicated.  
 <sup>**</sup> First authorship (a) or corresponding author (b).
   
 <b>SCIENTIFIC CONFERENCES</b> <i class="fa fa-bullhorn" aria-hidden="true"></i>  
-I have presented my research at **52 national and international conferences** across 9 countries. This includes the following:
+
+I have presented my research at **53 national and international conferences** across twelve countries. I have also served on the scientific and organizing committees of conferences. Beyond conferences, I have been invited to deliver seminars at scientific institutions in four different countries. 
+{: .notice}
+
+This includes the following:
 <ul class="fa-ul">
-  <li><i class="fa fa-check-circle" aria-hidden="true"></i>5 invited speaker talks</li>
-  <li><i class="fa fa-check-circle" aria-hidden="true"></i>20 oral communications delivered by myself</li>
-  <li><i class="fa fa-check-circle" aria-hidden="true"></i>23 posters presentations (13 of which I personally presented)</li>
-  <li><i class="fa fa-check-circle" aria-hidden="true"></i>8 invited seminars at scientific institutions in 4 different countries</li>
+  <li><i class="fa fa-check-circle" aria-hidden="true"></i>6 invited speaker talks</li>
+  <li><i class="fa fa-check-circle" aria-hidden="true"></i>22 oral communications delivered by myself</li>
+  <li><i class="fa fa-check-circle" aria-hidden="true"></i>25 posters presentations (15 of which I personally presented)</li>
+  <li><i class="fa fa-check-circle" aria-hidden="true"></i>9 invited core seminars at scientific institutions in 4 different countries</li>
   <li><i class="fa fa-check-circle" aria-hidden="true"></i>6 award-winning contributions (3 for best talk and 3 for best poster)</li>
   <li><i class="fa fa-check-circle" aria-hidden="true"></i>3 events organized (in Spain, the UK, and France)</li>
 </ul>
-A full detailed list can be checked [here](https://albruzos.github.io/talks/)  
+A full detailed list can be found [here](https://albruzos.github.io/talks/)  
 
 <b>OUTREACH</b> <i class="fa fa-users" aria-hidden="true"></i> and <b>MEDIA</b> <i class="fa fa-users" aria-hidden="true"></i> <b>: Dissemination to society</b>  
 
