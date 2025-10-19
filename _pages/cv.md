@@ -54,18 +54,18 @@ Building on a foundation in **biology and bioinformatics**, my education culmina
 
 **PhD. in Molecular Medicine**, Universidade de Santiago de Compostela (CiMUS institute), Spain.  
 :   *2016 – 2022*
-:   Specialization in Cancer.  
-:   Title of Doctoral Thesis: _"Evolution of bivalve transmissible cancers"_  
+:   Title of Doctoral Thesis: _"Evolution of bivalve transmissible cancers"_ ([official open access here](https://minerva.usc.gal/entities/publication/e4f6fe63-a6c9-47cb-910b-3d80684d50ac) 
+:   Thesis director: Dr. Seila Díaz
 
 **MSc. in Higher Education Teaching**, Universidad Europea de Madrid, Spain.  
-:   *2023 – 2025* 60 ECTS	  
+:   *2023 – 2025* · 60 ECTS	  
 
 **MSc. in Bioinformatics**, Universitat Autònoma de Barcelona, Spain.  
-:   *2015 – 2016* 60 ECTS	  
+:   *2015 – 2016* · 60 ECTS	  
 :   Specialization in Genomics.  
 
 **BSc. in Biology**, Universidade de Santiago de Compostela, Spain.  
-:   *2011 – 2015* 243.5 ECTS 	
+:   *2011 – 2015* · 243.5 ECTS 	
 :   Erasmus year abroad at Université Libre de Bruxelles (Belgium).  
 
 [More details of my academic education](https://albruzos.github.io/education/) 
