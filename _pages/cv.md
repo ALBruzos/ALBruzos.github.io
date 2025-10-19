@@ -42,7 +42,9 @@ Over the last decade, I have built an **international reserach career** through 
 :    <b>National University of Ireland Galway</b>, Galway, IRELAND. Mar-Apr 2019
 :    <b>Pacific Northwest Research Institute</b> (PNRI), Seattle, USA. Sep-Dec 2018
 
-[More details about my work experience](https://albruzos.github.io/jobs/)  
+<i class="fa fa-info-circle" aria-hidden="true"></i>
+<i class="fa fa-external-link-alt" aria-hidden="true"></i>
+<i class="fa fa-arrow-circle-right" aria-hidden="true"></i> [More details about my work experience](https://albruzos.github.io/jobs/)  
 
 ---
 
@@ -146,7 +148,7 @@ A full detailed list can be found [here](https://albruzos.github.io/talks/)
 
 <b>OUTREACH</b> <i class="fa fa-users" aria-hidden="true"></i> and <b>MEDIA</b> <i class="fa fa-users" aria-hidden="true"></i> <b>: Dissemination to society</b>  
 
-**Every year, I commit some time to make science accessible to society by organizing or joining different activities**. To date, I have actively participated in **over 40 public science outreach events**, including 13 school visits, 12 popular science articles, 8 talks for the general public *(e.g. Pint of Science in London, A Coruña, and Caen)*, 6 promotional videos *(e.g., [AquaExcel project](https://www.youtube.com/watch?v=ZDUU6VT1qzE))*, 4 workshops on scientific fairs, 3 opinion editorials, and 5 miscellaneous activities such as contributing to children’s science coulouring book or the school radio program of IES Mata Jove. [Check here the full list](https://albruzos.github.io/outreach/).  
+Every year, I commit some time to **make science accessible to society by organizing or joining different activities**. To date, I have actively participated in **over 40 public science outreach events**, including 13 school visits, 12 popular science articles, 8 talks for the general public *(e.g. Pint of Science in London, A Coruña, and Caen)*, 6 promotional videos *(e.g., [AquaExcel project](https://www.youtube.com/watch?v=ZDUU6VT1qzE))*, 4 workshops on scientific fairs, 3 opinion editorials, and 5 miscellaneous activities such as contributing to children’s science coulouring book or the school radio program of IES Mata Jove. [Check here the full list](https://albruzos.github.io/outreach/).  
 {: .notice}
 
 <!---Comment
