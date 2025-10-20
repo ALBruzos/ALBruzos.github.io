@@ -21,7 +21,7 @@ redirect_from:
 <i class="fa fa-fw fa-briefcase "></i> Work experience
 =======
 
-Over the last decade, I have built an **international reserach career** through positions in Spain, the United Kingdom, France, and Germany, and expanded my collaboration network through visiting stays in Portugal, South Korea, Ireland, and the United States.
+Over the last decade, I have built an **international research career** through positions in Spain, the United Kingdom, France, and Germany, and expanded my collaboration network through visiting stays in Portugal, South Korea, Ireland, and the United States.
 {: .notice}
 
 **Junior group leader (Minerva Fast Track fellow)** at [Max Planck Institute for Marine Microbiology](https://mpi-bremen.de/en/Home.html), GERMANY.  
