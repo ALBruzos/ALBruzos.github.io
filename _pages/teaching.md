@@ -16,11 +16,11 @@ author_profile: true
 <div class="notice">
 Quick Summary: <ul style="list-style-type:none; padding-left:0;">
   <li>🎓 <b>132.5 certified hours</b></li>
-  <li>🏛️ <b>5 public universities</b></li>
-  <li>🌍 <b>4 countries & 4 languages</b> (Spain, UK, France, Chile)</li>
+  <li>🏛️ <b>5 public universities</b> (accreditations in Spain and France)</li>
+  <li>🌍 <b>4 languages & 4 countries</b> (Spain, UK, France, Chile)</li>
   <li>📚 <b>7 different courses</b> from genetics to bioinformatics and marine biology</li>
   <li>📅 <b>8 academic years</b> (2017–present)</li>
-  <li>🧑‍🏫 <b>1520 hours of teacher training</b> (Master + courses)</li>
+  <li>🧑‍🏫 <b>1520 hours of teacher training</b> (master + courses)</li>
 </ul>
 I have gained teaching experience at five public universities across four countries, delivering theoretical and laboratory sessions in different languages to undergraduate and master’s students. I hold national accreditations as an assistant professor in Spain (PAD ANECA) and France (Section 64), and an official master’s degree in university teaching.  
 These experiences and training have strengthened my ability to <b>adapt to diverse academic environments</b> and to <b>promote critical thinking among students</b>.
@@ -78,7 +78,7 @@ These experiences and training have strengthened my ability to <b>adapt to diver
 ======
 
 <div class="notice">
-I have supervised and mentored five undergraduate and master’s students in France and Spain. Three of them continued into doctoral studies, and one received an award for the thesis completed under my supervision. These experiences have enhanced my mentoring and leadership abilities while contributing to the training objectives of the academic programs involved.
+I have supervised and mentored five undergraduate and master’s students in France and Spain. Three of them continued into doctoral studies, and one received an award for the thesis completed under my supervision. These experiences have enhanced my mentoring abilities while contributing to their training and research career.
 </div>
 
 ### 🧑‍🎓 Supervised Theses
@@ -87,11 +87,11 @@ I have supervised and mentored five undergraduate and master’s students in Fra
 | ------------- | ------------- | ------------- |------------- |------------- | ------------- | ------------- |
 | 2023/2024  (--/06/2024) | *“Preliminary study of the dispersal of contagious cancer cells in the ocean”* | Geo Bujard<sup>**</sup> | Dr Alicia L. Bruzos | MSc. Sciences de la Mer (Master Thesis) | Sorbonne Université, France (French) | Good (60.63/100) |
 | 2023/2024  (14/06/2024) | *“Transmission horizontale du cancer chez les espèces bivalves de la côte atlantique française”* | Angele Moulin | Dr Alicia L. Bruzos | MSc. Sciences de la Mer (Master Thesis) | Université de Caen Normandie, France (French) | Good (14/20) |
-| 2020/2021  (--/07/2021) | *“Molecular diagnostic of different clonal lineages of transmissible cancer”*<sup>*</sup> | Andrea E. Arias Díaz<sup>**</sup> | Alicia L Bruzos, Dr Jose MC Tubío | BSc. in Biology (Degree Thesis) | Universidade de Santiago de Compostela, Spain (Galician) | Outstanding (9/10) | 
+| 2020/2021  (--/07/2021) | *“Molecular diagnostic of different clonal lineages of transmissible cancer”* <sup>*</sup> | Andrea E. Arias Díaz<sup>**</sup> | Alicia L Bruzos, Dr Jose MC Tubío | BSc. in Biology (Degree Thesis) | Universidade de Santiago de Compostela, Spain (Galician) | Outstanding (9/10) | 
 | 2019/2020  (--/07/2020) | *“Identification of driver mutations in marine transmissible cancers through exome sequencing analysis”* | Iago Otero Coto<sup>**</sup> | Alicia L Bruzos, Dr Jose MC Tubío | MSc. in Bioinformatics (Master Thesis) | Universidade da Coruña, Spain (English) | First Class (9.5/10) |
 | 2019/2020  (22/07/2020) | *“Characterization of a genomic molecular marker of a marine transmissible cancer”* | Ana Copena Soutelo | Alicia L Bruzos, Dr Jose MC Tubío | BSc. in Biology (Degree Thesis) | Universidade de Santiago de Compostela, Spain (Spanish) | Outstanding (9/10) | 
 
-<p><small><b>Legend:</b><sup>#</sup>Ongoing · <sup>*</sup> Awarded for linguistic quality by the USC Language Normalization Service (Science category) · <sup>**</sup> Student pursued a PhD afterwards.</small></p>
+<p><small><b>Legend:</b> <sup>#</sup>Ongoing · <sup>*</sup> Awarded for linguistic quality by the USC Language Normalization Service (Science category) · <sup>**</sup> Student pursued a PhD afterwards.</small></p>
 
 
 <i class="fa fa-users" aria-hidden="true"></i> University Evaluation Committees
@@ -101,9 +101,13 @@ I have supervised and mentored five undergraduate and master’s students in Fra
 and sex determination in marine mussels (Mytilus spp.)"*, doctoral thesis presented by **Sofía Blanco González** at **University of Vigo**, SPAIN. <FONT COLOR="#D3D3D3">Defense on September 25th, 2025.</FONT>
 - External evaluator of *"Evolution and Genomic Heterogeneity in Solid Tumors"*, doctoral thesis presented by **Laura Tomás** at **University of Vigo**, SPAIN. <FONT COLOR="#D3D3D3">Report issued on August 23rd, 2024.</FONT>
 - External evaluator of *"New signaling pathways implicated in resistance to targeted therapy in tumors with alterations of the MAPK pathway"*, doctoral thesis presented by **Amanda Guitián Caamaño** at **University of A Coruña**, SPAIN. <FONT COLOR="#D3D3D3">Report issued on February 16th, 2024.</FONT>
+
+
   
 <i class="fa fa-book" aria-hidden="true"></i> Teaching Materials
 ======
+
+* <b><u>Bruzos, A.L.</u></b>; Détrée, C. (2024, July) <i>Gamification in marine biology: a strategy to improve perspectives of basic research</i> Poster at <b>48th FEBS congress</b> (Federation of European Biochemical Societies), Milan (Italy). <i class="fa fa-book" aria-hidden="true"></i> <i>FEBS Open Bio</i> 2024;14(S2):2-91 (P-E-02-03). DOI: <a href="https://doi.org/10.1002/2211-5463.13837" target="_blank">https://doi.org/10.1002/2211-5463.13837</a> <br><br>
 
 <p>
 <b>Rey García, D.</b> … <u><b>Bruzos, A.L.</b></u> … <i>CUADERNO DE ILUSTRACIONES: Comunicar el Océano</i>. Servizo de Publicacións da Universidade de Vigo, 2021:27–28.  
@@ -115,20 +119,23 @@ and sex determination in marine mussels (Mytilus spp.)"*, doctoral thesis presen
 <i>FEBS Open Bio</i> 2024;14(S2):2–91. DOI: <a href="https://doi.org/10.1002/2211-5463.13837" target="_blank">10.1002/2211-5463.13837</a>
 </p>
 
----
+
+* Rey García, D.; Estévez Calvar, N.; Román Losada, A.; Hernández Otero, A; Ballesteros Otero, T.; Alcaraz, P.; Gutiérrez, A; Fernández Míguez, M.; Pérez Diz, A; González, J.; Martínez Schönemann, A.; Des Villanueva, M.; Plaza-Morlote, M.; Rodríguez Hernández, F.; Gomes, M.; <u><b>Bruzos, A.L.</u></b>; Cerviño, C.; Rosendo, P.; Bueno, F.; Ortega, R.; Arcas, J.; Pisón, X.; Tova, L.; 13 Grados; Lamas, E.F.; Agra, E.; Cortês, R.; Venzel, S. <i>CUADERNO DE ILUSTRACIONES: Comunicar el Océnano</i> Servizo de Publicacións da Universidade de Vigo, 2021:27-28 <i><a href="https://albruzos.github.io/files/outreach_2021-ScientistsMeetArtists.pdf" target="_blank">Download the book here.</a></i> <br><br>
+
+<!-- 
+JUSTIFICACIÓN:<br>
+Acercarse a los océanos, comprender las especies, los procesos y la dinámica oceánica ha sido una constante en la historia de la humanidad. Con frecuencia, los científicos viven con entusiasmo cada descubrimiento , pero ese esfuerzo y pasión pocas veces llega a la sociedad de un modo comprensible. Como hacer que el conocimiento sobre los océanos llegue a la ciudadanía es uno de los grandes retos lanzados por la UNESCO a través de su iniciativa “Decenio Océanico”. En esta línea, surge una iniciativa como Scientists meet Artists, un lugar para el diálogo entre disciplinas. Durante un año, personal investigador colaboró con ilustradores e ilustradoras. Como resultado surgió un cuaderno que consta de 12 láminas de estilos y temáticas diversas, para descubrir en detalle la investigación marina.<br><br>
+
+DESTINATARIOS:<br>
+Las láminas pueden ser coloreadas por un público infantil. Cada lámina lleva asociados contenidos didácticos, accesibles a través de códigos QR, de modo que las personas adultas tengan recursos para dar respuesta a las siempre ingeniosas preguntas de los pequeños mientras colorean. <br><br>
+-->
+
+
+
 
 <div align="center">
   <img src="/images/Tira_FotosTeaching-noNames_AliciaLBruzos.png" alt="Teaching summary photos" style="width:90%; border-radius:15px; margin:15px 0;">
 </div>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -141,100 +148,3 @@ and sex determination in marine mussels (Mytilus spp.)"*, doctoral thesis presen
   {% include archive-single.html %}
 {% endfor %}
  -->
-
-{% include toc %}
-<img src='/images/Tira_FotosTeaching_AliciaLBruzos.png'>
-
-<i class="fa fa-users" aria-hidden="true"></i> High Education Teaching Experience 
-======
-I have gained teaching experience (**132 certified teaching hours**) at five public universities across four countries (Spain, UK, France, and Chile), delivering theoretical and laboratory sessions in different languages (English, Spanish/Galician, and French) to undergraduate and master’s students. I hold national accreditations as an assistant professor in Spain (PAD ANECA) and France (Section 64) and an official master degree on teaching. All these experiences and formation have improved my ability to **adapt to diverse academic settings and foster critical thinking among students**. 
-{: .notice}
-
-### Summary:
-* 132,5 certified hours
-* 5 public universities
-* 4 different countries (Spain, UK, France, Chile) and languages (English, Spanish, French, Galician)
-* 7 different courses ranging from genetics to cancer biology, bioinformatics and more recently marine biology.
-* 8 academic years of experience (from 2017 to date)
-* 1520 hours of teacher training (with an specialized master and courses)
-
-### Teaching experience details:
-
-| Academic Year | Course | University | Degree | Students no. | Type (My role) | Hours | Language | Country |
-| ------------- | ------------- | ------------- |------------- |------------- | ------------- | ------------- | ------------- | ------------- |
-| 2024     | Sistemas acuáticos ([see post](https://www.instagram.com/p/DCkKiLhSSq-/?img_index=1)) | [Universidad de O'Higgins](https://www.uoh.cl/) | Licenciatura en Ciencias Ambientales (título profesional Ingeniero Ambiental) | 10 | seminar + practice (lecturer) | 4.5 | Spanish | Chile |
-| 2024     | Cambio climático y presiones antrópicas | [Universidad de O'Higgins](https://www.uoh.cl/) | Magíster en Ciencias Ambientales y de la Tierra | 8 | seminar (lecturer) | 3 | Spanish | Chile |
-| 2023/2024     | Physiologie du gène à l’organisme (UE SBME19B) | [Université Caen Normandie](https://www.unicaen.fr/) | Master Sciences de la Mer | ~15 | seminar (lecturer) | 2 | French | France |
-| 2023/2024     | Core bioinformatics (module 2) | [Universitat Autònoma de Barcelona](https://www.uab.cat/web/estudiar/official-master-s-degrees/general-information/bioinformatics-1096480962610.html?param1=1327908905033) | MSc. in Bioinformatics (Facultad de biociencias) | ~20 | seminar (lecturer) | 1 | English | Spain |
-| 2022/2023     | Medical Student-Selected Component | [University College of London](https://www.ucl.ac.uk/) | Medicine MBBS BSc | 20 | seminar + practice (lecturer) | 12 |  English | UK |
-| 2022/2023     | Meet a researcher module | [University College of London](https://www.ucl.ac.uk/) | BSc. in Biological Sciences (Faculty of Life Sciences, FLS) | 18 | seminars (lecturer) | 16 | English | UK |
-| 2021/2022     | Medical Student-Selected Component | [University College of London](https://www.ucl.ac.uk/) | Medicine MBBS BSc | 20 | seminar + practice (lecturer) | 12 | English | UK |
-| 2020/2021     | Genetics I | [Universidade de Santiago de Compostela](https://www.usc.gal) | BSc. in Biology | ~30 | seminars (lecturer) | 40 | Spanish | Spain |
-| 2020/2021     | Genetics II | [Universidade de Santiago de Compostela](https://www.usc.gal) | BSc. in Biotechnology | ~30 | seminars (teaching assistant) | 8 | Spanish | Spain |
-| 2019/2020     | Genetics I | [Universidade de Santiago de Compostela](https://www.usc.gal) | BSc. in Biology | ~30 | seminars (lecturer) | 13 | Spanish | Spain |
-| 2019/2020     | Human Genetics | [Universidade de Santiago de Compostela](https://www.usc.gal) | BSc. in Biology | ~80 | online seminar (lecturer) | 2 | Spanish | Spain |
-| 2018/2019     | Genetics II | [Universidade de Santiago de Compostela](https://www.usc.gal) | BSc. in Biology | ~30 | lab practice (teaching assistant) | 16 | Spanish | Spain |
-| 2017/2018     | Genetics II | [Universidade de Vigo](https://www.uvigo.gal) | BSc. in Biology | ~20 | bioinformatic practice (teaching assistant) | 3 | English | Spain |
-
-**Legend**:  
-BSc: Bachelor in Science  
-MBBS: Medicine Bachelor and Bachelor of Surgery  
-{: .notice}
-
-### Teaching training courses and accreditations:
-
-* 2025: **Qualification Section 64 - Maître de conférences**. Ministère chargé de l'enseignement Supérier et de la Recherche (Odyssée), FRANCE. *Goal:* similar to a non-tenured assistant professor in the French high education system, must hold a PhD, accreditation required; I've applied in section 64 which is Biochemistry and molecular biology.
-  
-* 2025: **MSc in University Teaching**. Universidad Europea de Madrid (online), SPAIN. *Goal:* knowing all the didactic-pedagogical, research, innovation, and use of technology areas that a university teacher must master. *Hours:* 1500. Official title, 60 ECTS. Expected for February 2025.
-
-* 2023: **Profesor Ayudante Doctor (PAD)**. Agencia Nacional de Evaluación de la Calidad de la Acreditación (ANECA), SPAIN. *Goal:* similar to a non-tenured assistant professor, must hold a PhD, accreditation required.
-
-* 2021: **Research Supervision**. University College London, UK. *Goal:* The course provides information and guidance on UCL regulations and frameworks for research supervision; establishing and maintaining effective working relationships with your supervisees; doctoral skills development requirements and the Research Student Log signposting to further support provided centrally by UCL and locally in faculties and departments. *Hours:* 4.
-
-* 2017: **Higher Education Lecturing Accreditation (HELA)**. Universidade de Vigo, SPAIN. *Hours:* 16 hours + test (19/04/2017-20/04/2017). *Goal:* qualification to teach in English.
-  
-<img src='/images/Tira_FotosTeaching-noNames_AliciaLBruzos.png'>  
-
-
-<i class="fa fa-life-ring" aria-hidden="true"></i> Supervision and mentoring 
-======
-To date, I have supervised and mentored five undergraduate and master’s students during their theses in France and Spain, three of which decided to pursue a PhD. These experiences have allowed me to support early-career researchers while contributing to the academic programs of the institutions.
-{: .notice}
-
-**In a nutshell**: 3 Master Thesis, 2 Bachelor Thesis, 1 Erasmus intern
-
-
-| Academic Year (defense date)  | Title | Student | Supervisors | Degree (Type) | University, Country (Language) | Grade |
-| ------------- | ------------- | ------------- |------------- |------------- | ------------- | ------------- |
-| 2023/2024  (--/06/2024) | *“Preliminary study of the dispersal of contagious cancer cells in the ocean”* | Geo Bujard | Dr Alicia L. Bruzos | MSc. Sciences de la Mer (Master Thesis) | Sorbonne Université, France (French) | Good (60.63/100) |
-| 2023/2024  (14/06/2024) | *“Transmission horizontale du cancer chez les espèces bivalves de la côte atlantique française”* | Angele Moulin | Dr Alicia L. Bruzos | MSc. Sciences de la Mer (Master Thesis) | Université de Caen Normandie, France (French) | Good (14/20) |
-| 2020/2021  (--/07/2021) | *“Molecular diagnostic of different clonal lineages of transmissible cancer”*<sup>*</sup> | Andrea E. Arias Díaz | Alicia L Bruzos, Dr Jose MC Tubío | BSc. in Biology (Degree Thesis) | Universidade de Santiago de Compostela, Spain (Galician) | Outstanding (9/10) | 
-| 2019/2020  (--/07/2020) | *“Identification of driver mutations in marine transmissible cancers through exome sequencing analysis”* | Iago Otero Coto | Alicia L Bruzos, Dr Jose MC Tubío | MSc. in Bioinformatics (Master Thesis) | Universidade da Coruña, Spain (English) | First Class (9.5/10) |
-| 2019/2020  (22/07/2020) | *“Characterization of a genomic molecular marker of a marine transmissible cancer”* | Ana Copena Soutelo | Alicia L Bruzos, Dr Jose MC Tubío | BSc. in Biology (Degree Thesis) | Universidade de Santiago de Compostela, Spain (Spanish) | Outstanding (9/10) | 
-
-**Legend**:  
-<sup>#</sup>Ongoing  
-<sup>*</sup>Awarded for linguistic quality by the USC Language Normalization Service in the category of sciences.  
-<sup>**</sup>Decided to pursue a PhD thesis after.
-{: .notice}
-
-<img src='/images/Tira_FotosTeaching-noNames_AliciaLBruzos.png'>  
-
-<i class="fa fa-users" aria-hidden="true"></i> University evaluation committees  
-======
-
-
-
-<i class="fa fa-users" aria-hidden="true"></i> Teaching materials  
-======
-* Rey García, D.; Estévez Calvar, N.; Román Losada, A.; Hernández Otero, A; Ballesteros Otero, T.; Alcaraz, P.; Gutiérrez, A; Fernández Míguez, M.; Pérez Diz, A; González, J.; Martínez Schönemann, A.; Des Villanueva, M.; Plaza-Morlote, M.; Rodríguez Hernández, F.; Gomes, M.; <u><b>Bruzos, A.L.</u></b>; Cerviño, C.; Rosendo, P.; Bueno, F.; Ortega, R.; Arcas, J.; Pisón, X.; Tova, L.; 13 Grados; Lamas, E.F.; Agra, E.; Cortês, R.; Venzel, S. <i>CUADERNO DE ILUSTRACIONES: Comunicar el Océnano</i> Servizo de Publicacións da Universidade de Vigo, 2021:27-28 <i><a href="https://albruzos.github.io/files/outreach_2021-ScientistsMeetArtists.pdf" target="_blank">Download the book here.</a></i> <br><br>
-
-<!-- 
-JUSTIFICACIÓN:<br>
-Acercarse a los océanos, comprender las especies, los procesos y la dinámica oceánica ha sido una constante en la historia de la humanidad. Con frecuencia, los científicos viven con entusiasmo cada descubrimiento , pero ese esfuerzo y pasión pocas veces llega a la sociedad de un modo comprensible. Como hacer que el conocimiento sobre los océanos llegue a la ciudadanía es uno de los grandes retos lanzados por la UNESCO a través de su iniciativa “Decenio Océanico”. En esta línea, surge una iniciativa como Scientists meet Artists, un lugar para el diálogo entre disciplinas. Durante un año, personal investigador colaboró con ilustradores e ilustradoras. Como resultado surgió un cuaderno que consta de 12 láminas de estilos y temáticas diversas, para descubrir en detalle la investigación marina.<br><br>
-
-DESTINATARIOS:<br>
-Las láminas pueden ser coloreadas por un público infantil. Cada lámina lleva asociados contenidos didácticos, accesibles a través de códigos QR, de modo que las personas adultas tengan recursos para dar respuesta a las siempre ingeniosas preguntas de los pequeños mientras colorean. <br><br>
--->
-
-* <b><u>Bruzos, A.L.</u></b>; Détrée, C. (2024, July) <i>Gamification in marine biology: a strategy to improve perspectives of basic research</i> Poster at <b>48th FEBS congress</b> (Federation of European Biochemical Societies), Milan (Italy). <i class="fa fa-book" aria-hidden="true"></i> <i>FEBS Open Bio</i> 2024;14(S2):2-91 (P-E-02-03). DOI: <a href="https://doi.org/10.1002/2211-5463.13837" target="_blank">https://doi.org/10.1002/2211-5463.13837</a> <br><br>
