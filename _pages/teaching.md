@@ -4,9 +4,143 @@ title: "Teaching and Supervision Experience"
 permalink: /teaching/
 author_profile: true
 ---
+---
+layout: archive
+title: "Teaching and Supervision Experience"
+permalink: /teaching/
+author_profile: true
+---
+
+{% include toc %}
+
+<div align="center">
+  <img src="/images/Tira_FotosTeaching_AliciaLBruzos.png" alt="Teaching collage Alicia L. Bruzos" style="width:90%; border-radius:15px; margin:15px 0;">
+</div>
+
+<h2><i class="fa fa-graduation-cap" aria-hidden="true"></i> Higher Education Teaching Experience</h2>
+
+<div class="notice">
+I have gained teaching experience (<b>132 certified teaching hours</b>) at five public universities across four countries (Spain, UK, France, and Chile), delivering theoretical and laboratory sessions in different languages (English, Spanish/Galician, and French) to undergraduate and master’s students.  
+I hold national accreditations as an assistant professor in Spain (PAD ANECA) and France (Section 64), and an official master’s degree in university teaching.  
+These experiences have strengthened my ability to <b>adapt to diverse academic environments</b> and to <b>promote critical thinking among students</b>.
+</div>
+
+<h3>📘 Quick Summary</h3>
+
+<ul style="list-style-type:none; padding-left:0;">
+  <li>🎓 <b>132.5 certified hours</b></li>
+  <li>🏛️ <b>5 public universities</b></li>
+  <li>🌍 <b>4 countries & 4 languages</b> (Spain, UK, France, Chile)</li>
+  <li>📚 <b>7 different courses</b> from genetics to bioinformatics and marine biology</li>
+  <li>📅 <b>8 academic years</b> (2017–present)</li>
+  <li>🧑‍🏫 <b>1520 hours of teacher training</b> (Master + courses)</li>
+</ul>
+
+---
+
+<h3>📖 Teaching Experience Details</h3>
+
+<table>
+<thead>
+<tr>
+<th>Academic Year</th><th>Course</th><th>University</th><th>Degree</th><th>Students</th><th>Type (Role)</th><th>Hours</th><th>Language</th><th>Country</th>
+</tr>
+</thead>
+<tbody>
+<tr><td>2024</td><td>Sistemas acuáticos (<a href="https://www.instagram.com/p/DCkKiLhSSq-/?img_index=1" target="_blank">see post</a>)</td><td><a href="https://www.uoh.cl/">Universidad de O’Higgins</a></td><td>Environmental Sciences</td><td>10</td><td>Seminar + Practice (Lecturer)</td><td>4.5</td><td>Spanish</td><td>Chile</td></tr>
+<tr><td>2024</td><td>Cambio climático y presiones antrópicas</td><td><a href="https://www.uoh.cl/">Universidad de O’Higgins</a></td><td>MSc. Environmental Sciences</td><td>8</td><td>Seminar (Lecturer)</td><td>3</td><td>Spanish</td><td>Chile</td></tr>
+<tr><td>2023/24</td><td>Physiologie du gène à l’organisme (UE SBME19B)</td><td><a href="https://www.unicaen.fr/">Université Caen Normandie</a></td><td>Master Sciences de la Mer</td><td>15</td><td>Seminar (Lecturer)</td><td>2</td><td>French</td><td>France</td></tr>
+<tr><td>2023/24</td><td>Core bioinformatics (module 2)</td><td><a href="https://www.uab.cat/">Universitat Autònoma de Barcelona</a></td><td>MSc. in Bioinformatics</td><td>20</td><td>Seminar (Lecturer)</td><td>1</td><td>English</td><td>Spain</td></tr>
+<tr><td>2022/23</td><td>Medical SSC</td><td><a href="https://www.ucl.ac.uk/">University College London</a></td><td>MBBS Medicine</td><td>20</td><td>Seminar + Practice (Lecturer)</td><td>12</td><td>English</td><td>UK</td></tr>
+<tr><td>2022/23</td><td>Meet a Researcher Module</td><td><a href="https://www.ucl.ac.uk/">UCL</a></td><td>BSc. Biological Sciences</td><td>18</td><td>Seminars (Lecturer)</td><td>16</td><td>English</td><td>UK</td></tr>
+<tr><td>2021/22</td><td>Medical SSC</td><td><a href="https://www.ucl.ac.uk/">UCL</a></td><td>MBBS Medicine</td><td>20</td><td>Seminar + Practice (Lecturer)</td><td>12</td><td>English</td><td>UK</td></tr>
+<tr><td>2020/21</td><td>Genetics I</td><td><a href="https://www.usc.gal/">USC</a></td><td>BSc. Biology</td><td>30</td><td>Seminars (Lecturer)</td><td>40</td><td>Spanish</td><td>Spain</td></tr>
+<tr><td>2020/21</td><td>Genetics II</td><td><a href="https://www.usc.gal/">USC</a></td><td>BSc. Biotechnology</td><td>30</td><td>Seminars (TA)</td><td>8</td><td>Spanish</td><td>Spain</td></tr>
+<tr><td>2019/20</td><td>Genetics I</td><td><a href="https://www.usc.gal/">USC</a></td><td>BSc. Biology</td><td>30</td><td>Seminars (Lecturer)</td><td>13</td><td>Spanish</td><td>Spain</td></tr>
+<tr><td>2019/20</td><td>Human Genetics</td><td><a href="https://www.usc.gal/">USC</a></td><td>BSc. Biology</td><td>80</td><td>Online seminar (Lecturer)</td><td>2</td><td>Spanish</td><td>Spain</td></tr>
+<tr><td>2018/19</td><td>Genetics II</td><td><a href="https://www.usc.gal/">USC</a></td><td>BSc. Biology</td><td>30</td><td>Lab Practice (TA)</td><td>16</td><td>Spanish</td><td>Spain</td></tr>
+<tr><td>2017/18</td><td>Genetics II</td><td><a href="https://www.uvigo.gal/">Universidade de Vigo</a></td><td>BSc. Biology</td><td>20</td><td>Bioinformatic Practice (TA)</td><td>3</td><td>English</td><td>Spain</td></tr>
+</tbody>
+</table>
+
+<p><small><b>Legend:</b> BSc: Bachelor of Science · MBBS: Medicine Bachelor and Bachelor of Surgery</small></p>
+
+---
+
+<h3>🎓 Teaching Training & Accreditations</h3>
+
+<ul>
+<li><b>2025:</b> Qualification Section 64 – <i>Maître de conférences</i>, Ministère de l’Enseignement Supérieur, France.</li>
+<li><b>2025:</b> MSc in University Teaching, Universidad Europea de Madrid (online), Spain — 1500h, 60 ECTS.</li>
+<li><b>2023:</b> <i>Profesor Ayudante Doctor (PAD)</i>, ANECA, Spain.</li>
+<li><b>2021:</b> Research Supervision, University College London, UK.</li>
+<li><b>2017:</b> Higher Education Lecturing Accreditation (HELA), Universidade de Vigo, Spain.</li>
+</ul>
+
+---
+
+<div align="center">
+  <img src="/images/Tira_FotosTeaching-noNames_AliciaLBruzos.png" alt="Teaching photos" style="width:90%; border-radius:15px; margin:15px 0;">
+</div>
+
+<h2><i class="fa fa-life-ring" aria-hidden="true"></i> Supervision and Mentoring</h2>
+
+<div class="notice">
+I have supervised and mentored five undergraduate and master’s students in France and Spain. Three of them pursued doctoral studies.  
+These experiences have strengthened my mentoring and leadership skills while contributing to academic programs.
+</div>
+
+<h3>🧑‍🎓 Supervised Theses</h3>
+
+<table>
+<thead>
+<tr><th>Academic Year (Defense)</th><th>Title</th><th>Student</th><th>Supervisors</th><th>Degree (Type)</th><th>University, Country</th><th>Grade</th></tr>
+</thead>
+<tbody>
+<tr><td>2023/24 (--/06/24)</td><td><i>Preliminary study of the dispersal of contagious cancer cells in the ocean</i></td><td>Geo Bujard</td><td>Dr Alicia L. Bruzos</td><td>MSc. Sciences de la Mer</td><td>Sorbonne Univ., France</td><td>Good (60.6/100)</td></tr>
+<tr><td>2023/24 (14/06/24)</td><td><i>Transmission horizontale du cancer chez les bivalves atlantiques</i></td><td>Angele Moulin</td><td>Dr Alicia L. Bruzos</td><td>MSc. Sciences de la Mer</td><td>Univ. Caen Normandie, France</td><td>Good (14/20)</td></tr>
+<tr><td>2020/21 (--/07/21)</td><td><i>Molecular diagnostic of different clonal lineages of transmissible cancer</i> *</td><td>Andrea E. Arias Díaz</td><td>A.L. Bruzos, J.M.C. Tubío</td><td>BSc. Biology</td><td>USC, Spain</td><td>Outstanding (9/10)</td></tr>
+<tr><td>2019/20 (--/07/20)</td><td><i>Identification of driver mutations in marine transmissible cancers through exome sequencing</i></td><td>Iago Otero Coto</td><td>A.L. Bruzos, J.M.C. Tubío</td><td>MSc. Bioinformatics</td><td>UDC, Spain</td><td>First Class (9.5/10)</td></tr>
+<tr><td>2019/20 (22/07/20)</td><td><i>Characterization of a genomic molecular marker of a marine transmissible cancer</i></td><td>Ana Copena Soutelo</td><td>A.L. Bruzos, J.M.C. Tubío</td><td>BSc. Biology</td><td>USC, Spain</td><td>Outstanding (9/10)</td></tr>
+</tbody>
+</table>
+
+<p><small><sup>*</sup> Awarded for linguistic quality by the USC Language Normalization Service (Science category).  
+<sup>**</sup> Student pursued a PhD afterwards.</small></p>
+
+---
+
+<h2><i class="fa fa-users" aria-hidden="true"></i> University Evaluation Committees</h2>
+
+<ul>
+<li>2025 – Substitute member, PhD defense of <b>Sofía Blanco González</b>, University of Vigo (Spain).</li>
+<li>2024 – External evaluator, PhD thesis of <b>Laura Tomás</b>, University of Vigo (Spain).</li>
+<li>2024 – External evaluator, PhD thesis of <b>Amanda Guitián Caamaño</b>, University of A Coruña (Spain).</li>
+</ul>
+
+---
+
+<h2><i class="fa fa-book" aria-hidden="true"></i> Teaching Materials</h2>
+
+<p>
+<b>Rey García, D.</b> … <u><b>Bruzos, A.L.</b></u> … <i>CUADERNO DE ILUSTRACIONES: Comunicar el Océano</i>. Servizo de Publicacións da Universidade de Vigo, 2021:27–28.  
+<a href="https://albruzos.github.io/files/outreach_2021-ScientistsMeetArtists.pdf" target="_blank"><i class="fa fa-download"></i> Download the book here</a>
+</p>
+
+<p>
+<b><u>Bruzos, A.L.</u></b>; Détrée, C. (2024) <i>Gamification in marine biology: a strategy to improve perspectives of basic research</i>. Poster at <b>48th FEBS Congress</b>, Milan (Italy).  
+<i>FEBS Open Bio</i> 2024;14(S2):2–91. DOI: <a href="https://doi.org/10.1002/2211-5463.13837" target="_blank">10.1002/2211-5463.13837</a>
+</p>
+
+---
+
+<div align="center">
+  <img src="/images/Tira_FotosTeaching-noNames_AliciaLBruzos.png" alt="Teaching summary photos" style="width:90%; border-radius:15px; margin:15px 0;">
+</div>
+
 
 <!---to comment---> 
-<!-- HAY QUE CAMBIARLO A HTML!!!
+<!-- La vieja opción en modo blog. HAY QUE CAMBIARLO A HTML!!!
 {% include base_path %}
 
 {% for post in site.teaching reversed %}
