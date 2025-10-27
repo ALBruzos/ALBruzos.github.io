@@ -103,10 +103,10 @@ and sex determination in marine mussels (Mytilus spp.)"*, doctoral thesis presen
   
 <i class="fa fa-book" aria-hidden="true"></i> Teaching Publications
 ======
+<p><b><u>Bruzos, A.L.</u></b>; Détrée, C. (2024) <i>Gamification in marine biology: a strategy to improve perspectives of basic research</i>. Poster at 48th FEBS Congress, Milan (Italy). <i>FEBS Open Bio</i> 2024;14(S2):2–91. DOI: <a href="https://doi.org/10.1002/2211-5463.13837" target="_blank">10.1002/2211-5463.13837</a></p>
+
 <p><b>Rey García, D.</b> … <u><b>Bruzos, A.L.</b></u> … <i>CUADERNO DE ILUSTRACIONES: Comunicar el Océano</i>. Servizo de Publicacións da Universidade de Vigo, 2021:27–28.  
 <a href="https://albruzos.github.io/files/outreach_2021-ScientistsMeetArtists.pdf" target="_blank"><i class="fa fa-download"></i> Download the book here</a></p>
-
-<p><b><u>Bruzos, A.L.</u></b>; Détrée, C. (2024) <i>Gamification in marine biology: a strategy to improve perspectives of basic research</i>. Poster at 48th FEBS Congress, Milan (Italy). <i>FEBS Open Bio</i> 2024;14(S2):2–91. DOI: <a href="https://doi.org/10.1002/2211-5463.13837" target="_blank">10.1002/2211-5463.13837</a></p>
 
 <!--
 * Rey García, D.; Estévez Calvar, N.; Román Losada, A.; Hernández Otero, A; Ballesteros Otero, T.; Alcaraz, P.; Gutiérrez, A; Fernández Míguez, M.; Pérez Diz, A; González, J.; Martínez Schönemann, A.; Des Villanueva, M.; Plaza-Morlote, M.; Rodríguez Hernández, F.; Gomes, M.; <u><b>Bruzos, A.L.</u></b>; Cerviño, C.; Rosendo, P.; Bueno, F.; Ortega, R.; Arcas, J.; Pisón, X.; Tova, L.; 13 Grados; Lamas, E.F.; Agra, E.; Cortês, R.; Venzel, S. <i>CUADERNO DE ILUSTRACIONES: Comunicar el Océnano</i> Servizo de Publicacións da Universidade de Vigo, 2021:27-28 <i><a href="https://albruzos.github.io/files/outreach_2021-ScientistsMeetArtists.pdf" target="_blank">Download the book here.</a></i> <br><br>
