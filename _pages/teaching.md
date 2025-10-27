@@ -4,24 +4,17 @@ title: "Teaching and Supervision Experience"
 permalink: /teaching/
 author_profile: true
 ---
+<!---to comment---> 
 
 {% include toc %}
 
-<div align="center">
-  <img src="/images/Tira_FotosTeaching_AliciaLBruzos.png" alt="Teaching collage Alicia L. Bruzos" style="width:90%; border-radius:15px; margin:15px 0;">
-</div>
+<img src="/images/Tira_FotosTeaching_AliciaLBruzos.png" alt="Teaching collage Alicia L. Bruzos">
 
-<h2><i class="fa fa-graduation-cap" aria-hidden="true"></i> Higher Education Teaching Experience</h2>
+<i class="fa fa-graduation-cap" aria-hidden="true"></i> High Education Teaching 
+======
 
 <div class="notice">
-I have gained teaching experience (<b>132 certified teaching hours</b>) at five public universities across four countries (Spain, UK, France, and Chile), delivering theoretical and laboratory sessions in different languages (English, Spanish/Galician, and French) to undergraduate and master’s students.  
-I hold national accreditations as an assistant professor in Spain (PAD ANECA) and France (Section 64), and an official master’s degree in university teaching.  
-These experiences have strengthened my ability to <b>adapt to diverse academic environments</b> and to <b>promote critical thinking among students</b>.
-</div>
-
-<h3>📘 Quick Summary</h3>
-
-<ul style="list-style-type:none; padding-left:0;">
+Quick Summary: <ul style="list-style-type:none; padding-left:0;">
   <li>🎓 <b>132.5 certified hours</b></li>
   <li>🏛️ <b>5 public universities</b></li>
   <li>🌍 <b>4 countries & 4 languages</b> (Spain, UK, France, Chile)</li>
@@ -29,47 +22,55 @@ These experiences have strengthened my ability to <b>adapt to diverse academic e
   <li>📅 <b>8 academic years</b> (2017–present)</li>
   <li>🧑‍🏫 <b>1520 hours of teacher training</b> (Master + courses)</li>
 </ul>
+I have gained teaching experience at five public universities across four countries, delivering theoretical and laboratory sessions in different languages to undergraduate and master’s students. I hold national accreditations as an assistant professor in Spain (PAD ANECA) and France (Section 64), and an official master’s degree in university teaching.  
+These experiences and training have strengthened my ability to <b>adapt to diverse academic environments</b> and to <b>promote critical thinking among students</b>.
+</div>
 
----
+📖 Teaching Experience Details
+========== 
 
-<h3>📖 Teaching Experience Details</h3>
+| Academic Year | University, Country | Course | Degree | Hours | Language | Students no. | Type (My role) |
+| -------------- | ------------------ | ------- | ------- | ------ | -------- | ------------- | --------------- |
+| 2024 | [Universidad de O'Higgins](https://www.uoh.cl/), Chile | Sistemas acuáticos ([see post](https://www.instagram.com/p/DCkKiLhSSq-/?img_index=1)) | Licenciatura en Ciencias Ambientales (título profesional Ingeniero Ambiental) | 4.5 | Spanish | 10 | seminar + practice (lecturer) |
+| 2024 | [Universidad de O'Higgins](https://www.uoh.cl/), Chile | Cambio climático y presiones antrópicas | Magíster en Ciencias Ambientales y de la Tierra | 3 | Spanish | 8 | seminar (lecturer) |
+| 2023/2024 | [Université Caen Normandie](https://www.unicaen.fr/), France | Physiologie du gène à l’organisme (UE SBME19B) | Master Sciences de la Mer | 2 | French | ~15 | seminar (lecturer) |
+| 2023/2024 | [Universitat Autònoma de Barcelona](https://www.uab.cat/web/estudiar/official-master-s-degrees/general-information/bioinformatics-1096480962610.html?param1=1327908905033), Spain | Core bioinformatics (module 2) | MSc. in Bioinformatics (Facultad de biociencias) | 1 | English | ~20 | seminar (lecturer) |
+| 2022/2023 | [University College of London](https://www.ucl.ac.uk/), UK | Medical Student-Selected Component | Medicine MBBS BSc | 12 | English | 20 | seminar + practice (lecturer) |
+| 2022/2023 | [University College of London](https://www.ucl.ac.uk/), UK | Meet a researcher module | BSc. in Biological Sciences (Faculty of Life Sciences, FLS) | 16 | English | 18 | seminars (lecturer) |
+| 2021/2022 | [University College of London](https://www.ucl.ac.uk/), UK | Medical Student-Selected Component | Medicine MBBS BSc | 12 | English | 20 | seminar + practice (lecturer) |
+| 2020/2021 | [Universidade de Santiago de Compostela](https://www.usc.gal), Spain | Genetics I | BSc. in Biology | 40 | Spanish | ~30 | seminars (lecturer) |
+| 2020/2021 | [Universidade de Santiago de Compostela](https://www.usc.gal), Spain | Genetics II | BSc. in Biotechnology | 8 | Spanish | ~30 | seminars (teaching assistant) |
+| 2019/2020 | [Universidade de Santiago de Compostela](https://www.usc.gal), Spain | Genetics I | BSc. in Biology | 13 | Spanish | ~30 | seminars (lecturer) |
+| 2019/2020 | [Universidade de Santiago de Compostela](https://www.usc.gal), Spain | Human Genetics | BSc. in Biology | 2 | Spanish | ~80 | online seminar (lecturer) |
+| 2018/2019 | [Universidade de Santiago de Compostela](https://www.usc.gal), Spain | Genetics II | BSc. in Biology | 16 | Spanish | ~30 | lab practice (teaching assistant) |
+| 2017/2018 | [Universidade de Vigo](https://www.uvigo.gal), Spain | Genetics II | BSc. in Biology | 3 | English | ~20 | bioinformatic practice (teaching assistant) |
 
-<table>
-<thead>
-<tr>
-<th>Academic Year</th><th>Course</th><th>University</th><th>Degree</th><th>Students</th><th>Type (Role)</th><th>Hours</th><th>Language</th><th>Country</th>
-</tr>
-</thead>
-<tbody>
-<tr><td>2024</td><td>Sistemas acuáticos (<a href="https://www.instagram.com/p/DCkKiLhSSq-/?img_index=1" target="_blank">see post</a>)</td><td><a href="https://www.uoh.cl/">Universidad de O’Higgins</a></td><td>Environmental Sciences</td><td>10</td><td>Seminar + Practice (Lecturer)</td><td>4.5</td><td>Spanish</td><td>Chile</td></tr>
-<tr><td>2024</td><td>Cambio climático y presiones antrópicas</td><td><a href="https://www.uoh.cl/">Universidad de O’Higgins</a></td><td>MSc. Environmental Sciences</td><td>8</td><td>Seminar (Lecturer)</td><td>3</td><td>Spanish</td><td>Chile</td></tr>
-<tr><td>2023/24</td><td>Physiologie du gène à l’organisme (UE SBME19B)</td><td><a href="https://www.unicaen.fr/">Université Caen Normandie</a></td><td>Master Sciences de la Mer</td><td>15</td><td>Seminar (Lecturer)</td><td>2</td><td>French</td><td>France</td></tr>
-<tr><td>2023/24</td><td>Core bioinformatics (module 2)</td><td><a href="https://www.uab.cat/">Universitat Autònoma de Barcelona</a></td><td>MSc. in Bioinformatics</td><td>20</td><td>Seminar (Lecturer)</td><td>1</td><td>English</td><td>Spain</td></tr>
-<tr><td>2022/23</td><td>Medical SSC</td><td><a href="https://www.ucl.ac.uk/">University College London</a></td><td>MBBS Medicine</td><td>20</td><td>Seminar + Practice (Lecturer)</td><td>12</td><td>English</td><td>UK</td></tr>
-<tr><td>2022/23</td><td>Meet a Researcher Module</td><td><a href="https://www.ucl.ac.uk/">UCL</a></td><td>BSc. Biological Sciences</td><td>18</td><td>Seminars (Lecturer)</td><td>16</td><td>English</td><td>UK</td></tr>
-<tr><td>2021/22</td><td>Medical SSC</td><td><a href="https://www.ucl.ac.uk/">UCL</a></td><td>MBBS Medicine</td><td>20</td><td>Seminar + Practice (Lecturer)</td><td>12</td><td>English</td><td>UK</td></tr>
-<tr><td>2020/21</td><td>Genetics I</td><td><a href="https://www.usc.gal/">USC</a></td><td>BSc. Biology</td><td>30</td><td>Seminars (Lecturer)</td><td>40</td><td>Spanish</td><td>Spain</td></tr>
-<tr><td>2020/21</td><td>Genetics II</td><td><a href="https://www.usc.gal/">USC</a></td><td>BSc. Biotechnology</td><td>30</td><td>Seminars (TA)</td><td>8</td><td>Spanish</td><td>Spain</td></tr>
-<tr><td>2019/20</td><td>Genetics I</td><td><a href="https://www.usc.gal/">USC</a></td><td>BSc. Biology</td><td>30</td><td>Seminars (Lecturer)</td><td>13</td><td>Spanish</td><td>Spain</td></tr>
-<tr><td>2019/20</td><td>Human Genetics</td><td><a href="https://www.usc.gal/">USC</a></td><td>BSc. Biology</td><td>80</td><td>Online seminar (Lecturer)</td><td>2</td><td>Spanish</td><td>Spain</td></tr>
-<tr><td>2018/19</td><td>Genetics II</td><td><a href="https://www.usc.gal/">USC</a></td><td>BSc. Biology</td><td>30</td><td>Lab Practice (TA)</td><td>16</td><td>Spanish</td><td>Spain</td></tr>
-<tr><td>2017/18</td><td>Genetics II</td><td><a href="https://www.uvigo.gal/">Universidade de Vigo</a></td><td>BSc. Biology</td><td>20</td><td>Bioinformatic Practice (TA)</td><td>3</td><td>English</td><td>Spain</td></tr>
-</tbody>
-</table>
+<p><small><b>Legend:</b> BSc: Bachelor of Science · MSc: Master of Science · MBBS: Medicine Bachelor and Bachelor of Surgery</small></p>
 
-<p><small><b>Legend:</b> BSc: Bachelor of Science · MBBS: Medicine Bachelor and Bachelor of Surgery</small></p>
-
----
-
-<h3>🎓 Teaching Training & Accreditations</h3>
+🎓 Teaching Training & Accreditations
+========== 
 
 <ul>
-<li><b>2025:</b> Qualification Section 64 – <i>Maître de conférences</i>, Ministère de l’Enseignement Supérieur, France.</li>
-<li><b>2025:</b> MSc in University Teaching, Universidad Europea de Madrid (online), Spain — 1500h, 60 ECTS.</li>
-<li><b>2023:</b> <i>Profesor Ayudante Doctor (PAD)</i>, ANECA, Spain.</li>
-<li><b>2021:</b> Research Supervision, University College London, UK.</li>
-<li><b>2017:</b> Higher Education Lecturing Accreditation (HELA), Universidade de Vigo, Spain.</li>
+<li><b>2025:</b> Qualification Section 64 – <i>Maître de conférences</i>, Ministère de l’Enseignement Supérieur, FRANCE.</li>
+<li><b>2025:</b> MSc in University Teaching, Universidad Europea de Madrid (online), SPAIN — 1,500 hours, 60 ECTS. [More information](https://albruzos.github.io/education/) </li>
+<li><b>2023:</b> <i>Profesor Ayudante Doctor (PAD)</i>, Agencia Nacional de Evaluación de la Calidad de la Acreditación (ANECA), SPAIN.</li>
+<li><b>2021:</b> Research Supervision, University College London, UK — 4 hours</li>
+<li><b>2017:</b> Higher Education Lecturing Accreditation (HELA), Universidade de Vigo, SPAIN — 16 hours + test </li>
 </ul>
+
+<!--- 
+* 2025: **Qualification Section 64 - Maître de conférences**. Ministère chargé de l'enseignement Supérier et de la Recherche (Odyssée), FRANCE. *Goal:* similar to a non-tenured assistant professor in the French high education system, must hold a PhD, accreditation required; I've applied in section 64 which is Biochemistry and molecular biology.
+  
+* 2025: **MSc in University Teaching**. Universidad Europea de Madrid (online), SPAIN. *Goal:* knowing all the didactic-pedagogical, research, innovation, and use of technology areas that a university teacher must master. *Hours:* 1500. Official title, 60 ECTS. Expected for February 2025.
+
+* 2023: **Profesor Ayudante Doctor (PAD)**. Agencia Nacional de Evaluación de la Calidad de la Acreditación (ANECA), SPAIN. *Goal:* similar to a non-tenured assistant professor, must hold a PhD, accreditation required.
+
+* 2021: **Research Supervision**. University College London, UK. *Goal:* The course provides information and guidance on UCL regulations and frameworks for research supervision; establishing and maintaining effective working relationships with your supervisees; doctoral skills development requirements and the Research Student Log signposting to further support provided centrally by UCL and locally in faculties and departments. *Hours:* 4.
+
+* 2017: **Higher Education Lecturing Accreditation (HELA)**. Universidade de Vigo, SPAIN. *Hours:* 16 hours + test (19/04/2017-20/04/2017). *Goal:* qualification to teach in English.
+---> 
+
+
 
 ---
 
@@ -133,7 +134,18 @@ These experiences have strengthened my mentoring and leadership skills while con
 </div>
 
 
-<!---to comment---> 
+
+
+
+
+
+
+
+
+
+
+
+
 <!-- La vieja opción en modo blog. HAY QUE CAMBIARLO A HTML!!!
 {% include base_path %}
 
