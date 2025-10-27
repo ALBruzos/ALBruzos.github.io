@@ -78,7 +78,7 @@ These experiences and training have strengthened my ability to <b>adapt to diver
 I have supervised and mentored five undergraduate and master’s students in France and Spain. Three of them continued into doctoral studies, and one received an award for the thesis completed under my supervision. These experiences have enhanced my mentoring abilities while contributing to their training and research career.
 </div>
 
-**🧑‍🎓 Supervised Theses**
+**🧑‍🎓 Supervised MSc/BSc Theses**
 
 | Academic Year (defense date)  | Title | Student | Supervisors | Degree (Type) | University, Country (Language) | Grade |
 | ------------- | ------------- | ------------- |------------- |------------- | ------------- | ------------- |
