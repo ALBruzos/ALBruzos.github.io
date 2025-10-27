@@ -4,12 +4,6 @@ title: "Teaching and Supervision Experience"
 permalink: /teaching/
 author_profile: true
 ---
----
-layout: archive
-title: "Teaching and Supervision Experience"
-permalink: /teaching/
-author_profile: true
----
 
 {% include toc %}
 
