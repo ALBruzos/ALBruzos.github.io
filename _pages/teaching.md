@@ -26,8 +26,7 @@ I have gained teaching experience at five public universities across four countr
 These experiences and training have strengthened my ability to <b>adapt to diverse academic environments</b> and to <b>promote critical thinking among students</b>.
 </div>
 
-📖 Teaching Experience Details
-========== 
+### 📖 Teaching Experience Details
 
 | Academic Year | University, Country | Course | Degree | Hours | Language | Students no. | Type (My role) |
 | -------------- | ------------------ | ------- | ------- | ------ | -------- | ------------- | --------------- |
@@ -47,8 +46,7 @@ These experiences and training have strengthened my ability to <b>adapt to diver
 
 <p><small><b>Legend:</b> BSc: Bachelor of Science · MSc: Master of Science · MBBS: Medicine Bachelor and Bachelor of Surgery</small></p>
 
-🎓 Teaching Training & Accreditations
-========== 
+### 🎓 Teaching Training & Accreditations
 
 <ul>
 <li><b>2025:</b> Qualification Section 64 – <i>Maître de conférences</i>, Ministère de l’Enseignement Supérieur, FRANCE.</li>
@@ -83,8 +81,7 @@ These experiences and training have strengthened my ability to <b>adapt to diver
 I have supervised and mentored five undergraduate and master’s students in France and Spain. Three of them continued into doctoral studies, and one received an award for the thesis completed under my supervision. These experiences have enhanced my mentoring and leadership abilities while contributing to the training objectives of the academic programs involved.
 </div>
 
-🧑‍🎓 Supervised Theses
-========== 
+### 🧑‍🎓 Supervised Theses
 
 | Academic Year (defense date)  | Title | Student | Supervisors | Degree (Type) | University, Country (Language) | Grade |
 | ------------- | ------------- | ------------- |------------- |------------- | ------------- | ------------- |
@@ -96,19 +93,17 @@ I have supervised and mentored five undergraduate and master’s students in Fra
 
 <p><small><b>Legend:</b><sup>#</sup>Ongoing · <sup>*</sup> Awarded for linguistic quality by the USC Language Normalization Service (Science category) · <sup>**</sup> Student pursued a PhD afterwards.</small></p>
 
----
 
-<h2><i class="fa fa-users" aria-hidden="true"></i> University Evaluation Committees</h2>
+<i class="fa fa-users" aria-hidden="true"></i> University Evaluation Committees
+======
 
-<ul>
-<li>2025 – Substitute member, PhD defense of <b>Sofía Blanco González</b>, University of Vigo (Spain).</li>
-<li>2024 – External evaluator, PhD thesis of <b>Laura Tomás</b>, University of Vigo (Spain).</li>
-<li>2024 – External evaluator, PhD thesis of <b>Amanda Guitián Caamaño</b>, University of A Coruña (Spain).</li>
-</ul>
-
----
-
-<h2><i class="fa fa-book" aria-hidden="true"></i> Teaching Materials</h2>
+- Substitute member of the PhD tribunal of *"Molecular insights into the mechanisms underlying doubly uniparental inheritance (DUI) of mitochondrial DNA
+and sex determination in marine mussels (Mytilus spp.)"*, doctoral thesis presented by **Sofía Blanco González** at **University of Vigo**, SPAIN. Defense on September 25th, 2025.
+- External evaluator of *"Evolution and Genomic Heterogeneity in Solid Tumors"*, doctoral thesis presented by **Laura Tomás** at **University of Vigo**, SPAIN. Report issued on August 23rd, 2024.
+- External evaluator of *"New signaling pathways implicated in resistance to targeted therapy in tumors with alterations of the MAPK pathway"*, doctoral thesis presented by **Amanda Guitián Caamaño** at **University of A Coruña**, SPAIN. Report issued on February 16th, 2024.
+  
+<i class="fa fa-book" aria-hidden="true"></i> Teaching Materials
+======
 
 <p>
 <b>Rey García, D.</b> … <u><b>Bruzos, A.L.</b></u> … <i>CUADERNO DE ILUSTRACIONES: Comunicar el Océano</i>. Servizo de Publicacións da Universidade de Vigo, 2021:27–28.  
@@ -227,10 +222,7 @@ To date, I have supervised and mentored five undergraduate and master’s studen
 
 <i class="fa fa-users" aria-hidden="true"></i> University evaluation committees  
 ======
-- Substitute member of the PhD tribunal of *"Molecular insights into the mechanisms underlying doubly uniparental inheritance (DUI) of mitochondrial DNA
-and sex determination in marine mussels (Mytilus spp.)"*, doctoral thesis presented by **Sofía Blanco González** at **University of Vigo** (Spain). Thesis defense on September 25th, 2025.
-- External evaluator of *"Evolution and Genomic Heterogeneity in Solid Tumors"*, doctoral thesis presented by **Laura Tomás** at **University of Vigo** (Spain). Report issued on August 23rd, 2024.
-- External evaluator of *"New signaling pathways implicated in resistance to targeted therapy in tumors with alterations of the MAPK pathway"*, doctoral thesis presented by **Amanda Guitián Caamaño** at **University of A Coruña** (Spain). Report issued on February 16th, 2024.
+
 
 
 <i class="fa fa-users" aria-hidden="true"></i> Teaching materials  
