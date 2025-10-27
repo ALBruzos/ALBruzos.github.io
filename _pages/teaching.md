@@ -52,7 +52,7 @@ These experiences and training have strengthened my ability to <b>adapt to diver
 
 <ul>
 <li><b>2025:</b> Qualification Section 64 – <i>Maître de conférences</i>, Ministère de l’Enseignement Supérieur, FRANCE.</li>
-<li><b>2025:</b> MSc in University Teaching, Universidad Europea de Madrid (online), SPAIN — 1,500 hours, 60 ECTS. [More information](https://albruzos.github.io/education/) </li>
+<li><b>2025:</b> MSc in University Teaching, Universidad Europea de Madrid (online), SPAIN — 1,500 hours, 60 ECTS. <a href="https://albruzos.github.io/education/">More info about my degrees</a></li>
 <li><b>2023:</b> <i>Profesor Ayudante Doctor (PAD)</i>, Agencia Nacional de Evaluación de la Calidad de la Acreditación (ANECA), SPAIN.</li>
 <li><b>2021:</b> Research Supervision, University College London, UK — 4 hours</li>
 <li><b>2017:</b> Higher Education Lecturing Accreditation (HELA), Universidade de Vigo, SPAIN — 16 hours + test </li>
@@ -71,34 +71,34 @@ These experiences and training have strengthened my ability to <b>adapt to diver
 ---> 
 
 
-
----
-
 <div align="center">
   <img src="/images/Tira_FotosTeaching-noNames_AliciaLBruzos.png" alt="Teaching photos" style="width:90%; border-radius:15px; margin:15px 0;">
 </div>
 
-<h2><i class="fa fa-life-ring" aria-hidden="true"></i> Supervision and Mentoring</h2>
+
+<i class="fa fa-life-ring" aria-hidden="true"></i> Supervision and Mentoring
+======
 
 <div class="notice">
-I have supervised and mentored five undergraduate and master’s students in France and Spain. Three of them pursued doctoral studies.  
-These experiences have strengthened my mentoring and leadership skills while contributing to academic programs.
+I have supervised and mentored five undergraduate and master’s students in France and Spain. Three of them continued into doctoral studies, and one received an award for the thesis completed under my supervision. These experiences have enhanced my mentoring and leadership abilities while contributing to the training objectives of the academic programs involved.
 </div>
 
-<h3>🧑‍🎓 Supervised Theses</h3>
+🧑‍🎓 Supervised Theses
+========== 
 
-<table>
-<thead>
-<tr><th>Academic Year (Defense)</th><th>Title</th><th>Student</th><th>Supervisors</th><th>Degree (Type)</th><th>University, Country</th><th>Grade</th></tr>
-</thead>
-<tbody>
-<tr><td>2023/24 (--/06/24)</td><td><i>Preliminary study of the dispersal of contagious cancer cells in the ocean</i></td><td>Geo Bujard</td><td>Dr Alicia L. Bruzos</td><td>MSc. Sciences de la Mer</td><td>Sorbonne Univ., France</td><td>Good (60.6/100)</td></tr>
-<tr><td>2023/24 (14/06/24)</td><td><i>Transmission horizontale du cancer chez les bivalves atlantiques</i></td><td>Angele Moulin</td><td>Dr Alicia L. Bruzos</td><td>MSc. Sciences de la Mer</td><td>Univ. Caen Normandie, France</td><td>Good (14/20)</td></tr>
-<tr><td>2020/21 (--/07/21)</td><td><i>Molecular diagnostic of different clonal lineages of transmissible cancer</i> *</td><td>Andrea E. Arias Díaz</td><td>A.L. Bruzos, J.M.C. Tubío</td><td>BSc. Biology</td><td>USC, Spain</td><td>Outstanding (9/10)</td></tr>
-<tr><td>2019/20 (--/07/20)</td><td><i>Identification of driver mutations in marine transmissible cancers through exome sequencing</i></td><td>Iago Otero Coto</td><td>A.L. Bruzos, J.M.C. Tubío</td><td>MSc. Bioinformatics</td><td>UDC, Spain</td><td>First Class (9.5/10)</td></tr>
-<tr><td>2019/20 (22/07/20)</td><td><i>Characterization of a genomic molecular marker of a marine transmissible cancer</i></td><td>Ana Copena Soutelo</td><td>A.L. Bruzos, J.M.C. Tubío</td><td>BSc. Biology</td><td>USC, Spain</td><td>Outstanding (9/10)</td></tr>
-</tbody>
-</table>
+| Academic Year (defense date)  | Title | Student | Supervisors | Degree (Type) | University, Country (Language) | Grade |
+| ------------- | ------------- | ------------- |------------- |------------- | ------------- | ------------- |
+| 2023/2024  (--/06/2024) | *“Preliminary study of the dispersal of contagious cancer cells in the ocean”* | Geo Bujard | Dr Alicia L. Bruzos | MSc. Sciences de la Mer (Master Thesis) | Sorbonne Université, France (French) | Good (60.63/100) |
+| 2023/2024  (14/06/2024) | *“Transmission horizontale du cancer chez les espèces bivalves de la côte atlantique française”* | Angele Moulin | Dr Alicia L. Bruzos | MSc. Sciences de la Mer (Master Thesis) | Université de Caen Normandie, France (French) | Good (14/20) |
+| 2020/2021  (--/07/2021) | *“Molecular diagnostic of different clonal lineages of transmissible cancer”*<sup>*</sup> | Andrea E. Arias Díaz | Alicia L Bruzos, Dr Jose MC Tubío | BSc. in Biology (Degree Thesis) | Universidade de Santiago de Compostela, Spain (Galician) | Outstanding (9/10) | 
+| 2019/2020  (--/07/2020) | *“Identification of driver mutations in marine transmissible cancers through exome sequencing analysis”* | Iago Otero Coto | Alicia L Bruzos, Dr Jose MC Tubío | MSc. in Bioinformatics (Master Thesis) | Universidade da Coruña, Spain (English) | First Class (9.5/10) |
+| 2019/2020  (22/07/2020) | *“Characterization of a genomic molecular marker of a marine transmissible cancer”* | Ana Copena Soutelo | Alicia L Bruzos, Dr Jose MC Tubío | BSc. in Biology (Degree Thesis) | Universidade de Santiago de Compostela, Spain (Spanish) | Outstanding (9/10) | 
+
+**Legend**:  
+<sup>#</sup>Ongoing  
+<sup>*</sup>Awarded for linguistic quality by the USC Language Normalization Service in the category of sciences.  
+<sup>**</sup>Decided to pursue a PhD thesis after.
+{: .notice}
 
 <p><small><sup>*</sup> Awarded for linguistic quality by the USC Language Normalization Service (Science category).  
 <sup>**</sup> Student pursued a PhD afterwards.</small></p>
