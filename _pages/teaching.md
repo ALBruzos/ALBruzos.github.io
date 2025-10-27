@@ -69,10 +69,7 @@ These experiences and training have strengthened my ability to <b>adapt to diver
 ---> 
 
 
-<div align="center">
-  <img src="/images/Tira_FotosTeaching-noNames_AliciaLBruzos.png" alt="Teaching photos" style="width:90%; border-radius:15px; margin:15px 0;">
-</div>
-
+---
 
 <i class="fa fa-life-ring" aria-hidden="true"></i> Supervision and Mentoring
 ======
