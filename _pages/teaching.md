@@ -26,7 +26,7 @@ I have gained teaching experience (**132 certified teaching hours**) at five pub
 * 132,5 certified hours
 * 5 public universities
 * 4 different countries (Spain, UK, France, Chile) and languages (English, Spanish, French, Galician)
-* 7 different courses ranging from genetics to ...
+* 7 different courses ranging from genetics to cancer biology, bioinformatics and more recently marine biology.
 * 8 academic years of experience (from 2017 to date)
 * 1520 hours of teacher training (with an specialized master and courses)
 
