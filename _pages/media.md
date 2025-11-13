@@ -86,6 +86,7 @@ Media outlets have featured my research publications and various scientific acti
 
 | News date | Newspaper or media | Headline and link | 
 |  ---------------- | ---------------- | ---------------- |
+| 12/11/2025 | CrickConnect | [Alumni spotlight: Alicia Bruzos, Crick Bioinformatician to leading a Research Group in Germany](https://ALBruzos.github.io/files/media/Alumni spotlight_CrickConnect_Crick Bioinformatician to leading a Research Group in Germany.pdf) |
 | 25/10/2025 | Instagram TheSaltyCell | Her lab, her story: [Episode 1: Her Lab, Her Story](https://www.instagram.com/p/DQPA9g8DLtE/) - [Episode 2: What sparked their curiosity?](https://www.instagram.com/p/DQZGLIBjKNd/) - [Episode 3: What does it mean to navigate the currents of research as a woman in science?](https://www.instagram.com/p/DQn95-BjLUQ/) |
 | 04/07/2025 | innovadorasTIC.org | [Alicia L. Bruzos investiga cómo los cánceres contagiosos en moluscos pueden ayudar a entender la metástasis en humanos](https://innovadorastic.org/blog/posts/alicia-l-bruzos-investiga-como-los-canceres-contagiosos-en-moluscos-pueden-ayudar-a-entender-la-metastasis-en-humanos) or [PDF](https://cibsimplewebs.blob.core.windows.net/innovadorastic/InnovadorasTIC_Libro_2025.pdf) |
 | 16/04/2025 | Unicaen | [Alicia Bruzos étudie les coquillages pour mieux comprendre les cancers chez l’Homme](https://www.unicaen.fr/alicia-bruzos-etudie-les-coquillages-pour-mieux-comprendre-les-cancers-chez-lhomme/) |
