@@ -7,13 +7,9 @@ redirect_from:
   - /resume
 ---
 
-<p style="text-align:center; color:#155D41;">
-  <i class="fa fa-download" aria-hidden="true"></i>
-  <a href="https://albruzos.github.io/files/CVs/CV_AliciaLBruzos.pdf" style="color:#155D41; text-decoration:none;"> Download my full CV (PDF)</a></p>
-
-<p style="text-align:center; color:#155D41;">
-  <i class="fa fa-download" aria-hidden="true"></i>
-  <a href="https://albruzos.github.io/files/CVs/CareerTimeline_AliciaLBruzos.pdf" style="color:#155D41; text-decoration:none;"> Download Career Timeline (PDF)</a></p>
+<p style="text-align:center; color:#155D41;"> <i class="fa fa-download" aria-hidden="true"></i>
+  <a href="https://albruzos.github.io/files/CVs/CV_AliciaLBruzos.pdf" style="color:#155D41; text-decoration:none;"> Download my full CV (PDF)</a>     <a href="https://albruzos.github.io/files/CVs/CareerTimeline_AliciaLBruzos.pdf" style="color:#155D41; text-decoration:none;"> Download Career Timeline (PDF)</a>
+</p>
 
 <!---to comment---> 
 {% include toc %}
