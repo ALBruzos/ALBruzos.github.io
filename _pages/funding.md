@@ -27,15 +27,15 @@ I have consistently secured **competitive fellowships** and **project funding** 
 
 ## <i class="fa fa-user" aria-hidden="true"></i> As a principal investigator  
 
-* **ONTÓGENIE: Cell-of-origin of cockle transmissible cancers** (2024). Unité Mixte de Recherche BOREA (UMR 8067, financement intra-unité) . _Budget:_ 2.500,00 €. _PI:_ myself. _My role:_ Lead applicant. _Status: CONCLUDED_
-*	**Exploration Fund Grant** (2024). Funded by The Explorers Club to conduct field missions to collect bivalves. _Budget:_ 5.000,00 USD. _PI:_ myself. _My role:_ Single applicant. _Status: CONCLUDED_
+* **ONTÓGENIE: Cell-of-origin of cockle transmissible cancers** (2024). _Funder:_ Unité Mixte de Recherche BOREA ([UMR 8067, financement intra-unité](https://borea.mnhn.fr/fr/actualité-borea/aap-‘sud’-‘transversaux’-borea-10-projets-sélectionnés-financés-pour-2024)). _Budget:_ 2.500,00 €. _PI:_ myself. _My role:_ Lead applicant. _Status: CONCLUDED_
+*	**Exploration Fund Grant** (2024). _Funder:_ The Explorers Club. _Budget:_ 5.000,00 USD. _PI:_ myself. _My role:_ Single applicant. _Status: CONCLUDED_
 *	**AquaExcel3.0 Transnational Access grant** (2024). _Funder:_ [AquaExcel3.0 Horizon Europe](https://aquaexcel.eu/), EU. _Institution:_ Centro Ciencias do Mar, PORTUGAL. _Budget:_ 3.942,48€ to cover stay and lab material. _PI:_ myself. _My role:_ Lead applicant (with support of AM Amaral). _Status: CONCLUDED_
-* **Boheringer Ingelheim Fonds grant** (2021). _Funder:_ [Boheringer Ingelheim Fonds](https://www.bifonds.de/fellowships-grants/travel-grants/), Germany. _Institution:_ Korea Advanced Institute of Science and Technology (KAIST), Daejeon, SOUTH KOREA. _Budget:_ 2.370,00 €. _PI:_ myself. _My role:_ Lead applicant (with support of YS Ju). _Status: CONCLUDED_
+* **Boehringer Ingelheim Fonds grant** (2021). _Funder:_ [Boheringer Ingelheim Fonds](https://www.bifonds.de/fellowships-grants/travel-grants/), Germany. _Institution:_ Korea Advanced Institute of Science and Technology (KAIST), Daejeon, SOUTH KOREA. _Budget:_ 2.370,00 €. _PI:_ myself. _My role:_ Lead applicant (with support of YS Ju). _Status: CONCLUDED_
 * **Assemble Plus Transnational Access grant** (2019). _Funder:_ [Association of European Marine Biological Laboratories Expanded](http://www.assembleplus.eu/) (grant agreement no. 730984). _Institution:_ University of Galway, IRELAND. _Budget:_ 5.992,84 €. _My role:_ Co-applicant with support of S Díaz. _Status: CONCLUDED_
 
 ## <i class="fa fa-users" aria-hidden="true"></i> As a team member 
 
-*	**Proyecto de Vinculación de Instituciones Internacionales** (2023-2024). Gobierno de Chile (ref. FOVI230047). _Budget:_ 30.000.000,00 CLP (~30.000,00 €). _Institution:_ Universidad de O’Higgins, CHILE. _PI:_ M Derrien. _My role:_ Collaborator. _Status: CONCLUDED_
+*	**Proyecto de Vinculación de Instituciones Internacionales** (2023-2024). _Funder:_ Gobierno de Chile (ref. FOVI230047). _Budget:_ 30.000.000,00 CLP (~30.000,00 €). _Institution:_ Universidad de O’Higgins, CHILE. _PI:_ M Derrien. _My role:_ Collaborator. _Status: CONCLUDED_
 * **Consolidación GRC GI-1736 Medicina Xenómica GMX 2021-PG048** (2021-2024). _Funder:_ Consellería de Cultura, Educación e Universidade, Xunta de Galicia, SPAIN (ref. ED431C 2021/28). _Budget:_ 400.000,00 €. _PI:_ AM Carracedo, Universidade de Santiago de Compostela, Spain. _My role:_ Research assistant (led by JMC Tubio). _Status: CONCLUDED_
 * **ERC Starting grant ID 716290** - SCUBA CANCERS: Finding the genetic causes of contagious metastases under the sea (2017-2021). _Funder:_ European Research Council. _Budget:_ 1.492.500,00 €. _PI:_ JMC Tubío, Universidade de Vigo and Santiago de Compostela, SPAIN. _My role:_ Researcher. _Status: CONCLUDED_
 <body><center><a href="https://cordis.europa.eu/project/id/716290/results" target="_blank"> 
