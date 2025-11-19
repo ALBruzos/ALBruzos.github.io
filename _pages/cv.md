@@ -57,7 +57,7 @@ Building on a foundation in **biology and bioinformatics**, my education culmina
 
 **PhD. in Molecular Medicine**, Universidade de Santiago de Compostela (CiMUS institute), Spain.  
 :   *2016 – 2022*
-:   Title of Doctoral Thesis: _"Evolution of bivalve transmissible cancers"_ ([official open access here](https://minerva.usc.gal/entities/publication/e4f6fe63-a6c9-47cb-910b-3d80684d50ac) 
+:   Title of Doctoral Thesis: _"Evolution of bivalve transmissible cancers"_ ([official open access here](https://minerva.usc.gal/entities/publication/e4f6fe63-a6c9-47cb-910b-3d80684d50ac)) 
 :   Thesis director: Dr. Seila Díaz
 
 **MSc. in Higher Education Teaching**, Universidad Europea de Madrid, Spain.  
