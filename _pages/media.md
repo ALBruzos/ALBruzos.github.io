@@ -86,6 +86,7 @@ Media outlets have featured my research publications and various scientific acti
 
 | News date | Newspaper or media | Headline and link | 
 |  ---------------- | ---------------- | ---------------- |
+| 19/11/2025 | El Español | [Alicia L. Bruzos, la gallega que investiga el cáncer en moluscos: "Muchos hallazgos en medicina vienen del estudio animal"](https://www.elespanol.com/enclave-ods/referentes/20251119/alicia-bruzos-gallega-investiga-cancer-moluscos-hallazgos-medicina-vienen-estudio-animal/1003744018406_0.html) |
 | 12/11/2025 | CrickConnect | [Alumni spotlight: Alicia Bruzos, Crick Bioinformatician to leading a Research Group in Germany](https://ALBruzos.github.io/files/media/AlumniSpotlight_CrickConnect_CrickBioinformatician-to-leading-a-ResearchGroup-in-Germany.pdf) |
 | 25/10/2025 | Instagram TheSaltyCell | Her lab, her story: [Episode 1: Her Lab, Her Story](https://www.instagram.com/p/DQPA9g8DLtE/) - [Episode 2: What sparked their curiosity?](https://www.instagram.com/p/DQZGLIBjKNd/) - [Episode 3: What does it mean to navigate the currents of research as a woman in science?](https://www.instagram.com/p/DQn95-BjLUQ/) |
 | 04/07/2025 | innovadorasTIC.org | [Alicia L. Bruzos investiga cómo los cánceres contagiosos en moluscos pueden ayudar a entender la metástasis en humanos](https://innovadorastic.org/blog/posts/alicia-l-bruzos-investiga-como-los-canceres-contagiosos-en-moluscos-pueden-ayudar-a-entender-la-metastasis-en-humanos) or [PDF](https://cibsimplewebs.blob.core.windows.net/innovadorastic/InnovadorasTIC_Libro_2025.pdf) |
@@ -234,6 +235,7 @@ Media outlets have featured my research publications and various scientific acti
 | 17/04/2022 | **BBC5 live** | **[Naked Scientist](https://www.youtube.com/watch?v=EYt-oRvnBE0&t=1419s)** |
 | 12/04/2022 | **BBC Cambridgeshire** | **[Naked Scientist](https://www.youtube.com/watch?v=EYt-oRvnBE0&t=1419s)** |
 | 01/03/2022 | **eLife podcast** | **[Episode 79](https://www.youtube.com/watch?v=EpGii4c1Dtg)** |
+| 27/01/2022 | El Español | [Un cáncer contagioso debajo del mar: así se propaga entre diferentes especies de almejas](https://www.elespanol.com/ciencia/medio-ambiente/20220127/cancer-contagioso-debajo-propaga-diferentes-especies-almejas/645185619_0.html?utm_cmp_rs=relatednewsinline) |
 | 24/01/2022 | Diario Veterinario | [Nuevos avances en la lucha contra el cáncer gracias a modelos animales marinos](https://www.diarioveterinario.com/t/3415163/nuevos-avances-lucha-cancer-modelos-animales-marinos) |
 | 23/01/2022 | Agencia SINC | [Cómo se propaga un cáncer contagioso entre diferentes especies de almejas](https://www.agenciasinc.es/Noticias/Como-se-propaga-un-cancer-contagioso-entre-diferentes-especies-de-almejas) |
 | 21/01/2022 | **CRTVG** | **[Convivir](https://www.youtube.com/watch?v=Pzi0KQ4i7Qk&t=506s)** |
