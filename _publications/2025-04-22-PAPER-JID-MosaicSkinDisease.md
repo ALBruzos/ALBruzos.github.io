@@ -6,17 +6,17 @@ excerpt: 'This paper reports the role of keratinocyte cholesterol metabolism in 
 date: 2025-04-22
 venue: 'The Journal of Investigative Dermatology'
 paperurl: 'https://doi.org/10.1016/j.jid.2025.02.157'
-citation: 'Riachi M et al (includes Bruzos AL). 2025. &quot;Cholesterol pathway gene variants and reduced keratinocyte cholesterol support a final common druggable pathway in hyperproliferative inflammatory skin diseases.&quot; <i>The Journal of Investigative Dermatology</i>, In Press. doi.org/10.1016/j.jid.2025.02.157.'
+citation: 'Riachi M et al (includes Bruzos AL). 2025. &quot;Cholesterol pathway gene variants and reduced keratinocyte cholesterol support a final common druggable pathway in hyperproliferative inflammatory skin diseases.&quot; <i>The Journal of Investigative Dermatology</i>, 145(11):2745-2752.e7. doi.org/10.1016/j.jid.2025.02.157.'
 ---
 
 
 <img src='/files/papers/2025-04-22-PAPER-JID-MosaicSkinDisease.png' />  
 
 **Alicia's citation:**  
-Riachi M et al (includes Bruzos AL). 2025. "Cholesterol pathway gene variants and reduced keratinocyte cholesterol support a final common druggable pathway in hyperproliferative inflammatory skin diseases." <i>The Journal of Investigative Dermatology</i>, In Press. doi.org/10.1016/j.jid.2025.02.157.  
+Riachi M et al (includes Bruzos AL). 2025. "Cholesterol pathway gene variants and reduced keratinocyte cholesterol support a final common druggable pathway in hyperproliferative inflammatory skin diseases." <i>The Journal of Investigative Dermatology</i>, 145(11):2745-2752.e7. doi.org/10.1016/j.jid.2025.02.157.  
   
 **All authors citation:**  
-Riachi M, Bryant D, Ellis J, Hughes C, Polubothu S, Del Valle Torres I, Sauvadet A, Knöpfel N, Muwanga-Nanyonjo N, Martin SB, Bruzos AL, Kelly G, Calvani E, Palma-Duran SA, Silva Dos Santos M, Chaloner C, Khalil Y, Clayton P, Mills P, Bulstrode N, Dand N, Di WL, Barral P, Simpson MA, Barker J, Lee JC, Macrae J, Kinsler VA. (2025) "Cholesterol pathway gene variants and reduced keratinocyte cholesterol support a final common druggable pathway in hyperproliferative inflammatory skin diseases." The Journal of Investigative Dermatology, Apr 22:S0022-202X(25)00414-2. doi: [10.1016/j.jid.2025.02.157](https://doi.org/10.1016/j.jid.2025.02.157).  
+Riachi M, Bryant D, Ellis J, Hughes C, Polubothu S, Del Valle Torres I, Sauvadet A, Knöpfel N, Muwanga-Nanyonjo N, Martin SB, Bruzos AL, Kelly G, Calvani E, Palma-Duran SA, Silva Dos Santos M, Chaloner C, Khalil Y, Clayton P, Mills P, Bulstrode N, Dand N, Di WL, Barral P, Simpson MA, Barker J, Lee JC, Macrae J, Kinsler VA. (2025) "Cholesterol pathway gene variants and reduced keratinocyte cholesterol support a final common druggable pathway in hyperproliferative inflammatory skin diseases." The Journal of Investigative Dermatology, 145(11):2745-2752.e7. doi: [10.1016/j.jid.2025.02.157](https://doi.org/10.1016/j.jid.2025.02.157).  
   
 **About the paper:**  
 This study takes a dual metabolimics and genomics approach to establish that hyperproliferative inflammatory skin disorders including psoriasis share a final common pathway - reduced cholesterol in skin keratinocytes - and correction of cholesterol rescues the hyperproliferation phenotype. In parallel we implicate genetic variation in lipid pathway genes in psoriasis susceptibility, potentially explaining the unsolved comorbidity of abnormal serum lipid profile and psoriasis.  
