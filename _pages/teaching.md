@@ -16,10 +16,10 @@ author_profile: true
 <div class="notice">
 Quick Summary: <ul style="list-style-type:none; padding-left:0;">
   <li>🎓 <b>134.5 certified hours</b></li>
-  <li>🏛️ <b>5 public universities</b> (accreditations in Spain and France)</li>
+  <li>🏛️ <b>6 public universities</b> (accreditations in Spain and France)</li>
   <li>🌍 <b>4 languages & 4 countries</b> (Spain, UK, France, Chile)</li>
-  <li>📚 <b>7 different courses</b> from genetics to bioinformatics and marine biology</li>
-  <li>📅 <b>8 academic years</b> (2017–present)</li>
+  <li>📚 <b>8 different courses</b> from genetics to bioinformatics and marine biology</li>
+  <li>📅 <b>9 academic years</b> (2017–present)</li>
   <li>🧑‍🏫 <b>1520 hours of teacher training</b> (master + courses)</li>
 </ul>
 I have gained teaching experience at five public universities across four countries, delivering theoretical and laboratory sessions in different languages to undergraduate and master’s students. I hold national accreditations as an assistant professor in Spain (PAD ANECA) and France (Section 64), and an official master’s degree in university teaching.  
