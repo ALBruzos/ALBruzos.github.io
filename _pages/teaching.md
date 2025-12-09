@@ -15,7 +15,7 @@ author_profile: true
 
 <div class="notice">
 Quick Summary: <ul style="list-style-type:none; padding-left:0;">
-  <li>🎓 <b>132.5 certified hours</b></li>
+  <li>🎓 <b>134.5 certified hours</b></li>
   <li>🏛️ <b>5 public universities</b> (accreditations in Spain and France)</li>
   <li>🌍 <b>4 languages & 4 countries</b> (Spain, UK, France, Chile)</li>
   <li>📚 <b>7 different courses</b> from genetics to bioinformatics and marine biology</li>
@@ -30,6 +30,7 @@ These experiences and training have strengthened my ability to <b>adapt to diver
 
 | Academic Year | University, Country | Course | Degree | Hours | Language | Students no. | Type (My role) |
 | -------------- | ------------------ | ------- | ------- | ------ | -------- | ------------- | --------------- |
+| 2025/2026 | [Sorbonne Université](https://sciences.sorbonne-universite.fr/formation-sciences/offre-de-formation/masters/master-biologie-moleculaire-et-cellulaire-bmc), France | Biologie Marine : de la molécule à l’organisme (UE SBME19B) | Master Biologie moléculaire et cellulaire (BMC) | 2 | English | 12 | seminar (lecturer) |
 | 2024 | [Universidad de O'Higgins](https://www.uoh.cl/), Chile | Sistemas acuáticos ([see post](https://www.instagram.com/p/DCkKiLhSSq-/?img_index=1)) | Licenciatura en Ciencias Ambientales (título profesional Ingeniero Ambiental) | 4.5 | Spanish | 10 | seminar + practice (lecturer) |
 | 2024 | [Universidad de O'Higgins](https://www.uoh.cl/), Chile | Cambio climático y presiones antrópicas | Magíster en Ciencias Ambientales y de la Tierra | 3 | Spanish | 8 | seminar (lecturer) |
 | 2023/2024 | [Université Caen Normandie](https://www.unicaen.fr/), France | Physiologie du gène à l’organisme (UE SBME19B) | Master Sciences de la Mer | 2 | French | ~15 | seminar (lecturer) |
