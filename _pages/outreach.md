@@ -44,8 +44,9 @@ author_profile: true
 * **Infography for a research association** (2020). Participation in the iniciative _"Que se investiga en Galicia?"_ of [InvestiGal](https://investi.gal/) association. [Visit Here](https://investi.gal/divulgacion/#infografias) [Download Here](https://drive.google.com/uc?export=download&id=1NsMMFnN4FlGWwWOEYlnmfxvamcodAJmc)
 
 
-<i class="fa fa-users" aria-hidden="true"></i> General public talks (8) 
+<i class="fa fa-users" aria-hidden="true"></i> General public talks (9) 
 =======
+* **Da USC ao mundo laboral** (2025). 15 December 2025. A short career talk and invited panelist in a career roundtable on academic, industrial, and entrepreneurial pathways, sharing perspectives on academic career development with undergraduate and graduate students. Activity organised by the students association *Bota e Bata* of Universidade de Santiago de Compostela, Spain.
 * **Fête de la Science** (2024). 11 October 2024. I gave the talk *“Le voyage marin d'une cellule cancéreuse”* at Caen, France. [Advertisement](https://www.fetedelascience.fr/le-voyage-marin-d-une-cellule-cancereuse) and [Pictures](https://x.com/BruzosAliciaL/status/1846212389047292322)
 *  **Pint of Science Festival - France** (2024). 22-24 May 2022. I gave the talk *“El viaje submarino de una célula de cáncer”* at Bar la Olímpica, A Coruña, Spain. [Advertisement](https://pintofscience.es/event/el-viaje-submarino-de-una-celula-de-cancer)
 [Video](https://x.com/BruzosAliciaL/status/1790136788213793139) and [Picture](https://x.com/BruzosAliciaL/status/1790138013231579461)
