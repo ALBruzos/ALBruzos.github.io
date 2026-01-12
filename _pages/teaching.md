@@ -15,7 +15,7 @@ author_profile: true
 
 <div class="notice">
 Quick Summary: <ul style="list-style-type:none; padding-left:0;">
-  <li>🎓 <b>134.5 certified hours</b></li>
+  <li>🎓 <b>134.5 certified hours</b> , (not accounting for teaching preparation)</li>
   <li>🏛️ <b>6 public universities</b> (accreditations in Spain and France)</li>
   <li>🌍 <b>4 languages & 4 countries</b> (Spain, UK, France, Chile)</li>
   <li>📚 <b>8 different courses</b> from genetics to bioinformatics and marine biology</li>
