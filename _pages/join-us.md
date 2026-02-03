@@ -40,7 +40,7 @@ Our group studies marine contagious cancers. We are still growing, which means a
 ## <i class="fa fa-flask" aria-hidden="true"></i> We welcome enthusiastic and collaborative researchers to join our team!
 
 ### <i class="fa fa-book" aria-hidden="true"></i> <FONT COLOR="#4592b3">STUDENT INTERNSHIPS (BSc, MSc, Erasmus)</FONT>
-We offer research internships for students interested in gaining hands-on experience in molecular biology, histology, bioinformatics, or field sampling. Interns contribute to ongoing projects while learning techniques and analytical approaches relevant to their studies. If you are interested, [reach out](https://albruzos.github.io/contact/) including a copy of your CV and the dates and internship requirements of your programme.
+We offer research internships for students interested in gaining hands-on experience in molecular biology, histology, bioinformatics, or field sampling. Interns contribute to ongoing projects while learning techniques and analytical approaches relevant to their studies. If you are interested, [reach out](https://albruzos.github.io/contact/) including a copy of your CV, the dates you would like to join us, and internship requirements of your programme.
 
 ### <i class="fa fa-graduation-cap" aria-hidden="true"></i> <FONT COLOR="#4592b3">PHD STUDENTS</FONT>
 PhD positions are offered when funding is available, typically linked to specific funded research projects. Open positions will be announced broadly through our website and institutional channels. [Follow us on social media](https://albruzos.github.io/contact/)  
