@@ -23,6 +23,7 @@ Our group studies marine contagious cancers. We are still growing, which means a
 
 ---
 
+<!---
 ## <i class="fa fa-bullhorn" aria-hidden="true"></i> <FONT COLOR="#b3455b">OPEN CALLS — Apply now!</FONT>
 
 🔹 <i class="fa fa-code" aria-hidden="true"></i> **<FONT COLOR="#b3455b">Postdoctoral Researcher in Bioinformatics</FONT>**: 2-year position (with possible extension).
@@ -32,6 +33,7 @@ Our group studies marine contagious cancers. We are still growing, which means a
 📄 [PhD student call 25/2 (PDF)](https://ALBruzos.github.io/files/recruitment/2025_PhDstudent_JobPositionOffer_BruzosLab-MPIMM_v2.pdf) - 🕓 [Apply here before 16 November 2025](https://career.mpi-bremen.de/jobposting/fd71854ae887707f586dfa0d24e9a18a6d2225e60)
 
 *Applications must be submitted through the official Max Planck recruiting platform using the links above.*
+---> 
 
 ---
 
@@ -42,12 +44,14 @@ We offer research internships for students interested in gaining hands-on experi
 
 ### <i class="fa fa-graduation-cap" aria-hidden="true"></i> <FONT COLOR="#4592b3">PHD STUDENTS</FONT>
 PhD positions are offered when funding is available, typically linked to specific funded research projects. Open positions will be announced broadly through our website and institutional channels. [Follow us on social media](https://albruzos.github.io/contact/)  
+Previous calls: 📄 [PhD student call 25/2 (PDF)](https://ALBruzos.github.io/files/recruitment/2025_PhDstudent_JobPositionOffer_BruzosLab-MPIMM_v2.pdf)  
 
 ### <i class="fa fa-globe" aria-hidden="true"></i> <FONT COLOR="#4592b3">VISITING FELLOWS</FONT>
 We host PhD students and postdoc from other universities who wish to join us for short research stays or collaborative projects. If you are interested in spending a few months in our lab, feel free to [reach out](https://albruzos.github.io/contact/) to discuss potential collaborations.
 
 ### <i class="fa fa-users" aria-hidden="true"></i> <FONT COLOR="#4592b3">POSTDOCTORAL RESEARCHERS</FONT>
-We have experience with MSCA and other European and national funding programs and are happy to support researchers interested in applying for fellowships to join our group. Whenever postdoctoral fully funded positions become available, they will be widely advertised through this page and our institutional networks.
+We have experience with MSCA and other European and national funding programs and are happy to support researchers interested in applying for fellowships to join our group. Whenever postdoctoral fully funded positions become available, they will be widely advertised through this page and our institutional networks.  
+Previous calls: 📄 [Postdoc call 25/1 (PDF)](https://ALBruzos.github.io/files/recruitment/2025_Postdoc_JobPositionOffer_BruzosLab-MPIMM_v2.pdf)  
 
 <p align="center">
   <a href="https://albruzos.github.io/contact" target="_blank">
