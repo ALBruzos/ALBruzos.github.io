@@ -185,20 +185,23 @@ Click on each school name to expand the entry and access full details of the vis
 
 <details>
   <summary><b>Collège Gaston Lefavrais</b>, Putanges-le-Lac, FRANCE. 05-Feb-2025, in person.</summary>
-  <br>
-  Topic: <b><a href="https://www.linkedin.com/feed/update/urn:li:activity:7296181113314537473/">Atelier des chercheurs et chercheuses</a></b> As part of the initiative "Atelier des chercheur·se·s", I gave 6 sessions of 30 min to 87 students divided into groups of ~15 students aged 13-15.
+  Media: <b><a href="https://www.linkedin.com/feed/update/urn:li:activity:7296181113314537473/">Atelier des chercheurs et chercheuses</a></b> 
+  Description: As part of the initiative "Atelier des chercheur·se·s", I gave 6 sessions of 30 min to 87 students divided into groups of ~15 students aged 13-15.
+    <br>
 </details>
 
 <details>
   <summary><b>CEIP Sta Rita de Galdo</b>, Viveiro, SPAIN. 18-Dec-2024, in person.</summary>
   <br>
-  Topic: <b><a href="https://www.elprogreso.es/articulo/a-marina/biologa-alicia-lopez-bruzos-acerca-ciencia-ninos-colegio-galdo/202412182142511814893.amp.html">La bióloga Alicia López Bruzos acerca la ciencia a los niños del colegio de Galdo</a></b> Two classes, one with students aged 6-8 and another with students aged 11-12.
+  Topic: <b><a href="https://www.elprogreso.es/articulo/a-marina/biologa-alicia-lopez-bruzos-acerca-ciencia-ninos-colegio-galdo/202412182142511814893.amp.html">La bióloga Alicia López Bruzos acerca la ciencia a los niños del colegio de Galdo</a></b> 
+  Description: Two classes, one with students aged 6-8 and another with students aged 11-12.
 </details>
 
 <details>
   <summary><b>Maristas-Santa María</b>, Ourense, SPAIN. 07-Mar-2023, in person.</summary>
   <br>
-  Topic: <b><a href="https://www.prensaescuela.es/alicia-lopez-bruzos-desmonta-mitos-machistas-en-ciencia/">La voz de la mujer STEM</a></b> Students aged 15-16.
+  Topic: <b><a href="https://www.prensaescuela.es/alicia-lopez-bruzos-desmonta-mitos-machistas-en-ciencia/">La voz de la mujer STEM</a></b> 
+  Description: Students aged 15-16.
 </details>
 
 <details>
