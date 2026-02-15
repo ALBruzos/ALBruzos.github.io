@@ -85,11 +85,11 @@ el-cancer-se-puede-contagiar-al-menos-en-animales-163529)
 * **Encuentros en la Biología** (2019). *“Las claves de las metástasis enterradas en la arena.”* Encuentros en la Biología 169: 5–7. ISBN 2254-0296. [Read Here](https://dialnet.unirioja.es/ejemplar/542832)
 * **Institutional blog "Océano Ecimat"** (2018). *“Cáncer transmisible de bivalvos para desentrañar la evolución del cáncer.”* Océano Ecimat. [Read Here](https://oceanoecimat.wordpress.com/2018/05/11/cancer-transmisible-de-bivalvos-para-desentranar-la-evolucion-del-cancer/)
 
-<i class="fa fa-university" aria-hidden="true"></i> School visits (16: 10 Spanish + 3 British + 1 French + 1 Canadian + 1 USA)  
+<i class="fa fa-university" aria-hidden="true"></i> School visits (16 visits across 5 countries)  
 =======
 
 <img src='/images/Tira_FotosOutreach3_AliciaLBruzos.png'> 
-Click on each school name to expand the entry and access full details of the visit.
+So far, 16 school visits along my career in different countries: 10 Spanish + 3 British + 1 French + 1 Canadian + 1 USA. Click on each school name to expand the entry and access full details of the visit.
 
 <details>
   <summary><b>Collège Gaston Lefavrais</b>, Putanges-le-Lac, FRANCE. 05-Feb-2025, in person.</summary>
