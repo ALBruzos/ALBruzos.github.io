@@ -25,7 +25,7 @@ author_profile: true
 
 <i class="fa fa-play-circle" aria-hidden="true"></i> Videos (8) 
 =======
-* **Institutional video** (EN, 2026). The *Max Planck Institute for Marine Microbiology* in Bremen (Germany) made a social media campaign for the *International Day of Women and Girls in Science* aiming to promote women in STEM. Watch here: [Instagram 1.5-min video](https://www.instagram.com/reel/DUniohtiLL-/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==) and [LinkedIn 5-min video](https://www.linkedin.com/posts/max-planck-institute-for-marine-microbiology_maxplancksociety-internationaldayofwomenandgirlsinscience-ugcPost-7427340120795561984-jIe9?utm_source=share&utm_medium=member_desktop&rcm=ACoAABNDEXwBLtAWPZkQAiOUEFTS4sYbDRkQtJ0)-
+* **Institutional video** (EN, 2026). The *Max Planck Institute for Marine Microbiology* in Bremen (Germany) made a social media campaign for the *International Day of Women and Girls in Science* aiming to promote women in STEM. Watch here: [Instagram 1.5-min video](https://www.instagram.com/reel/DUniohtiLL-/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==) and [LinkedIn 5-min video](https://www.linkedin.com/posts/max-planck-institute-for-marine-microbiology_maxplancksociety-internationaldayofwomenandgirlsinscience-ugcPost-7427340120795561984-jIe9?utm_source=share&utm_medium=member_desktop&rcm=ACoAABNDEXwBLtAWPZkQAiOUEFTS4sYbDRkQtJ0).
 * **Institutional video** (FR, 2025). The Euraxess service of the University of Caen-Normandy collects testimonies from researchers to share their experiences with other researchers. [Watch here](https://www.youtube.com/watch?v=LUHPxZSvZAY)  
 * **Project promotional film** (EN, 2024). The CCMAR research institute during my research stay recorded a promotional video for the funding agency of the AquaExcel TNA grant; my participation involved content edition, recorded statements and laboratory shots. [Watch here](https://www.youtube.com/watch?v=ZDUU6VT1qzE)
 * **Institutional video** (GL, 2022). The Galician initiative ‘Por máis mulleres na ciencia’ consisted on 7 videos recorded to show different roles that women can take in the science of IDIS, from managing or technicians to researchers or leaders. [Watch here](https://youtu.be/npxiCJKXCGo)
@@ -89,6 +89,18 @@ el-cancer-se-puede-contagiar-al-menos-en-animales-163529)
 <i class="fa fa-university" aria-hidden="true"></i> School visits (16: 10 Spanish + 3 British + 1 French + 1 Canadian + 1 USA)  
 =======
 <img src='/images/Tira_FotosOutreach3_AliciaLBruzos.png'> 
+
+### Details Tag (collapsible sections)
+
+<details>
+  <summary>Name of the school?</summary>
+  Example 1 details
+</details>
+
+<details open>
+  <summary>Name of school 2?</summary>
+  Example 2 details
+</details>
 
 * **Collège Gaston Lefavrais**, Putanges-le-Lac, FRANCE. 05-Feb-2025, in person.
 
