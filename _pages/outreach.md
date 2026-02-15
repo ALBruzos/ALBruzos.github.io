@@ -211,7 +211,7 @@ Click on each school name to expand the entry and access full details of the vis
   <a href="https://www.matajove.es/11f-dia-de-la-mujer-y-la-nina-en-la-ciencia/" target="_blank" rel="noopener noreferrer">
     More info
   </a>
-  <br
+  <br>
 
 
 <br><br>
