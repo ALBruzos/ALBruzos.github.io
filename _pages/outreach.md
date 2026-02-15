@@ -181,6 +181,7 @@ School’s networking event for Year 9 female students. Topic: women in STEM.
 =======
 
 <img src='/images/Tira_FotosOutreach3_AliciaLBruzos.png'> 
+Click on each school name to expand the entry and access full details of the visit.
 
 <details>
   <summary><b>Collège Gaston Lefavrais</b>, Putanges-le-Lac, FRANCE. 05-Feb-2025, in person.</summary>
