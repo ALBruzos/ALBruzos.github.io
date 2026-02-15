@@ -23,8 +23,9 @@ author_profile: true
 * **Open doors day** (2019). Participation as an *instructor* in workshops, conferences and debates for kids and adults in the event Ciencia Sigular of CiMUS (Santiago de Compostela, Spain).
 
 
-<i class="fa fa-play-circle" aria-hidden="true"></i> Videos (7) 
+<i class="fa fa-play-circle" aria-hidden="true"></i> Videos (8) 
 =======
+* **Institutional video** (EN, 2026). The *Max Planck Institute for Marine Microbiology* in Bremen (Germany) made a social media campaign for the *International Day of Women and Girls in Science* aiming to promote women in STEM. Watch here: [Instagram 1.5-min video](https://www.instagram.com/reel/DUniohtiLL-/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==) and [LinkedIn 5-min video](https://www.linkedin.com/posts/max-planck-institute-for-marine-microbiology_maxplancksociety-internationaldayofwomenandgirlsinscience-ugcPost-7427340120795561984-jIe9?utm_source=share&utm_medium=member_desktop&rcm=ACoAABNDEXwBLtAWPZkQAiOUEFTS4sYbDRkQtJ0)-
 * **Institutional video** (FR, 2025). The Euraxess service of the University of Caen-Normandy collects testimonies from researchers to share their experiences with other researchers. [Watch here](https://www.youtube.com/watch?v=LUHPxZSvZAY)  
 * **Project promotional film** (EN, 2024). The CCMAR research institute during my research stay recorded a promotional video for the funding agency of the AquaExcel TNA grant; my participation involved content edition, recorded statements and laboratory shots. [Watch here](https://www.youtube.com/watch?v=ZDUU6VT1qzE)
 * **Institutional video** (GL, 2022). The Galician initiative ‘Por máis mulleres na ciencia’ consisted on 7 videos recorded to show different roles that women can take in the science of IDIS, from managing or technicians to researchers or leaders. [Watch here](https://youtu.be/npxiCJKXCGo)
