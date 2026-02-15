@@ -85,87 +85,6 @@ el-cancer-se-puede-contagiar-al-menos-en-animales-163529)
 * **Encuentros en la Biología** (2019). *“Las claves de las metástasis enterradas en la arena.”* Encuentros en la Biología 169: 5–7. ISBN 2254-0296. [Read Here](https://dialnet.unirioja.es/ejemplar/542832)
 * **Institutional blog "Océano Ecimat"** (2018). *“Cáncer transmisible de bivalvos para desentrañar la evolución del cáncer.”* Océano Ecimat. [Read Here](https://oceanoecimat.wordpress.com/2018/05/11/cancer-transmisible-de-bivalvos-para-desentranar-la-evolucion-del-cancer/)
 
-
-<i class="fa fa-university" aria-hidden="true"></i> School visits (16: 10 Spanish + 3 British + 1 French + 1 Canadian + 1 USA)  
-=======
-<img src='/images/Tira_FotosOutreach3_AliciaLBruzos.png'> 
-
-* **Collège Gaston Lefavrais**, Putanges-le-Lac, FRANCE. 05-Feb-2025, in person.
-
-Topic: **[Atelier des chercheurs et chercheuses](https://www.linkedin.com/feed/update/urn:li:activity:7296181113314537473/)** As part of the initiative "Atelier des chercheur·se·s", I gave 6 sessions of 30 min to 87 students divided into groups of ~15 students aged 13-15.
-{: .notice}
-
-* **CEIP Sta Rita de Galdo**, Viveiro, SPAIN. 18-Dec-2024, in person.
-
-Topic: **[La bióloga Alicia López Bruzos acerca la ciencia a los niños del colegio de Galdo](https://www.elprogreso.es/articulo/a-marina/biologa-alicia-lopez-bruzos-acerca-ciencia-ninos-colegio-galdo/202412182142511814893.amp.html)** Two classes, one with students aged 6-8 and another with students aged 11-12. 
-{: .notice}
-  
-*	**Maristas-Santa María**, Ourense, SPAIN. 07-Mar-2023, in person.
-
-Topic: **[La voz de la mujer STEM](https://www.prensaescuela.es/alicia-lopez-bruzos-desmonta-mitos-machistas-en-ciencia/)** Students aged 15-16. 
-{: .notice}
-
-*	**IES Mata Jove**, Gijón, SPAIN. 10-Feb-2023, in person.
-
-Biology sudents aged 15-16. Topic: **[11 de febrero](https://11defebrero.org/)** [More info](https://www.matajove.es/11f-dia-de-la-mujer-y-la-nina-en-la-ciencia/) 
-{: .notice}
-  
-*	**British School**, A Coruña, SPAIN. 09-Feb-2023, in person.
-
-2 primary-school classes aged 6-7. Topic: **[Conócelas-ASEICA](https://www.aseica.es/arranca-la-tercera-edicion-de-conocelas)**
-{: .notice}
-
-*	**IES Rafael Dieste**, A Coruña, SPAIN. 07-Feb-2023, virtual.
-
-Students aged 13. Topic: **[Conócelas-ASEICA](https://www.aseica.es/arranca-la-tercera-edicion-de-conocelas)**
-{: .notice}
-
-*	**RFIS Intermediate School**, Flemington, New Jersey, USA and **St. Theresa Catholic Elementary School**, Ontario, CANADA. 02-Dec-2022, virtual.
-
-Topic: **[Exploring By The Seat of Your Pants](https://www.exploringbytheseat.com/)**. Initiative established on 2015 to connect those on the frontlines of science and exploration to classrooms through virtual sessions; 3,500+ live events, connecting over a million students with scientists and explorers in 100 countries. Together with Dr. Wing Yan (U. Melbourne, Australia), we gave a talk about *Water sampling on the Arctic Polar Circle for a eDNA project*. [Watch Here](https://www.youtube.com/watch?v=G0H7d5mPJZs)
-{: .notice}
-
-*	**Rotherfield Primary School**, London, UK. 14-Mar-2022, in person.
-
-I gave two 15-min talks addresed to ~100 scholars aged 6-10. Topic: [BSW](https://www.britishscienceweek.org/) is a ten-day celebration of science, technology, engineering and maths that took place between 11-20 March 2022.
-{: .notice}
-
-*	**CEIP Monte dos Postes**, Santiago de Compostela, SPAIN. 08-Feb-2022, virtual.
-
-2 primary-school classes aged 8-10. Topic: **[Conócelas-ASEICA](https://www.aseica.es/arranca-la-tercera-edicion-de-conocelas)**. [Pictures](https://twitter.com/BruzosAliciaL/status/1491178436244930561)
-{: .notice}
-
-*	**IES Federica Montseny**, Valencia, SPAIN. 07-Feb-2022, virtual.
-
-Students of a public vocational training. Topic: **[11 de febrero](https://11defebrero.org/)** is a citizen initiative to commemorate the International Day of Women and Girls in Science through activities to visibilize the work of women who are dedicated to STEM areas and create female role models for children who can contribute to the choice of these areas as professional careers. [More info](https://twitter.com/BruzosAliciaL/status/1491803176248381440)
-{: .notice}
-
-*	**Beaulieu Convent School**, Jersey, UK. 17-Dec-2021, virtual.
-
-Biology students of high school level. Topic: In pandemic time, this [project](https://www.skypeascientist.com/) is connecting real-life scientists with classrooms across the globe. (2021) [Class picture](https://twitter.com/BeaulieuBio/status/1471792405150056453) vs [Scientist picture](https://twitter.com/BruzosAliciaL/status/1471848905054863364/photo/1)
-{: .notice}
-
-*	**Acland Burghley School**, London, UK. 17-Nov-2021, in person.
-
-School’s networking event for Year 9 female students. Topic: women in STEM.
-{: .notice}
-
-*	**Colegio M. Peleteiro**, Santiago de Compostela, SPAIN. 17-Mar-2021, virtual.
-
-2 classes aged 17-18. Topic: Semana de orientación laboral. One hour talking with high school students about their career orientation focusing on STEM and particularly in biology, biotechnology, and biochemistry.
-{: .notice}
-  
-*	**Colegio M. Peleteiro**, Santiago de Compostela, SPAIN. 08-Feb-2021, virtual.
-
-2 classes aged 13-14. Topic: **[Conócelas-ASEICA](https://www.aseica.es/arranca-la-tercera-edicion-de-conocelas)** A project to encourage girls to study STEM organized by the [Spanish Association of Cancer Research](https://www.aseica.es). I gave a talk entitled *"¿Qué nos puede enseñar un berberecho sobre el cáncer?"* (2021) [Pictures](https://twitter.com/ASEICAnews/status/1369634686918660102)
-{: .notice}
-
-*	**Compañía de María**, Santiago de Compostela, SPAIN. 25-Apr-2019, in person.
-
-9 classes aged 8-10. Topic: International DNA Day. (2019). *Monitor* of activities for pupils aged 8-10 organized for 9 primary-school classes in the *International DNA Day* (Colegio Compañía de María, Santiago de Compostela, Spain). [Picture Here](https://twitter.com/BruzosAliciaL/status/1121533459720286209)
-{: .notice}
-
-
 <i class="fa fa-university" aria-hidden="true"></i> School visits (16: 10 Spanish + 3 British + 1 French + 1 Canadian + 1 USA)  
 =======
 
@@ -205,7 +124,9 @@ Click on each school name to expand the entry and access full details of the vis
 <details>
   <summary><b>IES Rafael Dieste</b>, A Coruña, SPAIN. 07-Feb-2023, virtual.</summary>
   <i>Description:</i> Students aged 13. <br>
-  <i>Documentation & coverage: </i> <b><a href="https://www.aseica.es/arranca-la-tercera-edicion-de-conocelas" target="_blank" rel="noopener noreferrer">Conócelas-ASEICA</a></b> <br><br>
+  <i>Documentation & coverage: </i> <a href="https://www.aseica.es/arranca-la-tercera-edicion-de-conocelas" target="_blank" rel="noopener noreferrer">Initative Conócelas-ASEICA</a> or <a href="https://x.com/mcastigarcia/status/1623061027264016386/photo/3" target="_blank" rel="noopener noreferrer">Twitter/X post</a>
+    
+    <br><br>
 </details>
 
 <details>
@@ -216,20 +137,19 @@ Click on each school name to expand the entry and access full details of the vis
 
 <details>
   <summary><b>Rotherfield Primary School</b>, London, UK. 14-Mar-2022, in person.</summary>
-  <i>Description:</i> I gave two 15-min talks addresed to ~100 scholars aged 6-10. Topic: <a href="https://www.britishscienceweek.org/" target="_blank" rel="noopener noreferrer">BSW</a> is a ten-day celebration of science, technology, engineering and maths that took place between 11-20 March 2022. <br>
-  <i>Documentation & coverage: </i> — <br><br>
+  <i>Description:</i> I gave two 15-min talks addresed to ~100 scholars aged 6-10. Topic: <a href="https://www.britishscienceweek.org/" target="_blank" rel="noopener noreferrer">BSW</a> is a ten-day celebration of science, technology, engineering and maths that took place between 11-20 March 2022. <br><br>
 </details>
 
 <details>
   <summary><b>CEIP Monte dos Postes</b>, Santiago de Compostela, SPAIN. 08-Feb-2022, virtual.</summary>
   <i>Description:</i> 2 primary-school classes aged 8-10. Topic: <b><a href="https://www.aseica.es/arranca-la-tercera-edicion-de-conocelas" target="_blank" rel="noopener noreferrer">Conócelas-ASEICA</a></b>. <br>
-  <i>Documentation & coverage: </i> <a href="https://twitter.com/BruzosAliciaL/status/1491178436244930561" target="_blank" rel="noopener noreferrer">Pictures</a> <br><br>
+  <i>Documentation & coverage: </i> <a href="https://twitter.com/BruzosAliciaL/status/1491178436244930561" target="_blank" rel="noopener noreferrer">X/Twitter post with picture</a> <br><br>
 </details>
 
 <details>
   <summary><b>IES Federica Montseny</b>, Valencia, SPAIN. 07-Feb-2022, virtual.</summary>
   <i>Description:</i> Students of a public vocational training. Topic: <b><a href="https://11defebrero.org/" target="_blank" rel="noopener noreferrer">11 de febrero</a></b> is a citizen initiative to commemorate the International Day of Women and Girls in Science through activities to visibilize the work of women who are dedicated to STEM areas and create female role models for children who can contribute to the choice of these areas as professional careers. <br>
-  <i>Documentation & coverage: </i> <a href="https://twitter.com/BruzosAliciaL/status/1491803176248381440" target="_blank" rel="noopener noreferrer">More info</a> <br><br>
+  <i>Documentation & coverage: </i> <a href="https://twitter.com/BruzosAliciaL/status/1491803176248381440" target="_blank" rel="noopener noreferrer">X/Twitter post with picture</a> <br><br>
 </details>
 
 <details>
@@ -240,31 +160,26 @@ Click on each school name to expand the entry and access full details of the vis
 
 <details>
   <summary><b>Acland Burghley School</b>, London, UK. 17-Nov-2021, in person.</summary>
-  <i>Description:</i> School’s networking event for Year 9 female students. Topic: women in STEM. <br>
-  <i>Documentation & coverage: </i> — <br><br>
+  <i>Description:</i> School’s networking event for Year 9 female students. Topic: women in STEM. <br><br>
 </details>
 
 <details>
   <summary><b>Colegio M. Peleteiro</b>, Santiago de Compostela, SPAIN. 17-Mar-2021, virtual.</summary>
-  <i>Description:</i> 2 classes aged 17-18. Topic: Semana de orientación laboral. One hour talking with high school students about their career orientation focusing on STEM and particularly in biology, biotechnology, and biochemistry. <br>
-  <i>Documentation & coverage: </i> — <br><br>
+  <i>Description:</i> 2 classes aged 17-18. Topic: Semana de orientación laboral. One hour talking with high school students about their career orientation focusing on STEM and particularly in biology, biotechnology, and biochemistry. <br><br>
 </details>
 
 <details>
   <summary><b>Colegio M. Peleteiro</b>, Santiago de Compostela, SPAIN. 08-Feb-2021, virtual.</summary>
   <i>Description:</i> 2 classes aged 13-14. Topic: <b><a href="https://www.aseica.es/arranca-la-tercera-edicion-de-conocelas" target="_blank" rel="noopener noreferrer">Conócelas-ASEICA</a></b> A project to encourage girls to study STEM organized by the <a href="https://www.aseica.es" target="_blank" rel="noopener noreferrer">Spanish Association of Cancer Research</a>. I gave a talk entitled <i>"¿Qué nos puede enseñar un berberecho sobre el cáncer?"</i> (2021). <br>
-  <i>Documentation & coverage: </i> <a href="https://twitter.com/ASEICAnews/status/1369634686918660102" target="_blank" rel="noopener noreferrer">Pictures</a> <br><br>
+  <i>Documentation & coverage: </i> <a href="https://twitter.com/ASEICAnews/status/1369634686918660102" target="_blank" rel="noopener noreferrer">X/Twitter post with pictures</a> <br><br>
 </details>
 
 <details>
   <summary><b>Compañía de María</b>, Santiago de Compostela, SPAIN. 25-Apr-2019, in person.</summary>
   <i>Description:</i> 9 classes aged 8-10. Topic: International DNA Day. (2019). <i>Monitor</i> of activities for pupils aged 8-10 organized for 9 primary-school classes in the <i>International DNA Day</i> (Colegio Compañía de María, Santiago de Compostela, Spain). <br>
-  <i>Documentation & coverage: </i> <a href="https://twitter.com/BruzosAliciaL/status/1121533459720286209" target="_blank" rel="noopener noreferrer">Picture Here</a> <br><br>
+  <i>Documentation & coverage: </i> <a href="https://twitter.com/BruzosAliciaL/status/1121533459720286209" target="_blank" rel="noopener noreferrer">X/Twitter post with picture</a> <br><br>
 </details>
-
 <br>
-
-
 
 <i class="fa fa-podcast" aria-hidden="true"></i> Podcasting (2)
 =======
