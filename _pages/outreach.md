@@ -191,26 +191,15 @@ Click on each school name to expand the entry and access full details of the vis
   <summary><b>Maristas-Santa María</b>, Ourense, SPAIN. 07-Mar-2023, in person.</summary>
   <i>Description:</i> Students aged 15-16. <br>
   <i>Documentation & coverage: </i>  
-  <b>
-    <a href="https://www.prensaescuela.es/alicia-lopez-bruzos-desmonta-mitos-machistas-en-ciencia/" target="_blank" rel="noopener noreferrer">
-      La voz de la mujer STEM
-    </a>
-  </b>
+  <b><a href="https://www.prensaescuela.es/alicia-lopez-bruzos-desmonta-mitos-machistas-en-ciencia/" target="_blank" rel="noopener noreferrer"> La voz de la mujer STEM</a> </b>
   <br><br>
 </details>
 
 <details>
   <summary><b>IES Mata Jove</b>, Gijón, SPAIN. 10-Feb-2023, in person.</summary>
   <i>Description:</i> Biology sudents aged 15-16. <br>
-  <i>Documentation & coverage: </i> 
-  <b>
-    <a href="https://11defebrero.org/" target="_blank" rel="noopener noreferrer">
-      11 de febrero
-    </a>
-  </b>
-  <a href="https://www.matajove.es/11f-dia-de-la-mujer-y-la-nina-en-la-ciencia/" target="_blank" rel="noopener noreferrer">
-    More info
-  </a>
+  <i>Documentation & coverage: </i>  <b> <a href="https://11defebrero.org/" target="_blank" rel="noopener noreferrer">
+      11 de febrero  </a>  </b>  <a href="https://www.matajove.es/11f-dia-de-la-mujer-y-la-nina-en-la-ciencia/" target="_blank" rel="noopener noreferrer">  Mata Jove web</a>
   <br>
 
 
