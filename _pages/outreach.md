@@ -174,94 +174,47 @@ Click on each school name to expand the entry and access full details of the vis
 <details>
   <summary><b>Collège Gaston Lefavrais</b>, Putanges-le-Lac, FRANCE. 05-Feb-2025, in person.</summary>
   <i>Description:</i> As part of the initiative "Atelier des chercheur·se·s", I gave 6 sessions of 30 min to 87 students divided into groups of ~15 students aged 13-15. <br>
-  <i>Documentation & coverage: </i> <b><a href="https://www.linkedin.com/feed/update/urn:li:activity:7296181113314537473/">Atelier des chercheurs et chercheuses</a></b> <br><br>
+  <i>Documentation & coverage: </i> 
+  <b><a href="https://www.linkedin.com/feed/update/urn:li:activity:7296181113314537473/" target="_blank" rel="noopener noreferrer">Atelier des chercheurs et chercheuses</a></b>
+  <br><br>
 </details>
 
 <details>
   <summary><b>CEIP Sta Rita de Galdo</b>, Viveiro, SPAIN. 18-Dec-2024, in person.</summary>
-  <i>Description:</i> Two classes, one with students aged 6-8 and another with students aged 11-12.<br>
-  <i>Documentation & coverage: </i> <b><a href="https://www.elprogreso.es/articulo/a-marina/biologa-alicia-lopez-bruzos-acerca-ciencia-ninos-colegio-galdo/202412182142511814893.amp.html">La bióloga Alicia López Bruzos acerca la ciencia a los niños del colegio de Galdo</a></b> <br><br>
+  <i>Description:</i> Two classes, one with students aged 6-8 and another with students aged 11-12. <br>
+  <i>Documentation & coverage: </i> 
+  <b><a href="https://www.elprogreso.es/articulo/a-marina/biologa-alicia-lopez-bruzos-acerca-ciencia-ninos-colegio-galdo/202412182142511814893.amp.html" target="_blank" rel="noopener noreferrer">La bióloga Alicia López Bruzos acerca la ciencia a los niños del colegio de Galdo</a></b>
+  <br><br>
 </details>
 
 <details>
   <summary><b>Maristas-Santa María</b>, Ourense, SPAIN. 07-Mar-2023, in person.</summary>
   <i>Description:</i> Students aged 15-16. <br>
-  <i>Documentation & coverage: </i> <b><a href="https://www.prensaescuela.es/alicia-lopez-bruzos-desmonta-mitos-machistas-en-ciencia/">La voz de la mujer STEM</a></b> <br><br>
+  <i>Documentation & coverage: </i>  
+  <b>
+    <a href="https://www.prensaescuela.es/alicia-lopez-bruzos-desmonta-mitos-machistas-en-ciencia/" target="_blank" rel="noopener noreferrer">
+      La voz de la mujer STEM
+    </a>
+  </b>
+  <br><br>
 </details>
 
 <details>
   <summary><b>IES Mata Jove</b>, Gijón, SPAIN. 10-Feb-2023, in person.</summary>
   <i>Description:</i> Biology sudents aged 15-16. <br>
-  <i>Documentation & coverage: </i> <b><a href="https://11defebrero.org/">11 de febrero</a></b> <a href="https://www.matajove.es/11f-dia-de-la-mujer-y-la-nina-en-la-ciencia/">More info</a> <br><br>
-</details>
-
-<details>
-  <summary><b>British School</b>, A Coruña, SPAIN. 09-Feb-2023, in person.</summary>
-  <i>Description:</i> 2 primary-school classes aged 6-7. <br>
-  <i>Documentation & coverage: </i> <b><a href="https://www.aseica.es/arranca-la-tercera-edicion-de-conocelas">Conócelas-ASEICA</a></b> <br><br>
-</details>
-
-<details>
-  <summary><b>IES Rafael Dieste</b>, A Coruña, SPAIN. 07-Feb-2023, virtual.</summary>
-  <i>Description:</i> Students aged 13. <br>
-  <i>Documentation & coverage: </i> <b><a href="https://www.aseica.es/arranca-la-tercera-edicion-de-conocelas">Conócelas-ASEICA</a></b> <br><br>
-</details>
-
-<details>
-  <summary><b>RFIS Intermediate School</b>, Flemington, New Jersey, USA and <b>St. Theresa Catholic Elementary School</b>, Ontario, CANADA. 02-Dec-2022, virtual.</summary>
-  <i>Description:</i> Topic: <b><a href="https://www.exploringbytheseat.com/">Exploring By The Seat of Your Pants</a></b>. Initiative established on 2015 to connect those on the frontlines of science and exploration to classrooms through virtual sessions; 3,500+ live events, connecting over a million students with scientists and explorers in 100 countries. Together with Dr. Wing Yan (U. Melbourne, Australia), we gave a talk about <i>Water sampling on the Arctic Polar Circle for a eDNA project</i>. <br>
-  <i>Documentation & coverage: </i> <a href="https://www.youtube.com/watch?v=G0H7d5mPJZs">Watch Here</a> <br><br>
-</details>
-
-<details>
-  <summary><b>Rotherfield Primary School</b>, London, UK. 14-Mar-2022, in person.</summary>
-  <i>Description:</i> I gave two 15-min talks addresed to ~100 scholars aged 6-10. Topic: <a href="https://www.britishscienceweek.org/">BSW</a> is a ten-day celebration of science, technology, engineering and maths that took place between 11-20 March 2022. <br>
-  <i>Documentation & coverage: </i> — <br><br>
-</details>
-
-<details>
-  <summary><b>CEIP Monte dos Postes</b>, Santiago de Compostela, SPAIN. 08-Feb-2022, virtual.</summary>
-  <i>Description:</i> 2 primary-school classes aged 8-10. Topic: <b><a href="https://www.aseica.es/arranca-la-tercera-edicion-de-conocelas">Conócelas-ASEICA</a></b>. <br>
-  <i>Documentation & coverage: </i> <a href="https://twitter.com/BruzosAliciaL/status/1491178436244930561">Pictures</a> <br><br>
-</details>
-
-<details>
-  <summary><b>IES Federica Montseny</b>, Valencia, SPAIN. 07-Feb-2022, virtual.</summary>
-  <i>Description:</i> Students of a public vocational training. Topic: <b><a href="https://11defebrero.org/">11 de febrero</a></b> is a citizen initiative to commemorate the International Day of Women and Girls in Science through activities to visibilize the work of women who are dedicated to STEM areas and create female role models for children who can contribute to the choice of these areas as professional careers. <br>
-  <i>Documentation & coverage: </i> <a href="https://twitter.com/BruzosAliciaL/status/1491803176248381440">More info</a> <br><br>
-</details>
-
-<details>
-  <summary><b>Beaulieu Convent School</b>, Jersey, UK. 17-Dec-2021, virtual.</summary>
-  <i>Description:</i> Biology students of high school level. Topic: In pandemic time, this <a href="https://www.skypeascientist.com/">project</a> is connecting real-life scientists with classrooms across the globe. (2021) <br>
-  <i>Documentation & coverage: </i> <a href="https://twitter.com/BeaulieuBio/status/1471792405150056453">Class picture</a> vs <a href="https://twitter.com/BruzosAliciaL/status/1471848905054863364/photo/1">Scientist picture</a> <br><br>
-</details>
-
-<details>
-  <summary><b>Acland Burghley School</b>, London, UK. 17-Nov-2021, in person.</summary>
-  <i>Description:</i> School’s networking event for Year 9 female students. Topic: women in STEM. <br>
-  <i>Documentation & coverage: </i> — <br><br>
-</details>
-
-<details>
-  <summary><b>Colegio M. Peleteiro</b>, Santiago de Compostela, SPAIN. 17-Mar-2021, virtual.</summary>
-  <i>Description:</i> 2 classes aged 17-18. Topic: Semana de orientación laboral. One hour talking with high school students about their career orientation focusing on STEM and particularly in biology, biotechnology, and biochemistry. <br>
-  <i>Documentation & coverage: </i> — <br><br>
-</details>
-
-<details>
-  <summary><b>Colegio M. Peleteiro</b>, Santiago de Compostela, SPAIN. 08-Feb-2021, virtual.</summary>
-  <i>Description:</i> 2 classes aged 13-14. Topic: <b><a href="https://www.aseica.es/arranca-la-tercera-edicion-de-conocelas">Conócelas-ASEICA</a></b> A project to encourage girls to study STEM organized by the <a href="https://www.aseica.es">Spanish Association of Cancer Research</a>. I gave a talk entitled <i>"¿Qué nos puede enseñar un berberecho sobre el cáncer?"</i> (2021). <br>
-  <i>Documentation & coverage: </i> <a href="https://twitter.com/ASEICAnews/status/1369634686918660102">Pictures</a> <br><br>
-</details>
-
-<details>
-  <summary><b>Compañía de María</b>, Santiago de Compostela, SPAIN. 25-Apr-2019, in person.</summary>
-  <i>Description:</i> 9 classes aged 8-10. Topic: International DNA Day. (2019). <i>Monitor</i> of activities for pupils aged 8-10 organized for 9 primary-school classes in the <i>International DNA Day</i> (Colegio Compañía de María, Santiago de Compostela, Spain). <br>
-  <i>Documentation & coverage: </i> <a href="https://twitter.com/BruzosAliciaL/status/1121533459720286209">Picture Here</a> <br><br>
-</details>
+  <i>Documentation & coverage: </i> 
+  <b>
+    <a href="https://11defebrero.org/" target="_blank" rel="noopener noreferrer">
+      11 de febrero
+    </a>
+  </b>
+  <a href="https://www.matajove.es/11f-dia-de-la-mujer-y-la-nina-en-la-ciencia/" target="_blank" rel="noopener noreferrer">
+    More info
+  </a>
+  <br
 
 
+<br><br>
 
 
 <i class="fa fa-podcast" aria-hidden="true"></i> Podcasting (2)
