@@ -185,29 +185,27 @@ Click on each school name to expand the entry and access full details of the vis
 
 <details>
   <summary><b>Collège Gaston Lefavrais</b>, Putanges-le-Lac, FRANCE. 05-Feb-2025, in person.</summary>
-  Media: <b><a href="https://www.linkedin.com/feed/update/urn:li:activity:7296181113314537473/">Atelier des chercheurs et chercheuses</a></b> 
-  Description: As part of the initiative "Atelier des chercheur·se·s", I gave 6 sessions of 30 min to 87 students divided into groups of ~15 students aged 13-15.
-    <br>
+  <i>Description:</i> As part of the initiative "Atelier des chercheur·se·s", I gave 6 sessions of 30 min to 87 students divided into groups of ~15 students aged 13-15. <br>
+  <i>Documentation & coverage: </i> <b><a href="https://www.linkedin.com/feed/update/urn:li:activity:7296181113314537473/">Atelier des chercheurs et chercheuses</a></b> <br><br>
 </details>
 
 <details>
   <summary><b>CEIP Sta Rita de Galdo</b>, Viveiro, SPAIN. 18-Dec-2024, in person.</summary>
-  <br>
-  Topic: <b><a href="https://www.elprogreso.es/articulo/a-marina/biologa-alicia-lopez-bruzos-acerca-ciencia-ninos-colegio-galdo/202412182142511814893.amp.html">La bióloga Alicia López Bruzos acerca la ciencia a los niños del colegio de Galdo</a></b> 
-  Description: Two classes, one with students aged 6-8 and another with students aged 11-12.
+  <i>Description:</i> Two classes, one with students aged 6-8 and another with students aged 11-12.<br>
+  <i>Documentation & coverage: </i> <b><a href="https://www.elprogreso.es/articulo/a-marina/biologa-alicia-lopez-bruzos-acerca-ciencia-ninos-colegio-galdo/202412182142511814893.amp.html">La bióloga Alicia López Bruzos acerca la ciencia a los niños del colegio de Galdo</a></b> <br><br>
 </details>
 
 <details>
   <summary><b>Maristas-Santa María</b>, Ourense, SPAIN. 07-Mar-2023, in person.</summary>
-  <br>
-  Topic: <b><a href="https://www.prensaescuela.es/alicia-lopez-bruzos-desmonta-mitos-machistas-en-ciencia/">La voz de la mujer STEM</a></b> 
-  Description: Students aged 15-16.
+  <i>Description:</i> Students aged 15-16.<br>
+  <i>Documentation & coverage: </i>  <b><a href="https://www.prensaescuela.es/alicia-lopez-bruzos-desmonta-mitos-machistas-en-ciencia/">La voz de la mujer STEM</a></b> <br><br>
 </details>
 
 <details>
   <summary><b>IES Mata Jove</b>, Gijón, SPAIN. 10-Feb-2023, in person.</summary>
   <br>
-  Biology sudents aged 15-16. Topic: <b><a href="https://11defebrero.org/">11 de febrero</a></b> <a href="https://www.matajove.es/11f-dia-de-la-mujer-y-la-nina-en-la-ciencia/">More info</a>
+  <i>Description:</i> Biology sudents aged 15-16. 
+  Topic: <b><a href="https://11defebrero.org/">11 de febrero</a></b> <a href="https://www.matajove.es/11f-dia-de-la-mujer-y-la-nina-en-la-ciencia/">More info</a>
 </details>
 
 <details>
