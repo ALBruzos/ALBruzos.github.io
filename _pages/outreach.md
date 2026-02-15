@@ -89,7 +89,7 @@ el-cancer-se-puede-contagiar-al-menos-en-animales-163529)
 =======
 
 <img src='/images/Tira_FotosOutreach3_AliciaLBruzos.png'> 
-So far, 16 school visits along my career in different countries: 10 Spanish + 3 British + 1 French + 1 Canadian + 1 USA. Click on each school name to expand the entry and access full details of the visit.
+I have conducted 16 school visits internationally: 10 in Spain, 3 in the United Kingdom, and one each in France, Canada, and the United States. Click on each school name to expand the entry and access more details about the visit.
 
 <details>
   <summary><b>Collège Gaston Lefavrais</b>, Putanges-le-Lac, FRANCE. 05-Feb-2025, in person.</summary>
