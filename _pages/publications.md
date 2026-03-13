@@ -8,7 +8,7 @@ author_profile: true
 
 {% include toc %}
 
-## Publications (12)
+## Publications (13)
 
  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
@@ -21,7 +21,6 @@ Bailey, MH et al. (includes Bruzos AL in the PCAWG). (2020). "Retrospective eval
 Li, CH et al. (includes Bruzos AL in the PCAWG). (2020). "Sex differences in oncogenic mutational processes." Nature Communications 11, 4330. https://doi.org/10.1038/s41467-020-17359-2
 
 #### Under review publications (available as preprints or request)  
-* Bruzos AL et al. *Prevalence of hemic neoplasia in cockles and co-habiting bivalve species in the western coast of France and the southern coast of Portugal.* doi: 10.1101/2025.07.30.667629 [BiorXiv](https://www.biorxiv.org/content/10.1101/2025.07.30.667629v1)
 * Polubothu S et al. (includes Bruzos AL) *Mosaic PRKCA fusions cause a novel congenital melanocytoma syndrome associated with uveal melanoma*
 
 ## Book chapters (10)
