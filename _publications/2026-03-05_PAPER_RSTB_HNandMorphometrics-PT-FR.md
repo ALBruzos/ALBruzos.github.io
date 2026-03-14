@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2026-03-05_PAPER_RSTB_HNandMorphometrics-PT-FR
 excerpt: 'In this paper we assessed the prevalence and spatial distribution of haemic neoplasia in cockles and cohabiting bivalves along the coasts of France and Portugal using cytological diagnosis and morphometric analyses.'
 date: 2026-03-05
-venue: 'Philos Trans R Soc Lond B Biol Sci'
+venue: 'Philosophical Transactions of the Royal Society B: Biological Sciences'
 paperurl: 'https://doi.org/10.1098/rstb.2025.0211'
 citation: 'Bruzos AL* et al. (2026) &quot;"Prevalence of haemic neoplasia in cockles and cohabiting bivalve species on the western coast of France and the southern coast of Portugal.&quot; <i>Philos Trans R Soc Lond B Biol Sci</i>, 381(1945):20250211. doi: 10.1098/rstb.2025.0211 IF(2025) = 4.7 (*corresponding author)'
 ---
