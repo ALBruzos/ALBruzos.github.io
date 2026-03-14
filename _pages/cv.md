@@ -115,7 +115,7 @@ To date, I have authored **11 peer-reviewed international Q1 articles** (8 of wh
 | ------------- | ------------- | ------------- | ------------- | ------------- |------------- |------------- |
 | #13 | Bruzos AL et al.<sup>#</sup> | NA | Under review | NA | yes<sup>a,b</sup> | Postdoc, France |
 | #12 | Polubothu S et al. (includes Bruzos AL)<sup>#</sup> | NA | Under review | NA | - | Postdoc, UK |
-| #11 | [Bruzos AL et al.]() | 2025 | Philos Trans R Soc Lond B Biol Sci & [BioRxiv](https://albruzos.github.io/publication/2026-03-05_PAPER_RSTB_HNandMorphometrics-PT-FR) | 4.7 (2024); Q1 | yes<sup>a,b</sup> | Postdoc, France |
+| #11 | [Bruzos AL et al.]() | 2026 | Philos Trans R Soc Lond B Biol Sci & [BioRxiv](https://albruzos.github.io/publication/2026-03-05_PAPER_RSTB_HNandMorphometrics-PT-FR) | 4.7 (2024); Q1 | yes<sup>a,b</sup> | Postdoc, France |
 | #10 | [Riachi M et al. (includes Bruzos AL)](https://albruzos.github.io/publication/2025-04-22-PAPER-JID-MosaicSkinDisease) | 2025 | JID | 7.590 (2021); D1 | - | Postdoc, UK |
 | #9 | [Santamarina M, Bruzos AL et al.](https://albruzos.github.io/publication/2024-11-08_PAPER_JInvertebrPathology_DiagnosticPCR-CedBTN) | 2024 | J Invert. Pathol. & [SSRN](https://ssrn.com/abstract=4595284) | 3.6 (2023); Q1 | yes<sup>a,b</sup> | PhD, Spain |
 | #8 | [Bruzos AL et al.](https://albruzos.github.io/publication/2023-10-02-PAPER-NatureCancer-EvolutionCockleTransmissibleCancers) | 2023 | Nature Cancer & [BioRxiv](https://www.biorxiv.org/content/10.1101/2022.08.06.503021v1)| 23.177 (2021); D1 | yes<sup>a</sup> | PhD, Spain |
