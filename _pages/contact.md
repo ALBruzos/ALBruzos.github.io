@@ -43,7 +43,7 @@ LinkedIn: https://www.linkedin.com/in/bruzosalicial/ <br>
 BlueSky: https://bsky.app/profile/bruzos.bsky.social <br>
 Twitter/X: https://x.com/BruzosAliciaL <br>
 ResarchGate: https://www.researchgate.net/profile/Alicia-Bruzos <br>
-Instagram: https://www.instagram.com/bruzosalicial <br>
+Instagram: https://www.instagram.com/bruzosalicial or https://www.instagram.com/bruzoslab<br>
 Youtube: www.youtube.com/@BruzosAliciaL <br> <br>
 <!---
   Facebook: https://www.facebook.com/alicialbruzos
