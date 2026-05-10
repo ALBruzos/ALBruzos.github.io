@@ -86,7 +86,7 @@ Media outlets have featured my research publications and various scientific acti
 
 | News date | Newspaper or media | Headline and link | 
 |  ---------------- | ---------------- | ---------------- |
-| 08/05/2026 | CRTVG | [Galicia x Diante](https://youtu.be/EW-NO-zLqt4) |
+| 08/05/**<span style="color: #FF5733;">2026</span>** | CRTVG | [Galicia x Diante](https://youtu.be/EW-NO-zLqt4) |
 | 19/11/2025 | El Español | [Alicia L. Bruzos, la gallega que investiga el cáncer en moluscos: "Muchos hallazgos en medicina vienen del estudio animal"](https://www.elespanol.com/enclave-ods/referentes/20251119/alicia-bruzos-gallega-investiga-cancer-moluscos-hallazgos-medicina-vienen-estudio-animal/1003744018406_0.html) |
 | 12/11/2025 | CrickConnect | [Alumni spotlight: Alicia Bruzos, Crick Bioinformatician to leading a Research Group in Germany](https://ALBruzos.github.io/files/media/AlumniSpotlight_CrickConnect_CrickBioinformatician-to-leading-a-ResearchGroup-in-Germany.pdf) |
 | 25/10/2025 | Instagram TheSaltyCell | Her lab, her story: [Episode 1: Her Lab, Her Story](https://www.instagram.com/p/DQPA9g8DLtE/) - [Episode 2: What sparked their curiosity?](https://www.instagram.com/p/DQZGLIBjKNd/) - [Episode 3: What does it mean to navigate the currents of research as a woman in science?](https://www.instagram.com/p/DQn95-BjLUQ/) |
