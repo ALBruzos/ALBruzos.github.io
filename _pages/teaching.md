@@ -95,8 +95,7 @@ I have supervised and mentored five undergraduate and master’s students in Fra
 <i class="fa fa-users" aria-hidden="true"></i> University Evaluation Committees
 ======
 
-- Substitute member of the PhD tribunal of *"Molecular insights into the mechanisms underlying doubly uniparental inheritance (DUI) of mitochondrial DNA
-and sex determination in marine mussels (Mytilus spp.)"*, doctoral thesis presented by **Sofía Blanco González** at **University of Vigo**, SPAIN. <FONT COLOR="#D3D3D3">Defense on September 25th, 2025.</FONT>
+- Evaluation committee member of the PhD tribunal (secretary role) of *"Molecular insights into the mechanisms underlying doubly uniparental inheritance (DUI) of mitochondrial DNA and sex determination in marine mussels (Mytilus spp.)"*, doctoral thesis presented by **Sofía Blanco González** at **University of Vigo**, SPAIN. <FONT COLOR="#D3D3D3">Defense on May 7th, 2026.</FONT>
 - External evaluator of *"Evolution and Genomic Heterogeneity in Solid Tumors"*, doctoral thesis presented by **Laura Tomás** at **University of Vigo**, SPAIN. <FONT COLOR="#D3D3D3">Report issued on August 23rd, 2024.</FONT>
 - External evaluator of *"New signaling pathways implicated in resistance to targeted therapy in tumors with alterations of the MAPK pathway"*, doctoral thesis presented by **Amanda Guitián Caamaño** at **University of A Coruña**, SPAIN. <FONT COLOR="#D3D3D3">Report issued on February 16th, 2024.</FONT>
 
