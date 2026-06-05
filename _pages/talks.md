@@ -42,7 +42,7 @@ author_profile: true
 
 <i class="fa fa-bullhorn" aria-hidden="true"></i> Oral communications (22/26)
 =======
-<FONT COLOR="#45B39D">Highlighting legend: <u>Underlined</u> author presenting the communication (20 out of 24 were given my Bruzos); <i class="fa fa-star" aria-hidden="true"></i> Award; <i class="fa fa-book" aria-hidden="true"></i> DOI or book chapter with ISBN.</FONT>
+<FONT COLOR="#45B39D">Highlighting legend: <u>Underlined</u> author presenting the communication; <i class="fa fa-star" aria-hidden="true"></i> Award; <i class="fa fa-book" aria-hidden="true"></i> DOI or book chapter with ISBN.</FONT>
 
 <!-- Not presented by me: 3, 9, 13, 18-->
 
