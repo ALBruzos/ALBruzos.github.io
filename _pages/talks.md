@@ -20,9 +20,9 @@ author_profile: true
 
 <i class="fa fa-bell" aria-hidden="true"></i> Invited speaker (8)
 =======
-[8] <b>It Ma(t)Ters: joint conference for terrestrial and marine microbiology</b>: <a href="https://it-matters.online/index.php/schedule-2026/" target="_blank">(link)</a>. Bremen, Germany (26-05-2026-28-05-2026). Title: <i>Genetics of transmissible cancers in marine bivalves</i>.<br>"
+[8] <b>It Ma(t)Ters: joint conference for terrestrial and marine microbiology</b>: <a href="https://it-matters.online/index.php/schedule-2026/" target="_blank">(link)</a>. Bremen, Germany (26-05-2026-28-05-2026). Title: <i>Genetics of transmissible cancers in marine bivalves</i>.<br>
 
-[7] <b>3rd Annual Meeting of the Young Belgian Immunology Society</b>: <a href="https://youngbis.be/2026-2/" target="_blank">(yBIS)</a>. Ghent, Belgium (22-04-2026). Title: <i>When cancer turns infectious: insights from marine bivalves</i>.<br>"
+[7] <b>3rd Annual Meeting of the Young Belgian Immunology Society</b>: <a href="https://youngbis.be/2026-2/" target="_blank">(yBIS)</a>. Ghent, Belgium (22-04-2026). Title: <i>When cancer turns infectious: insights from marine bivalves</i>.<br>
 
 [6] <b>The European Meeting for PhD students in Evolutionary Biology</b>: <a href="https://sites.google.com/view/empseb30/home?authuser=0" target="_blank">(EMPSEB30)</a>. Milovy, Czech Republic (02/06/2025 - 06/06/2025). Title: <i>Unraveling the evolutionary history of transmissible cancers in bivalves</i>.<br>
 
