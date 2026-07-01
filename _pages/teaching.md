@@ -83,6 +83,8 @@ I have supervised and mentored five undergraduate and master’s students in Fra
 
 | Academic Year (defense date)  | Title | Student | Supervisors | Degree (Type) | University, Country (Language) | Grade |
 | ------------- | ------------- | ------------- |------------- |------------- | ------------- | ------------- |
+| 2025/2026  (--/08/2026) | *“TBA”* | Nur M Farhad | Dr Alicia L. Bruzos | MSc in Marine Environment - Erasmus Mundus (Master Thesis) | Universidad del País Vasco, Spain (English) | pending |
+| 2025/2026  (30/06/2026) | *“Donor-derived and transplant-transmitted cancers in humans - systematic review”* | Alfonso Borbón Lanuza | Dr Alicia L. Bruzos, Katrina Espinar Herranz | BSc. in Biomedicine (Bachelor Thesis) | Universidad Alfonso X El Sabio, Spain (Spanish) | Good (7.8/10) |
 | 2023/2024  (--/06/2024) | *“Preliminary study of the dispersal of contagious cancer cells in the ocean”* | Geo Bujard<sup>**</sup> | Dr Alicia L. Bruzos | MSc. Sciences de la Mer (Master Thesis) | Sorbonne Université, France (French) | Good (60.63/100) |
 | 2023/2024  (14/06/2024) | *“Transmission horizontale du cancer chez les espèces bivalves de la côte atlantique française”* | Angele Moulin | Dr Alicia L. Bruzos | MSc. Sciences de la Mer (Master Thesis) | Université de Caen Normandie, France (French) | Good (14/20) |
 | 2020/2021  (--/07/2021) | *“Molecular diagnostic of different clonal lineages of transmissible cancer”* <sup>*</sup> | Andrea E. Arias Díaz<sup>**</sup> | Alicia L Bruzos, Dr Jose MC Tubío | BSc. in Biology (Degree Thesis) | Universidade de Santiago de Compostela, Spain (Galician) | Outstanding (9/10) | 
