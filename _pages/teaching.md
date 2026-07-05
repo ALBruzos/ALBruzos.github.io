@@ -103,7 +103,7 @@ I have supervised and mentored five undergraduate and master’s students in Fra
 ### **🧑‍🎓 Erasmus+ intern supervision (2)**
 
 | Student | Internship period | Supervisor(s) | Sending institution | Receiving institution | 
-| ------------- | ------------- | ------------- |------------- |------------- | ------------- | 
+| ------------- | ------------- | ------------- |------------- |------------- | 
 | Katarina Tvrdic | 09-February to 9-May 2026 (3-months)| Alicia L Bruzos  | University of Split, CROATIA | Max Planck Institute for Marine Microbiology, GERMANY | 
 | Artemisia Ntoula | 01-June to 31-July 2019 (2-months) | Alicia L Bruzos and Jose MC Tubio | University of Patras, GREECE | Universidade de Santiago de Compostela, SPAIN | 
 
