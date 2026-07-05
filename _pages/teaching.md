@@ -117,6 +117,8 @@ I have supervised and mentored five undergraduate and master’s students in Fra
 | Artemisia Ntoula | 01-June to 31-July 2019 (2-months) | Erasmus+ scholarship | Alicia L Bruzos and Dr Jose MC Tubio | University of Patras, GREECE | Universidade de Santiago de Compostela, SPAIN | 
 
 
+
+
 <i class="fa fa-users" aria-hidden="true"></i> University Evaluation Committees
 ======
 
