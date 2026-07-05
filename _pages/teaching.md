@@ -85,7 +85,7 @@ I have supervised and mentored five undergraduate and master’s students in Fra
 | ------------- | ------------- | ------------- | ------------- |------------- |------------- | ------------- | ------------- |
 | February 2026 | February 2029 | *“Immunity mechanisms of bivalve transmissible cancers”*<sup>#</sup> | Nupur Potukuchi | Dr Alicia L. Bruzos | Universität Bremen, GERMANY (English) | pending |
 
-<p><small><b>Legend:</b> <sup>#</sup>Ongoing
+<p><small><b>Legend:</b> <sup>#</sup>Ongoing</small></p>
 
 ### 🧑‍🎓 Supervised MSc Theses (4)
 
