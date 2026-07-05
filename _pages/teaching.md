@@ -10,7 +10,7 @@ author_profile: true
 
 <img src="/images/Tira_FotosTeaching_AliciaLBruzos.png" alt="Teaching collage Alicia L. Bruzos">
 
-<i class="fa fa-graduation-cap" aria-hidden="true"></i> High Education Teaching 
+<i class="fa fa-graduation-cap" aria-hidden="true"></i> High Education Teaching (9 years, 135 hours)
 ======
 
 <div class="notice">
@@ -79,20 +79,33 @@ These experiences and training have strengthened my ability to <b>adapt to diver
 I have supervised and mentored five undergraduate and master’s students in France and Spain. Three of them continued into doctoral studies, and one received an award for the thesis completed under my supervision. These experiences have enhanced my mentoring abilities while contributing to their training and research career.
 </div>
 
-**🧑‍🎓 Supervised MSc/BSc Theses**
+### **🧑‍🎓 Supervised MSc Theses (4)**
 
 | Academic Year (defense date)  | Title | Student | Supervisors | Degree (Type) | University, Country (Language) | Grade |
 | ------------- | ------------- | ------------- |------------- |------------- | ------------- | ------------- |
-| 2025/2026  (--/08/2026) | *“TBA”* | Nur M Farhad | Dr Alicia L. Bruzos | MSc in Marine Environment - Erasmus Mundus (Master Thesis) | Universidad del País Vasco, Spain (English) | pending |
-| 2025/2026  (30/06/2026) | *“Donor-derived and transplant-transmitted cancers in humans - systematic review”* | Alfonso Borbón Lanuza | Dr Alicia L. Bruzos, Katrina Espinar Herranz | BSc. in Biomedicine (Bachelor Thesis) | Universidad Alfonso X El Sabio, Spain (Spanish) | Good (7.8/10) |
+| 2025/2026  (--/08/2026) | *“Automated hemic neoplasia diagnosis in common cockles using image analysis”*<sup>#</sup> | Nur M Farhad | Dr Alicia L. Bruzos | MSc in Marine Environment - Erasmus Mundus (Master Thesis) | Universidad del País Vasco, Spain (English) | pending |
 | 2023/2024  (--/06/2024) | *“Preliminary study of the dispersal of contagious cancer cells in the ocean”* | Geo Bujard<sup>**</sup> | Dr Alicia L. Bruzos | MSc. Sciences de la Mer (Master Thesis) | Sorbonne Université, France (French) | Good (60.63/100) |
 | 2023/2024  (14/06/2024) | *“Transmission horizontale du cancer chez les espèces bivalves de la côte atlantique française”* | Angele Moulin | Dr Alicia L. Bruzos | MSc. Sciences de la Mer (Master Thesis) | Université de Caen Normandie, France (French) | Good (14/20) |
-| 2020/2021  (--/07/2021) | *“Molecular diagnostic of different clonal lineages of transmissible cancer”* <sup>*</sup> | Andrea E. Arias Díaz<sup>**</sup> | Alicia L Bruzos, Dr Jose MC Tubío | BSc. in Biology (Degree Thesis) | Universidade de Santiago de Compostela, Spain (Galician) | Outstanding (9/10) | 
 | 2019/2020  (--/07/2020) | *“Identification of driver mutations in marine transmissible cancers through exome sequencing analysis”* | Iago Otero Coto<sup>**</sup> | Alicia L Bruzos, Dr Jose MC Tubío | MSc. in Bioinformatics (Master Thesis) | Universidade da Coruña, Spain (English) | First Class (9.5/10) |
+
+<p><small><b>Legend:</b> <sup>#</sup>Ongoing · <sup>**</sup> Student pursued a PhD afterwards.</small></p>
+
+### **🧑‍🎓 Supervised BSc Theses (3)**
+
+| Academic Year (defense date)  | Title | Student | Supervisors | Degree (Type) | University, Country (Language) | Grade |
+| ------------- | ------------- | ------------- |------------- |------------- | ------------- | ------------- |
+| 2025/2026  (30/06/2026) | *“Donor-derived and transplant-transmitted cancers in humans - systematic review”* | Alfonso Borbón Lanuza | Dr Alicia L. Bruzos, Katrina Espinar Herranz | BSc. in Biomedicine (Bachelor Thesis) | Universidad Alfonso X El Sabio, Spain (Spanish) | Good (7.8/10) |
+| 2020/2021  (--/07/2021) | *“Molecular diagnostic of different clonal lineages of transmissible cancer”* <sup>*</sup> | Andrea E. Arias Díaz<sup>**</sup> | Alicia L Bruzos, Dr Jose MC Tubío | BSc. in Biology (Degree Thesis) | Universidade de Santiago de Compostela, Spain (Galician) | Outstanding (9/10) | 
 | 2019/2020  (22/07/2020) | *“Characterization of a genomic molecular marker of a marine transmissible cancer”* | Ana Copena Soutelo | Alicia L Bruzos, Dr Jose MC Tubío | BSc. in Biology (Degree Thesis) | Universidade de Santiago de Compostela, Spain (Spanish) | Outstanding (9/10) | 
 
 <p><small><b>Legend:</b> <sup>#</sup>Ongoing · <sup>*</sup> Awarded for linguistic quality by the USC Language Normalization Service (Science category) · <sup>**</sup> Student pursued a PhD afterwards.</small></p>
 
+### **🧑‍🎓 Erasmus+ intern supervision (2)**
+
+| Student | Internship period | Supervisor(s) | Sending institution | Receiving institution | 
+| ------------- | ------------- | ------------- |------------- |------------- | ------------- | 
+| Katarina Tvrdic | 09-February to 9-May 2026 (3-months)| Alicia L Bruzos  | University of Split, CROATIA | Max Planck Institute for Marine Microbiology, GERMANY | 
+| Artemisia Ntoula | 01-June to 31-July 2019 (2-months) | Alicia L Bruzos and Jose MC Tubio | University of Patras, GREECE | Universidade de Santiago de Compostela, SPAIN | 
 
 <i class="fa fa-users" aria-hidden="true"></i> University Evaluation Committees
 ======
