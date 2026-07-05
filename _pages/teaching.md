@@ -79,7 +79,15 @@ These experiences and training have strengthened my ability to <b>adapt to diver
 I have supervised and mentored five undergraduate and master’s students in France and Spain. Three of them continued into doctoral studies, and one received an award for the thesis completed under my supervision. These experiences have enhanced my mentoring abilities while contributing to their training and research career.
 </div>
 
-### **🧑‍🎓 Supervised MSc Theses (4)**
+### 🧑‍🎓 Supervised PhD Theses (1 - ongoing)
+
+| Starting date | Expected end date  | Title | Student | Supervisor(s) | University, Country (Language) | Grade |
+| ------------- | ------------- | ------------- | ------------- |------------- |------------- | ------------- | ------------- |
+| February 2026 | February 2029 | *“Immunity mechanisms of bivalve transmissible cancers”*<sup>#</sup> | Nupur Potukuchi | Dr Alicia L. Bruzos | Universität Bremen, GERMANY (English) | pending |
+
+<p><small><b>Legend:</b> <sup>#</sup>Ongoing
+
+### 🧑‍🎓 Supervised MSc Theses (4)
 
 | Academic Year (defense date)  | Title | Student | Supervisors | Degree (Type) | University, Country (Language) | Grade |
 | ------------- | ------------- | ------------- |------------- |------------- | ------------- | ------------- |
@@ -90,7 +98,7 @@ I have supervised and mentored five undergraduate and master’s students in Fra
 
 <p><small><b>Legend:</b> <sup>#</sup>Ongoing · <sup>**</sup> Student pursued a PhD afterwards.</small></p>
 
-### **🧑‍🎓 Supervised BSc Theses (3)**
+### 🧑‍🎓 Supervised BSc Theses (3)
 
 | Academic Year (defense date)  | Title | Student | Supervisors | Degree (Type) | University, Country (Language) | Grade |
 | ------------- | ------------- | ------------- |------------- |------------- | ------------- | ------------- |
@@ -100,12 +108,14 @@ I have supervised and mentored five undergraduate and master’s students in Fra
 
 <p><small><b>Legend:</b> <sup>#</sup>Ongoing · <sup>*</sup> Awarded for linguistic quality by the USC Language Normalization Service (Science category) · <sup>**</sup> Student pursued a PhD afterwards.</small></p>
 
-### **🧑‍🎓 Erasmus+ intern supervision (2)**
+### 🧑‍🎓 Student internship supervision (3)
 
-| Student | Internship period | Supervisor(s) | Sending institution | Receiving institution | 
-| ------------- | ------------- | ------------- |------------- |------------- | 
-| Katarina Tvrdic | 09-February to 9-May 2026 (3-months)| Alicia L Bruzos  | University of Split, CROATIA | Max Planck Institute for Marine Microbiology, GERMANY | 
-| Artemisia Ntoula | 01-June to 31-July 2019 (2-months) | Alicia L Bruzos and Jose MC Tubio | University of Patras, GREECE | Universidade de Santiago de Compostela, SPAIN | 
+| Student | Internship period | Internship type | Supervisor(s) | Sending institution | Receiving institution | 
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | 
+| Maxim Hess | July to October 2026 (3-months)| Bachelor internship, mandatory | Dr Alicia L Bruzos | University of Bremen, GERMANY | Max Planck Institute for Marine Microbiology, GERMANY | 
+| Katarina Tvrdic | 09-February to 9-May 2026 (3-months)| Erasmus+ scholarship | Dr Alicia L Bruzos | University of Split, CROATIA | Max Planck Institute for Marine Microbiology, GERMANY | 
+| Artemisia Ntoula | 01-June to 31-July 2019 (2-months) | Erasmus+ scholarship | Alicia L Bruzos and Dr Jose MC Tubio | University of Patras, GREECE | Universidade de Santiago de Compostela, SPAIN | 
+
 
 <i class="fa fa-users" aria-hidden="true"></i> University Evaluation Committees
 ======
