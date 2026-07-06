@@ -100,10 +100,10 @@ To date, I have authored **11 peer-reviewed international Q1 articles** (8 of wh
 
 | Source | H-index | Citations no. | Date of access |
 | ------------- | ------------- | ------------- | ------------- | 
-| [Gscholar](https://scholar.google.es/citations?user=YyKE8DIAAAAJ&hl=en)| 10 | 3,688 | 16/10/2025 |
-| [WOS](https://www.webofscience.com/wos/author/record/D-7235-2018)| 7 | 2,258 | 16/10/2025 |
-| [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57214752778)| 23 | 6,123 | 16/10/2025 |
-| [ResearchGate](https://www.researchgate.net/profile/Alicia-Bruzos)| 15 | 3,225 | 16/10/2025 |
+| [Gscholar](https://scholar.google.es/citations?user=YyKE8DIAAAAJ&hl=en)| 10 | 4,205 | 06/07/2026 |
+| [WOS](https://www.webofscience.com/wos/author/record/D-7235-2018)| 7 | 2,544 | 06/07/2026 |
+| [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57214752778)| 20 | 5,962 | 06/07/2026 |
+| [ResearchGate](https://www.researchgate.net/profile/Alicia-Bruzos)| 15 | 3,633 | 06/07/2026 |
 
 | ORCID | WOK ResearcherID | Scopus Author ID |
 | ------------- | ------------- | ------------- | 
