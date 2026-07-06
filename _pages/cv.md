@@ -8,8 +8,7 @@ redirect_from:
 ---
 
 <div class="notice">
-To download: 
- <p style="text-align:center; color:#155D41;"> 
+  <p style="text-align:center; color:#155D41;"> 
   <i class="fa fa-download" aria-hidden="true"></i>
   <a href="https://albruzos.github.io/files/CVs/CV_AliciaLBruzos.pdf" style="color:#155D41; text-decoration:none;" target="_blank"> Short CV (PDF)</a> 
 
