@@ -50,9 +50,10 @@ These experiences and training have strengthened my ability to <b>adapt to diver
 ### 🎓 Teaching Training & Accreditations
 
 <ul>
+<li><b>2026:</b> <i>Profesor Contratado Doctor (PCD) and Profesor Universidad Privada (PUP)</i>, Agencia Nacional de Evaluación de la Calidad de la Acreditación (ANECA), SPAIN. Evaluation panel: Ciencias Experimentales I. Accreditation numbers: PCD-2026-3179 and PUP 2026-3180.</li>
 <li><b>2025:</b> Qualification Section 64 – <i>Maître de conférences</i>, Ministère de l’Enseignement Supérieur, FRANCE.</li>
 <li><b>2025:</b> MSc in University Teaching, Universidad Europea de Madrid (online), SPAIN — 1,500 hours, 60 ECTS. <a href="https://albruzos.github.io/education/">More info about my degrees</a></li>
-<li><b>2023:</b> <i>Profesor Ayudante Doctor (PAD)</i>, Agencia Nacional de Evaluación de la Calidad de la Acreditación (ANECA), SPAIN.</li>
+<li><b>2023:</b> <i>Profesor Ayudante Doctor (PAD)</i>, Agencia Nacional de Evaluación de la Calidad de la Acreditación (ANECA), SPAIN.Evaluation panel: Ciencias de la Salud. Accreditation number: PAD-2022-12820.</li>
 <li><b>2021:</b> Research Supervision, University College London, UK — 4 hours</li>
 <li><b>2017:</b> Higher Education Lecturing Accreditation (HELA), Universidade de Vigo, SPAIN — 16 hours + test </li>
 </ul>
