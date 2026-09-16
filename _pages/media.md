@@ -51,13 +51,14 @@ Explore how my research, outreach, and achievements have captured the attention 
 2. **Le Major**. [Réflexions sur le succès: Déplacer des montagnes](https://ALBruzos.github.io/files/media/LeMajorMagazine_Dic2024_Mindset-entretienAliciaLBruzos.pdf) (17/12/2024)  
 
 
-## <i class="fa fa-file" aria-hidden="true"></i> Newspapers (10/195) 
+## <i class="fa fa-file" aria-hidden="true"></i> Newspapers - international coverage (10/195) 
 **Research articles or projects featured:**  
-1. **Ouest France**. Interview about my postdoctoral project (MSCA fellow) at Université de Caen Normandie (10/10/2024). [Online Article](https://www.ouest-france.fr/sante/cancer/cancer-contagieux-chez-les-coques-et-les-moules-une-scientifique-recompensee-pour-ses-recherches-6142b906-847c-11ef-91d9-7f562215fe95) - [Paper Version (PDF)](https://ALBruzos.github.io/files/media/20241009_OuestFrance_AliciaLBruzos.pdf)
-2. **El País**. Interview about the *Nature Cancer* publication on cockle contagious cancers (02/10/2023). [Online Article](https://elpais.com/ciencia/2023-10-02/unos-berberechos-con-leucemia-transmisible-iluminan-el-insolito-cancer-contagioso.html)  
-3. **NY Times**. Reportage and pictures to feature our research on marine contagious cancers (02/10/2023). [Online Article](https://www.nytimes.com/2023/10/02/science/contagious-cancer-shellfish-dna.html)
-4. **Clarín**. Interview for the Argentinian newspaper about the *Nature Cancer* publication on cockle contagious cancers (04/10/2023). [Online Article](https://www.clarin.com/sociedad/increible-caso-berberechos-contagian-mismo-cancer-hace-8500-anos-propaga-mundo_0_hM8p1JscT1.html)
-5. **La Voz de Galicia**. Interview and picture for the regional newspaper about the *Pan-cancer initiative (06/02/2020). [Online Article](https://www.lavozdegalicia.es/noticia/sociedad/2020/02/06/equipo-gallego-halla-causa-desconocida-origen-cancer/0003_202002G6P23991.htm)  
+1. **Wesser Kurier** (Germany). Interview about my EU-funded project *Bivalve2bivalve* at Max Planck Institute for Marine Microbiology (15/09/2026). [Online Article](https://www.weser-kurier.de/bremen/bremen-millionenfoerderung-fuer-krebsforschung-am-max-planck-institut-doc87euyd12gzc1kq2az21h) or [Paper Version (PDF)](https://ALBruzos.github.io/files/media/20260915_WeserKurier_ERC-AliciaLBruzos.pdf)
+2. **Ouest France** (France). Interview about my postdoctoral project (MSCA fellow) at Université de Caen Normandie (10/10/2024). [Online Article](https://www.ouest-france.fr/sante/cancer/cancer-contagieux-chez-les-coques-et-les-moules-une-scientifique-recompensee-pour-ses-recherches-6142b906-847c-11ef-91d9-7f562215fe95) - [Paper Version (PDF)](https://ALBruzos.github.io/files/media/20241009_OuestFrance_AliciaLBruzos.pdf)
+3. **El País** (Spain). Interview about the *Nature Cancer* publication on cockle contagious cancers (02/10/2023). [Online Article](https://elpais.com/ciencia/2023-10-02/unos-berberechos-con-leucemia-transmisible-iluminan-el-insolito-cancer-contagioso.html)  
+4. **NY Times** (USA). Reportage and pictures to feature our research on marine contagious cancers (02/10/2023). [Online Article](https://www.nytimes.com/2023/10/02/science/contagious-cancer-shellfish-dna.html)
+5. **Clarín** (Argentina). Interview for the Argentinian newspaper about the *Nature Cancer* publication on cockle contagious cancers (04/10/2023). [Online Article](https://www.clarin.com/sociedad/increible-caso-berberechos-contagian-mismo-cancer-hace-8500-anos-propaga-mundo_0_hM8p1JscT1.html)
+6. **La Voz de Galicia** (Spain). Interview and picture for the regional newspaper about the *Pan-cancer initiative (06/02/2020). [Online Article](https://www.lavozdegalicia.es/noticia/sociedad/2020/02/06/equipo-gallego-halla-causa-desconocida-origen-cancer/0003_202002G6P23991.htm)  
 
 **Research activities or prizes featured:**  
 1. **El Progreso**. School visit featured in the regional newspaper (18/12/2024). [Online Article](https://www.elprogreso.es/articulo/a-marina/biologa-alicia-lopez-bruzos-acerca-ciencia-ninos-colegio-galdo/202412182142511814893.amp.html)
@@ -86,6 +87,14 @@ Media outlets have featured my research publications and various scientific acti
 
 | News date | Newspaper or media | Headline and link | 
 |  ---------------- | ---------------- | ---------------- |
+| 11/09/2026 | El Progreso | [Alicia L. Bruzos, investigadora: "Queremos saber por qué algunos linajes cancerosos consiguen extenderse durante generaciones"](https://www.elprogreso.es/articulo/a-marina/alicia-l-bruzos-investigadora-queremos-saber-que-algunos-linajes-cancerosos-consiguen-extenderse-generaciones-mismo-atr/202609110500001997323.html) |
+| 10/09/2026 | El Correo Gallego | [De formarse en la USC a lograr 2 millones para investigar en Alemania mejores terapias contra el cáncer](https://www.elcorreogallego.es/santiago/2026/09/10/formarse-usc-lograr-2-millones-134132444.html) |
+| 15/09/2026 | Wesser Kurier | [EU-Mittel: Junge Bremer Krebsforscherin akquiriert zwei Millionen Euro](https://www.weser-kurier.de/bremen/bremen-millionenfoerderung-fuer-krebsforschung-am-max-planck-institut-doc87euyd12gzc1kq2az21h) or [PDF](https://ALBruzos.github.io/files/media/20260915_WeserKurier_ERC-AliciaLBruzos.pdf) |
+| 05/09/2026 | La Voz de Galicia | [Alicia L. Bruzos, bióloga: «Todo o que poidamos saber sobre a transmisión do cancro en animais permitiranos deseñar terapias axeitadas en humanos»](https://www.lavozdegalicia.es/noticia/sociedad/2026/09/04/alicia-l-bruzos/00031788522416651253997.htm) |
+| 03/09/2026 | GRTVG | [GaliciaxDiante](https://youtu.be/NR-BH-oVXGE) |
+| 03/09/2026 | La Voz de Galicia | [A investigadora Alicia L. Bruzos acada unha axuda económica de dous millóns de euros para estudar os cancros transmisibles en berberechos](https://www.lavozdegalicia.es/noticia/sociedad/2026/09/03/investigadora-lucense-alicia-l-bruzos-acada-unha-axuda-economica-dous-millons-euros-estudar-os-cancros-transmisibles-dos-berberechos/00031788425050913326965.htm) |
+| 23/07/2026 | La Voz de Galicia | [Los peces también pueden tener melanoma: un estudio detecta un tipo de cáncer que se contagia como un parásito](https://www.lavozdegalicia.es/amp/noticia/sociedad/2026/07/22/peces-pueden-tener-melanoma-estudio-detecta-tipo-cancer-contagia-parasito/00031784716420646210303.htm?utm_campaign=amp) |
+| 11/05/2026 | CRTVG | [Galicia x Diante: entrevista dende o CEIP Barouta](https://youtu.be/2CriSCI_sdY) |
 | 08/05/**<span style="color: #FF5733;">2026</span>** | CRTVG | [Galicia x Diante](https://youtu.be/EW-NO-zLqt4) |
 | 19/11/2025 | El Español | [Alicia L. Bruzos, la gallega que investiga el cáncer en moluscos: "Muchos hallazgos en medicina vienen del estudio animal"](https://www.elespanol.com/enclave-ods/referentes/20251119/alicia-bruzos-gallega-investiga-cancer-moluscos-hallazgos-medicina-vienen-estudio-animal/1003744018406_0.html) |
 | 12/11/2025 | CrickConnect | [Alumni spotlight: Alicia Bruzos, Crick Bioinformatician to leading a Research Group in Germany](https://ALBruzos.github.io/files/media/AlumniSpotlight_CrickConnect_CrickBioinformatician-to-leading-a-ResearchGroup-in-Germany.pdf) |
