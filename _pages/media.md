@@ -27,7 +27,25 @@ Explore how my research, outreach, and achievements have captured the attention 
 5. **Televisión de Galicia (TVG).** Short interview on the **Midday Newscast** about the Pan-cancer initiative (06/02/2020). [Watch complete video](https://www.youtube.com/watch?v=FpttVkiBLok)  
 <!---![Preview 2](https://user-images.githubusercontent.com/15688556/190830129-3268cccb-7408-4d3a-9895-ce164308b9d5.mp4)---> 
 
-## <i class="fa fa-volume-up" aria-hidden="true"></i> Radio (6/28)
+## <i class="fa fa-file" aria-hidden="true"></i> Newspapers - international coverage (11/203) 
+**Research articles or projects featured:**  
+1. **Wesser Kurier** (Germany). Interview about my EU-funded project *Bivalve2bivalve* at Max Planck Institute for Marine Microbiology (15/09/2026). [Online Article](https://www.weser-kurier.de/bremen/bremen-millionenfoerderung-fuer-krebsforschung-am-max-planck-institut-doc87euyd12gzc1kq2az21h) or [Paper Version (PDF)](https://ALBruzos.github.io/files/media/20260915_WeserKurier_ERC-AliciaLBruzos.pdf)
+2. **Ouest France** (France). Interview about my postdoctoral project (MSCA fellow) at Université de Caen Normandie (10/10/2024). [Online Article](https://www.ouest-france.fr/sante/cancer/cancer-contagieux-chez-les-coques-et-les-moules-une-scientifique-recompensee-pour-ses-recherches-6142b906-847c-11ef-91d9-7f562215fe95) - [Paper Version (PDF)](https://ALBruzos.github.io/files/media/20241009_OuestFrance_AliciaLBruzos.pdf)
+3. **El País** (Spain). Interview about the *Nature Cancer* publication on cockle contagious cancers (02/10/2023). [Online Article](https://elpais.com/ciencia/2023-10-02/unos-berberechos-con-leucemia-transmisible-iluminan-el-insolito-cancer-contagioso.html)  
+4. **NY Times** (USA). Reportage and pictures to feature our research on marine contagious cancers (02/10/2023). [Online Article](https://www.nytimes.com/2023/10/02/science/contagious-cancer-shellfish-dna.html)
+5. **Clarín** (Argentina). Interview for the Argentinian newspaper about the *Nature Cancer* publication on cockle contagious cancers (04/10/2023). [Online Article](https://www.clarin.com/sociedad/increible-caso-berberechos-contagian-mismo-cancer-hace-8500-anos-propaga-mundo_0_hM8p1JscT1.html)
+6. **La Voz de Galicia** (Spain). Interview and picture for the regional newspaper about the *Pan-cancer initiative (06/02/2020). [Online Article](https://www.lavozdegalicia.es/noticia/sociedad/2020/02/06/equipo-gallego-halla-causa-desconocida-origen-cancer/0003_202002G6P23991.htm)  
+
+**Research activities or prizes featured:**  
+1. **El Progreso**. School visit featured in the regional newspaper (18/12/2024). [Online Article](https://www.elprogreso.es/articulo/a-marina/biologa-alicia-lopez-bruzos-acerca-ciencia-ninos-colegio-galdo/202412182142511814893.amp.html)
+2. **La Voz de Galicia**. Interview about the the L'Oreal-UNESCO 'For Women in Science' Prize (09/10/2024). [Online Article](https://www.lavozdegalicia.es/noticia/ciencia/2024/10/08/alicia-l-bruzos-estudiamos-cancer-berberechos-entender-metastasis-humanos/00031728392345648970537.htm) - [Paper Version (PDF)](https://albruzos.github.io/files/media/20241009_LaVozdeGalicia_AliciaLBruzosPrixLorealUnesco.pdf)
+3. **Faro de Vigo**. Interview about my career for the section of Galician people working at the forefront abroad. *(28/12/2023)*. [Online Article](https://www.farodevigo.es/estela/2023/11/05/espana-hay-talento-falta-inversion-94209972.html) - [Paper Version (PDF)](https://ALBruzos.github.io/files/media/20231105_FaroDeVigo_GallegosALaVanguardia.pdf)   
+4. **El Correo Gallego**. Short interview and picture for the local newspaper to the scientific committee organizing the *VIII Youth Researchers Meeting* in Santiago de Compostela which I was part of *(02/06/2021)*. [Paper Version (PDF)](https://ALBruzos.github.io/files/media/20210602_PERIODICO_ElcorreoGallego_EMI.pdf)  
+5. **La Gaceta**. Interview and picture for Salamanca’s newspaper about my doctoral research with *cockles* to find the genetic causes of contagious metastasis *(10/12/2017)*. [Paper Version (PDF)](https://ALBruzos.github.io/files/media/20171210_PERIODICO_LaGaceta_EntevistaAliciaSalamanca.pdf)  
+
+<img src='/images/TiraFotos_4_media_AliciaLBruzos.png'>  
+
+## <i class="fa fa-volume-up" aria-hidden="true"></i> Radio (6/30)
 
 1. **CUAC FM**. Interview for **Ciencia es Femenino** about my research, living abroad, and women in STEM (26/01/2025). [Listen here](https://youtu.be/2Tc9i1VI7xI)  
 2. **Radio Galega (CRTVG)**. Two live interviews for **Galicia Por Diante**, discussing the L'Oreal-UNESCO 'For Women in Science' Prize (08/10/2024, 04/11/2024). [Listen 1](https://youtu.be/DK5mGs0xZjw)  
@@ -44,29 +62,9 @@ Explore how my research, outreach, and achievements have captured the attention 
 4. **VOCES11F**. Interview highlighting the 3MT Video Award (13/06/2022). [Listen here](https://www.youtube.com/watch?v=VSCPKnIMPbw&t=1s)  
 5. **eLife Podcast (Episode 79)**. Brief segment on our discovery of a novel contagious cancer in clams (01/03/2022). [Listen here](https://www.youtube.com/watch?v=EpGii4c1Dtg)  
 
-<img src='/images/TiraFotos_4_media_AliciaLBruzos.png'>  
-
-## <i class="fa fa-book" aria-hidden="true"></i> Magazines (2/2)
+## <i class="fa fa-book" aria-hidden="true"></i> Magazines (2/3)
 1. **Yo Dona**. [Alicia L. Bruzos, experta en genoma del cáncer: "No hay que ser un genio para triunfar en ciencia"](https://ALBruzos.github.io/files/media/YoDona_Nov2024_entrevistaALBruzos.pdf) (30/11/2024)  
 2. **Le Major**. [Réflexions sur le succès: Déplacer des montagnes](https://ALBruzos.github.io/files/media/LeMajorMagazine_Dic2024_Mindset-entretienAliciaLBruzos.pdf) (17/12/2024)  
-
-
-## <i class="fa fa-file" aria-hidden="true"></i> Newspapers - international coverage (10/195) 
-**Research articles or projects featured:**  
-1. **Wesser Kurier** (Germany). Interview about my EU-funded project *Bivalve2bivalve* at Max Planck Institute for Marine Microbiology (15/09/2026). [Online Article](https://www.weser-kurier.de/bremen/bremen-millionenfoerderung-fuer-krebsforschung-am-max-planck-institut-doc87euyd12gzc1kq2az21h) or [Paper Version (PDF)](https://ALBruzos.github.io/files/media/20260915_WeserKurier_ERC-AliciaLBruzos.pdf)
-2. **Ouest France** (France). Interview about my postdoctoral project (MSCA fellow) at Université de Caen Normandie (10/10/2024). [Online Article](https://www.ouest-france.fr/sante/cancer/cancer-contagieux-chez-les-coques-et-les-moules-une-scientifique-recompensee-pour-ses-recherches-6142b906-847c-11ef-91d9-7f562215fe95) - [Paper Version (PDF)](https://ALBruzos.github.io/files/media/20241009_OuestFrance_AliciaLBruzos.pdf)
-3. **El País** (Spain). Interview about the *Nature Cancer* publication on cockle contagious cancers (02/10/2023). [Online Article](https://elpais.com/ciencia/2023-10-02/unos-berberechos-con-leucemia-transmisible-iluminan-el-insolito-cancer-contagioso.html)  
-4. **NY Times** (USA). Reportage and pictures to feature our research on marine contagious cancers (02/10/2023). [Online Article](https://www.nytimes.com/2023/10/02/science/contagious-cancer-shellfish-dna.html)
-5. **Clarín** (Argentina). Interview for the Argentinian newspaper about the *Nature Cancer* publication on cockle contagious cancers (04/10/2023). [Online Article](https://www.clarin.com/sociedad/increible-caso-berberechos-contagian-mismo-cancer-hace-8500-anos-propaga-mundo_0_hM8p1JscT1.html)
-6. **La Voz de Galicia** (Spain). Interview and picture for the regional newspaper about the *Pan-cancer initiative (06/02/2020). [Online Article](https://www.lavozdegalicia.es/noticia/sociedad/2020/02/06/equipo-gallego-halla-causa-desconocida-origen-cancer/0003_202002G6P23991.htm)  
-
-**Research activities or prizes featured:**  
-1. **El Progreso**. School visit featured in the regional newspaper (18/12/2024). [Online Article](https://www.elprogreso.es/articulo/a-marina/biologa-alicia-lopez-bruzos-acerca-ciencia-ninos-colegio-galdo/202412182142511814893.amp.html)
-2. **La Voz de Galicia**. Interview about the the L'Oreal-UNESCO 'For Women in Science' Prize (09/10/2024). [Online Article](https://www.lavozdegalicia.es/noticia/ciencia/2024/10/08/alicia-l-bruzos-estudiamos-cancer-berberechos-entender-metastasis-humanos/00031728392345648970537.htm) - [Paper Version (PDF)](https://albruzos.github.io/files/media/20241009_LaVozdeGalicia_AliciaLBruzosPrixLorealUnesco.pdf)
-3. **Faro de Vigo**. Interview about my career for the section of Galician people working at the forefront abroad. *(28/12/2023)*. [Online Article](https://www.farodevigo.es/estela/2023/11/05/espana-hay-talento-falta-inversion-94209972.html) - [Paper Version (PDF)](https://ALBruzos.github.io/files/media/20231105_FaroDeVigo_GallegosALaVanguardia.pdf)   
-4. **El Correo Gallego**. Short interview and picture for the local newspaper to the scientific committee organizing the *VIII Youth Researchers Meeting* in Santiago de Compostela which I was part of *(02/06/2021)*. [Paper Version (PDF)](https://ALBruzos.github.io/files/media/20210602_PERIODICO_ElcorreoGallego_EMI.pdf)  
-5. **La Gaceta**. Interview and picture for Salamanca’s newspaper about my doctoral research with *cockles* to find the genetic causes of contagious metastasis *(10/12/2017)*. [Paper Version (PDF)](https://ALBruzos.github.io/files/media/20171210_PERIODICO_LaGaceta_EntevistaAliciaSalamanca.pdf)  
-
 
 ## <i class="fa fa-spinner" aria-hidden="true"></i> Others
 1. <i class="fa fa-university" aria-hidden="true"></i>**Official invitation to the regional government**. Meeting with the President of Xunta de Galicia chaired by Alberto Núñez Feijóo and the Minister of Economy, Business and Innovation chaired by Francisco Conde López (19/02/2020). [Official picture](https://x.com/NunezFeijoo/status/1230144864978898944)  
@@ -80,6 +78,7 @@ Explore how my research, outreach, and achievements have captured the attention 
 {: .notice}
 
 # Statistics of Media Appearances
+Research findings account for most of my media coverage (70%), reflecting the public interest generated by my scientific work. Beyond communicating my own research, I engage with the media to discuss broader scientific findings as an expert and to increase the visibility of scientific careers and research in society. This engagement has been sustained over the years and has reached an international audience, with coverage across several countries and through diverse formats. Online and printed press predominate, while radio, television, podcasts, and magazines have broadened the ways in which I communicate science to different audiences.
 <img src="/files/media/media-stats.png" alt="Media Statistics">
 
 # Archive of Media Appearances
