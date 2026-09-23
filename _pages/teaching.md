@@ -10,20 +10,20 @@ author_profile: true
 
 <img src="/images/Tira_FotosTeaching_AliciaLBruzos.png" alt="Teaching collage Alicia L. Bruzos">
 
-<i class="fa fa-graduation-cap" aria-hidden="true"></i> High Education Teaching (9 years, 135 hours)
+<i class="fa fa-graduation-cap" aria-hidden="true"></i> High Education Teaching (9 years, 176 hours)
 ======
 
 <div class="notice">
 Quick Summary: <ul style="list-style-type:none; padding-left:0;">
-  <li>🎓 <b>134.5 certified hours</b> , (not accounting for teaching preparation)</li>
+  <li>🎓 <b>176.5 certified hours</b> , (not accounting for teaching preparation)</li>
   <li>🏛️ <b>6 public universities</b> (accreditations in Spain and France)</li>
-  <li>🌍 <b>4 languages & 4 countries</b> (Spain, UK, France, Chile)</li>
-  <li>📚 <b>8 different courses</b> from genetics to bioinformatics and marine biology</li>
+  <li>🌍 <b>5 countries</b> (Spain, UK, France, Chile, Germany)</li>
+  <li>🌍 <b>4 languages</b> (Spanish, English, French, Galician)</li>
+  <li>📚 Different courses: from genetics to bioinformatics and from marine biology to education</li>
   <li>📅 <b>9 academic years</b> (2017–present)</li>
   <li>🧑‍🏫 <b>1520 hours of teacher training</b> (master + courses)</li>
 </ul>
-I have gained teaching experience at five public universities across four countries, delivering theoretical and laboratory sessions in different languages to undergraduate and master’s students. I hold national accreditations as an assistant professor in Spain (PAD ANECA) and France (Section 64), and an official master’s degree in university teaching.  
-These experiences and training have strengthened my ability to <b>adapt to diverse academic environments</b> and to <b>promote critical thinking among students</b>.
+I have gained teaching experience at several universities across five countries, delivering theoretical and laboratory sessions in different languages to undergraduate and master’s students. I hold national accreditations as an assistant professor in Spain (PCD/PUP ANECA) and France (Section 64), and an official master’s degree in university teaching. These experiences and training have strengthened my ability to <b>adapt to diverse academic environments</b> and to <b>promote critical thinking among students</b>.
 </div>
 
 ### 📖 Teaching Experience Details
